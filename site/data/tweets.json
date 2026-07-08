@@ -1,0 +1,362 @@
+{
+  "generated_at": "2026-07-08T03:40:54.629629+00:00",
+  "generated_at_unix": 1783482054,
+  "time_window_hours": 24,
+  "window_mode": "et_noon_rolling_24h",
+  "window_start": "2026-07-06T16:00:00+00:00",
+  "window_end": "2026-07-08T03:40:54.629629+00:00",
+  "new_this_run": 26,
+  "total_recent": 43,
+  "errors": [],
+  "crawl": {
+    "total_accounts": 76,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 15,
+    "max_accounts_per_run": 15,
+    "cooldown_until": 0
+  },
+  "rate_limit": {
+    "active": false
+  },
+  "tweets": [
+    {
+      "id": "2074639250704801794",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ChairmanSelig",
+      "display_name": "Mike Selig",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-07T23:38:36+00:00",
+      "text": "There are fundamental differences between prediction markets and casinos that make the former subject to the @CFTC's regulatory remit and not that of the states. Watch me break things down on the @glennbeck program 👇 https://t.co/MURHQLO21b",
+      "summary": "CFTC Chairman Selig argues prediction markets fall under CFTC's federal jurisdiction, not state casino regulation.",
+      "url": "https://x.com/ChairmanSelig/status/2074639250704801794",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 5,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3279"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074551965883695137",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-07T17:51:46+00:00",
+      "text": "The Clarity Act is not just a “crypto bill”. It’s a decision about whether America leads the next financial system or watches from the sidelines.",
+      "summary": "Senator Lummis frames the Clarity Act as pivotal crypto market structure legislation for US financial leadership.",
+      "url": "https://x.com/SenLummis/status/2074551965883695137",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5786,
+        "retweets": 746,
+        "replies": 532,
+        "quotes": 56,
+        "views": "161041"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074495573562958318",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-07T14:07:41+00:00",
+      "text": "RT @lex_node: related: https://t.co/4wG8ixxIzn yes, DTCC is picking *Stellar* of all things lol there is no reconciliation with these people possible. if you want crypto to work for RWAs, tokenization, etc., you have to REPLACE THEM, not partner with them",
+      "summary": "DTCC selecting Stellar for tokenized RWA reconciliation signals TradFi infrastructure adopting crypto rails.",
+      "url": "https://x.com/lex_node/status/2074495573562958318",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074451929019646443",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-07T11:14:15+00:00",
+      "text": "RT @laurashin: Is export law the new crypto choke point? On @DEXintheCityPod, Jessi Brooks makes the case that the Legion lawsuit is a fight the whole industry should be paying attention to. ⚖️ Timestamps: 🏛️ 02:32 KK on why the SEC and CFTC margin harmonization matters for crypto perps 🧊 11:39 Vy on ordering power as sanctioning power and the paper behind it ⚡ 14:43 Why a stablecoin freeze can itself be front run ⚖️ 22:09 The third party doctrine and the risk of deputizing crypto's neutral actors 📣 26:40 Cape: Get 33% off your first six months at https://t.co/2ZtLziXsHV 💻 27:36 Jessi on why AI in the courtroom is really a software control story 🚪 30:13 The Legion lawsuit, export law, and the Bernstein code-as-speech fight 🔒 37:14 ChatGPT logs as courtroom evidence and why your AI chats aren't private 🏔️ 42:20 The CLARITY Act update: why KK is even more bearish on passage 🇪🇺 47:48 Why MiCA's transition deadline is the week's crypto good news",
+      "summary": "Podcast covers SEC/CFTC perp margin harmonization, stablecoin freeze risk, and bearish CLARITY Act outlook; MiCA deadline nears.",
+      "url": "https://x.com/laurashin/status/2074451929019646443",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074451410020634630",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-07T11:12:12+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Bitcoin rebounded Monday after Trump called himself a \"big crypto guy\" 💰 Strategy sold $216 million of bitcoin, its largest sale ever 🏛️ U.S. Bitcoin Reserve plan stalls as Treasury and Commerce vie for control ⚡ Vitalik proposed shrinking Ethereum's validator data by 95% using ZK proofs 🌎 Read today’s must-know crypto news… and subscribe! https://t.co/Q61LZXZhIl",
+      "summary": "US Bitcoin Reserve plan stalls amid Treasury-Commerce turf dispute over control.",
+      "url": "https://x.com/laurashin/status/2074451410020634630",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074309331814932514",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-07T01:47:38+00:00",
+      "text": "This is how they get around not having a license. Essentially the legal strategy (many crypto cards do it) is structure the customer deposits as absolute transfers so they aren’t a custodian, then face the white label cards provider as principal.",
+      "summary": "Describes how crypto card providers dodge licensing by structuring deposits as absolute transfers to avoid custodian status.",
+      "url": "https://x.com/wassielawyer/status/2074309331814932514",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 190,
+        "retweets": 6,
+        "replies": 19,
+        "quotes": 3,
+        "views": "32476"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074287134144389470",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-07T00:19:25+00:00",
+      "text": "Moments like this are historic b/c they don't just launch new products, they bring the next generation of legal and market structure questions to the fore. I always say: tokenization is a means, not an end. Now comes the hard part. The @SECGov's January statement took an important first step, explaining that a tokenized security is still a security, whatever form it takes, and that the federal securities laws still apply. But how does a registered share trading via a propAMM swap square with concepts like best execution, exchange regulation, and Reg NMS, and how does market access apply when execution happens through smart contracts, AMMs, and on-chain settlement instead of traditional exchanges and brokers? Some rules may translate pretty well, while others must be reimagined for a genuinely new execution architecture. I'm optimistic. If we get this right, tokenization won't just reproduce traditional markets on new rails. It will genuinely make markets fairer, more programmable, and more verifiable than what we inherited.",
+      "summary": "Legal counsel discusses how SEC's tokenized-securities stance applies to AMM trading, best execution, and Reg NMS.",
+      "url": "https://x.com/TuongvyLe12/status/2074287134144389470",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 3,
+        "replies": 2,
+        "quotes": 1,
+        "views": "1870"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074241153562722458",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-06T21:16:43+00:00",
+      "text": "Austin Campbell says Tether just shrugged off an entire continent, MiCA and all: \"Tether is clearly of the opinion it's called soccer not football, so to speak. They have no interest in dealing with the Europeans on their terms, and they have entirely walked away from a market.\" https://t.co/CFTegjxXVG",
+      "summary": "Tether has effectively abandoned EU MiCA compliance, walking away from the European stablecoin market.",
+      "url": "https://x.com/laurashin/status/2074241153562722458",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 2,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3872"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074234781181829611",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-06T20:51:23+00:00",
+      "text": "The debate creeping into every crypto structure now: do tokens or equity capture the value? Ram Ahluwalia's blunt answer: \"There's no third category called token that you can fit into this stack. What you can do with the token is make it equity or you can make it debt.\" https://t.co/CFTegjxXVG",
+      "summary": "Debate on whether crypto tokens should legally be structured as equity or debt, per Ram Ahluwalia.",
+      "url": "https://x.com/laurashin/status/2074234781181829611",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2876"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074230155963240877",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-06T20:33:01+00:00",
+      "text": "🎙️ Live now! Strategy is selling bitcoin again, the stablecoin wars are heating up, and Ripple just cleared MiCA. Austin, Ram and Chris break it down on Bits + Bips. Watch here: https://t.co/XJkyL3KaMF",
+      "summary": "Podcast teaser covers escalating stablecoin competition and Ripple clearing EU MiCA licensing.",
+      "url": "https://x.com/laurashin/status/2074230155963240877",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "3413"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074218092901585146",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-06T19:45:05+00:00",
+      "text": "RT @CryptoAmerica_: Why have stablecoins succeeded as a form of money? @trondao’s @AdrianWall8395 says it comes down to one thing: Trust. https://t.co/4JsCb0RItj",
+      "summary": "TRON exec argues stablecoin adoption as money is driven primarily by trust.",
+      "url": "https://x.com/EleanorTerrett/status/2074218092901585146",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10518"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074186573894008926",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "FinancialCmte",
+      "display_name": "Financial Services GOP",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-06T17:39:50+00:00",
+      "text": "For years, the House Financial Services Committee has pushed for clear rules of the road instead of regulation by enforcement. Chairman Atkins is moving the SEC back toward its statutory mission and providing the certainty investors, innovators, and market participants deserve.",
+      "summary": "House Financial Services Cmte praises SEC Chair Atkins for shifting away from 'regulation by enforcement' toward clear rules.",
+      "url": "https://x.com/FinancialCmte/status/2074186573894008926",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 3,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2490"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2074180109372735956",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-06T17:14:09+00:00",
+      "text": "RT @circle: Most of the stablecoin conversation skips the most important part, which is the network underneath. At the @BIS_org, @ddisparte compared it to designing a high speed train system while ignoring where the trains actually stop. The rails decide who gets to ride. https://t.co/nO2UPDpeVi",
+      "summary": "Circle exec compares stablecoin infrastructure to rail networks, noting settlement rails determine market access.",
+      "url": "https://x.com/ddisparte/status/2074180109372735956",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 34,
+        "replies": 0,
+        "quotes": 0,
+        "views": "88"
+      },
+      "enriched_by": "claude_code"
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Regulatory Tweet Monitor</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121a2f;
+      --muted: #93a0bf;
+      --text: #e8eeff;
+      --accent: #69a7ff;
+      --chip: #1f2a4a;
+      --border: #253153;
+      --good: #2fb27a;
+      --warn: #f2b84b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: radial-gradient(1200px 600px at 10% -10%, #20325f 0%, var(--bg) 55%);
+      color: var(--text);
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 28px;
+    }
+    .sub {
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 16px;
+    }
+    .panel {
+      background: rgba(18, 26, 47, 0.85);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 14px;
+      backdrop-filter: blur(6px);
+    }
+    .kpi {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+    .kpi .card {
+      background: #0f1730;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px;
+    }
+    .kpi .label { color: var(--muted); font-size: 12px; }
+    .kpi .value { font-size: 20px; font-weight: 700; }
+
+    label { display: block; color: var(--muted); font-size: 12px; margin: 10px 0 6px; }
+    select, input {
+      width: 100%;
+      background: #0d1430;
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 8px;
+      padding: 8px;
+    }
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+    .chip {
+      background: var(--chip);
+      border: 1px solid #2d3f69;
+      color: #bdd1ff;
+      border-radius: 999px;
+      font-size: 12px;
+      padding: 4px 8px;
+    }
+    .tweet {
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px;
+      margin-bottom: 10px;
+      background: rgba(11, 16, 32, 0.6);
+    }
+    .meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+    .tweet p { margin: 6px 0 10px; line-height: 1.45; }
+    .row { display: flex; gap: 12px; flex-wrap: wrap; color: var(--muted); font-size: 12px; }
+    a { color: var(--accent); text-decoration: underline; cursor: pointer; pointer-events: auto; }
+    .tweet-link {
+      font-weight: 600;
+      color: var(--accent);
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 2px 8px;
+      cursor: pointer;
+    }
+    .url-inline {
+      display: block;
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 11px;
+      word-break: break-all;
+    }
+    .badge {
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 2px 6px;
+      font-size: 11px;
+    }
+    .score.good { color: var(--good); }
+    .score.warn { color: var(--warn); }
+
+    @media (max-width: 900px) {
+      .grid { grid-template-columns: 1fr; }
+      .kpi { grid-template-columns: repeat(2, 1fr); }
+    }
+  </style>
+</head>
+<body>
+  <div id="gate" class="container" style="max-width: 420px; margin-top: 10vh;">
+    <div class="panel">
+      <h2 style="margin-top:0">Protected Page</h2>
+      <div class="sub">Enter password to view this monitor.</div>
+      <label for="gate-password">Password</label>
+      <input id="gate-password" type="password" placeholder="Enter password" />
+      <button id="gate-submit" style="margin-top:10px; width:100%; background:#2a5ec9; color:white; border:none; border-radius:8px; padding:10px; cursor:pointer;">Unlock</button>
+    </div>
+  </div>
+
+  <div class="container" id="app" style="display:none;">
+    <h1>Regulatory Tweet Monitor</h1>
+    <div class="sub" id="subtitle">Loading latest updates...</div>
+    <div id="staleness-warning" style="display:none; background:#5c1f1f; border:1px solid #8b3030; border-radius:10px; padding:12px; margin-bottom:16px; color:#ffb3b3;">
+      ⚠️ <strong>Stale data:</strong> Last update was <span id="stale-time"></span> ago. Expected fresh data within 25 hours.
+    </div>
+
+    <div class="kpi" id="kpis"></div>
+
+    <div class="grid">
+      <div class="panel">
+        <h3 style="margin-top:0">Filters</h3>
+
+        <label for="category">Category</label>
+        <select id="category"></select>
+
+        <label for="group">Source Group</label>
+        <select id="group"></select>
+
+        <label for="type">Tweet Type</label>
+        <select id="type"></select>
+
+        <label for="search">Search</label>
+        <input id="search" placeholder="keyword..." />
+
+        <label for="sort">Sort</label>
+        <select id="sort">
+          <option value="newest">Newest</option>
+          <option value="relevance">Relevance</option>
+        </select>
+      </div>
+
+      <div class="panel">
+        <div id="list"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const PAGE_PASSWORD = 'testing101';
+    const AUTH_KEY = 'reg_monitor_auth_ok_v1';
+
+    const state = {
+      tweets: [],
+      filtered: [],
+      generated_at: null,
+      errors: [],
+      windowHours: 24
+    };
+
+    const els = {
+      subtitle: document.getElementById('subtitle'),
+      list: document.getElementById('list'),
+      kpis: document.getElementById('kpis'),
+      category: document.getElementById('category'),
+      group: document.getElementById('group'),
+      type: document.getElementById('type'),
+      search: document.getElementById('search'),
+      sort: document.getElementById('sort')
+    };
+
+    function fmtDate(iso) {
+      try { return new Date(iso).toLocaleString(); } catch { return iso; }
+    }
+
+    function renderKpis() {
+      const total = state.tweets.length;
+      const high = state.tweets.filter(t => t.relevance >= 0.75).length;
+      const cats = new Set(state.tweets.flatMap(t => t.categories || [])).size;
+      const sources = new Set(state.tweets.map(t => t.username)).size;
+
+      els.kpis.innerHTML = [
+        ['New Tweets', total],
+        ['High Signal', high],
+        ['Categories', cats],
+        ['Sources', sources]
+      ].map(([label, value]) => `
+        <div class="card">
+          <div class="label">${label}</div>
+          <div class="value">${value}</div>
+        </div>
+      `).join('');
+    }
+
+    function options(values, first='All') {
+      return [`<option value="">${first}</option>`]
+        .concat([...new Set(values)].sort().map(v => `<option value="${v}">${v}</option>`))
+        .join('');
+    }
+
+    function initFilters() {
+      els.category.innerHTML = options(state.tweets.flatMap(t => t.categories || []));
+      els.group.innerHTML = options(state.tweets.map(t => t.group || ''));
+      els.type.innerHTML = options(state.tweets.map(t => t.type || ''), 'All');
+
+      [els.category, els.group, els.type, els.sort].forEach(el => el.addEventListener('change', applyFilters));
+      els.search.addEventListener('input', applyFilters);
+    }
+
+    function applyFilters() {
+      const cat = els.category.value;
+      const group = els.group.value;
+      const type = els.type.value;
+      const q = (els.search.value || '').toLowerCase().trim();
+      const sort = els.sort.value;
+      const cutoffMs = state.windowStart
+        ? new Date(state.windowStart).getTime()
+        : (new Date().getTime() - (state.windowHours * 60 * 60 * 1000));
+
+      let arr = state.tweets.filter(t => {
+        const createdMs = new Date(t.created_at).getTime();
+        const inWindow = Number.isFinite(createdMs) && Number.isFinite(cutoffMs)
+          ? createdMs >= cutoffMs
+          : false;
+        const okCat = !cat || (t.categories || []).includes(cat);
+        const okGroup = !group || t.group === group;
+        const okType = !type || t.type === type;
+        const hay = `${t.text} ${t.username} ${(t.categories||[]).join(' ')}`.toLowerCase();
+        const okQ = !q || hay.includes(q);
+        return inWindow && okCat && okGroup && okType && okQ;
+      });
+
+      if (sort === 'relevance') {
+        arr.sort((a,b) => (b.relevance || 0) - (a.relevance || 0));
+      } else {
+        arr.sort((a,b) => String(b.created_at).localeCompare(String(a.created_at)));
+      }
+
+      state.filtered = arr;
+      renderList();
+    }
+
+    function renderList() {
+      if (!state.filtered.length) {
+        els.list.innerHTML = '<div class="sub">No tweets match your filters.</div>';
+        return;
+      }
+
+      els.list.innerHTML = state.filtered.map(t => {
+        const scoreClass = t.relevance >= 0.75 ? 'good' : 'warn';
+        const url = tweetUrl(t);
+        return `
+          <div class="tweet">
+            <div class="meta">
+              <div>
+                <strong>@${t.username}</strong> · ${t.group}
+              </div>
+              <div>${fmtDate(t.created_at)}</div>
+            </div>
+            <p>${t.summary ? escapeHtml(t.summary) : escapeHtml(t.text)} ${t.url ? `<a href="${t.url}" target="_blank" rel="noopener" style="color: var(--accent); margin-left: 8px;">→ Full tweet</a>` : ""}</p>
+            <div class="chips">${(t.categories||[]).map(c => `<span class="chip">${c}</span>`).join('')}</div>
+            <div class="row" style="margin-top:8px">
+              <span class="badge">${t.type}</span>
+              <span class="score ${scoreClass}">relevance ${t.relevance}</span>
+              <span>likes ${t.metrics?.likes ?? 0}</span>
+              <span>retweets ${t.metrics?.retweets ?? 0}</span>
+              ${url
+                ? `<a class="tweet-link" href="${url}" target="_blank" rel="noopener noreferrer">open tweet ↗</a>`
+                : `<span class="tweet-link" aria-disabled="true">no url</span>`}
+            </div>
+            ${url ? `<a class="url-inline" href="${url}" target="_blank" rel="noopener noreferrer">${escapeHtml(url)}</a>` : ''}
+          </div>
+        `;
+      }).join('');
+    }
+
+    function escapeHtml(str) {
+      return (str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }
+
+    function normalizeTweetUrl(url) {
+      if (!url) return '';
+      return String(url).replace('x.com/', 'twitter.com/');
+    }
+
+    function tweetUrl(t) {
+      const normalized = normalizeTweetUrl(t?.url);
+      if (normalized) return normalized;
+      if (t?.username && t?.id) return `https://twitter.com/${t.username}/status/${t.id}`;
+      return '';
+    }
+
+    async function boot() {
+      const res = await fetch('./data/tweets.json', { cache: 'no-store' });
+      const data = await res.json();
+
+      state.tweets = data.tweets || [];
+      state.generated_at = data.generated_at;
+      state.generated_at_unix = data.generated_at_unix;
+      state.errors = data.errors || [];
+      state.windowHours = Number(data.time_window_hours || 24);
+      state.windowMode = data.window_mode || 'rolling';
+      state.windowStart = data.window_start || null;
+
+      const nowUnix = Math.floor(Date.now() / 1000);
+      const ageHours = state.generated_at_unix
+        ? (nowUnix - state.generated_at_unix) / 3600
+        : null;
+
+      const stalenessWarning = document.getElementById('staleness-warning');
+      const staleTime = document.getElementById('stale-time');
+
+      if (ageHours !== null && ageHours > 25) {
+        stalenessWarning.style.display = 'block';
+        const hoursAgo = Math.floor(ageHours);
+        staleTime.textContent = `${hoursAgo} hours`;
+      } else {
+        stalenessWarning.style.display = 'none';
+      }
+
+      const lastUpdated = state.generated_at
+        ? new Date(state.generated_at).toLocaleString('en-US', {
+            timeZone: 'America/New_York',
+            month: 'short',
+            day: 'numeric',
+            hour: 'numeric',
+            minute: '2-digit',
+            timeZoneName: 'short'
+          })
+        : 'unknown';
+
+      const windowLabel = state.windowStart
+        ? `window ${fmtDate(state.windowStart)} → now`
+        : `showing last ${state.windowHours}h`;
+
+      els.subtitle.textContent = `${state.tweets.length} regulatory tweets · Updated ${lastUpdated} · ${windowLabel}` +
+        (state.errors.length ? ` · ${state.errors.length} account errors` : '');
+
+      renderKpis();
+      initFilters();
+      applyFilters();
+    }
+
+    function unlockPage() {
+      document.getElementById('gate').style.display = 'none';
+      document.getElementById('app').style.display = '';
+      boot().catch(err => {
+        els.subtitle.textContent = 'Failed to load data';
+        els.list.innerHTML = `<pre>${escapeHtml(String(err))}</pre>`;
+      });
+    }
+
+    function setupGate() {
+      const gateInput = document.getElementById('gate-password');
+      const gateSubmit = document.getElementById('gate-submit');
+
+      if (localStorage.getItem(AUTH_KEY) === '1') {
+        unlockPage();
+        return;
+      }
+
+      const attempt = () => {
+        if ((gateInput.value || '').trim() === PAGE_PASSWORD) {
+          localStorage.setItem(AUTH_KEY, '1');
+          unlockPage();
+        } else {
+          alert('Incorrect password');
+        }
+      };
+
+      gateSubmit.addEventListener('click', attempt);
+      gateInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') attempt();
+      });
+    }
+
+    setupGate();
+  </script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+state/rejected_tweets.jsonl
+state/tweet_store.json
