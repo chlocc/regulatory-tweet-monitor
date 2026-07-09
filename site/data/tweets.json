@@ -1,23 +1,79 @@
 {
-  "generated_at": "2026-07-09T12:07:05.768069+00:00",
-  "generated_at_unix": 1783598825,
+  "generated_at": "2026-07-09T15:05:42.386730+00:00",
+  "generated_at_unix": 1783609542,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-08T16:00:00+00:00",
-  "window_end": "2026-07-09T12:07:05.768069+00:00",
-  "new_this_run": 6,
-  "total_recent": 12,
+  "window_end": "2026-07-09T15:05:42.386730+00:00",
+  "new_this_run": 0,
+  "total_recent": 7,
   "errors": [
     {
-      "username": "RSSH273",
-      "error": "The read operation timed out"
+      "username": "SGJohnsson",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "KhurramDara",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JohnEDeaton1",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JohnReedStark",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "0xlawyoor",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "kakashiii111",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "NYCStein",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "CryptoLawUS",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "HaileyLennonBTC",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "stephendpalley",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "Drew_Morris",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "theblockprof",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JacobRobinsonJD",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "lawtoshi",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "prestonjbyrne",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 0,
+    "successful_this_run": 0,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,7 +90,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-08T23:10:28+00:00",
       "text": "RT @EleanorTerrett: 🚨NEW: Senator @RonWyden (D-OR) is asking Senate leaders to preserve the Blockchain Regulatory Certainty Act, as passed by the Senate Banking Committee, in any version of the Clarity Act brought to the floor. It comes amid uncertainty over whether certain key law enforcement groups will accept the BRCA language and whether changes will be needed to win their support, as well as the votes of other Democratic senators like Senators @CortezMasto and @MarkWarner. In a letter to Thune and Schumer, Wyden says the provision would codify existing federal policy by clarifying that non-custodial software developers should not be treated as money transmitters solely for publishing software, while preserving the DOJ’s and FinCEN’s ability to pursue illicit actors. Wyden was the Democratic co-sponsor of the standalone BRCA legislation in the Senate alongside @SenLummis.",
-      "summary": "Sen. Wyden urges Senate leaders to preserve BRCA developer-liability language in the Clarity Act market structure bill.",
+      "summary": "Sen. Wyden urges Senate leaders to preserve the BRCA within the Clarity Act market structure bill.",
       "url": "https://x.com/standwithcrypto/status/2074994554848038997",
       "type": "retweet",
       "categories": [
@@ -60,7 +116,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-08T20:57:48+00:00",
       "text": "Agree with Senator @RonWyden - the BRCA \"provides a commonsense clarification that the Bank Secrecy Act and the criminal code must be viewed in tandem\" and devs who don't control other people's money are not money transmitters. Market structure is not complete without the BRCA. Say it louder: \"While critics of the BRCA point to the purported impact of the provision on AML/CFT, this is inaccurate. In reality, this provision would unify FinCEN and Department of Justice policy, and ensure that law enforcement resources are focused toward criminals and other bad actors operating unlicensed money transmitting businesses.\"",
-      "summary": "Lawyer backs Wyden's BRCA, arguing non-custodial devs aren't money transmitters and AML enforcement is unaffected.",
+      "summary": "Lawyer backs BRCA's exemption of non-custodial devs from money-transmitter rules, says it aligns FinCEN/DOJ enforcement.",
       "url": "https://x.com/amandatums/status/2074961169706569949",
       "type": "quote",
       "categories": [
@@ -78,32 +134,6 @@
       "enriched_by": "claude_code"
     },
     {
-      "id": "2074954339093749835",
-      "is_retweet": true,
-      "original_author": "valkenburgh",
-      "username": "NeerajKA",
-      "display_name": "Neeraj K. Agrawal",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-08T20:30:39+00:00",
-      "text": "RT @valkenburgh: Senator Wyden has always been, and remains, one of the great champions of a free and open Internet. His unwavering support for the principle that developers should be free to publish software—even in the highly charged arena of crypto—is principled, deeply American, and correct.",
-      "summary": "Policy advocate praises Wyden's stance protecting crypto software developers from liability in market structure debate.",
-      "url": "https://x.com/NeerajKA/status/2074954339093749835",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 18,
-        "replies": 0,
-        "quotes": 0,
-        "views": "380"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
       "id": "2074951560971321808",
       "is_retweet": false,
       "original_author": null,
@@ -112,7 +142,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-08T20:19:37+00:00",
       "text": "Thank you Sen. @RonWyden for your leadership and for making clear that developer protections and law enforcement can – and must – work together. Preserving BRCA is essential to getting Clarity right: protect developers, preserve enforcement tools, and keep innovation in America.",
-      "summary": "Blockchain Association thanks Wyden for preserving BRCA developer protections alongside law enforcement tools in Clarity Act.",
+      "summary": "Blockchain Association thanks Sen. Wyden for preserving BRCA developer protections in the Clarity Act.",
       "url": "https://x.com/BlockchainAssn/status/2074951560971321808",
       "type": "quote",
       "categories": [
@@ -130,32 +160,6 @@
       "enriched_by": "claude_code"
     },
     {
-      "id": "2074948604842619372",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "valkenburgh",
-      "display_name": "Peter Van Valkenburgh",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-08T20:07:52+00:00",
-      "text": "Senator Wyden has always been, and remains, one of the great champions of a free and open Internet. His unwavering support for the principle that developers should be free to publish software—even in the highly charged arena of crypto—is principled, deeply American, and correct.",
-      "summary": "Praises Sen. Wyden's stance that crypto software developers shouldn't be treated as money transmitters.",
-      "url": "https://x.com/valkenburgh/status/2074948604842619372",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 120,
-        "retweets": 18,
-        "replies": 5,
-        "quotes": 0,
-        "views": "8189"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
       "id": "2074942765251928091",
       "is_retweet": false,
       "original_author": null,
@@ -164,7 +168,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-08T19:44:40+00:00",
       "text": "A huge thanks to @RonWyden for this letter to Senate Leadership regarding the CLARITY Act and the BRCA \"Developers who make and release software that allows people to manage their own digital assets – and, critically, where the developer does not control user assets – should not be treated as money transmitters solely because they create or publish software. To treat them as such punishes technological innovation and advancement in strategically important areas at a time when the United States must remain globally competitive.\"",
-      "summary": "Highlights Wyden's letter to Senate on CLARITY Act/BRCA opposing money transmitter status for crypto software devs.",
+      "summary": "Sen. Wyden's letter urges CLARITY Act/BRCA exempt non-custodial software developers from money transmitter rules.",
       "url": "https://x.com/N0th1n3/status/2074942765251928091",
       "type": "original",
       "categories": [
@@ -190,7 +194,7 @@
       "group": "Regulators & Government Officials",
       "created_at": "2026-07-08T17:29:00+00:00",
       "text": "Just like we saw with the advent of crypto, the use cases for prediction markets, while seemingly narrow in their nascent stages, promise to give rise to myriad products and services that help Americans hedge risk and aggregate information. 📺 More on @MorningsMaria 👇 https://t.co/rHhImDODAB",
-      "summary": "Regulator compares crypto's growth trajectory to prediction markets' potential to help Americans hedge risk.",
+      "summary": "Regulator compares prediction markets' growth trajectory to crypto's early nascent-use-case expansion.",
       "url": "https://x.com/ChairmanSelig/status/2074908622467780962",
       "type": "original",
       "categories": [
