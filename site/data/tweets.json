@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-08T18:00:05.226058+00:00",
-  "generated_at_unix": 1783533605,
+  "generated_at": "2026-07-09T06:15:24.781469+00:00",
+  "generated_at_unix": 1783577724,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-07-07T16:00:00+00:00",
-  "window_end": "2026-07-08T18:00:05.226058+00:00",
-  "new_this_run": 25,
-  "total_recent": 31,
+  "window_start": "2026-07-08T16:00:00+00:00",
+  "window_end": "2026-07-09T06:15:24.781469+00:00",
+  "new_this_run": 16,
+  "total_recent": 16,
   "errors": [
     {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+      "username": "SECGov",
+      "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 75,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -26,224 +26,116 @@
   },
   "tweets": [
     {
-      "id": "2074843506305122614",
+      "id": "2074983088334024888",
       "is_retweet": true,
-      "original_author": "DeFiSpartan",
-      "username": "LindaJeng1",
-      "display_name": "Linda Jeng",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-08T13:10:15+00:00",
-      "text": "RT @DeFiSpartan: The largest lending market in DeFi, Aave V3, launched on Ethereum 3 years ago What does 3 years of continuous, verifiable interest rates look like? If you deposited 100 USDC on day 1, you'd have 116.07 USDC today 16.07% total return, 5.09% APY",
-      "summary": "Aave V3 on Ethereum hits 3 years, showing 16.07% total return / 5.09% APY on USDC deposits since launch.",
-      "url": "https://x.com/LindaJeng1/status/2074843506305122614",
-      "type": "retweet",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 5,
-        "replies": 0,
-        "quotes": 0,
-        "views": "6"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074841182874788242",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-08T13:01:01+00:00",
-      "text": "This @DEXintheCityPod crossover reframes crypto hacks as a national security story. Jessi Brooks says stop saying illicit finance and start saying North Korea, and @ARedbord argues the US should be stealing stolen funds back. ⚔️ https://t.co/clVb6piH4B",
-      "summary": "Podcast reframes crypto hacks as national security, urging US to name North Korea and reclaim stolen funds.",
-      "url": "https://x.com/laurashin/status/2074841182874788242",
-      "type": "original",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 11,
-        "retweets": 1,
-        "replies": 10,
-        "quotes": 0,
-        "views": "3132"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074811129470280149",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-08T11:01:36+00:00",
-      "text": "In today's Unchained Daily newsletter: 🔥 The SEC could propose its first major crypto rule under Chair Atkins this month 🏛️ Vanguard is hiring a head of digital assets 🏦 Kraken is pursuing a full banking license in Europe 📩 Don’t miss out—read here & sign up for daily updates! https://t.co/I0TP5fyjfd",
-      "summary": "SEC may propose its first major crypto rule under Chair Atkins this month; Kraken also pursuing EU banking license.",
-      "url": "https://x.com/laurashin/status/2074811129470280149",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 7,
-        "retweets": 0,
-        "replies": 4,
-        "quotes": 0,
-        "views": "3514"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074672596461756900",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-08T01:51:07+00:00",
-      "text": "🚨NEW: Judge Torres from the @Ripple case is back at the center of another big legal battle. This time in @Kalshi's SDNY case, where she just denied the exchange a preliminary injunction, allowing the case to proceed to the motion-to-dismiss stage after finding that New York's gambling laws, as applied to Kalshi's sports event contracts, are not preempted by the Commodity Exchange Act.",
-      "summary": "Judge Torres denied Kalshi a preliminary injunction in its SDNY case, ruling NY gambling law isn't preempted by the CEA.",
-      "url": "https://x.com/EleanorTerrett/status/2074672596461756900",
-      "type": "quote",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 714,
-        "retweets": 126,
-        "replies": 28,
-        "quotes": 6,
-        "views": "114312"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074639250704801794",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "ChairmanSelig",
-      "display_name": "Mike Selig",
+      "original_author": "ENERGY",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
       "group": "Regulators & Government Officials",
-      "created_at": "2026-07-07T23:38:36+00:00",
-      "text": "There are fundamental differences between prediction markets and casinos that make the former subject to the @CFTC's regulatory remit and not that of the states. Watch me break things down on the @glennbeck program 👇 https://t.co/MURHQLO21b",
-      "summary": "CFTC Chairman Selig argues prediction markets differ from casinos and fall under CFTC, not state, jurisdiction.",
-      "url": "https://x.com/ChairmanSelig/status/2074639250704801794",
-      "type": "original",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 29,
-        "retweets": 5,
-        "replies": 3,
-        "quotes": 0,
-        "views": "3279"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074601847885570206",
-      "is_retweet": true,
-      "original_author": "NarvaezChris_",
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-07T21:09:59+00:00",
-      "text": "RT @NarvaezChris_: Last week, founders, developers, and investors came together in NYC for Modern Finance: Builders for Clarity. We discussed the future of crypto policy, connected with fellow builders, and took action by contacting lawmakers ahead of the expected CLARITY Act vote. Thanks to everyone who joined us, and to @standwithcrypto and Rogue Assembly for partnering with us.",
-      "summary": "Crypto builders met in NYC to lobby lawmakers ahead of the expected CLARITY Act vote.",
-      "url": "https://x.com/standwithcrypto/status/2074601847885570206",
+      "created_at": "2026-07-08T22:24:54+00:00",
+      "text": "RT @ENERGY: .@POTUS’ Working Families Tax Cuts are helping put an end to Biden’s disastrous Green New Scam! https://t.co/zRedAO9XF5",
+      "summary": "RT @ENERGY: .@POTUS’ Working Families Tax Cuts are helping put an end to Biden’s disastrous Green New Scam! https://t.co/zRedAO9XF5",
+      "url": "https://x.com/WhiteHouse/status/2074983088334024888",
       "type": "retweet",
       "categories": [
-        "legislation"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 4,
+        "retweets": 184,
         "replies": 0,
         "quotes": 0,
-        "views": "1081"
-      },
-      "enriched_by": "claude_code"
+        "views": "53968"
+      }
     },
     {
-      "id": "2074589211140005962",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-07T20:19:46+00:00",
-      "text": "What happens when the hosts of DEX in the City become the guests? On this TRM Talks crossover, @kkirkbos, Jessi Brooks, and @TuongvyLe12 get questioned by @ARedbord on the SEC, the CFTC, and crypto's worst hacks. ⚖️ Timestamps: 🛡️ 02:29 OFAC's first IRGC-linked exchange sanctions on Zedcex and Zedxion 🧭 05:20 How Vy, Katherine, and Jessi went from the SEC, BigLaw, and DOJ into crypto 🎙️ 14:10 The origin story behind the DEX in the City name and its all-women cast 🏛️ 18:25 Vy on the SEC trading ambiguity for rules, and \"tech-neutral\" regulation 📈 22:36 Katherine on why DCMs are suddenly crypto's hottest acronym 💙 25:38 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt 🩹 26:12 Jessi on reframing illicit finance around victims, not just enforcement 🔐 30:03 Jessi and Vy on Drift, Kelp, and why the recent hacks were ops failures 🕵️ 34:52 Katherine on why privacy is necessary for on-chain markets 🔮 40:04 Lightning round: Jessi on agentic finance, Katherine on perps, Vy on vaults",
-      "summary": "Podcast covers OFAC's first IRGC-linked exchange sanctions (Zedcex, Zedxion) plus SEC/CFTC regulatory issues.",
-      "url": "https://x.com/laurashin/status/2074589211140005962",
-      "type": "original",
+      "id": "2074962802033242604",
+      "is_retweet": true,
+      "original_author": "PressSec",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T21:04:17+00:00",
+      "text": "RT @PressSec: Trump admin uncovers 7,100% surge in Medicare transplant claims, says anti-fraud crackdown blocked millions https://t.co/DcHTozx6c1",
+      "summary": "RT @PressSec: Trump admin uncovers 7,100% surge in Medicare transplant claims, says anti-fraud crackdown blocked millions https://t.co/DcHTozx6c1",
+      "url": "https://x.com/VP/status/2074962802033242604",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1143,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6393"
+      }
+    },
+    {
+      "id": "2074960263078351294",
+      "is_retweet": true,
+      "original_author": "SBA_Kelly",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T20:54:12+00:00",
+      "text": "RT @SBA_Kelly: In addition to the enforcement actions announced by @VP today in Wisconsin, @SBAgov is also suspending 7,800 Wisconsin borrowers tied to $375 million in suspected pandemic fraud. In total, we have now suspended over 150,000 PPP and EIDL borrowers tied to over $10 BILLION in potential fraud - and we’re just getting started thanks to @WHFraudTF.",
+      "summary": "RT @SBA_Kelly: In addition to the enforcement actions announced by @VP today in Wisconsin, @SBAgov is also suspending 7,800 Wisconsin borrowers tied…",
+      "url": "https://x.com/VP/status/2074960263078351294",
+      "type": "retweet",
       "categories": [
         "enforcement"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 13,
-        "retweets": 1,
-        "replies": 5,
+        "likes": 0,
+        "retweets": 119,
+        "replies": 0,
         "quotes": 0,
-        "views": "5944"
-      },
-      "enriched_by": "claude_code"
+        "views": "9298"
+      }
     },
     {
-      "id": "2074578597549912114",
+      "id": "2074960118832095710",
       "is_retweet": true,
-      "original_author": "CryptoAmerica_",
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-07T19:37:36+00:00",
-      "text": "RT @CryptoAmerica_: .@AdrianWall8395, Managing Director of @DSAForg and Senior Director of U.S. Policy at @trondao, has been pushing for a “Clean Slate” proposal to be included in the Clarity Act, a provision aimed at giving compliant crypto projects a fresh start after years of regulatory uncertainty.",
-      "summary": "DSA/TRON policy exec pushes 'Clean Slate' provision in Clarity Act for compliant crypto projects.",
-      "url": "https://x.com/EleanorTerrett/status/2074578597549912114",
+      "original_author": "WhiteHouse",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T20:53:37+00:00",
+      "text": "RT @WhiteHouse: The Trump admin exposing Dumocrats who put America last like https://t.co/t1HqL2it1z",
+      "summary": "RT @WhiteHouse: The Trump admin exposing Dumocrats who put America last like https://t.co/t1HqL2it1z",
+      "url": "https://x.com/VP/status/2074960118832095710",
       "type": "retweet",
       "categories": [
-        "legislation"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 4,
+        "retweets": 513,
         "replies": 0,
         "quotes": 0,
-        "views": "11084"
-      },
-      "enriched_by": "claude_code"
+        "views": "4937"
+      }
     },
     {
-      "id": "2074565833746174152",
+      "id": "2074957832693198852",
       "is_retweet": false,
       "original_author": null,
-      "username": "wassielawyer",
-      "display_name": "wassieloyer",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-07T18:46:52+00:00",
-      "text": "Probably gonna get asked about @jup_mobile so will frontrun the question. Jupiter Global / Payments currently work via Jupiter Global having a credit line with the payments partner. When you top up your card wallet, you get to spend up to that amount and the mechanism is Jupiter settles with the payment network for the amount spent then takes the equivalent amount from your card wallet. So its not perfect (yet) but Jupiter doesn't take ownership (or custody) of your assets. We recently acquired a custodian and trust license to support this business (and other exciting ones) so will expect the flow to change (for the better) in future.",
-      "summary": "Jupiter Global acquired a custodian and trust license to support its non-custodial card payments flow.",
-      "url": "https://x.com/wassielawyer/status/2074565833746174152",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T20:44:32+00:00",
+      "text": "The Trump admin exposing Dumocrats who put America last like https://t.co/t1HqL2it1z",
+      "summary": "The Trump admin exposing Dumocrats who put America last like https://t.co/t1HqL2it1z",
+      "url": "https://x.com/WhiteHouse/status/2074957832693198852",
       "type": "quote",
       "categories": [
         "other"
@@ -251,103 +143,99 @@
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 26,
-        "retweets": 2,
-        "replies": 7,
-        "quotes": 0,
-        "views": "6273"
-      },
-      "enriched_by": "claude_code"
+        "likes": 2284,
+        "retweets": 513,
+        "replies": 360,
+        "quotes": 17,
+        "views": "175428"
+      }
     },
     {
-      "id": "2074551965883695137",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-07T17:51:46+00:00",
-      "text": "The Clarity Act is not just a “crypto bill”. It’s a decision about whether America leads the next financial system or watches from the sidelines.",
-      "summary": "Sen. Lummis frames the Clarity Act as determining whether the US leads the next financial system.",
-      "url": "https://x.com/SenLummis/status/2074551965883695137",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 5786,
-        "retweets": 746,
-        "replies": 532,
-        "quotes": 56,
-        "views": "161041"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074551096488472606",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-07T17:48:19+00:00",
-      "text": "The Senate is back from recess July 13, and they need to hear from the people they represent. The next recess is August 8th, so the Clarity Act now faces a hard deadline of August 7 to pass the Senate. The clock is ticking. Call your Senator to schedule a vote 👇 https://t.co/v6qJVHLpXO",
-      "summary": "Clarity Act faces an Aug 7 Senate deadline before recess; group urges calls to Senators to schedule a vote.",
-      "url": "https://x.com/standwithcrypto/status/2074551096488472606",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 391,
-        "retweets": 98,
-        "replies": 17,
-        "quotes": 6,
-        "views": "12217"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074536247369019770",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-07T16:49:19+00:00",
-      "text": "1/ Crypto is a tool for advancing freedom around the world. A new article from leaders at the @NEDemocracy explains how NED uses crypto to support democratic movements in some of the world's most repressive environments, and why the U.S. needs the Clarity Act to foster this innovation. https://t.co/1s7ou4XDYW",
-      "summary": "Argues the Clarity Act is needed to let crypto support pro-democracy movements abroad.",
-      "url": "https://x.com/BlockchainAssn/status/2074536247369019770",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 15,
-        "retweets": 2,
-        "replies": 2,
-        "quotes": 0,
-        "views": "2367"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074536235167588599",
+      "id": "2074953661357179218",
       "is_retweet": true,
-      "original_author": "CryptoAmerica_",
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-07T16:49:16+00:00",
-      "text": "RT @CryptoAmerica_: Could the banking industry's continued lobbying efforts on stablecoin yield influence how senators vote on the Clarity Act? @AdrianWall8395, Managing Director of @DSAForg and Senior Director of U.S. Policy at @trondao, thinks so: \"You'd be naive to say that the finance industry doesn't have that sway.\"",
-      "summary": "Banking industry lobbying on stablecoin yield may be swaying senators' votes on the Clarity Act.",
-      "url": "https://x.com/EleanorTerrett/status/2074536235167588599",
+      "original_author": "CENTCOM",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T20:27:58+00:00",
+      "text": "RT @CENTCOM: At the direction of the Commander in Chief, U.S. Central Command forces have started conducting additional strikes against Iran to further degrade their ability to threaten freedom of navigation in the Strait of Hormuz. The United States is holding Iran accountable for recent unjustified aggression against commercial shipping and civilian crews freely navigating a vital international waterway.",
+      "summary": "RT @CENTCOM: At the direction of the Commander in Chief, U.S. Central Command forces have started conducting additional strikes against Iran to…",
+      "url": "https://x.com/WhiteHouse/status/2074953661357179218",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4699,
+        "replies": 0,
+        "quotes": 0,
+        "views": "51098"
+      }
+    },
+    {
+      "id": "2074948637625307510",
+      "is_retweet": true,
+      "original_author": "SarahHuckabee",
+      "username": "RepFrenchHill",
+      "display_name": "French Hill",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-08T20:08:00+00:00",
+      "text": "RT @SarahHuckabee: Freedom isn’t inherited. Every generation has someone who fought to preserve it. Today, I joined @RepFrenchHill to honor an Arkansas and American Hero : Lt. Gov. Footsie Britt. https://t.co/9ulEVMJHhE",
+      "summary": "RT @SarahHuckabee: Freedom isn’t inherited. Every generation has someone who fought to preserve it. Today, I joined @RepFrenchHill to honor an…",
+      "url": "https://x.com/RepFrenchHill/status/2074948637625307510",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 101,
+        "replies": 0,
+        "quotes": 0,
+        "views": "245"
+      }
+    },
+    {
+      "id": "2074946541781930473",
+      "is_retweet": true,
+      "original_author": "DOJFraudDiv",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T19:59:40+00:00",
+      "text": "RT @DOJFraudDiv: Thank you @VP for your outstanding leadership in the fight against fraud.",
+      "summary": "RT @DOJFraudDiv: Thank you @VP for your outstanding leadership in the fight against fraud.",
+      "url": "https://x.com/VP/status/2074946541781930473",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 78,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9170"
+      }
+    },
+    {
+      "id": "2074943333374308626",
+      "is_retweet": true,
+      "original_author": "SecRubio",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T19:46:55+00:00",
+      "text": "RT @SecRubio: Today @POTUS informed Congress of his intent to rescind Syria’s designation as a State Sponsor of Terrorism. This historic step opens new possibilities for economic opportunity and recovery, giving the Syrian people a chance at greatness.",
+      "summary": "RT @SecRubio: Today @POTUS informed Congress of his intent to rescind Syria’s designation as a State Sponsor of Terrorism. This historic step opens…",
+      "url": "https://x.com/WhiteHouse/status/2074943333374308626",
       "type": "retweet",
       "categories": [
         "legislation"
@@ -356,90 +244,186 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 21,
+        "retweets": 2231,
         "replies": 0,
         "quotes": 0,
-        "views": "11323"
-      },
-      "enriched_by": "claude_code"
+        "views": "40250"
+      }
     },
     {
-      "id": "2074534848815902961",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-07T16:43:45+00:00",
-      "text": "Were recent DeFi hacks \"just a stupid people problem\"? Is the problem bad operational security more than it is bad code? @tuongvyle12 has a take. Check it out in DEX in the City: https://t.co/v5RuojLtX7",
-      "summary": "Discusses whether recent DeFi hacks stem from poor operational security rather than bad code.",
-      "url": "https://x.com/laurashin/status/2074534848815902961",
-      "type": "original",
+      "id": "2074943316257370365",
+      "is_retweet": true,
+      "original_author": "SecVetAffairs",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T19:46:51+00:00",
+      "text": "RT @SecVetAffairs: .@SteaknShake is waiving franchise fees for eligible Veterans. That’s a win worth celebrating (with beef tallow fries)! 🍟🇺🇸 https://t.co/fjBiNSQspA",
+      "summary": "RT @SecVetAffairs: .@SteaknShake is waiving franchise fees for eligible Veterans. That’s a win worth celebrating (with beef tallow fries)! 🍟🇺🇸…",
+      "url": "https://x.com/WhiteHouse/status/2074943316257370365",
+      "type": "retweet",
       "categories": [
-        "defi"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 8,
-        "retweets": 0,
-        "replies": 5,
+        "likes": 0,
+        "retweets": 1375,
+        "replies": 0,
         "quotes": 0,
-        "views": "2593"
-      },
-      "enriched_by": "claude_code"
+        "views": "51053"
+      }
     },
     {
-      "id": "2074531033467244657",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-07T16:28:35+00:00",
-      "text": "\"DCMs are so hot right now.\" Katherine Kirkpatrick Bos on why designated contract markets became crypto's hottest acronym. On DEX in the City now with @ARedbord: https://t.co/v5RuojLtX7",
-      "summary": "Discusses why designated contract markets (DCMs) have become a key regulatory topic in crypto.",
-      "url": "https://x.com/laurashin/status/2074531033467244657",
-      "type": "original",
-      "categories": [
-        "exchanges"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 6,
-        "retweets": 1,
-        "replies": 4,
-        "quotes": 0,
-        "views": "4006"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074524265706135807",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-07T16:01:42+00:00",
-      "text": "🎙️ Perps, onchain privacy, DeFi hacks, and whether the US should steal North Korea's crypto back. @ARedbord of TRM sits down with the DEX in the City crew. Live now! https://t.co/v5RuojLtX7",
-      "summary": "Podcast discusses DeFi hacks, onchain privacy, and whether the US should reclaim North Korea's stolen crypto.",
-      "url": "https://x.com/laurashin/status/2074524265706135807",
-      "type": "original",
+      "id": "2074927982766862649",
+      "is_retweet": true,
+      "original_author": "RapidResponse47",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T18:45:56+00:00",
+      "text": "RT @RapidResponse47: .@VP: \"I'm proud to announce @USDOL has started dozens of subpoenas and investigations into foreign fraudsters who are trying to take advantage of the H-1B visa program... American jobs ought to go to American workers and not foreign fraudsters.\" https://t.co/YQpwzvO4iL",
+      "summary": "RT @RapidResponse47: .@VP: \"I'm proud to announce @USDOL has started dozens of subpoenas and investigations into foreign fraudsters who are trying to…",
+      "url": "https://x.com/VP/status/2074927982766862649",
+      "type": "retweet",
       "categories": [
         "enforcement"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 9,
-        "retweets": 4,
-        "replies": 2,
-        "quotes": 1,
-        "views": "31445"
-      },
-      "enriched_by": "claude_code"
+        "likes": 0,
+        "retweets": 793,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5561"
+      }
+    },
+    {
+      "id": "2074913869152055786",
+      "is_retweet": true,
+      "original_author": "FirstLadyOffice",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T17:49:51+00:00",
+      "text": "RT @FirstLadyOffice: THANK YOU, HAWAII // Fostering the Future Accounts Hawaii has taken an important step forward for children in foster care. Governor Josh Green, MD, has pledged to support Fostering the Future Accounts. This program will help children in foster care build a stronger financial foundation as they grow into adulthood. We salute Governor Green for his leadership and hope every governor across America joins Fostering the Future Accounts so that every child can have a chance for a brighter future.",
+      "summary": "RT @FirstLadyOffice: THANK YOU, HAWAII // Fostering the Future Accounts Hawaii has taken an important step forward for children in foster care.…",
+      "url": "https://x.com/WhiteHouse/status/2074913869152055786",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 798,
+        "replies": 0,
+        "quotes": 0,
+        "views": "56800"
+      }
+    },
+    {
+      "id": "2074908622467780962",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ChairmanSelig",
+      "display_name": "Mike Selig",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T17:29:00+00:00",
+      "text": "Just like we saw with the advent of crypto, the use cases for prediction markets, while seemingly narrow in their nascent stages, promise to give rise to myriad products and services that help Americans hedge risk and aggregate information. 📺 More on @MorningsMaria 👇 https://t.co/rHhImDODAB",
+      "summary": "Just like we saw with the advent of crypto, the use cases for prediction markets, while seemingly narrow in their nascent stages, promise to give…",
+      "url": "https://x.com/ChairmanSelig/status/2074908622467780962",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 74,
+        "retweets": 11,
+        "replies": 4,
+        "quotes": 2,
+        "views": "7776"
+      }
+    },
+    {
+      "id": "2074908110817284179",
+      "is_retweet": true,
+      "original_author": "PeteHegseth",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T17:26:58+00:00",
+      "text": "RT @PeteHegseth: Fact.",
+      "summary": "RT @PeteHegseth: Fact.",
+      "url": "https://x.com/WhiteHouse/status/2074908110817284179",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2506,
+        "replies": 0,
+        "quotes": 0,
+        "views": "54053"
+      }
+    },
+    {
+      "id": "2074908078370152937",
+      "is_retweet": true,
+      "original_author": "SecretaryBurgum",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T17:26:50+00:00",
+      "text": "RT @SecretaryBurgum: 📍 Theodore Roosevelt Island https://t.co/JYuz1DDw5T",
+      "summary": "RT @SecretaryBurgum: 📍 Theodore Roosevelt Island https://t.co/JYuz1DDw5T",
+      "url": "https://x.com/WhiteHouse/status/2074908078370152937",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 848,
+        "replies": 0,
+        "quotes": 0,
+        "views": "56144"
+      }
+    },
+    {
+      "id": "2074898608382525722",
+      "is_retweet": true,
+      "original_author": "DOWResponse",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-08T16:49:12+00:00",
+      "text": "RT @DOWResponse: .@POTUS \"The United States has led a historic effort to dramatically increase defense spending and to have equipment that no other country in the world has. Look at Venezuela and Iran—essentially, their militaries were demolished... They had 159 ships—every one of them at the bottom of the sea. They had hundreds of airplanes—all gone, all lying burned up on the runways. They were totally decimated. Their radar is gone. Everything is gone. Their leaders are gone.\"",
+      "summary": "RT @DOWResponse: .@POTUS \"The United States has led a historic effort to dramatically increase defense spending and to have equipment that no other…",
+      "url": "https://x.com/WhiteHouse/status/2074898608382525722",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 225,
+        "replies": 0,
+        "quotes": 0,
+        "views": "55809"
+      }
     }
   ]
 }
