@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-10T09:07:51.528062+00:00",
-  "generated_at_unix": 1783674471,
+  "generated_at": "2026-07-10T12:13:13.756446+00:00",
+  "generated_at_unix": 1783685593,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-09T16:00:00+00:00",
-  "window_end": "2026-07-10T09:07:51.528062+00:00",
-  "new_this_run": 12,
-  "total_recent": 22,
+  "window_end": "2026-07-10T12:13:13.756446+00:00",
+  "new_this_run": 11,
+  "total_recent": 23,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,32 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2075354865715269632",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-09T23:02:12+00:00",
+      "text": "RT @valkenburgh: Senator Wyden has always been, and remains, one of the great champions of a free and open Internet. His unwavering support for the principle that developers should be free to publish software—even in the highly charged arena of crypto—is principled, deeply American, and correct.",
+      "summary": "Praises Sen. Wyden's stance that software developers should be free to publish code, even for crypto.",
+      "url": "https://x.com/MinarikLaw/status/2075354865715269632",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 26,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2075351796743073817",
       "is_retweet": false,
@@ -29,7 +55,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-09T22:50:01+00:00",
       "text": "The new Clarity Act draft may land as soon as next week. 52 million Americans own crypto. They deserve clear rules — and the Senate has a real shot to deliver before August recess.",
-      "summary": "Clarity Act draft could arrive as soon as next week; Senate aims to pass before August recess.",
+      "summary": "New CLARITY Act draft may arrive next week; Senate aims to pass crypto market structure bill before August recess.",
       "url": "https://x.com/standwithcrypto/status/2075351796743073817",
       "type": "quote",
       "categories": [
@@ -47,6 +73,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075345257110155709",
+      "is_retweet": true,
+      "original_author": "milesjennings",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-09T22:24:02+00:00",
+      "text": "RT @milesjennings: The lying never stops. Section 302 of the CLARITY act strengthens sanctions laws applicable to crypto. No one in the US crypto industry benefits when blockchain tech is used to evade US sanctions. CLARITY makes that harder, not easier.",
+      "summary": "Defends CLARITY Act Section 302 as strengthening, not weakening, sanctions enforcement against crypto misuse.",
+      "url": "https://x.com/NYcryptolawyer/status/2075345257110155709",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 52,
+        "replies": 0,
+        "quotes": 0,
+        "views": "107"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075312993911632164",
       "is_retweet": false,
       "original_author": null,
@@ -55,7 +107,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-09T20:15:49+00:00",
       "text": "After helping to take the company public, fighting the SEC and winning, moving us from Delaware to Texas, working to get GENIUS and soon CLARITY passed into law, and so much more – now is my time for new adventures.",
-      "summary": "Lawyer cites winning SEC fight and helping advance GENIUS/CLARITY Act crypto legislation.",
+      "summary": "Coinbase-linked lawyer notes SEC litigation win and progress on GENIUS/CLARITY Act crypto legislation.",
       "url": "https://x.com/iampaulgrewal/status/2075312993911632164",
       "type": "reply",
       "categories": [
@@ -73,32 +125,6 @@
       "enriched_by": "claude_code"
     },
     {
-      "id": "2075274365596205148",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-09T17:42:20+00:00",
-      "text": "\"That's all going to happen in the weeks to come\" @vnovakovski on Robinhood tokenized stock as collateral https://t.co/XUxLxWk1bV",
-      "summary": "Robinhood exec previews using tokenized stock as collateral in coming weeks.",
-      "url": "https://x.com/laurashin/status/2075274365596205148",
-      "type": "original",
-      "categories": [
-        "exchanges"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1225"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
       "id": "2075273893506596902",
       "is_retweet": false,
       "original_author": null,
@@ -107,7 +133,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:40:27+00:00",
       "text": "\"All of these interop protocols, like a LayerZero, like a Chainlink CCIP, that's an oracle. They're just white labeled with a different name\" Niklas Kunkel, CEO of Chronicle Labs, on what people fail to recognize about bridges and interop \"Anytime you use cross chain communication, anytime you're bridging a token from one chain to another chain, these are all oracles, just white labeled with a different name, like cross chain or bridge\" \"So it really comes down to the LayerZero oracle was compromised, and the DeFi protocol was insufficiently risk managed to deal with that\"",
-      "summary": "Chronicle Labs CEO says bridges are effectively oracles, exposing DeFi risk-management gaps after LayerZero exploit.",
+      "summary": "Chronicle Labs CEO explains cross-chain bridges/interop protocols like LayerZero and Chainlink CCIP are functionally oracles, relevant to DeFi risk management.",
       "url": "https://x.com/laurashin/status/2075273893506596902",
       "type": "quote",
       "categories": [
@@ -133,7 +159,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:32:44+00:00",
       "text": "\"There's really an opportunity for DeFi to be one of the flywheels for tokenized equities taking off. It's the ability to get leverage against your equities at much cheaper rates than you can in TradFi\" Niklas Kunkel, CEO of Chronicle Labs, on the rate gap that could drive tokenized equities \"If you have Tesla stock and you want to go borrow against your Tesla stock, your broker is going to charge you very high single digits, low double digits. Versus in DeFi, if you're going to lend these things with an LTV of 30% or something, DeFi will offer you mid to high single digits on this stuff all day\" \"If you look at what you get for lending USDC, you're getting 2.7%. You're literally getting less than T bills\" \"It's just going to be this ability to get leverage against your equities at much cheaper rates than you can in TradFi with your broker\"",
-      "summary": "Chronicle Labs CEO says DeFi could offer cheaper leverage against tokenized equities than TradFi brokers.",
+      "summary": "Chronicle Labs CEO argues DeFi lending rate gaps vs TradFi brokers could drive adoption of tokenized equities as collateral.",
       "url": "https://x.com/laurashin/status/2075271950771826889",
       "type": "quote",
       "categories": [
@@ -159,7 +185,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:32:32+00:00",
       "text": "\"The vision we're building towards is that you can use any major token as collateral, you can also use ETH, BTC as collateral and tokenized stocks as collateral and some liquidation model will account for that in the way it measures risk,\" @vnovakovski on the risks of using USDG as the quote asset https://t.co/8KSQAwNPIf",
-      "summary": "Robinhood exec discusses using tokenized stocks/crypto as collateral and risks of USDG as quote asset.",
+      "summary": "Exec discusses using USDG stablecoin as quote asset and expanding collateral types (ETH, BTC, tokenized stocks) with risk-adjusted liquidation models.",
       "url": "https://x.com/laurashin/status/2075271901207728372",
       "type": "original",
       "categories": [
@@ -185,7 +211,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-09T17:30:26+00:00",
       "text": "The next 29 days will decide whether America gets clear crypto rules this summer. 🗓️ JULY 13: The Senate returns from recess 🗓️ AUGUST 7: The Senate leaves for summer recess There is no time to waste. Call your Senators and tell them to bring the Clarity Act to a vote 👇",
-      "summary": "Urges calls to Senators to pass the Clarity Act before August 7 recess deadline.",
+      "summary": "Advocacy group urges calls to Senators to bring the Clarity Act to a vote before Senate's August recess.",
       "url": "https://x.com/standwithcrypto/status/2075271372415078556",
       "type": "original",
       "categories": [
@@ -211,11 +237,11 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:23:51+00:00",
       "text": "\"We have been in the process of working with the CFTC on a license for decentralized perps in the U.S.,\" @vnovakovski on bringing perps product to the U.S. https://t.co/XUxLxWk1bV",
-      "summary": "Exec says firm is working with CFTC to license decentralized perpetual futures in the US.",
+      "summary": "Exec says company is working with the CFTC to obtain a license for decentralized perpetual futures in the U.S.",
       "url": "https://x.com/laurashin/status/2075269716948525139",
       "type": "original",
       "categories": [
-        "defi"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -237,7 +263,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-09T17:05:02+00:00",
       "text": "RT @LowBeta: *WILLIAMS: STABLCOINS NOT A THREAT TO BANK DEPOSITS *NEW YORK FED PRESIDENT JOHN WILLIAMS COMMENTS IN Q&amp;A You heard it here folks",
-      "summary": "NY Fed President Williams says stablecoins are not a threat to bank deposits.",
+      "summary": "NY Fed President John Williams says stablecoins are not a threat to bank deposits.",
       "url": "https://x.com/SenLummis/status/2075264979813409151",
       "type": "retweet",
       "categories": [
@@ -263,7 +289,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:04:05+00:00",
       "text": "🚨🗞️NEW: It's Time for Clarity. Is the Senate Ready? Lots to chew on in today’s @CryptoAmerica_ newsletter: Clarity crunch, agency nominee drama, @krakenfx’s $22M arbitration win over @ForvisMazarsGrp, and more. https://t.co/kiBGzm1xs6",
-      "summary": "Newsletter roundup on Senate Clarity Act status, agency nominee drama, and Kraken's arbitration win.",
+      "summary": "Newsletter covers Senate readiness on crypto market structure Clarity Act and agency nominee drama.",
       "url": "https://x.com/EleanorTerrett/status/2075264739744117041",
       "type": "original",
       "categories": [
@@ -289,7 +315,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:03:14+00:00",
       "text": "\"From a DeFi perspective, we're about to take this from a $200 billion market to potentially a $100 trillion market\" Niklas Kunkel, CEO of Chronicle Labs, on why DeFi utility is so attractive to BlackRock and Fidelity \"If my client can lend this asset to earn a yield, now I can provide more utility to my clients\" \"If you're looking at a BlackRock or Fidelity, that's very, very attractive to them\"",
-      "summary": "Chronicle Labs CEO says DeFi could grow from $200B to $100T as BlackRock, Fidelity eye lending yield.",
+      "summary": "Chronicle Labs CEO says DeFi could grow from $200B to $100T as BlackRock and Fidelity eye on-chain lending yield.",
       "url": "https://x.com/laurashin/status/2075264525314801881",
       "type": "quote",
       "categories": [
@@ -307,6 +333,84 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075257466489577544",
+      "is_retweet": true,
+      "original_author": "amandatums",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-09T16:35:11+00:00",
+      "text": "RT @amandatums: Agree with Senator @RonWyden - the BRCA \"provides a commonsense clarification that the Bank Secrecy Act and the criminal code must be viewed in tandem\" and devs who don't control other people's money are not money transmitters. Market structure is not complete without the BRCA. Say it louder: \"While critics of the BRCA point to the purported impact of the provision on AML/CFT, this is inaccurate. In reality, this provision would unify FinCEN and Department of Justice policy, and ensure that law enforcement resources are focused toward criminals and other bad actors operating unlicensed money transmitting businesses.\"",
+      "summary": "Legal commentary backs Sen. Wyden's BRCA, arguing non-custodial devs shouldn't be classed as money transmitters under BSA.",
+      "url": "https://x.com/MinarikLaw/status/2075257466489577544",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075254162628198905",
+      "is_retweet": true,
+      "original_author": "BradBourque",
+      "username": "MTCoppel",
+      "display_name": "Marisa Tashman Coppel",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-09T16:22:03+00:00",
+      "text": "RT @BradBourque: Some people build tools. Others use those tools to offer regulated financial services. Building tools shouldn't trigger registration, and using onchain tools to deliver regulated services shouldn't be off-limits to the firms already registered to provide them. Today we joined @phantom to urge the @CFTC to modernize its rules and unlock innovation for fintech firms and existing registrants alike. Let’s move our markets forward, and onchain. Read our comment here:",
+      "summary": "Phantom urges CFTC to modernize rules so building onchain tools doesn't itself trigger broker/registration requirements.",
+      "url": "https://x.com/MTCoppel/status/2075254162628198905",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "46"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075254097339662458",
+      "is_retweet": true,
+      "original_author": "HyperliquidPC",
+      "username": "MTCoppel",
+      "display_name": "Marisa Tashman Coppel",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-09T16:21:47+00:00",
+      "text": "RT @HyperliquidPC: Writing the software isn't running the market. The same should hold true onchain. With the right rules, the CFTC can modernize these markets, keep builders in the United States, and give customers more control over their funds. Today, with @phantom, we filed a joint comment letter with the CFTC with recommendations on how to achieve that result. Read it here:",
+      "summary": "Hyperliquid and Phantom filed a joint CFTC comment letter urging rules that keep onchain builders in the US and preserve self-custody.",
+      "url": "https://x.com/MTCoppel/status/2075254097339662458",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 44,
+        "replies": 0,
+        "quotes": 0,
+        "views": "45"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075249564932506056",
       "is_retweet": true,
       "original_author": "MTCoppel",
@@ -315,11 +419,11 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-09T16:03:47+00:00",
       "text": "RT @MTCoppel: Adding legal texture to @BChillman's thread for those following the regulatory picture. @phantom's March no-action letter (CFTC Letter 26-09) already established key precedent: a non-custodial interface that provides only the technical means of access to a registered venue is not itself an introducing broker. Today's letter from @phantom and @HyperliquidPC asks the Commission to (1) codify that holding, (2) permit CFTC registrants to perform regulated functions onchain, and (3) confirm that deploying onchain smart contract infrastructure doesn't by itself trigger FCM or DCO registration. Writing settlement logic, margin accounting, or liquidation mechanisms does not, without more, make a developer a registrant. Functional equivalence alone isn't enough. This second ask is the meatiest and most operationally difficult: the custody and order-handling assumptions in the regs were written for custodial intermediaries. They don't map onto architectures where a smart contract manages margin or where settlement is atomic. The Commission needs to address this mismatch explicitly before registered venues can bring these markets to U.S. users compliantly. The mismatch also matters for users, not just registrants. Self-custody means users control their own private keys and therefore their assets. There is no intermediary, no custodial failure putting the user at risk, and no single point of compromise exposing their funds. Self-custody features aren't incidental; they're the core value proposition of onchain markets over legacy custodial infrastructure. Those features also reflect a paradigm shift in how regulators have historically regulated US financial markets. And Americans shouldn't have to give up those protections to access regulated markets. The whole point of building software onchain is that you can have both: the customer protections that come with registered venues and the security and autonomy that come with self-custody. The current regulatory gap makes that combination impossible in practice. This letter asks the Commission to close it. Registration obligations remain. They attach where they always have. Customers retain the benefits of self-custody. What changes is that the rules become administrable for how the technology actually works. Thank you to our partners at @HyperliquidPC, especially @jchervinsky and @BradBourque. We appreciate the @CFTC's willingness to tackle these difficult questions and we look forward to continuing to our engagement. https://t.co/bDvl6Z7g60",
-      "summary": "Phantom/Hyperliquid petition CFTC to codify no-action letter exempting non-custodial DeFi interfaces from broker/FCM registration.",
+      "summary": "Legal breakdown of Phantom/Hyperliquid's CFTC letter: codify non-custodial interface precedent, clarify onchain FCM/DCO registration rules.",
       "url": "https://x.com/jchervinsky/status/2075249564932506056",
       "type": "retweet",
       "categories": [
-        "legislation"
+        "defi"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
