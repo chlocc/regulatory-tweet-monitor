@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-07-09T18:08:04.567215+00:00",
-  "generated_at_unix": 1783620484,
+  "generated_at": "2026-07-10T06:16:18.677847+00:00",
+  "generated_at_unix": 1783664178,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-07-08T16:00:00+00:00",
-  "window_end": "2026-07-09T18:08:04.567215+00:00",
-  "new_this_run": 23,
-  "total_recent": 28,
-  "errors": [
-    {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    }
-  ],
+  "window_start": "2026-07-09T16:00:00+00:00",
+  "window_end": "2026-07-10T06:16:18.677847+00:00",
+  "new_this_run": 12,
+  "total_recent": 21,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 75,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,7 +29,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:42:20+00:00",
       "text": "\"That's all going to happen in the weeks to come\" @vnovakovski on Robinhood tokenized stock as collateral https://t.co/XUxLxWk1bV",
-      "summary": "Robinhood exec previews tokenized stock being usable as collateral in coming weeks.",
+      "summary": "Robinhood exec signals platform will let tokenized stocks be used as collateral in coming weeks.",
       "url": "https://x.com/laurashin/status/2075274365596205148",
       "type": "original",
       "categories": [
@@ -60,7 +55,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:40:27+00:00",
       "text": "\"All of these interop protocols, like a LayerZero, like a Chainlink CCIP, that's an oracle. They're just white labeled with a different name\" Niklas Kunkel, CEO of Chronicle Labs, on what people fail to recognize about bridges and interop \"Anytime you use cross chain communication, anytime you're bridging a token from one chain to another chain, these are all oracles, just white labeled with a different name, like cross chain or bridge\" \"So it really comes down to the LayerZero oracle was compromised, and the DeFi protocol was insufficiently risk managed to deal with that\"",
-      "summary": "Chronicle Labs CEO explains cross-chain bridges are oracles, citing LayerZero compromise and DeFi risk management gaps.",
+      "summary": "Chronicle Labs CEO ties LayerZero oracle compromise to inadequate DeFi protocol risk management.",
       "url": "https://x.com/laurashin/status/2075273893506596902",
       "type": "quote",
       "categories": [
@@ -86,7 +81,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:38:55+00:00",
       "text": "RT @RelayProtocol: We’re aware of reports of tokens disappearing from wallets after purchase on Robinhood Chain. There’s been an increase in scam tokens designed to remove themselves after purchase. If you bought one, the funds you spent are unfortunately gone. We’re blocking these tokens as they show up and verifying safe ones. Importantly, this is not a wallet compromise. Your private keys and other balances are untouched — nothing beyond the scam token purchase itself is at risk. Reminder: anyone can list a token. Stick to tokens verified by us or another trusted source. If you’ve been affected, reach out at https://t.co/vpxIEmGien",
-      "summary": "Robinhood Chain flags scam tokens that vanish from wallets post-purchase; wallets/keys remain unaffected.",
+      "summary": "Robinhood Chain hit by rise in scam tokens that vanish from wallets after purchase; team blocking them.",
       "url": "https://x.com/laurashin/status/2075273509144592553",
       "type": "retweet",
       "categories": [
@@ -112,7 +107,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:32:44+00:00",
       "text": "\"There's really an opportunity for DeFi to be one of the flywheels for tokenized equities taking off. It's the ability to get leverage against your equities at much cheaper rates than you can in TradFi\" Niklas Kunkel, CEO of Chronicle Labs, on the rate gap that could drive tokenized equities \"If you have Tesla stock and you want to go borrow against your Tesla stock, your broker is going to charge you very high single digits, low double digits. Versus in DeFi, if you're going to lend these things with an LTV of 30% or something, DeFi will offer you mid to high single digits on this stuff all day\" \"If you look at what you get for lending USDC, you're getting 2.7%. You're literally getting less than T bills\" \"It's just going to be this ability to get leverage against your equities at much cheaper rates than you can in TradFi with your broker\"",
-      "summary": "Chronicle Labs CEO says DeFi could offer cheaper leverage on tokenized equities than TradFi brokers.",
+      "summary": "Chronicle Labs CEO says DeFi can offer cheaper leverage on tokenized equities than TradFi brokers.",
       "url": "https://x.com/laurashin/status/2075271950771826889",
       "type": "quote",
       "categories": [
@@ -138,7 +133,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:32:32+00:00",
       "text": "\"The vision we're building towards is that you can use any major token as collateral, you can also use ETH, BTC as collateral and tokenized stocks as collateral and some liquidation model will account for that in the way it measures risk,\" @vnovakovski on the risks of using USDG as the quote asset https://t.co/8KSQAwNPIf",
-      "summary": "Robinhood exec on plans to accept BTC, ETH, and tokenized stocks as collateral alongside USDG risk considerations.",
+      "summary": "Exec discusses using tokenized stocks and crypto as collateral with USDG as quote asset, addressing risk modeling.",
       "url": "https://x.com/laurashin/status/2075271901207728372",
       "type": "original",
       "categories": [
@@ -164,11 +159,11 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:23:51+00:00",
       "text": "\"We have been in the process of working with the CFTC on a license for decentralized perps in the U.S.,\" @vnovakovski on bringing perps product to the U.S. https://t.co/XUxLxWk1bV",
-      "summary": "Lighter's founder says the firm is working with the CFTC on a license to bring decentralized perps trading to the U.S.",
+      "summary": "Firm says it is working with the CFTC to license a decentralized perpetuals product for the U.S. market.",
       "url": "https://x.com/laurashin/status/2075269716948525139",
       "type": "original",
       "categories": [
-        "other"
+        "defi"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -182,6 +177,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075264979813409151",
+      "is_retweet": true,
+      "original_author": "LowBeta",
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-09T17:05:02+00:00",
+      "text": "RT @LowBeta: *WILLIAMS: STABLCOINS NOT A THREAT TO BANK DEPOSITS *NEW YORK FED PRESIDENT JOHN WILLIAMS COMMENTS IN Q&amp;A You heard it here folks",
+      "summary": "NY Fed President Williams states stablecoins are not a threat to bank deposits.",
+      "url": "https://x.com/SenLummis/status/2075264979813409151",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "13191"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075264739744117041",
       "is_retweet": false,
       "original_author": null,
@@ -190,7 +211,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:04:05+00:00",
       "text": "🚨🗞️NEW: It's Time for Clarity. Is the Senate Ready? Lots to chew on in today’s @CryptoAmerica_ newsletter: Clarity crunch, agency nominee drama, @krakenfx’s $22M arbitration win over @ForvisMazarsGrp, and more. https://t.co/kiBGzm1xs6",
-      "summary": "Newsletter covers Senate readiness on crypto market structure (Clarity) bill and agency nominee developments.",
+      "summary": "Newsletter covers Senate readiness on crypto market structure (Clarity) bill, agency nominees, and Kraken's arbitration win.",
       "url": "https://x.com/EleanorTerrett/status/2075264739744117041",
       "type": "original",
       "categories": [
@@ -216,7 +237,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T17:03:14+00:00",
       "text": "\"From a DeFi perspective, we're about to take this from a $200 billion market to potentially a $100 trillion market\" Niklas Kunkel, CEO of Chronicle Labs, on why DeFi utility is so attractive to BlackRock and Fidelity \"If my client can lend this asset to earn a yield, now I can provide more utility to my clients\" \"If you're looking at a BlackRock or Fidelity, that's very, very attractive to them\"",
-      "summary": "Chronicle Labs CEO says DeFi could grow from $200B to $100T as institutions like BlackRock and Fidelity seek onchain lending yield.",
+      "summary": "Chronicle Labs CEO says DeFi lending could grow from $200B to $100T as BlackRock/Fidelity seek onchain yield utility.",
       "url": "https://x.com/laurashin/status/2075264525314801881",
       "type": "quote",
       "categories": [
@@ -242,7 +263,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-09T16:54:53+00:00",
       "text": "\"The Achilles heel of any DeFi protocol is the oracle. It lives and dies by its oracle\" Niklas Kunkel, CEO of Chronicle Labs, on why oracles are the single point of failure in DeFi \"If an oracle prints that ETH is a trillion dollars, anyone can just go and drain all of the liquidity out of any lending market, out of any credit protocol. Similarly, if the oracle reports ETH is zero, you can liquidate all of the ETH positions in a lending protocol\" \"If you're looking at the likes of Aave and Sky, you could potentially trigger a liquidation cascade on ETH, that has far more second order effects than just the onchain liquidations\"",
-      "summary": "Chronicle Labs CEO warns oracle manipulation is DeFi's key vulnerability, risking liquidation cascades on Aave and Sky.",
+      "summary": "Chronicle Labs CEO warns oracle manipulation is DeFi's key risk, could trigger liquidation cascades on Aave/Sky.",
       "url": "https://x.com/laurashin/status/2075262427957202964",
       "type": "quote",
       "categories": [
@@ -256,266 +277,6 @@
         "replies": 4,
         "quotes": 1,
         "views": "4593"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075211638773371232",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-09T13:33:04+00:00",
-      "text": "🚨NEW: The White House is pushing back on Senate Democrats’ claims that the Trump administration is refusing to nominate Democratic commissioners at independent agencies. In a letter to Senate leaders, the White House says it requested Democratic recommendations for vacancies at both the SEC and CFTC but “has not received names in response.” The letter comes as calls from lawmakers on both sides of the aisle to fill vacant minority seats at the SEC and CFTC have grown louder ahead of expected Senate action on the Clarity Act.",
-      "summary": "White House disputes Senate Dems' claims it blocked SEC/CFTC minority nominees, as Clarity Act action nears.",
-      "url": "https://x.com/EleanorTerrett/status/2075211638773371232",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 652,
-        "retweets": 99,
-        "replies": 29,
-        "quotes": 8,
-        "views": "62019"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075007385593344508",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-09T00:01:27+00:00",
-      "text": "The lying never stops. Section 302 of the CLARITY act strengthens sanctions laws applicable to crypto. No one in the US crypto industry benefits when blockchain tech is used to evade US sanctions. CLARITY makes that harder, not easier.",
-      "summary": "Claims CLARITY Act Section 302 strengthens sanctions enforcement for crypto, rebutting claims it weakens AML/sanctions rules.",
-      "url": "https://x.com/milesjennings/status/2075007385593344508",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 293,
-        "retweets": 43,
-        "replies": 16,
-        "quotes": 2,
-        "views": "20164"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074994554848038997",
-      "is_retweet": true,
-      "original_author": "EleanorTerrett",
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-08T23:10:28+00:00",
-      "text": "RT @EleanorTerrett: 🚨NEW: Senator @RonWyden (D-OR) is asking Senate leaders to preserve the Blockchain Regulatory Certainty Act, as passed by the Senate Banking Committee, in any version of the Clarity Act brought to the floor. It comes amid uncertainty over whether certain key law enforcement groups will accept the BRCA language and whether changes will be needed to win their support, as well as the votes of other Democratic senators like Senators @CortezMasto and @MarkWarner. In a letter to Thune and Schumer, Wyden says the provision would codify existing federal policy by clarifying that non-custodial software developers should not be treated as money transmitters solely for publishing software, while preserving the DOJ’s and FinCEN’s ability to pursue illicit actors. Wyden was the Democratic co-sponsor of the standalone BRCA legislation in the Senate alongside @SenLummis.",
-      "summary": "Sen. Wyden urges Senate leaders to preserve the Blockchain Regulatory Certainty Act language within the Clarity Act floor bill.",
-      "url": "https://x.com/standwithcrypto/status/2074994554848038997",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 252,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1018"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074966488356675624",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "ddisparte",
-      "display_name": "Dante Disparte",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-08T21:18:56+00:00",
-      "text": "It was great joining today's @OMFIF and @OMFIFDMI conversation with the @FinStbBoard's Martin Maloney on stablecoins, payment systems, and open financial infrastructure in the context of cross-border payments. In short, the tech may be the easy part. https://t.co/T7Br0oC5J0",
-      "summary": "Panel discussion on stablecoins and open financial infrastructure for cross-border payment systems.",
-      "url": "https://x.com/ddisparte/status/2074966488356675624",
-      "type": "original",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 11,
-        "retweets": 2,
-        "replies": 3,
-        "quotes": 0,
-        "views": "963"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074961169706569949",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "amandatums",
-      "display_name": "Amanda Tuminelli",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-08T20:57:48+00:00",
-      "text": "Agree with Senator @RonWyden - the BRCA \"provides a commonsense clarification that the Bank Secrecy Act and the criminal code must be viewed in tandem\" and devs who don't control other people's money are not money transmitters. Market structure is not complete without the BRCA. Say it louder: \"While critics of the BRCA point to the purported impact of the provision on AML/CFT, this is inaccurate. In reality, this provision would unify FinCEN and Department of Justice policy, and ensure that law enforcement resources are focused toward criminals and other bad actors operating unlicensed money transmitting businesses.\"",
-      "summary": "Lawyer backs BRCA provision clarifying non-custodial software developers aren't money transmitters under the Bank Secrecy Act.",
-      "url": "https://x.com/amandatums/status/2074961169706569949",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 29,
-        "retweets": 6,
-        "replies": 1,
-        "quotes": 0,
-        "views": "1604"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074951560971321808",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-08T20:19:37+00:00",
-      "text": "Thank you Sen. @RonWyden for your leadership and for making clear that developer protections and law enforcement can – and must – work together. Preserving BRCA is essential to getting Clarity right: protect developers, preserve enforcement tools, and keep innovation in America.",
-      "summary": "Blockchain Association urges preserving BRCA developer protections within the Clarity Act.",
-      "url": "https://x.com/BlockchainAssn/status/2074951560971321808",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 176,
-        "retweets": 35,
-        "replies": 2,
-        "quotes": 0,
-        "views": "8495"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074947214141743432",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-08T20:02:21+00:00",
-      "text": "🚨NEW: Senator @RonWyden (D-OR) is asking Senate leaders to preserve the Blockchain Regulatory Certainty Act, as passed by the Senate Banking Committee, in any version of the Clarity Act brought to the floor. It comes amid uncertainty over whether certain key law enforcement groups will accept the BRCA language and whether changes will be needed to win their support, as well as the votes of other Democratic senators like Senators @CortezMasto and @MarkWarner. In a letter to Thune and Schumer, Wyden says the provision would codify existing federal policy by clarifying that non-custodial software developers should not be treated as money transmitters solely for publishing software, while preserving the DOJ’s and FinCEN’s ability to pursue illicit actors. Wyden was the Democratic co-sponsor of the standalone BRCA legislation in the Senate alongside @SenLummis.",
-      "summary": "Sen. Wyden asks Senate leaders to preserve BRCA language in the Clarity Act amid enforcement group pushback.",
-      "url": "https://x.com/EleanorTerrett/status/2074947214141743432",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 1501,
-        "retweets": 305,
-        "replies": 50,
-        "quotes": 32,
-        "views": "245917"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074942765251928091",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "N0th1n3",
-      "display_name": "Brian",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-08T19:44:40+00:00",
-      "text": "A huge thanks to @RonWyden for this letter to Senate Leadership regarding the CLARITY Act and the BRCA \"Developers who make and release software that allows people to manage their own digital assets – and, critically, where the developer does not control user assets – should not be treated as money transmitters solely because they create or publish software. To treat them as such punishes technological innovation and advancement in strategically important areas at a time when the United States must remain globally competitive.\"",
-      "summary": "Wyden letter argues non-custodial software developers shouldn't be treated as money transmitters under BRCA/Clarity Act.",
-      "url": "https://x.com/N0th1n3/status/2074942765251928091",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 56,
-        "retweets": 14,
-        "replies": 3,
-        "quotes": 1,
-        "views": "1997"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074908622467780962",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "ChairmanSelig",
-      "display_name": "Mike Selig",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-08T17:29:00+00:00",
-      "text": "Just like we saw with the advent of crypto, the use cases for prediction markets, while seemingly narrow in their nascent stages, promise to give rise to myriad products and services that help Americans hedge risk and aggregate information. 📺 More on @MorningsMaria 👇 https://t.co/rHhImDODAB",
-      "summary": "CFTC chair-type regulator argues prediction markets will grow into diverse risk-hedging and information tools like crypto did.",
-      "url": "https://x.com/ChairmanSelig/status/2074908622467780962",
-      "type": "original",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 74,
-        "retweets": 11,
-        "replies": 4,
-        "quotes": 2,
-        "views": "7776"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2074887776927891793",
-      "is_retweet": true,
-      "original_author": "CryptoAmerica_",
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-08T16:06:10+00:00",
-      "text": "RT @CryptoAmerica_: 🚨NEW: We sat down with @TomZschach, former CIO at @swiftcommunity, to discuss why the \"we're replacing SWIFT\" narrative was always flawed and why the real bottleneck to tokenization isn't settlement. It's trust. After helping lead SWIFT's digital asset strategy, Tom is now building a new venture focused on what he believes is the industry's biggest unsolved problem: how regulated financial institutions accept and validate tokenized assets at scale. Links below.",
-      "summary": "Former SWIFT CIO discusses how trust, not settlement, is the real barrier to regulated institutions adopting tokenized assets.",
-      "url": "https://x.com/EleanorTerrett/status/2074887776927891793",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 22,
-        "replies": 0,
-        "quotes": 0,
-        "views": "11167"
       },
       "enriched_by": "claude_code"
     }
