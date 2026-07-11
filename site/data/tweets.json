@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-07-10T18:00:05.468713+00:00",
-  "generated_at_unix": 1783706405,
+  "generated_at": "2026-07-11T06:04:33.452791+00:00",
+  "generated_at_unix": 1783749873,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-07-09T16:00:00+00:00",
-  "window_end": "2026-07-10T18:00:05.468713+00:00",
-  "new_this_run": 31,
-  "total_recent": 52,
-  "errors": [
-    {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    },
-    {
-      "username": "RegulatoryJason",
-      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    }
-  ],
+  "window_start": "2026-07-10T16:00:00+00:00",
+  "window_end": "2026-07-11T06:04:33.452791+00:00",
+  "new_this_run": 16,
+  "total_recent": 20,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 75,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -38,7 +29,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-10T17:15:29+00:00",
       "text": "4/ So is OUSD “an existential threat” to Circle, as Coin Bureau founder Nic Puckrin put it? In the latest Bits + Bips, we take a look at the parts of Circle's business OUSD challenges, break down the numbers, how it is likely to play out and what to watch out for. Full story here: https://t.co/bmlgzTaCYU",
-      "summary": "Analysis of whether OUSD poses an existential competitive threat to Circle's stablecoin business.",
+      "summary": "Analysis of whether Ondo's OUSD poses an existential threat to Circle's stablecoin business.",
       "url": "https://x.com/laurashin/status/2075629997721833870",
       "type": "reply",
       "categories": [
@@ -64,7 +55,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-10T17:15:20+00:00",
       "text": "1/ Circle's stock fell nearly 19% last week as an erstwhile little-known company Open Standard announced plans to launch Open USD, or OUSD, a stablecoin backed by nearly every finance giant you can think of, from BlackRock to Western Union.",
-      "summary": "New stablecoin OUSD backed by major finance firms launches, reportedly hitting Circle's stock price.",
+      "summary": "Circle stock dropped ~19% after Open Standard unveiled OUSD, a bank/finance-consortium-backed stablecoin rival.",
       "url": "https://x.com/laurashin/status/2075629961453679081",
       "type": "original",
       "categories": [
@@ -90,11 +81,11 @@
       "group": "Other / Policy Adjacent",
       "created_at": "2026-07-10T16:36:36+00:00",
       "text": "Long sought, hard fought, and well-earned by the @circle team who made today's regulatory milestone possible. https://t.co/pk1dN4qt4F",
-      "summary": "Circle reportedly achieves a significant regulatory milestone, per policy-adjacent commentator.",
+      "summary": "Circle team celebrates a regulatory milestone achieved after a long push.",
       "url": "https://x.com/ddisparte/status/2075620212922019861",
       "type": "original",
       "categories": [
-        "legislation"
+        "stablecoins"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -108,120 +99,16 @@
       "enriched_by": "claude_code"
     },
     {
-      "id": "2075618572668461113",
+      "id": "2075611008102748528",
       "is_retweet": false,
       "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-10T16:30:05+00:00",
-      "text": "Strategy's Impact on Bitcoin Risk and dYdX's Rebrand to Arcus as Robinhood Goes Onchain https://t.co/poLrKFh5MB",
-      "summary": "dYdX rebrands to Arcus while Robinhood expands onchain, alongside Bitcoin treasury risk discussion.",
-      "url": "https://x.com/EleanorTerrett/status/2075618572668461113",
-      "type": "original",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 76,
-        "retweets": 14,
-        "replies": 8,
-        "quotes": 1,
-        "views": "17294"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075609963951489407",
-      "is_retweet": true,
-      "original_author": "jerallaire",
-      "username": "ddisparte",
-      "display_name": "Dante Disparte",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-10T15:55:53+00:00",
-      "text": "RT @jerallaire: Today is a historic day for Circle, and I think symbolic of a much bigger evolution in the architecture of the emerging internet financial system. Circle has received final approval from the OCC to operate as a national trust bank. We have been granted a charter for First National Digital Currency Bank, NA. Over 10 years ago, as we were forging the concepts of Circle, we believed a new kind of national bank would ultimately be needed to issue full-reserve dollar digital currency. This was before USDC even existed. The vision was clear: a new base layer of money on the internet would be necessary, and for it to reach widespread use, it needed to operate under national banking supervision. Years later, after launching USDC and achieving strong product-market fit, I wrote that we sought a charter for a full-reserve digital currency bank. Then, through a half-decade of work with policymakers and regulators, we saw the GENIUS Act codify into federal banking law a framework for these safe, efficient, and technologically superior digital dollars. Launching and operating as Circle National Trust, we will offer custodial services for digital assets, including stablecoins and other tokenized assets, held to the highest standards afforded under Federal national trust bank supervision. As the GENIUS Act approaches full implementation in early 2027, we are now poised not only to be supervised by the OCC, as required by law, but to bring critical components of USDC's operation and reserves into this structure. This is all part of building a new fundamental money layer for the internet. A layer that can scale from an AI agent paying another AI agent in fractions of a second for fractions of a cent, to retail transactions, to investments, trading and lending, to the largest wholesale transactions between global systemically important institutions. All of this needs a form of money and regulated infrastructure that can support the entirety of this new internet-native economic system. A new architecture for money on the internet has arrived. It is now being hardened into an edifice the world can trust and build on. We are thrilled to be the first of a new cohort of firms establishing this kind of banking infrastructure. Jeremy",
-      "summary": "Circle receives OCC final approval to operate as a national trust bank under the GENIUS Act stablecoin framework.",
-      "url": "https://x.com/ddisparte/status/2075609963951489407",
-      "type": "retweet",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 156,
-        "replies": 0,
-        "quotes": 0,
-        "views": "47"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075570929359372403",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-10T13:20:46+00:00",
-      "text": "🚨NEW: $CRCL stock is rallying 13% pre market after the OCC gave its official sign off for the company to become a national trust bank.",
-      "summary": "OCC approved Circle (CRCL) to become a national trust bank, sending shares up 13% premarket.",
-      "url": "https://x.com/EleanorTerrett/status/2075570929359372403",
-      "type": "quote",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 640,
-        "retweets": 89,
-        "replies": 27,
-        "quotes": 3,
-        "views": "58481"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075556353473474968",
-      "is_retweet": true,
-      "original_author": "LowBeta",
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-10T12:22:51+00:00",
-      "text": "RT @LowBeta: *WILLIAMS: STABLCOINS NOT A THREAT TO BANK DEPOSITS *NEW YORK FED PRESIDENT JOHN WILLIAMS COMMENTS IN Q&amp;A You heard it here folks",
-      "summary": "NY Fed President Williams says stablecoins are not a threat to bank deposits.",
-      "url": "https://x.com/EleanorTerrett/status/2075556353473474968",
-      "type": "retweet",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 38,
-        "replies": 0,
-        "quotes": 0,
-        "views": "10965"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075541932349247526",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-10T11:25:33+00:00",
-      "text": "In today's Unchained Daily newsletter: 🔥 A merged CLARITY Act draft could reach the Senate as soon as next week 🎲 Polymarket files to offer regulated margin trading in the US 🏦 Swift's blockchain ledger goes live 📉 Eric Trump's American Bitcoin bet has erased over $600 million 📈 Read the latest update… and get more daily! Subscribe. https://t.co/mmcYXsfVRs",
-      "summary": "Merged CLARITY Act draft could reach the Senate next week; Polymarket files for regulated margin trading.",
-      "url": "https://x.com/laurashin/status/2075541932349247526",
+      "username": "ChairmanSelig",
+      "display_name": "Mike Selig",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-10T16:00:01+00:00",
+      "text": "Innovators and market participants deserve certainty when it comes to the future of crypto in America. The CLARITY Act provides comprehensive rules of the road that future-proof digital asset regulation. This bill is must-pass legislation if the U.S. wants to remain the crypto capital of the world. 📺👇",
+      "summary": "Regulator urges passage of the CLARITY Act as must-pass legislation to give digital asset markets regulatory certainty.",
+      "url": "https://x.com/ChairmanSelig/status/2075611008102748528",
       "type": "original",
       "categories": [
         "legislation"
@@ -229,505 +116,11 @@
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 5,
-        "retweets": 0,
-        "replies": 2,
-        "quotes": 0,
-        "views": "2911"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075536214837305700",
-      "is_retweet": true,
-      "original_author": "circle",
-      "username": "ddisparte",
-      "display_name": "Dante Disparte",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-10T11:02:49+00:00",
-      "text": "RT @circle: Circle has received final OCC approval to establish First National Digital Currency Bank, N.A., a national trust bank operating as Circle National Trust. A major U.S. regulatory milestone that strengthens USDC infrastructure through federally regulated custody, with reserve management planned as a future capability. “Federal oversight of our trust bank sets a new standard for transparency, governance, and scale for Circle’s infrastructure and unlocks a new phase of adoption, where leading financial institutions can build on public blockchains with clarity and confidence.” - @jerallaire https://t.co/RUHGfZIgOB",
-      "summary": "Circle received final OCC approval to establish a national trust bank for federally regulated USDC custody.",
-      "url": "https://x.com/ddisparte/status/2075536214837305700",
-      "type": "retweet",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 288,
-        "replies": 0,
-        "quotes": 0,
-        "views": "76"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075533489995235475",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JacobRobinsonJD",
-      "display_name": "Jacob Robinson",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-10T10:52:00+00:00",
-      "text": "\"A swap plus a swap is a swap\" @JoshSterlingLaw explains why parlays on prediction markets are under the @CFTC's jurisdiction and included in the definition of swap. \" There's no requirement to have a hedging purpose. There's no motivation test when you go to trade.\" https://t.co/Uv9ZCh0Kpz",
-      "summary": "Lawyer explains why CFTC treats prediction market parlays as swaps under its jurisdiction, with no hedging/motivation test required.",
-      "url": "https://x.com/JacobRobinsonJD/status/2075533489995235475",
-      "type": "quote",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "534"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075374208041865306",
-      "is_retweet": true,
-      "original_author": "BitcoinNewsCom",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-10T00:19:04+00:00",
-      "text": "RT @BitcoinNewsCom: SENATOR WARREN: \"As currently drafted, the Clarity Act is a ticket to sanctions evasion.\" SENATOR LUMMIS: \"We both want bad actors held accountable. The difference is I’m working on solutions, you’re shouting into the void hoping the status quo fixes itself.\" https://t.co/M4m9JDGlyJ",
-      "summary": "Sen. Warren blasts Clarity Act as enabling sanctions evasion; Sen. Lummis defends it as accountability-focused compromise.",
-      "url": "https://x.com/HaileyLennonBTC/status/2075374208041865306",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 36,
-        "replies": 0,
-        "quotes": 0,
-        "views": "344"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075354865715269632",
-      "is_retweet": true,
-      "original_author": "valkenburgh",
-      "username": "MinarikLaw",
-      "display_name": "Katherine Minarik",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T23:02:12+00:00",
-      "text": "RT @valkenburgh: Senator Wyden has always been, and remains, one of the great champions of a free and open Internet. His unwavering support for the principle that developers should be free to publish software—even in the highly charged arena of crypto—is principled, deeply American, and correct.",
-      "summary": "Sen. Wyden praised for defending developers' right to publish crypto software amid regulatory debate.",
-      "url": "https://x.com/MinarikLaw/status/2075354865715269632",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 26,
-        "replies": 0,
-        "quotes": 0,
-        "views": "10"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075351796743073817",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-09T22:50:01+00:00",
-      "text": "The new Clarity Act draft may land as soon as next week. 52 million Americans own crypto. They deserve clear rules — and the Senate has a real shot to deliver before August recess.",
-      "summary": "New Clarity Act draft may arrive next week; advocates push Senate to pass crypto market structure bill before August recess.",
-      "url": "https://x.com/standwithcrypto/status/2075351796743073817",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 291,
-        "retweets": 48,
-        "replies": 11,
-        "quotes": 1,
-        "views": "10526"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075345257110155709",
-      "is_retweet": true,
-      "original_author": "milesjennings",
-      "username": "NYcryptolawyer",
-      "display_name": "Lewis Cohen",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T22:24:02+00:00",
-      "text": "RT @milesjennings: The lying never stops. Section 302 of the CLARITY act strengthens sanctions laws applicable to crypto. No one in the US crypto industry benefits when blockchain tech is used to evade US sanctions. CLARITY makes that harder, not easier.",
-      "summary": "CLARITY Act Section 302 strengthens sanctions laws applicable to crypto, making evasion via blockchain harder.",
-      "url": "https://x.com/NYcryptolawyer/status/2075345257110155709",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 52,
-        "replies": 0,
-        "quotes": 0,
-        "views": "107"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075320838954287262",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JacobRobinsonJD",
-      "display_name": "Jacob Robinson",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T20:47:00+00:00",
-      "text": "\"If you interpret gaming in the broadest way, it essentially swallows the rest of the rule. So it would be silly to have the other categories if they were all prohibited under gaming.\" @BradBourque of @HyperliquidPC on how proposed rulemaking from the @CFTC interprets Rule 40.11 in a more sensible way.",
-      "summary": "CFTC's proposed rulemaking on Rule 40.11 narrows the 'gaming' category so it doesn't swallow other event-contract categories.",
-      "url": "https://x.com/JacobRobinsonJD/status/2075320838954287262",
-      "type": "quote",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1464"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075271901207728372",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-09T17:32:32+00:00",
-      "text": "\"The vision we're building towards is that you can use any major token as collateral, you can also use ETH, BTC as collateral and tokenized stocks as collateral and some liquidation model will account for that in the way it measures risk,\" @vnovakovski on the risks of using USDG as the quote asset https://t.co/8KSQAwNPIf",
-      "summary": "Exec describes collateral model letting BTC/ETH/tokenized stocks back positions, with USDG as quote asset.",
-      "url": "https://x.com/laurashin/status/2075271901207728372",
-      "type": "original",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1307"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075271372415078556",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-09T17:30:26+00:00",
-      "text": "The next 29 days will decide whether America gets clear crypto rules this summer. 🗓️ JULY 13: The Senate returns from recess 🗓️ AUGUST 7: The Senate leaves for summer recess There is no time to waste. Call your Senators and tell them to bring the Clarity Act to a vote 👇",
-      "summary": "Advocacy group urges public pressure on Senators to bring the Clarity Act to a vote before August recess.",
-      "url": "https://x.com/standwithcrypto/status/2075271372415078556",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 220,
+        "likes": 293,
         "retweets": 59,
-        "replies": 11,
-        "quotes": 2,
-        "views": "6334"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075269716948525139",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-09T17:23:51+00:00",
-      "text": "\"We have been in the process of working with the CFTC on a license for decentralized perps in the U.S.,\" @vnovakovski on bringing perps product to the U.S. https://t.co/XUxLxWk1bV",
-      "summary": "Exchange exec says firm is working with CFTC on a license to bring decentralized perps to the US.",
-      "url": "https://x.com/laurashin/status/2075269716948525139",
-      "type": "original",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 2,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1507"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075264979813409151",
-      "is_retweet": true,
-      "original_author": "LowBeta",
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-09T17:05:02+00:00",
-      "text": "RT @LowBeta: *WILLIAMS: STABLCOINS NOT A THREAT TO BANK DEPOSITS *NEW YORK FED PRESIDENT JOHN WILLIAMS COMMENTS IN Q&amp;A You heard it here folks",
-      "summary": "NY Fed President Williams says stablecoins are not a threat to bank deposits.",
-      "url": "https://x.com/SenLummis/status/2075264979813409151",
-      "type": "retweet",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 20,
-        "replies": 0,
-        "quotes": 0,
-        "views": "13191"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075264739744117041",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-09T17:04:05+00:00",
-      "text": "🚨🗞️NEW: It's Time for Clarity. Is the Senate Ready? Lots to chew on in today’s @CryptoAmerica_ newsletter: Clarity crunch, agency nominee drama, @krakenfx’s $22M arbitration win over @ForvisMazarsGrp, and more. https://t.co/kiBGzm1xs6",
-      "summary": "Newsletter roundup on Senate Clarity Act status, agency nominee news, and Kraken's $22M arbitration win.",
-      "url": "https://x.com/EleanorTerrett/status/2075264739744117041",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 404,
-        "retweets": 58,
         "replies": 20,
-        "quotes": 3,
-        "views": "21727"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075264525314801881",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-09T17:03:14+00:00",
-      "text": "\"From a DeFi perspective, we're about to take this from a $200 billion market to potentially a $100 trillion market\" Niklas Kunkel, CEO of Chronicle Labs, on why DeFi utility is so attractive to BlackRock and Fidelity \"If my client can lend this asset to earn a yield, now I can provide more utility to my clients\" \"If you're looking at a BlackRock or Fidelity, that's very, very attractive to them\"",
-      "summary": "Chronicle Labs CEO says DeFi lending/yield utility could grow the market from $200B to $100T, drawing BlackRock/Fidelity interest.",
-      "url": "https://x.com/laurashin/status/2075264525314801881",
-      "type": "quote",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 4,
-        "quotes": 0,
-        "views": "3308"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075257466489577544",
-      "is_retweet": true,
-      "original_author": "amandatums",
-      "username": "MinarikLaw",
-      "display_name": "Katherine Minarik",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T16:35:11+00:00",
-      "text": "RT @amandatums: Agree with Senator @RonWyden - the BRCA \"provides a commonsense clarification that the Bank Secrecy Act and the criminal code must be viewed in tandem\" and devs who don't control other people's money are not money transmitters. Market structure is not complete without the BRCA. Say it louder: \"While critics of the BRCA point to the purported impact of the provision on AML/CFT, this is inaccurate. In reality, this provision would unify FinCEN and Department of Justice policy, and ensure that law enforcement resources are focused toward criminals and other bad actors operating unlicensed money transmitting businesses.\"",
-      "summary": "Supporters back the BRCA's clarification that non-custodial devs aren't money transmitters under the Bank Secrecy Act.",
-      "url": "https://x.com/MinarikLaw/status/2075257466489577544",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 7,
-        "replies": 0,
-        "quotes": 0,
-        "views": "7"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075254652677783679",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JacobRobinsonJD",
-      "display_name": "Jacob Robinson",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T16:24:00+00:00",
-      "text": "\"Insider trading seems like a simple concept ... but it's actually quite difficult. Predictions markets are a new frontier, in several respects.\" Sam Enzer, partner at @CahillGordon, explains the key legal questions for insider trading cases on prediction markets. It gets complicated fast.",
-      "summary": "Lawyer flags novel insider-trading legal questions arising on prediction markets.",
-      "url": "https://x.com/JacobRobinsonJD/status/2075254652677783679",
-      "type": "quote",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "views": "579"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075254319885046143",
-      "is_retweet": true,
-      "original_author": "valkenburgh",
-      "username": "theblockprof",
-      "display_name": "BlockProf",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T16:22:40+00:00",
-      "text": "RT @valkenburgh: Senator Wyden has always been, and remains, one of the great champions of a free and open Internet. His unwavering support for the principle that developers should be free to publish software—even in the highly charged arena of crypto—is principled, deeply American, and correct.",
-      "summary": "Praise for Sen. Wyden's stance that crypto software developers should be free to publish code without liability.",
-      "url": "https://x.com/theblockprof/status/2075254319885046143",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 26,
-        "replies": 0,
-        "quotes": 0,
-        "views": "101"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075254162628198905",
-      "is_retweet": true,
-      "original_author": "BradBourque",
-      "username": "MTCoppel",
-      "display_name": "Marisa Tashman Coppel",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T16:22:03+00:00",
-      "text": "RT @BradBourque: Some people build tools. Others use those tools to offer regulated financial services. Building tools shouldn't trigger registration, and using onchain tools to deliver regulated services shouldn't be off-limits to the firms already registered to provide them. Today we joined @phantom to urge the @CFTC to modernize its rules and unlock innovation for fintech firms and existing registrants alike. Let’s move our markets forward, and onchain. Read our comment here:",
-      "summary": "Industry group urges CFTC to modernize rules so registered fintech firms can use onchain tools for regulated services.",
-      "url": "https://x.com/MTCoppel/status/2075254162628198905",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 21,
-        "replies": 0,
-        "quotes": 0,
-        "views": "46"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075254097339662458",
-      "is_retweet": true,
-      "original_author": "HyperliquidPC",
-      "username": "MTCoppel",
-      "display_name": "Marisa Tashman Coppel",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T16:21:47+00:00",
-      "text": "RT @HyperliquidPC: Writing the software isn't running the market. The same should hold true onchain. With the right rules, the CFTC can modernize these markets, keep builders in the United States, and give customers more control over their funds. Today, with @phantom, we filed a joint comment letter with the CFTC with recommendations on how to achieve that result. Read it here:",
-      "summary": "Phantom & Hyperliquid filed a joint CFTC comment letter proposing rules for compliant onchain derivatives markets.",
-      "url": "https://x.com/MTCoppel/status/2075254097339662458",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 44,
-        "replies": 0,
-        "quotes": 0,
-        "views": "45"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075249564932506056",
-      "is_retweet": true,
-      "original_author": "MTCoppel",
-      "username": "jchervinsky",
-      "display_name": "Jake Chervinsky",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-09T16:03:47+00:00",
-      "text": "RT @MTCoppel: Adding legal texture to @BChillman's thread for those following the regulatory picture. @phantom's March no-action letter (CFTC Letter 26-09) already established key precedent: a non-custodial interface that provides only the technical means of access to a registered venue is not itself an introducing broker. Today's letter from @phantom and @HyperliquidPC asks the Commission to (1) codify that holding, (2) permit CFTC registrants to perform regulated functions onchain, and (3) confirm that deploying onchain smart contract infrastructure doesn't by itself trigger FCM or DCO registration. Writing settlement logic, margin accounting, or liquidation mechanisms does not, without more, make a developer a registrant. Functional equivalence alone isn't enough. This second ask is the meatiest and most operationally difficult: the custody and order-handling assumptions in the regs were written for custodial intermediaries. They don't map onto architectures where a smart contract manages margin or where settlement is atomic. The Commission needs to address this mismatch explicitly before registered venues can bring these markets to U.S. users compliantly. The mismatch also matters for users, not just registrants. Self-custody means users control their own private keys and therefore their assets. There is no intermediary, no custodial failure putting the user at risk, and no single point of compromise exposing their funds. Self-custody features aren't incidental; they're the core value proposition of onchain markets over legacy custodial infrastructure. Those features also reflect a paradigm shift in how regulators have historically regulated US financial markets. And Americans shouldn't have to give up those protections to access regulated markets. The whole point of building software onchain is that you can have both: the customer protections that come with registered venues and the security and autonomy that come with self-custody. The current regulatory gap makes that combination impossible in practice. This letter asks the Commission to close it. Registration obligations remain. They attach where they always have. Customers retain the benefits of self-custody. What changes is that the rules become administrable for how the technology actually works. Thank you to our partners at @HyperliquidPC, especially @jchervinsky and @BradBourque. We appreciate the @CFTC's willingness to tackle these difficult questions and we look forward to continuing to our engagement. https://t.co/bDvl6Z7g60",
-      "summary": "Legal breakdown of Phantom/Hyperliquid CFTC letter seeking to codify no-action precedent and clarify DeFi registration rules.",
-      "url": "https://x.com/jchervinsky/status/2075249564932506056",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1455"
+        "quotes": 6,
+        "views": "62588"
       },
       "enriched_by": "claude_code"
     }
