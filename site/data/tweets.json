@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-11T06:04:33.452791+00:00",
-  "generated_at_unix": 1783749873,
+  "generated_at": "2026-07-11T09:14:50.195868+00:00",
+  "generated_at_unix": 1783761290,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-10T16:00:00+00:00",
-  "window_end": "2026-07-11T06:04:33.452791+00:00",
-  "new_this_run": 16,
-  "total_recent": 20,
-  "errors": [],
+  "window_end": "2026-07-11T09:14:50.195868+00:00",
+  "new_this_run": 11,
+  "total_recent": 15,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,162 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2075721879378121115",
+      "is_retweet": true,
+      "original_author": "ChairmanSelig",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-10T23:20:35+00:00",
+      "text": "RT @ChairmanSelig: Innovators and market participants deserve certainty when it comes to the future of crypto in America. The CLARITY Act provides comprehensive rules of the road that future-proof digital asset regulation. This bill is must-pass legislation if the U.S. wants to remain the crypto capital of the world. 📺👇",
+      "summary": "Congressman touts CLARITY Act as must-pass digital asset legislation to secure US crypto regulatory certainty.",
+      "url": "https://x.com/patrickjwitt/status/2075721879378121115",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 63,
+        "replies": 0,
+        "quotes": 0,
+        "views": "869"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075710535106982155",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-10T22:35:31+00:00",
+      "text": "RT @CoinDesk: Despite prediction markets showing lower odds, @SummerMersinger says she's \"99% sure\" Congress will vote on the CLARITY Act and puts its chances of passage at around 60% https://t.co/yMo9yaYPAa",
+      "summary": "CFTC's Mersinger predicts ~60% odds Congress votes on and passes the CLARITY Act despite lower prediction-market odds.",
+      "url": "https://x.com/BlockchainAssn/status/2075710535106982155",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "496"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075699582135120261",
+      "is_retweet": true,
+      "original_author": "chameleon_jeff",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-10T21:51:59+00:00",
+      "text": "RT @chameleon_jeff: Thanks for having me on the podcast! It was a great conversation about a new category of integration: the first centralized exchange directly tapping into Hyperliquid's onchain infrastructure.",
+      "summary": "Lawyer highlights first centralized exchange to directly integrate with Hyperliquid's onchain infrastructure.",
+      "url": "https://x.com/jchervinsky/status/2075699582135120261",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 216,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1463"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075669160760357372",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-10T19:51:06+00:00",
+      "text": "2/ The Injective ecosystem has attracted increasing interest from both the digital asset industry and traditional financial markets, including Canary Capital's filing for an investment product tied to INJ. The Injective Policy Institute was also launched, an initiative focused on fostering engagement and dialogue around blockchain innovation, digital asset regulation, and the future of financial infrastructure. Together, these efforts reflect Injective's commitment to advancing blockchain adoption and supporting the continued growth of the U.S. digital asset ecosystem.",
+      "summary": "Injective Policy Institute launches to advance dialogue on digital asset regulation as Canary Capital files INJ investment product.",
+      "url": "https://x.com/BlockchainAssn/status/2075669160760357372",
+      "type": "reply",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "777"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075642083155538019",
+      "is_retweet": true,
+      "original_author": "RebeccaRettig1",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-10T18:03:30+00:00",
+      "text": "RT @RebeccaRettig1: This week's Policy Protocol on @CoinDesk was clippable af. Guest @SummerMersinger, CEO of @BlockchainAssn, had 🌶️🌶️ takes. Her % view on CLARITY passing. Listen to the whole pod to hear why the @Polymarket / @Kalshi predictions might not be accurate (hint: staffer use = banned). https://t.co/WeYamKdUrQ",
+      "summary": "Blockchain Association CEO discusses odds of CLARITY Act passing; notes prediction market bets may be skewed by staffer trading bans.",
+      "url": "https://x.com/BlockchainAssn/status/2075642083155538019",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "648"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075637671280496863",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-10T17:45:58+00:00",
+      "text": "The Senate is back from recess on Monday, and they've been working hard on the Clarity Act. It's time to get it done.",
+      "summary": "Senate returns from recess and is urged to finish work on the Clarity Act crypto market structure bill.",
+      "url": "https://x.com/standwithcrypto/status/2075637671280496863",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 275,
+        "retweets": 49,
+        "replies": 7,
+        "quotes": 1,
+        "views": "13045"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2075629997721833870",
       "is_retweet": false,
@@ -29,7 +190,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-10T17:15:29+00:00",
       "text": "4/ So is OUSD “an existential threat” to Circle, as Coin Bureau founder Nic Puckrin put it? In the latest Bits + Bips, we take a look at the parts of Circle's business OUSD challenges, break down the numbers, how it is likely to play out and what to watch out for. Full story here: https://t.co/bmlgzTaCYU",
-      "summary": "Analysis of whether Ondo's OUSD poses an existential threat to Circle's stablecoin business.",
+      "summary": "Analysis of whether new stablecoin OUSD poses an existential threat to Circle's business model.",
       "url": "https://x.com/laurashin/status/2075629997721833870",
       "type": "reply",
       "categories": [
@@ -55,7 +216,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-10T17:15:20+00:00",
       "text": "1/ Circle's stock fell nearly 19% last week as an erstwhile little-known company Open Standard announced plans to launch Open USD, or OUSD, a stablecoin backed by nearly every finance giant you can think of, from BlackRock to Western Union.",
-      "summary": "Circle stock dropped ~19% after Open Standard unveiled OUSD, a bank/finance-consortium-backed stablecoin rival.",
+      "summary": "Circle stock dropped ~19% after Open Standard announced OUSD, a stablecoin backed by major finance firms.",
       "url": "https://x.com/laurashin/status/2075629961453679081",
       "type": "original",
       "categories": [
@@ -81,7 +242,7 @@
       "group": "Other / Policy Adjacent",
       "created_at": "2026-07-10T16:36:36+00:00",
       "text": "Long sought, hard fought, and well-earned by the @circle team who made today's regulatory milestone possible. https://t.co/pk1dN4qt4F",
-      "summary": "Circle team celebrates a regulatory milestone achieved after a long push.",
+      "summary": "Circle achieves a regulatory milestone described as long sought and hard fought.",
       "url": "https://x.com/ddisparte/status/2075620212922019861",
       "type": "original",
       "categories": [
@@ -99,6 +260,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075611509074386969",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-10T16:02:01+00:00",
+      "text": "Last week, Stand With Crypto communities in New York, Georgia, Arizona, California, Nevada, and Maryland organized in-state events to make sure their senators heard them loud and clear. The mission was clear: get our Senators to bring the Clarity Act to a vote. https://t.co/WZPu7pxdXN",
+      "summary": "Stand With Crypto organized multi-state events urging senators to bring the CLARITY Act to a vote.",
+      "url": "https://x.com/standwithcrypto/status/2075611509074386969",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 79,
+        "retweets": 19,
+        "replies": 3,
+        "quotes": 1,
+        "views": "3487"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075611008102748528",
       "is_retweet": false,
       "original_author": null,
@@ -107,7 +294,7 @@
       "group": "Regulators & Government Officials",
       "created_at": "2026-07-10T16:00:01+00:00",
       "text": "Innovators and market participants deserve certainty when it comes to the future of crypto in America. The CLARITY Act provides comprehensive rules of the road that future-proof digital asset regulation. This bill is must-pass legislation if the U.S. wants to remain the crypto capital of the world. 📺👇",
-      "summary": "Regulator urges passage of the CLARITY Act as must-pass legislation to give digital asset markets regulatory certainty.",
+      "summary": "Regulator argues the CLARITY Act is must-pass legislation to give digital asset markets regulatory certainty.",
       "url": "https://x.com/ChairmanSelig/status/2075611008102748528",
       "type": "original",
       "categories": [
