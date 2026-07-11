@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-07-11T15:00:55.403562+00:00",
-  "generated_at_unix": 1783782055,
+  "generated_at": "2026-07-11T18:00:05.303976+00:00",
+  "generated_at_unix": 1783792805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-10T16:00:00+00:00",
-  "window_end": "2026-07-11T15:00:55.403562+00:00",
-  "new_this_run": 13,
-  "total_recent": 27,
-  "errors": [],
+  "window_end": "2026-07-11T18:00:05.303976+00:00",
+  "new_this_run": 21,
+  "total_recent": 38,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,32 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2075973137062339043",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-11T15:59:00+00:00",
+      "text": "🚨@vnovakovski told me the Robinhood Chain perps deal was '12 years in the making,' dating back to high school. 🤝 We get into the 50/50 revenue split and how he thinks about the USDG collateral risk. 🎧 Timestamps: 🤝 01:28 Why Vlad calls the Robinhood Chain deal \"12 years in the making\" and how the revenue is split 🤓 03:40 How Robinhood perps differs from Lighter's own app 💸 05:03 What if means if USDG is the quote asset on Robinhood's perps and USDC is the quote asset on Lighter 💬 11:04 Novakovski on Lighter's Telegram Wallet deal vs Hyperliquid's builder codes 📣 12:50 Cape: Get 33% off six months of privacy first mobile service at https://t.co/2ZtLziY0xt 💼 13:44 Fidelity: Explore crypto and DeFi careers at https://t.co/8dua6AZQXA 📉 14:31 Why RWA perps are hitting highs while crypto native perp volume cools ⚠️ 18:00 How Lighter prices liquidation risk when tokenized stocks are collateral 🏛️ 21:14 Novakovski on the regulatory pathway DEXs need to move onshore",
+      "summary": "Robinhood Chain/Lighter perps deal discussion touches USDG/USDC collateral risk and the regulatory path for DEXs to move onshore.",
+      "url": "https://x.com/laurashin/status/2075973137062339043",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 1,
+        "views": "2834"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2075956928644071792",
       "is_retweet": true,
@@ -29,7 +64,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-11T14:54:35+00:00",
       "text": "RT @JacobRobinsonJD: Prediction markets are a (poorly understood) multi-billion dollar industry. This @LawofCodeFM episode is a multi-hour deep dive on prediction markets, from conclave betting in 15th century Rome to proposed rulemaking from the @CFTC earlier this month. My goal: the internet's most comprehensive explainer on prediction markets. I spent several months and over 100 hours on this podcast, and spoke to the world's leading experts on the legal layer of prediction markets: @robertjdenault, @WALLACHLEGAL, @SPSchropp, Sam Enzer, @iampaulgrewal, @BradBourque, @ThaniaCh, @passalacqua_mj, @JoshSterlingLaw, @_jamico, as well as @KolemanStrumpf, @mattkalish, with clips from prior conversations with @giancarloMKTS, @DustinGouker. By the end of this episode, I promise you'll be in the top percentile for understanding prediction markets, regardless of your starting point. (You just might want to listen twice. There's a lot here.) 0:00 Intro 1:40 16th century papal betting @KolemanStrumpf 11:13 Insider trading rules @robertjdenault 16:20 The Google insider case 27:38 Why prediction markets matter @giancarloMKTS 33:20 Election betting in America 44:50 Iowa Electronic Markets 52:11 Dodd-Frank, swaps and the Special Rule 54:23 Senator Lincoln on sports contracts 1:02:04 Parlays as swaps 1:07:38 CFTC's exclusive jurisdiction @ThaniaCh 1:13:45 Perspective on CFTC's NPRM @passalacqua_mj 1:21:10 Exceptions that swallow the rule @iampaulgrewal 1:33:40 How prediction markets actually work 1:42:20 Kalshi's fee structure 1:44:33 Cardi B and the resolution problem @DustinGouker 1:51:20 @Polymarket's decentralized resolution @_jamico 1:58:10 The Ninth Circuit case 2:14:04 CFTC's proposed rulemaking @BradBourque, @SPSchropp 2:25:21 @Kalshi's landmark 2024 win 2:29:20 PASPA, Murphy v. NCAA @WALLACHLEGAL 2:51:29 The case against banning prediction markets @robertjdenault Nothing in this podcast is legal or investment advice. Thank you to the sponsors of this episode, @CahillGordon (@NYcryptolawyer), @HyperliquidPC and .",
-      "summary": "Podcast deep dive on prediction market legal issues, including CFTC's proposed rulemaking and Kalshi/Polymarket litigation.",
+      "summary": "RT @JacobRobinsonJD: Prediction markets are a (poorly understood) multi-billion dollar industry. This @LawofCodeFM episode is a multi-hour deep dive…",
       "url": "https://x.com/JacobRobinsonJD/status/2075956928644071792",
       "type": "retweet",
       "categories": [
@@ -43,8 +78,7 @@
         "replies": 0,
         "quotes": 0,
         "views": null
-      },
-      "enriched_by": "claude_code"
+      }
     },
     {
       "id": "2075927105460707567",
@@ -55,11 +89,11 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-11T12:56:05+00:00",
       "text": "RT @N0th1n3: Let’s check in across the pond MiCA public consultation is live, and along with our friends at @aave @Ledger @Kiln_finance and @Morpho, we submitted a position paper laying out five principles for defi 1. Regulate custody and control, not technical design - regulatory obligations should exist depending upon whether an entity exercises custody or control over user assets 2. Writing and publishing open-source, non-custodial code is not operating a financial service - a developer who deploys a smart contract no more provides a financial service than an engineer who designs a bridge operates a transport company 3. DeFi is not a systemic risk - while the sector is innovating rapidly, the empirical evidence simply does not support the creation of new, premature statutory rules 4. Core DeFi architecture structurally reduces counterparty risk - self-custody is the ultimate consumer protection, forced backdoors or access controls into non-custodial tools ultimately make users less safe 5. To remain competitive, the EU must nurture its homegrown ability to build and scale Web3 infrastructure We will continue to engage with the EU on these pivotal issues, and as their framework develops, check out the full paper https://t.co/Nb1Ann6oMy",
-      "summary": "DeFi firms submitted a position paper to EU's MiCA consultation urging custody-based, not code-based, regulation.",
+      "summary": "Deep-dive podcast on prediction markets covering CFTC's proposed rulemaking, Dodd-Frank swaps rules, and Kalshi/Polymarket legal issues.",
       "url": "https://x.com/KhurramDara/status/2075927105460707567",
       "type": "retweet",
       "categories": [
-        "defi"
+        "prediction_markets"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -73,6 +107,84 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075913109311836387",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-11T12:00:28+00:00",
+      "text": "One guy. $4.4 million in Bonk. A week-long vote nobody read. 🚨 That's how @tayvano_ says a wallet legally walked away with BonkDAO's entire treasury on the new Uneasy Money. https://t.co/Z9LxtXNt5a",
+      "summary": "EU DeFi industry position paper on MiCA consultation proposes five principles: regulate custody not code, no systemic-risk rules for DeFi.",
+      "url": "https://x.com/laurashin/status/2075913109311836387",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 1,
+        "views": "3763"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075806625038737461",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-11T04:57:20+00:00",
+      "text": "RT @laurashin: One wallet spent $4.4 million on Bonk, then legally voted itself BonkDAO's entire $20 million treasury a week later. 🚨 @tayvano_ traces exactly how the vote worked on the new Uneasy Money, and why nobody caught it in time. https://t.co/VlWjU3jJDF",
+      "summary": "Wallet spent $4.4M buying Bonk tokens then legally voted itself BonkDAO's entire $20M treasury, exposing a DAO governance flaw.",
+      "url": "https://x.com/laurashin/status/2075806625038737461",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2075806379441291651",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-11T04:56:22+00:00",
+      "text": "RT @laurashin: A wallet spent $4.4 million buying Bonk tokens, then legally voted itself BonkDAO's entire $20 million treasury a week later. 🚨 On the new Uneasy Money, @kaiynne uses that heist to argue ENS founder Nick Johnson should take back control from the DAO, while @tayvano_ is only half convinced. 🎧 Timestamps: 🛠️ 01:32 Why Austin says Vitalik's Lean Ethereum overhaul barely changes his job 📅 08:21 Taylor on why the EF ships huge roadmaps but too little in the short term 🪓 12:56 Austin on surviving the EF's leaner reorg and the wave of departures 💵 15:43 How Austin turned a serious auditing tool into a viral meme 🤝 18:48 x402 skill files: why agents will soon pay other agents for on-tap skills 💙 25:44 Cape: Get 33% off your first six months of privacy first mobile service at https://t.co/2ZtLziY0xt 🚨 26:41 How one wallet legally voted its way to BonkDAO's $20M treasury ⚖️ 32:57 Why Kain thinks Nick Johnson and ENS should take power back from the DAO 🤖 55:29 Robinhood's new chain and Kain's take on crypto's pay-to-play problem 🪙 58:29 Why Kain says tokens are now the wrong tool to raise money",
+      "summary": "BonkDAO governance exploit let a wallet vote itself the DAO's $20M treasury after buying $4.4M in tokens, spurring calls for ENS-style founder override of DAO control.",
+      "url": "https://x.com/laurashin/status/2075806379441291651",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075763883533353241",
       "is_retweet": true,
       "original_author": "CoinDesk",
@@ -81,7 +193,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-11T02:07:30+00:00",
       "text": "RT @CoinDesk: Despite prediction markets showing lower odds, @SummerMersinger says she's \"99% sure\" Congress will vote on the CLARITY Act and puts its chances of passage at around 60% https://t.co/yMo9yaYPAa",
-      "summary": "CFTC's Mersinger predicts 99% chance Congress votes on CLARITY Act, ~60% odds of passage.",
+      "summary": "CFTC's Mersinger says she's 99% sure Congress votes on CLARITY Act, ~60% odds of passage.",
       "url": "https://x.com/RebeccaRettig1/status/2075763883533353241",
       "type": "retweet",
       "categories": [
@@ -107,7 +219,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-11T01:28:03+00:00",
       "text": "RT @CoinDesk: Where does the Strategic Bitcoin Reserve stand? @RebeccaRettig1 and @renato_mariotti break down the debate over where a U.S. Bitcoin reserve would be held, and the legal and practical hurdles to turning the idea into reality. https://t.co/fj14oBVa85",
-      "summary": "Legal experts debate custody options and hurdles for a potential U.S. Strategic Bitcoin Reserve.",
+      "summary": "Legal experts debate custody options and hurdles for a proposed U.S. Strategic Bitcoin Reserve.",
       "url": "https://x.com/RebeccaRettig1/status/2075753958023352329",
       "type": "retweet",
       "categories": [
@@ -133,7 +245,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-10T23:20:35+00:00",
       "text": "RT @ChairmanSelig: Innovators and market participants deserve certainty when it comes to the future of crypto in America. The CLARITY Act provides comprehensive rules of the road that future-proof digital asset regulation. This bill is must-pass legislation if the U.S. wants to remain the crypto capital of the world. 📺👇",
-      "summary": "Lawmaker touts CLARITY Act as must-pass legislation to establish comprehensive digital asset market rules.",
+      "summary": "State regulator calls CLARITY Act must-pass legislation to give U.S. crypto markets regulatory certainty.",
       "url": "https://x.com/patrickjwitt/status/2075721879378121115",
       "type": "retweet",
       "categories": [
@@ -159,11 +271,11 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-10T23:03:40+00:00",
       "text": "RT @freddienew: An unintentional side benefit of daft regulation in the UK and the EU is going to mean that many more people suddenly find they are holding their Bitcoin in self custody.... And outside the purview of regulators and regulation. Oops! https://t.co/ATPGrY933R",
-      "summary": "Commentary that strict UK/EU crypto regulation is pushing more users toward self-custody, outside regulators' reach.",
+      "summary": "UK/EU crypto regulation may inadvertently push more users into Bitcoin self-custody, outside regulators' reach.",
       "url": "https://x.com/prestonjbyrne/status/2075717620217545160",
       "type": "retweet",
       "categories": [
-        "other"
+        "legislation"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -177,6 +289,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075711795776368669",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-10T22:40:31+00:00",
+      "text": "The regulatory equivalent of watch what they do, not what they say. Emerging markets may be the biggest beneficiaries of stablecoin enablement because they were the proving grounds for mobile money.",
+      "summary": "Argues emerging markets stand to benefit most from stablecoin enablement given prior mobile money adoption.",
+      "url": "https://x.com/ddisparte/status/2075711795776368669",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 33,
+        "retweets": 7,
+        "replies": 4,
+        "quotes": 1,
+        "views": "5972"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075710535106982155",
       "is_retweet": true,
       "original_author": "CoinDesk",
@@ -185,11 +323,11 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-10T22:35:31+00:00",
       "text": "RT @CoinDesk: Despite prediction markets showing lower odds, @SummerMersinger says she's \"99% sure\" Congress will vote on the CLARITY Act and puts its chances of passage at around 60% https://t.co/yMo9yaYPAa",
-      "summary": "CFTC's Mersinger predicts ~60% odds Congress passes the CLARITY Act, despite lower prediction market odds.",
+      "summary": "CFTC's Mersinger predicts ~60% chance Congress passes the CLARITY Act despite lower prediction market odds.",
       "url": "https://x.com/BlockchainAssn/status/2075710535106982155",
       "type": "retweet",
       "categories": [
-        "prediction_markets"
+        "legislation"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -203,6 +341,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075692790701523089",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-10T21:25:00+00:00",
+      "text": "One wallet spent $4.4 million on Bonk, then legally voted itself BonkDAO's entire $20 million treasury a week later. 🚨 @tayvano_ traces exactly how the vote worked on the new Uneasy Money, and why nobody caught it in time. https://t.co/VlWjU3jJDF",
+      "summary": "Investigation traces how a wallet spent $4.4M on Bonk then voted itself BonkDAO's $20M treasury a week later.",
+      "url": "https://x.com/laurashin/status/2075692790701523089",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 3,
+        "replies": 6,
+        "quotes": 0,
+        "views": "6332"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075669160760357372",
       "is_retweet": false,
       "original_author": null,
@@ -211,11 +375,11 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-10T19:51:06+00:00",
       "text": "2/ The Injective ecosystem has attracted increasing interest from both the digital asset industry and traditional financial markets, including Canary Capital's filing for an investment product tied to INJ. The Injective Policy Institute was also launched, an initiative focused on fostering engagement and dialogue around blockchain innovation, digital asset regulation, and the future of financial infrastructure. Together, these efforts reflect Injective's commitment to advancing blockchain adoption and supporting the continued growth of the U.S. digital asset ecosystem.",
-      "summary": "Injective DeFi ecosystem growth highlighted alongside new Injective Policy Institute focused on digital asset regulation.",
+      "summary": "Injective launches a Policy Institute to engage on digital asset regulation as INJ draws ETF interest via Canary Capital filing.",
       "url": "https://x.com/BlockchainAssn/status/2075669160760357372",
       "type": "reply",
       "categories": [
-        "defi"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -229,6 +393,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075642547276280283",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-10T18:05:21+00:00",
+      "text": "🚨NEWS: Wyoming crypto bank @custodiabank has officially filed a certiorari petition with the Supreme Court, asking it to review whether regional Federal Reserve Banks have the discretion to deny eligible state-chartered banks access to master accounts. Custodia has hired a team of legal experts, including white shoe law firm Davis Polk, to argue that the Federal Reserve Bank of Kansas City’s decision to deny Custodia a master account “works a fundamental shift in the balance between state and federal authority over banking,” raises significant constitutional questions about the appointment and powers of Federal Reserve Bank presidents, and threatens the future viability of dozens of banks with innovative business models. It comes after both a Wyoming district court and a divided Tenth Circuit panel sided with the Fed’s interpretation of the Monetary Control Act, finding that the Federal Reserve has broad discretion to deny Custodia access to a master account. As cited in the petition, the Kansas City Fed said its 2023 decision was driven by concerns over Custodia’s crypto-centric business model. Custodia CEO @CaitlinLong_ could not immediately be reached for comment.",
+      "summary": "Custodia Bank petitions Supreme Court over Fed's denial of master account access to crypto-focused state banks.",
+      "url": "https://x.com/EleanorTerrett/status/2075642547276280283",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 773,
+        "retweets": 125,
+        "replies": 30,
+        "quotes": 5,
+        "views": "54518"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075642083155538019",
       "is_retweet": true,
       "original_author": "RebeccaRettig1",
@@ -237,7 +427,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-10T18:03:30+00:00",
       "text": "RT @RebeccaRettig1: This week's Policy Protocol on @CoinDesk was clippable af. Guest @SummerMersinger, CEO of @BlockchainAssn, had 🌶️🌶️ takes. Her % view on CLARITY passing. Listen to the whole pod to hear why the @Polymarket / @Kalshi predictions might not be accurate (hint: staffer use = banned). https://t.co/WeYamKdUrQ",
-      "summary": "Discussion of CLARITY Act passage odds and why Polymarket/Kalshi prediction markets may misprice it due to banned staffer use.",
+      "summary": "Blockchain Association CEO discusses odds of CLARITY Act passing and doubts over Polymarket/Kalshi prediction accuracy.",
       "url": "https://x.com/BlockchainAssn/status/2075642083155538019",
       "type": "retweet",
       "categories": [
@@ -263,7 +453,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-10T18:00:16+00:00",
       "text": "This week's Policy Protocol on @CoinDesk was clippable af. Guest @SummerMersinger, CEO of @BlockchainAssn, had 🌶️🌶️ takes. Her % view on CLARITY passing. Listen to the whole pod to hear why the @Polymarket / @Kalshi predictions might not be accurate (hint: staffer use = banned). https://t.co/WeYamKdUrQ",
-      "summary": "Podcast covers CLARITY Act passage odds and why Polymarket/Kalshi predictions on it may be inaccurate.",
+      "summary": "Discusses CLARITY Act passage odds and questions accuracy of Polymarket/Kalshi prediction markets on the bill.",
       "url": "https://x.com/RebeccaRettig1/status/2075641266784575877",
       "type": "original",
       "categories": [
@@ -289,7 +479,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-10T17:52:01+00:00",
       "text": "Let’s check in across the pond MiCA public consultation is live, and along with our friends at @aave @Ledger @Kiln_finance and @Morpho, we submitted a position paper laying out five principles for defi 1. Regulate custody and control, not technical design - regulatory obligations should exist depending upon whether an entity exercises custody or control over user assets 2. Writing and publishing open-source, non-custodial code is not operating a financial service - a developer who deploys a smart contract no more provides a financial service than an engineer who designs a bridge operates a transport company 3. DeFi is not a systemic risk - while the sector is innovating rapidly, the empirical evidence simply does not support the creation of new, premature statutory rules 4. Core DeFi architecture structurally reduces counterparty risk - self-custody is the ultimate consumer protection, forced backdoors or access controls into non-custodial tools ultimately make users less safe 5. To remain competitive, the EU must nurture its homegrown ability to build and scale Web3 infrastructure We will continue to engage with the EU on these pivotal issues, and as their framework develops, check out the full paper https://t.co/Nb1Ann6oMy",
-      "summary": "Aave, Ledger, Kiln and Morpho submit MiCA consultation paper urging EU to regulate custody/control, not non-custodial code, in DeFi.",
+      "summary": "Aave, Ledger, Kiln, Morpho submit MiCA consultation paper urging custody-based (not code-based) DeFi regulation.",
       "url": "https://x.com/N0th1n3/status/2075639193670426738",
       "type": "original",
       "categories": [
@@ -315,7 +505,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-10T17:45:58+00:00",
       "text": "The Senate is back from recess on Monday, and they've been working hard on the Clarity Act. It's time to get it done.",
-      "summary": "Senate returns from recess, urged to advance the Clarity Act on crypto market structure.",
+      "summary": "Senate returns from recess with pressure to finalize and pass the Clarity Act.",
       "url": "https://x.com/standwithcrypto/status/2075637671280496863",
       "type": "quote",
       "categories": [
@@ -341,7 +531,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-10T17:15:29+00:00",
       "text": "4/ So is OUSD “an existential threat” to Circle, as Coin Bureau founder Nic Puckrin put it? In the latest Bits + Bips, we take a look at the parts of Circle's business OUSD challenges, break down the numbers, how it is likely to play out and what to watch out for. Full story here: https://t.co/bmlgzTaCYU",
-      "summary": "Analysis of whether Open USD (OUSD) stablecoin poses an existential threat to Circle's business.",
+      "summary": "Analysis of OUSD stablecoin, backed by major finance firms, as a competitive threat to Circle's business.",
       "url": "https://x.com/laurashin/status/2075629997721833870",
       "type": "reply",
       "categories": [
@@ -367,7 +557,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-10T17:15:20+00:00",
       "text": "1/ Circle's stock fell nearly 19% last week as an erstwhile little-known company Open Standard announced plans to launch Open USD, or OUSD, a stablecoin backed by nearly every finance giant you can think of, from BlackRock to Western Union.",
-      "summary": "Circle stock dropped ~19% after finance giants backed launch of rival stablecoin Open USD (OUSD).",
+      "summary": "Circle's stock fell ~19% after Open Standard announced its OUSD stablecoin backed by major finance firms.",
       "url": "https://x.com/laurashin/status/2075629961453679081",
       "type": "original",
       "categories": [
@@ -393,7 +583,7 @@
       "group": "Other / Policy Adjacent",
       "created_at": "2026-07-10T16:36:36+00:00",
       "text": "Long sought, hard fought, and well-earned by the @circle team who made today's regulatory milestone possible. https://t.co/pk1dN4qt4F",
-      "summary": "Circle team credited for achieving a significant regulatory milestone.",
+      "summary": "Commentary celebrating Circle's newly achieved regulatory milestone.",
       "url": "https://x.com/ddisparte/status/2075620212922019861",
       "type": "original",
       "categories": [
@@ -411,6 +601,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2075618572668461113",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-10T16:30:05+00:00",
+      "text": "Strategy's Impact on Bitcoin Risk and dYdX's Rebrand to Arcus as Robinhood Goes Onchain https://t.co/poLrKFh5MB",
+      "summary": "News roundup on dYdX rebranding to Arcus and Robinhood expanding onchain.",
+      "url": "https://x.com/EleanorTerrett/status/2075618572668461113",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 124,
+        "retweets": 20,
+        "replies": 11,
+        "quotes": 1,
+        "views": "31019"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2075611509074386969",
       "is_retweet": false,
       "original_author": null,
@@ -419,7 +635,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-10T16:02:01+00:00",
       "text": "Last week, Stand With Crypto communities in New York, Georgia, Arizona, California, Nevada, and Maryland organized in-state events to make sure their senators heard them loud and clear. The mission was clear: get our Senators to bring the Clarity Act to a vote. https://t.co/WZPu7pxdXN",
-      "summary": "Grassroots crypto advocacy groups pushed senators across six states to bring the CLARITY Act to a vote.",
+      "summary": "Stand With Crypto organized multi-state grassroots events urging senators to bring the CLARITY Act to a vote.",
       "url": "https://x.com/standwithcrypto/status/2075611509074386969",
       "type": "original",
       "categories": [
@@ -445,7 +661,7 @@
       "group": "Regulators & Government Officials",
       "created_at": "2026-07-10T16:00:01+00:00",
       "text": "Innovators and market participants deserve certainty when it comes to the future of crypto in America. The CLARITY Act provides comprehensive rules of the road that future-proof digital asset regulation. This bill is must-pass legislation if the U.S. wants to remain the crypto capital of the world. 📺👇",
-      "summary": "Regulator argues the CLARITY Act is must-pass legislation to give digital asset markets regulatory certainty.",
+      "summary": "CFTC Chairman Selig calls the CLARITY Act must-pass legislation to provide regulatory certainty for digital assets.",
       "url": "https://x.com/ChairmanSelig/status/2075611008102748528",
       "type": "original",
       "categories": [
