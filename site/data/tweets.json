@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-12T06:15:57.519630+00:00",
-  "generated_at_unix": 1783836957,
+  "generated_at": "2026-07-12T09:03:09.471045+00:00",
+  "generated_at_unix": 1783846989,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-11T16:00:00+00:00",
-  "window_end": "2026-07-12T06:15:57.519630+00:00",
-  "new_this_run": 11,
-  "total_recent": 11,
-  "errors": [],
+  "window_end": "2026-07-12T09:03:09.471045+00:00",
+  "new_this_run": 6,
+  "total_recent": 7,
+  "errors": [
+    {
+      "username": "katiebiber",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,7 +34,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-11T18:56:00+00:00",
       "text": "The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around again this decade.",
-      "summary": "Sen. Lummis says the Clarity Act is Congress's closest attempt yet at digital asset market structure legislation.",
+      "summary": "Sen. Lummis calls the Clarity Act the closest Congress has come to comprehensive digital asset market structure legislation.",
       "url": "https://x.com/SenLummis/status/2076017680331456536",
       "type": "original",
       "categories": [
