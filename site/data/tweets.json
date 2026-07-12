@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-12T12:01:43.267571+00:00",
-  "generated_at_unix": 1783857703,
+  "generated_at": "2026-07-12T15:02:51.963982+00:00",
+  "generated_at_unix": 1783868571,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-11T16:00:00+00:00",
-  "window_end": "2026-07-12T12:01:43.267571+00:00",
-  "new_this_run": 3,
-  "total_recent": 4,
-  "errors": [],
+  "window_end": "2026-07-12T15:02:51.963982+00:00",
+  "new_this_run": 4,
+  "total_recent": 6,
+  "errors": [
+    {
+      "username": "lawtoshi",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 45,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2076278355981148271",
+      "is_retweet": true,
+      "original_author": "JohnEDeaton1",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-12T12:11:50+00:00",
+      "text": "RT @JohnEDeaton1: David @JoelKatz is 100% on 🎯 Previous to the @Ripple lawsuit by the @SECGov, Jay Calyton was interviewed with Joe Grundfest. Jay Clayton stated that sometimes it’s smart to sue the individual executives of a company, even in non-fraud enforcement actions. Grundfest stated that doing so is risky because it increases the burden of proof on the government. Clayton literally stated that it’s worth the risk because it gives the government settlement leverage over the company. In other words, it’s an intimidation tactic. Intimidate and scare the individual executives and it will likely force a quicker settlement. I realize @bgarlinghouse and @chrislarsensf are wealthy individuals but when the full weight and force of the United States Government comes after you, I don’t care who you are - it can be quite intimidating. And that’s why Clayton did it. I have no doubt that it wasn’t a great experience for Garlinghouse and Larsen to sit down and inform their kids that the U.S. Government was suing Dad. As a dad myself, I can only imagine. Don’t forget, despite the government not alleging fraud in the Ripple case, the prosecutors wrote the complaint in a fraud-like manner to cause even more pressure and to try and control the narrative. Let’s also remember, in the early stages of the case, the ethically-challenged prosecutors (e.g., Jorge Tenreiro) attempted to subpoena every credit card and bank statement of Brad Garlinghouse, Chris Larsen, including their wives and family members, despite Ripple, Brad and Chris, having already turned over EVERY XRP transaction EVER made. The judge, rightfully so, shut that intimidation tactic down. Also, don’t forget, these were the same ethically-challenged SEC lawyers who an appellate court described as arbitrary and capricious as well as sanctioned SEC lawyers in the Debt Box case for perpetuating a fraud upon the court. It was the same ethically-challenged SEC enforcement lawyers who lied, claiming I threatened to beat up SEC staff and asked the Court to bar me from participating as amicus counsel on behalf of 75K XRP Holders - who they also attacked. Great thing Garlinghouse and Larsen gave the SEC 🖕 and didn’t give in to the intimidation tactics, essentially winning the case, with a little help from 75K XRP Holders. 🫡",
+      "summary": "RT @JohnEDeaton1: David @JoelKatz is 100% on 🎯 Previous to the @Ripple lawsuit by the @SECGov, Jay Calyton was interviewed with Joe Grundfest. Jay…",
+      "url": "https://x.com/JohnEDeaton1/status/2076278355981148271",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 115,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
     {
       "id": "2076271040259293560",
       "is_retweet": true,
@@ -29,7 +59,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-12T11:42:45+00:00",
       "text": "RT @SenLummis: The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around again this decade.",
-      "summary": "Sen. Lummis says the Clarity Act is Congress's closest attempt yet at digital asset market structure legislation.",
+      "summary": "RT @SenLummis: The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around…",
       "url": "https://x.com/NYcryptolawyer/status/2076271040259293560",
       "type": "retweet",
       "categories": [
@@ -43,8 +73,57 @@
         "replies": 0,
         "quotes": 0,
         "views": "52"
-      },
-      "enriched_by": "claude_code"
+      }
+    },
+    {
+      "id": "2076160017137295846",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-12T04:21:35+00:00",
+      "text": "David @JoelKatz is 100% on 🎯 Previous to the @Ripple lawsuit by the @SECGov, Jay Calyton was interviewed with Joe Grundfest. Jay Clayton stated that sometimes it’s smart to sue the individual executives of a company, even in non-fraud enforcement actions. Grundfest stated that doing so is risky because it increases the burden of proof on the government. Clayton literally stated that it’s worth the risk because it gives the government settlement leverage over the company. In other words, it’s an intimidation tactic. Intimidate and scare the individual executives and it will likely force a quicker settlement. I realize @bgarlinghouse and @chrislarsensf are wealthy individuals but when the full weight and force of the United States Government comes after you, I don’t care who you are - it can be quite intimidating. And that’s why Clayton did it. I have no doubt that it wasn’t a great experience for Garlinghouse and Larsen to sit down and inform their kids that the U.S. Government was suing Dad. As a dad myself, I can only imagine. Don’t forget, despite the government not alleging fraud in the Ripple case, the prosecutors wrote the complaint in a fraud-like manner to cause even more pressure and to try and control the narrative. Let’s also remember, in the early stages of the case, the ethically-challenged prosecutors (e.g., Jorge Tenreiro) attempted to subpoena every credit card and bank statement of Brad Garlinghouse, Chris Larsen, including their wives and family members, despite Ripple, Brad and Chris, having already turned over EVERY XRP transaction EVER made. The judge, rightfully so, shut that intimidation tactic down. Also, don’t forget, these were the same ethically-challenged SEC lawyers who an appellate court described as arbitrary and capricious as well as sanctioned SEC lawyers in the Debt Box case for perpetuating a fraud upon the court. It was the same ethically-challenged SEC enforcement lawyers who lied, claiming I threatened to beat up SEC staff and asked the Court to bar me from participating as amicus counsel on behalf of 75K XRP Holders - who they also attacked. Great thing Garlinghouse and Larsen gave the SEC 🖕 and didn’t give in to the intimidation tactics, essentially winning the case, with a little help from 75K XRP Holders. 🫡",
+      "summary": "David @JoelKatz is 100% on 🎯 Previous to the @Ripple lawsuit by the @SECGov, Jay Calyton was interviewed with Joe Grundfest. Jay Clayton stated that…",
+      "url": "https://x.com/JohnEDeaton1/status/2076160017137295846",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 623,
+        "retweets": 115,
+        "replies": 16,
+        "quotes": 3,
+        "views": "53761"
+      }
+    },
+    {
+      "id": "2076137551451099636",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-12T02:52:19+00:00",
+      "text": "Says the guy who begged AIPAC for their endorsement for three months. Hey Seth, how about actually returning all the AIPAC 💰 you’ve received.",
+      "summary": "Says the guy who begged AIPAC for their endorsement for three months. Hey Seth, how about actually returning all the AIPAC 💰 you’ve received.",
+      "url": "https://x.com/JohnEDeaton1/status/2076137551451099636",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 58,
+        "retweets": 7,
+        "replies": 2,
+        "quotes": 0,
+        "views": "12732"
+      }
     },
     {
       "id": "2076017680331456536",
@@ -55,7 +134,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-11T18:56:00+00:00",
       "text": "The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around again this decade.",
-      "summary": "Sen. Lummis: the Clarity Act represents Congress's most significant digital asset market structure effort to date.",
+      "summary": "The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around again this…",
       "url": "https://x.com/SenLummis/status/2076017680331456536",
       "type": "original",
       "categories": [
@@ -69,8 +148,32 @@
         "replies": 331,
         "quotes": 49,
         "views": "161932"
-      },
-      "enriched_by": "claude_code"
+      }
+    },
+    {
+      "id": "2076016146285744152",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-11T18:49:54+00:00",
+      "text": "There’s a current strand of thinking in the British free speech movement that you can fix Britain’s free speech problem by simply repealing a bunch of stuff and actually defining what free speech means is “too American.“ That approach is wrong.",
+      "summary": "There’s a current strand of thinking in the British free speech movement that you can fix Britain’s free speech problem by simply repealing a bunch…",
+      "url": "https://x.com/prestonjbyrne/status/2076016146285744152",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 401,
+        "retweets": 35,
+        "replies": 17,
+        "quotes": 2,
+        "views": "7853"
+      }
     }
   ]
 }
