@@ -1,75 +1,27 @@
 {
-  "generated_at": "2026-07-13T15:00:05.376991+00:00",
-  "generated_at_unix": 1783954805,
+  "generated_at": "2026-07-13T18:00:05.323508+00:00",
+  "generated_at_unix": 1783965605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-12T16:00:00+00:00",
-  "window_end": "2026-07-13T15:00:05.376991+00:00",
-  "new_this_run": 0,
-  "total_recent": 2,
+  "window_end": "2026-07-13T18:00:05.323508+00:00",
+  "new_this_run": 19,
+  "total_recent": 20,
   "errors": [
     {
-      "username": "KhurramDara",
-      "error": "<urlopen error [Errno 51] Network is unreachable>"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     },
     {
-      "username": "JohnEDeaton1",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JohnReedStark",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "0xlawyoor",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "kakashiii111",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "NYCStein",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "CryptoLawUS",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "HaileyLennonBTC",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "stephendpalley",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "Drew_Morris",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "theblockprof",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JacobRobinsonJD",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "lawtoshi",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "prestonjbyrne",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 1,
-    "successful_this_run": 1,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -77,6 +29,188 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2076682564878618701",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-13T14:58:01+00:00",
+      "text": "It’s a “critical week” for the Clarity Act, says White House Crypto Council Executive Director Patrick Witt, as the crypto industry prepares to mark the one-year anniversary of the GENIUS Act becoming law.",
+      "summary": "White House crypto official calls it a critical week for the Clarity Act as GENIUS Act marks one-year anniversary.",
+      "url": "https://x.com/EleanorTerrett/status/2076682564878618701",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1190,
+        "retweets": 171,
+        "replies": 35,
+        "quotes": 3,
+        "views": "50823"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076676715099673048",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-13T14:34:46+00:00",
+      "text": "🚨NEW: President Trump says the Senate should pass the Clarity Act in honor of Senator Lindsey Graham, saying the late South Carolina Republican was a “big supporter” of the legislation.",
+      "summary": "Trump urges Senate to pass the Clarity Act, citing the late Sen. Lindsey Graham's support for the bill.",
+      "url": "https://x.com/EleanorTerrett/status/2076676715099673048",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2393,
+        "retweets": 394,
+        "replies": 65,
+        "quotes": 25,
+        "views": "91401"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076671323959353796",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-13T14:13:20+00:00",
+      "text": "It was great joining @NYSE and @Ash_TV live this morning discussing @circle's U.S. banking and trust charter milestone, as well as reflecting on the upcoming GENIUS Act anniversary.",
+      "summary": "Circle exec discusses Circle's new US banking/trust charter and the upcoming GENIUS Act anniversary.",
+      "url": "https://x.com/ddisparte/status/2076671323959353796",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "842"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076658520338886910",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-13T13:22:28+00:00",
+      "text": "🚨🗞️The Final Countdown for Clarity Cue the Europe hit: The Senate is back, and the clock is ticking. Plus, Custodia files its Supreme Court petition, and what we’re watching in a week packed with key economic data and Fed speeches. https://t.co/D7bAQnB0u2",
+      "summary": "Senate returns to push crypto market structure (Clarity) bill; Custodia files Supreme Court petition.",
+      "url": "https://x.com/EleanorTerrett/status/2076658520338886910",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1263,
+        "retweets": 217,
+        "replies": 50,
+        "quotes": 13,
+        "views": "84740"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076629142204821867",
+      "is_retweet": true,
+      "original_author": "bitcoinduke",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-13T11:25:44+00:00",
+      "text": "RT @bitcoinduke: another good short talk with @vnovakovski shedding more light on why Robinhood x Lighter goes way beyond a simple wallet integration, from the 50/50 revenue split and rwa collateral to Vlad actively helping shape a CFTC path for decentralized perps and the more he explains it, the more obvious it gets that Lighter is aiming to become real regulated market infra, not just another perp app or whatever else critics keep trying to frame it as",
+      "summary": "Robinhood x Lighter deal framed as building CFTC-regulated infrastructure for decentralized perps trading.",
+      "url": "https://x.com/laurashin/status/2076629142204821867",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1537"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076623853040885763",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-13T11:04:43+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Circle wins final OCC approval to open a national trust bank 🏛️ Senate Democrats demand hearings on Trump's $1.4 billion crypto haul 🚫 Bill banning a Fed digital dollar becomes law without Trump's signature 🤖 AI found an Ethereum bug that could knock validators offline 🎯 Read it now… and make sure you never miss one. Subscribe! https://t.co/eZtRa8Qe1x",
+      "summary": "Circle wins final OCC approval for national trust bank; Senate Dems seek hearings on Trump crypto holdings.",
+      "url": "https://x.com/laurashin/status/2076623853040885763",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 3,
+        "replies": 7,
+        "quotes": 1,
+        "views": "3351"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076619929709670860",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-13T10:49:07+00:00",
+      "text": "RT @laurashin: Ten years on Ethereum, zero oracle hacks. @nomos_paradox tells @Steven_Ehrlich that record is no accident. It is what happens when a team treats security like a religion, not a checklist. 🔐 Worth a listen for anyone lending against tokenized funds. Timestamps: 🎙️ 00:41 Niklas Kunkel on what actually separates the oracle providers, and why most people get it wrong 🛠️ 02:39 The origin story: why building MakerDAO forced Niklas to invent the oracle from scratch ⚠️ 06:35 The hidden single point of failure lurking inside every DeFi protocol 🏦 11:07 Chronicle's bet: from pricing tokens to verifying the real collateral behind tokenized RWAs 🧾 15:30 Don't trust, verify: how Chronicle rebuilds BlackRock's BUIDL fund from scratch, independently 📣 24:50 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV 📈 27:07 The hottest RWA trade nobody's talking about: why CLOs like Galaxy's new tokenized credit product are taking off 🚀 32:36 The SpaceX pre-IPO token mess: buyers paid up, then never got their shares 🌉 36:21 The KelpDAO exploit and the uncomfortable truth: every bridge is just an oracle in disguise 📊 42:28 Chronicle's next growth wave: tokenized equities and the redemption gap that could break them ⛓️ 48:15 The counterintuitive one: why even fully onchain-issued funds still can't skip proof of asset",
+      "summary": "Discussion of DeFi oracle security, MakerDAO's Chronicle verifying tokenized RWAs like BlackRock's BUIDL, and bridge exploit risks.",
+      "url": "https://x.com/laurashin/status/2076619929709670860",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2076411022215163977",
       "is_retweet": false,
@@ -86,7 +220,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-12T20:59:00+00:00",
       "text": "Wyoming figured out digital asset policy years before Washington did. The rest of the country deserves that same clarity now to ensure the U.S. is at the helm of financial innovation.",
-      "summary": "Senator Lummis calls for national digital asset regulatory clarity modeled on Wyoming's crypto policy framework.",
+      "summary": "Sen. Lummis argues Wyoming's early digital asset policy should be a model for federal crypto clarity.",
       "url": "https://x.com/SenLummis/status/2076411022215163977",
       "type": "original",
       "categories": [
@@ -100,6 +234,84 @@
         "replies": 101,
         "quotes": 15,
         "views": "82133"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076410946483019776",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-12T20:58:42+00:00",
+      "text": "This week will be a busy one for economic data, Fed speeches and, likely, further clarity (🫠) on the status of the Clarity Act. Top things to watch: 📌CPI & PPI: Fresh inflation data that could shape expectations for the Fed’s next interest rate decision. 📌Fed Chair Kevin Warsh delivers the semiannual monetary policy report to Congress, and will likely be quizzed by lawmakers on a variety of topics relating to the Fed. Other speeches are expected from Michelle Bowman, Chris Waller, Michael Barr, Lisa Cook and several regional Fed presidents. 📌An updated version of the Clarity Act that merges the Senate Banking and Senate Agriculture Committee texts. While stakeholders are anticipating text, some industry sources tell me key provisions are still being “actively negotiated” and that an ethics deal is “not done.” It’s unclear, as of now, what that means for the timing of a Senate floor vote, which many are hoping could be scheduled as soon as the week of the 20th.",
+      "summary": "Merged Senate Banking/Agriculture Clarity Act text expected; ethics deal unresolved, floor vote timing unclear.",
+      "url": "https://x.com/EleanorTerrett/status/2076410946483019776",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1431,
+        "retweets": 240,
+        "replies": 58,
+        "quotes": 12,
+        "views": "82775"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076380890377363493",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-12T18:59:16+00:00",
+      "text": "Most people think of bridges and oracles as separate pieces of DeFi infrastructure. @nomos_paradox says a bridge is just an oracle wearing a different name, and a compromised one fails exactly the same way. 🌉 https://t.co/U7voh4heuA",
+      "summary": "Discussion argues DeFi bridges function like oracles, sharing the same failure risks when compromised.",
+      "url": "https://x.com/laurashin/status/2076380890377363493",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 2,
+        "replies": 16,
+        "quotes": 0,
+        "views": "5134"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076337888745410807",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-12T16:08:23+00:00",
+      "text": "RT @CryptoAmerica_: Is replacing Swift the right question? Former SWIFT CIO Tom Zschach says it’s a great line for pitch decks. https://t.co/YgAluzCnKw",
+      "summary": "Former SWIFT CIO weighs in on crypto rails potentially replacing SWIFT payment infrastructure.",
+      "url": "https://x.com/EleanorTerrett/status/2076337888745410807",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 19,
+        "replies": 0,
+        "quotes": 0,
+        "views": "11488"
       },
       "enriched_by": "claude_code"
     }
