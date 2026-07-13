@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-07-12T18:04:49.520362+00:00",
-  "generated_at_unix": 1783879489,
+  "generated_at": "2026-07-13T06:00:43.926075+00:00",
+  "generated_at_unix": 1783922443,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-07-11T16:00:00+00:00",
-  "window_end": "2026-07-12T18:04:49.520362+00:00",
-  "new_this_run": 17,
-  "total_recent": 23,
-  "errors": [
-    {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    },
-    {
-      "username": "RegulatoryJason",
-      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    }
-  ],
+  "window_start": "2026-07-12T16:00:00+00:00",
+  "window_end": "2026-07-13T06:00:43.926075+00:00",
+  "new_this_run": 6,
+  "total_recent": 7,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 75,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,32 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2076411022215163977",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-12T20:59:00+00:00",
+      "text": "Wyoming figured out digital asset policy years before Washington did. The rest of the country deserves that same clarity now to ensure the U.S. is at the helm of financial innovation.",
+      "summary": "Sen. Lummis calls for national digital asset policy clarity modeled on Wyoming's crypto framework.",
+      "url": "https://x.com/SenLummis/status/2076411022215163977",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2163,
+        "retweets": 246,
+        "replies": 101,
+        "quotes": 15,
+        "views": "82133"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2076337888745410807",
       "is_retweet": true,
@@ -38,7 +55,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-12T16:08:23+00:00",
       "text": "RT @CryptoAmerica_: Is replacing Swift the right question? Former SWIFT CIO Tom Zschach says it’s a great line for pitch decks. https://t.co/YgAluzCnKw",
-      "summary": "Former SWIFT CIO downplays crypto rails 'replacing Swift' narrative as pitch-deck framing.",
+      "summary": "Discussion on whether crypto/blockchain rails could realistically replace SWIFT for cross-border payments.",
       "url": "https://x.com/EleanorTerrett/status/2076337888745410807",
       "type": "retweet",
       "categories": [
@@ -52,292 +69,6 @@
         "replies": 0,
         "quotes": 0,
         "views": "8444"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076278355981148271",
-      "is_retweet": true,
-      "original_author": "JohnEDeaton1",
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-12T12:11:50+00:00",
-      "text": "RT @JohnEDeaton1: David @JoelKatz is 100% on 🎯 Previous to the @Ripple lawsuit by the @SECGov, Jay Calyton was interviewed with Joe Grundfest. Jay Clayton stated that sometimes it’s smart to sue the individual executives of a company, even in non-fraud enforcement actions. Grundfest stated that doing so is risky because it increases the burden of proof on the government. Clayton literally stated that it’s worth the risk because it gives the government settlement leverage over the company. In other words, it’s an intimidation tactic. Intimidate and scare the individual executives and it will likely force a quicker settlement. I realize @bgarlinghouse and @chrislarsensf are wealthy individuals but when the full weight and force of the United States Government comes after you, I don’t care who you are - it can be quite intimidating. And that’s why Clayton did it. I have no doubt that it wasn’t a great experience for Garlinghouse and Larsen to sit down and inform their kids that the U.S. Government was suing Dad. As a dad myself, I can only imagine. Don’t forget, despite the government not alleging fraud in the Ripple case, the prosecutors wrote the complaint in a fraud-like manner to cause even more pressure and to try and control the narrative. Let’s also remember, in the early stages of the case, the ethically-challenged prosecutors (e.g., Jorge Tenreiro) attempted to subpoena every credit card and bank statement of Brad Garlinghouse, Chris Larsen, including their wives and family members, despite Ripple, Brad and Chris, having already turned over EVERY XRP transaction EVER made. The judge, rightfully so, shut that intimidation tactic down. Also, don’t forget, these were the same ethically-challenged SEC lawyers who an appellate court described as arbitrary and capricious as well as sanctioned SEC lawyers in the Debt Box case for perpetuating a fraud upon the court. It was the same ethically-challenged SEC enforcement lawyers who lied, claiming I threatened to beat up SEC staff and asked the Court to bar me from participating as amicus counsel on behalf of 75K XRP Holders - who they also attacked. Great thing Garlinghouse and Larsen gave the SEC 🖕 and didn’t give in to the intimidation tactics, essentially winning the case, with a little help from 75K XRP Holders. 🫡",
-      "summary": "Details SEC's tactic of suing Ripple executives individually to pressure settlement despite no fraud claim.",
-      "url": "https://x.com/JohnEDeaton1/status/2076278355981148271",
-      "type": "retweet",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 115,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076271040259293560",
-      "is_retweet": true,
-      "original_author": "SenLummis",
-      "username": "NYcryptolawyer",
-      "display_name": "Lewis Cohen",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-12T11:42:45+00:00",
-      "text": "RT @SenLummis: The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around again this decade.",
-      "summary": "Sen. Lummis calls the Clarity Act the closest Congress has come to digital asset market structure legislation.",
-      "url": "https://x.com/NYcryptolawyer/status/2076271040259293560",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 838,
-        "replies": 0,
-        "quotes": 0,
-        "views": "52"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076160017137295846",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-12T04:21:35+00:00",
-      "text": "David @JoelKatz is 100% on 🎯 Previous to the @Ripple lawsuit by the @SECGov, Jay Calyton was interviewed with Joe Grundfest. Jay Clayton stated that sometimes it’s smart to sue the individual executives of a company, even in non-fraud enforcement actions. Grundfest stated that doing so is risky because it increases the burden of proof on the government. Clayton literally stated that it’s worth the risk because it gives the government settlement leverage over the company. In other words, it’s an intimidation tactic. Intimidate and scare the individual executives and it will likely force a quicker settlement. I realize @bgarlinghouse and @chrislarsensf are wealthy individuals but when the full weight and force of the United States Government comes after you, I don’t care who you are - it can be quite intimidating. And that’s why Clayton did it. I have no doubt that it wasn’t a great experience for Garlinghouse and Larsen to sit down and inform their kids that the U.S. Government was suing Dad. As a dad myself, I can only imagine. Don’t forget, despite the government not alleging fraud in the Ripple case, the prosecutors wrote the complaint in a fraud-like manner to cause even more pressure and to try and control the narrative. Let’s also remember, in the early stages of the case, the ethically-challenged prosecutors (e.g., Jorge Tenreiro) attempted to subpoena every credit card and bank statement of Brad Garlinghouse, Chris Larsen, including their wives and family members, despite Ripple, Brad and Chris, having already turned over EVERY XRP transaction EVER made. The judge, rightfully so, shut that intimidation tactic down. Also, don’t forget, these were the same ethically-challenged SEC lawyers who an appellate court described as arbitrary and capricious as well as sanctioned SEC lawyers in the Debt Box case for perpetuating a fraud upon the court. It was the same ethically-challenged SEC enforcement lawyers who lied, claiming I threatened to beat up SEC staff and asked the Court to bar me from participating as amicus counsel on behalf of 75K XRP Holders - who they also attacked. Great thing Garlinghouse and Larsen gave the SEC 🖕 and didn’t give in to the intimidation tactics, essentially winning the case, with a little help from 75K XRP Holders. 🫡",
-      "summary": "Deaton recounts SEC's aggressive enforcement tactics vs Ripple execs Garlinghouse/Larsen, calling it an intimidation strategy.",
-      "url": "https://x.com/JohnEDeaton1/status/2076160017137295846",
-      "type": "quote",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 623,
-        "retweets": 115,
-        "replies": 16,
-        "quotes": 3,
-        "views": "53761"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076135709363286124",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-12T02:45:00+00:00",
-      "text": "Buy a CLO yielding 7%, then loop it into 14 or 21%. @nomos_paradox tells @Steven_Ehrlich why Galaxy's first tokenized CLO is a bigger signal for DeFi than the headline number suggests. 💰 https://t.co/tuMvN4YcA3",
-      "summary": "Galaxy's tokenized CLO yielding 7% (or 14-21% looped) seen as a significant signal for DeFi's growth.",
-      "url": "https://x.com/laurashin/status/2076135709363286124",
-      "type": "original",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 20,
-        "retweets": 2,
-        "replies": 11,
-        "quotes": 1,
-        "views": "4395"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076113059379122620",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-12T01:15:00+00:00",
-      "text": "Ten years on Ethereum, zero oracle hacks. @nomos_paradox tells @Steven_Ehrlich that record is no accident. It is what happens when a team treats security like a religion, not a checklist. 🔐 Worth a listen for anyone lending against tokenized funds. Timestamps: 🎙️ 00:41 Niklas Kunkel on what actually separates the oracle providers, and why most people get it wrong 🛠️ 02:39 The origin story: why building MakerDAO forced Niklas to invent the oracle from scratch ⚠️ 06:35 The hidden single point of failure lurking inside every DeFi protocol 🏦 11:07 Chronicle's bet: from pricing tokens to verifying the real collateral behind tokenized RWAs 🧾 15:30 Don't trust, verify: how Chronicle rebuilds BlackRock's BUIDL fund from scratch, independently 📣 24:50 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV 📈 27:07 The hottest RWA trade nobody's talking about: why CLOs like Galaxy's new tokenized credit product are taking off 🚀 32:36 The SpaceX pre-IPO token mess: buyers paid up, then never got their shares 🌉 36:21 The KelpDAO exploit and the uncomfortable truth: every bridge is just an oracle in disguise 📊 42:28 Chronicle's next growth wave: tokenized equities and the redemption gap that could break them ⛓️ 48:15 The counterintuitive one: why even fully onchain-issued funds still can't skip proof of asset",
-      "summary": "Podcast on Chronicle Oracle's security record, tokenized RWA verification (BlackRock BUIDL), and the KelpDAO bridge exploit.",
-      "url": "https://x.com/laurashin/status/2076113059379122620",
-      "type": "original",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 47,
-        "retweets": 3,
-        "replies": 5,
-        "quotes": 2,
-        "views": "5568"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076053932800094449",
-      "is_retweet": true,
-      "original_author": "haydenzadams",
-      "username": "danrobinson",
-      "display_name": "Dan Robinson",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-11T21:20:03+00:00",
-      "text": "RT @haydenzadams: That dex volume is 99.5% @Uniswap https://t.co/43uQAq53TU",
-      "summary": "Notes Uniswap accounts for 99.5% of DEX trading volume, highlighting DeFi exchange market concentration.",
-      "url": "https://x.com/danrobinson/status/2076053932800094449",
-      "type": "retweet",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 41,
-        "replies": 0,
-        "quotes": 0,
-        "views": "459"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076052725427748971",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-11T21:15:15+00:00",
-      "text": "🤯 @vnovakovski thinks decentralized perps get CFTC approval too, not just centralized ones. He is now on the agency's Innovation Advisory Committee helping shape that path. 🎧 https://t.co/cdnOKEIVR1",
-      "summary": "CFTC Innovation Advisory Committee member argues decentralized perps should get same CFTC approval path as centralized ones.",
-      "url": "https://x.com/laurashin/status/2076052725427748971",
-      "type": "original",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 68,
-        "retweets": 4,
-        "replies": 7,
-        "quotes": 2,
-        "views": "14350"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076027802675974532",
-      "is_retweet": true,
-      "original_author": "hexonaut",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-11T19:36:13+00:00",
-      "text": "RT @hexonaut: This is exactly the problem the Stablecoin FX Layer solves. As one of the primary backing assets for the Robinhood Earn vault, Spark will have large amounts of USDG inventory from Spark Savings USDG. Combine this with the 4.5b in USDC, ~400m USDT, 350m PYUSD, people will be able to get in and out of USDG at scale without going through banking system and paying redemptions fees. Unlike market makers, Spark is already holding this inventory for liquidity needs, so the cost of MM is basically zero. Top pairs on Uniswap by volume are already USDS/USDT + USDS/PYUSD. https://t.co/iZibPrjcxC",
-      "summary": "Stablecoin FX Layer using Spark's USDG/USDC/USDT/PYUSD inventory could enable large USDG swaps outside the banking system.",
-      "url": "https://x.com/laurashin/status/2076027802675974532",
-      "type": "retweet",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1794"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076022530335498426",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-11T19:15:16+00:00",
-      "text": "🫰 Since USDG is not as liquid as USDC or USDT, could that hurt users since market makers may charge more to quote against USDG? Here’s what @vnovakovski had to say: https://t.co/XAjqXx6P5O",
-      "summary": "Discussion of whether USDG's lower liquidity vs USDC/USDT could raise market-maker quoting costs for users.",
-      "url": "https://x.com/laurashin/status/2076022530335498426",
-      "type": "original",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 17,
-        "retweets": 1,
-        "replies": 4,
-        "quotes": 2,
-        "views": "10885"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076017680331456536",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-11T18:56:00+00:00",
-      "text": "The Clarity Act is the closest Congress has ever come to real digital asset market structure. Momentum like this will not come around again this decade.",
-      "summary": "Sen. Lummis says the Clarity Act is Congress's closest approach yet to comprehensive digital asset market structure law.",
-      "url": "https://x.com/SenLummis/status/2076017680331456536",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 5992,
-        "retweets": 781,
-        "replies": 331,
-        "quotes": 49,
-        "views": "161932"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2075992264808301018",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-11T17:15:00+00:00",
-      "text": ".@vnovakovski told me the Robinhood Chain deal is '12 years in the making,' tracing back to high school. 🤝 New clip on the 50/50 revenue split and the USDG collateral question. 🎧 https://t.co/yg6zqyGNmr",
-      "summary": "Robinhood Chain deal reportedly includes a 50/50 revenue split and USDG stablecoin as collateral.",
-      "url": "https://x.com/laurashin/status/2075992264808301018",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 14,
-        "retweets": 1,
-        "replies": 7,
-        "quotes": 0,
-        "views": "4498"
       },
       "enriched_by": "claude_code"
     }
