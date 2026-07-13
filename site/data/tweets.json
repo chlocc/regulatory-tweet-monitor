@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-13T09:02:33.601360+00:00",
-  "generated_at_unix": 1783933353,
+  "generated_at": "2026-07-13T12:12:00.103915+00:00",
+  "generated_at_unix": 1783944720,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-12T16:00:00+00:00",
-  "window_end": "2026-07-13T09:02:33.601360+00:00",
-  "new_this_run": 3,
-  "total_recent": 5,
+  "window_end": "2026-07-13T12:12:00.103915+00:00",
+  "new_this_run": 2,
+  "total_recent": 4,
   "errors": [
     {
-      "username": "RoKhanna",
+      "username": "kspaglia",
       "error": "The read operation timed out"
     }
   ],
@@ -17,7 +17,7 @@
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,7 +34,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-12T20:59:00+00:00",
       "text": "Wyoming figured out digital asset policy years before Washington did. The rest of the country deserves that same clarity now to ensure the U.S. is at the helm of financial innovation.",
-      "summary": "Sen. Lummis calls for national digital asset policy clarity modeled on Wyoming's early crypto framework.",
+      "summary": "Sen. Lummis cites Wyoming's early digital asset policy as a model, urging federal regulatory clarity.",
       "url": "https://x.com/SenLummis/status/2076411022215163977",
       "type": "original",
       "categories": [
@@ -60,7 +60,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-12T16:08:23+00:00",
       "text": "RT @CryptoAmerica_: Is replacing Swift the right question? Former SWIFT CIO Tom Zschach says it’s a great line for pitch decks. https://t.co/YgAluzCnKw",
-      "summary": "Former SWIFT CIO comments on whether crypto/blockchain rails replacing SWIFT is the right framing for payments innovation.",
+      "summary": "Former SWIFT CIO downplays crypto rails as a SWIFT replacement, calling it more pitch-deck rhetoric than reality.",
       "url": "https://x.com/EleanorTerrett/status/2076337888745410807",
       "type": "retweet",
       "categories": [
