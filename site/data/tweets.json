@@ -1,23 +1,75 @@
 {
-  "generated_at": "2026-07-13T12:12:00.103915+00:00",
-  "generated_at_unix": 1783944720,
+  "generated_at": "2026-07-13T15:00:05.376991+00:00",
+  "generated_at_unix": 1783954805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-12T16:00:00+00:00",
-  "window_end": "2026-07-13T12:12:00.103915+00:00",
-  "new_this_run": 2,
-  "total_recent": 4,
+  "window_end": "2026-07-13T15:00:05.376991+00:00",
+  "new_this_run": 0,
+  "total_recent": 2,
   "errors": [
     {
-      "username": "kspaglia",
-      "error": "The read operation timed out"
+      "username": "KhurramDara",
+      "error": "<urlopen error [Errno 51] Network is unreachable>"
+    },
+    {
+      "username": "JohnEDeaton1",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JohnReedStark",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "0xlawyoor",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "kakashiii111",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "NYCStein",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "CryptoLawUS",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "HaileyLennonBTC",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "stephendpalley",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "Drew_Morris",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "theblockprof",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JacobRobinsonJD",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "lawtoshi",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "prestonjbyrne",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 1,
+    "successful_this_run": 1,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,7 +86,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-12T20:59:00+00:00",
       "text": "Wyoming figured out digital asset policy years before Washington did. The rest of the country deserves that same clarity now to ensure the U.S. is at the helm of financial innovation.",
-      "summary": "Sen. Lummis cites Wyoming's early digital asset policy as a model, urging federal regulatory clarity.",
+      "summary": "Senator Lummis calls for national digital asset regulatory clarity modeled on Wyoming's crypto policy framework.",
       "url": "https://x.com/SenLummis/status/2076411022215163977",
       "type": "original",
       "categories": [
@@ -48,32 +100,6 @@
         "replies": 101,
         "quotes": 15,
         "views": "82133"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2076337888745410807",
-      "is_retweet": true,
-      "original_author": "CryptoAmerica_",
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-12T16:08:23+00:00",
-      "text": "RT @CryptoAmerica_: Is replacing Swift the right question? Former SWIFT CIO Tom Zschach says it’s a great line for pitch decks. https://t.co/YgAluzCnKw",
-      "summary": "Former SWIFT CIO downplays crypto rails as a SWIFT replacement, calling it more pitch-deck rhetoric than reality.",
-      "url": "https://x.com/EleanorTerrett/status/2076337888745410807",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 10,
-        "replies": 0,
-        "quotes": 0,
-        "views": "8444"
       },
       "enriched_by": "claude_code"
     }
