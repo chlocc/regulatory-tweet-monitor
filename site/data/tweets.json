@@ -1,18 +1,79 @@
 {
-  "generated_at": "2026-07-14T12:00:42.062573+00:00",
-  "generated_at_unix": 1784030442,
+  "generated_at": "2026-07-14T15:00:35.657168+00:00",
+  "generated_at_unix": 1784041235,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-13T16:00:00+00:00",
-  "window_end": "2026-07-14T12:00:42.062573+00:00",
-  "new_this_run": 10,
-  "total_recent": 20,
-  "errors": [],
+  "window_end": "2026-07-14T15:00:35.657168+00:00",
+  "new_this_run": 0,
+  "total_recent": 15,
+  "errors": [
+    {
+      "username": "SGJohnsson",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "KhurramDara",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JohnEDeaton1",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JohnReedStark",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "0xlawyoor",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "kakashiii111",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "NYCStein",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "CryptoLawUS",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "HaileyLennonBTC",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "stephendpalley",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "Drew_Morris",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "theblockprof",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JacobRobinsonJD",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "lawtoshi",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "prestonjbyrne",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 45,
+    "attempted_this_run": 0,
+    "successful_this_run": 0,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,7 +90,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-14T02:23:08+00:00",
       "text": "RT @milesjennings: More lies. Currently, there are NO ethics guardrails on crypto. CLARITY puts new guardrails in place. @SenWarren knows that, but she'll continue to lie about what CLARITY does because she doesn't want it to pass. It's as simple as that.",
-      "summary": "Crypto lawyer defends CLARITY Act as adding ethics guardrails, rebutting Sen. Warren's criticism.",
+      "summary": "Crypto lawyer defends CLARITY Act's new ethics guardrails against Sen. Warren's criticism.",
       "url": "https://x.com/katiebiber/status/2076854982221971587",
       "type": "retweet",
       "categories": [
@@ -55,7 +116,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-14T02:19:30+00:00",
       "text": "RT @SenatorHagerty: America is primed for digital asset leadership. The GENIUS Act has already helped unlock investment and innovation in the stablecoin sector. Now, we have an opportunity to strengthen America’s leadership in digital assets, but only if we pass the CLARITY Act. The time is now, let’s get it done. 🇺🇸",
-      "summary": "Senator touts GENIUS Act's stablecoin impact and urges passage of the CLARITY Act.",
+      "summary": "Sen. Hagerty urges passage of CLARITY Act to build on GENIUS Act's stablecoin market gains.",
       "url": "https://x.com/patrickjwitt/status/2076854066806673768",
       "type": "retweet",
       "categories": [
@@ -81,7 +142,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-14T01:25:42+00:00",
       "text": "No rule can give the CFTC spot authority over digital assets, grant new sanctions authority against adversaries, or protect developers from unwarranted prosecution. Only Congress can. The Clarity Act is the only path that works.",
-      "summary": "Sen. Lummis argues only Congress via the Clarity Act can grant CFTC spot authority and protect developers from prosecution.",
+      "summary": "Sen. Lummis says only Congress via CLARITY Act can grant CFTC spot authority over digital assets.",
       "url": "https://x.com/SenLummis/status/2076840527937356210",
       "type": "quote",
       "categories": [
@@ -107,7 +168,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-14T00:46:14+00:00",
       "text": "RT @LorenzoARK: The Robinhood Chain is the cleanest case study of what happened to ETH's economics over time. Since inception, @RobinhoodApp Chain has grossed ~$816K in revenue. @Arbitrum, the middleware provider, takes 10%: ~$80K. Arbitrum then pays Ethereum for settlement: $1,538. The margin profile roughly: Robinhood: 89% Arbitrum: 10% Ethereum: 0.15% If your thesis is \"ETH is money,\" Robinhood building here is ultra bullish. More activity, more ETH collateral, more lindyness. If your thesis is \"ETH is a revenue generating asset,\" this is the ultra-bear case. And here's the uncomfortable truth: Robinhood was never going to build on Solana, Sui or any monolithic L1. They want the stack customization. They want to be landlords, not renters. Ethereum won this deal on merit. It's just not pricing it right. A healthy split to me looks more like: Robinhood: 75% Arbitrum: 10% Ethereum: 15% Ethereum sells the most valuable settlement layer in crypto at marginal cost. Things need to change. @ethlabs_org",
-      "summary": "Analysis of Robinhood Chain's revenue split with Arbitrum and Ethereum highlights L1/L2 settlement economics debate.",
+      "summary": "Analysis of Robinhood Chain's revenue split with Arbitrum and Ethereum highlights L1 settlement economics.",
       "url": "https://x.com/lex_node/status/2076830596177739870",
       "type": "retweet",
       "categories": [
@@ -133,7 +194,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-13T21:21:40+00:00",
       "text": "RT @_jikim: Significant. @FLEOAORG expressing support for CLARITY and confirming what many of us know--this bill is strong on consumer protection and law enforcement. The time is now to pass CLARITY to ensure the U.S. has these strong guardrails in place.",
-      "summary": "Law enforcement group FLEOA voices support for the CLARITY Act, citing strong consumer protection provisions.",
+      "summary": "Law enforcement association FLEOA voices support for CLARITY Act's consumer protection provisions.",
       "url": "https://x.com/patrickjwitt/status/2076779116301320383",
       "type": "retweet",
       "categories": [
@@ -159,7 +220,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T20:59:54+00:00",
       "text": "RT @milesjennings: More lies. Currently, there are NO ethics guardrails on crypto. CLARITY puts new guardrails in place. @SenWarren knows that, but she'll continue to lie about what CLARITY does because she doesn't want it to pass. It's as simple as that.",
-      "summary": "Crypto lawyer defends CLARITY Act's new ethics guardrails against Sen. Warren's criticism.",
+      "summary": "Crypto policy advocate disputes Sen. Warren's claims, arguing CLARITY Act adds new ethics guardrails currently absent from crypto.",
       "url": "https://x.com/lex_node/status/2076773636015341662",
       "type": "retweet",
       "categories": [
@@ -185,7 +246,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-13T20:59:10+00:00",
       "text": "1/ At its core, the Clarity Act is a consumer protection bill. It would establish clear federal rules designed to protect consumers engaging with digital assets. Here's how it would strengthen consumer protections across the digital asset ecosystem: 🧵",
-      "summary": "Blockchain Association thread frames the Clarity Act as a consumer-protection bill for digital assets.",
+      "summary": "Blockchain Association thread argues the Clarity Act establishes federal consumer protection rules for digital assets.",
       "url": "https://x.com/BlockchainAssn/status/2076773454779420763",
       "type": "original",
       "categories": [
@@ -211,7 +272,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T20:45:21+00:00",
       "text": "RT @rleshner: Thank you to the Federal Law Enforcement Officers Association, who recognize that the Clarity Act is a step forward 💪",
-      "summary": "Federal Law Enforcement Officers Association praised the Clarity Act as a step forward.",
+      "summary": "Federal Law Enforcement Officers Association praised as endorsing the Clarity Act crypto market structure bill.",
       "url": "https://x.com/NYcryptolawyer/status/2076769974983467150",
       "type": "retweet",
       "categories": [
@@ -237,7 +298,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T20:44:54+00:00",
       "text": "RT @SenLummis: Millions of Americans already hold digital assets with no federal framework protecting them. The Clarity Act gives Americans the confidence and security they need to participate in our digital economy.",
-      "summary": "Sen. Lummis says the Clarity Act creates a federal framework to protect digital asset holders.",
+      "summary": "Sen. Lummis says Clarity Act would give Americans a federal framework protecting digital asset holders.",
       "url": "https://x.com/NYcryptolawyer/status/2076769863004049540",
       "type": "retweet",
       "categories": [
@@ -263,7 +324,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-13T19:51:27+00:00",
       "text": "RT @SummerMersinger: Thank you, @FLEOAORG, for engaging on this critical issue and recognizing that the Clarity Act can bring digital asset activity into a clear regulatory framework while preserving the authorities law enforcement needs to pursue illicit actors.",
-      "summary": "CFTC's Mersinger credits law enforcement group for backing Clarity Act's regulatory framework.",
+      "summary": "CFTC's Mersinger thanks FLEOA for backing Clarity Act as a regulatory framework preserving law enforcement authority.",
       "url": "https://x.com/BlockchainAssn/status/2076756411183223208",
       "type": "retweet",
       "categories": [
@@ -289,7 +350,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T19:47:46+00:00",
       "text": "Federal law enforcement doesn't just casually hand out this kind of support. They do it because they know CLARITY will make Americans safer. Thank you @FLEOAORG.",
-      "summary": "Federal law enforcement org FLEOA voices support for CLARITY Act, citing public safety benefits.",
+      "summary": "Federal law enforcement group praised as supporting the CLARITY Act crypto market structure bill.",
       "url": "https://x.com/iampaulgrewal/status/2076755484418408747",
       "type": "quote",
       "categories": [
@@ -315,7 +376,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T19:28:55+00:00",
       "text": "RT @FLEOAORG: FLEOA has submitted a letter to the U.S. Senate Committee on Banking, Housing, and Urban Affairs expressing its support for H.R. 3633, the Digital Asset Market Clarity Act, while offering targeted recommendations to strengthen the legislation and preserve essential federal law enforcement authorities. Read our full press release about this here: https://t.co/K4CHWM9AhY #FLEOA #PressRelease #Legislation",
-      "summary": "FLEOA sent Senate Banking Committee a letter backing H.R. 3633 CLARITY Act with recommended changes.",
+      "summary": "FLEOA sent Senate Banking Committee a letter backing H.R. 3633 CLARITY Act with recommendations to preserve law enforcement authority.",
       "url": "https://x.com/RebeccaRettig1/status/2076750741570515289",
       "type": "retweet",
       "categories": [
@@ -341,7 +402,7 @@
       "group": "Regulators & Government Officials",
       "created_at": "2026-07-13T19:08:10+00:00",
       "text": "Looking forward to joining @NathanBomey at @axios Live at 8:35am tomorrow, where we’ll discuss prediction markets, crypto, and the latest innovations on the new frontier of finance. Tune in here👇🔗 https://t.co/1CNB2we5H8",
-      "summary": "CFTC official previews Axios Live discussion on prediction markets and crypto market innovation.",
+      "summary": "Regulator to discuss prediction markets and crypto innovation in live Axios interview.",
       "url": "https://x.com/ChairmanSelig/status/2076745517879423349",
       "type": "original",
       "categories": [
@@ -367,7 +428,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-13T18:16:40+00:00",
       "text": "America is primed for digital asset leadership. The GENIUS Act has already helped unlock investment and innovation in the stablecoin sector. Now, we have an opportunity to strengthen America’s leadership in digital assets, but only if we pass the CLARITY Act. The time is now, let’s get it done. 🇺🇸",
-      "summary": "Sen. Hagerty says GENIUS Act boosted stablecoins and urges Senate to pass the CLARITY Act next.",
+      "summary": "Senator says GENIUS Act boosted stablecoin investment and urges Senate passage of the CLARITY Act.",
       "url": "https://x.com/SenatorHagerty/status/2076732559820464516",
       "type": "original",
       "categories": [
@@ -393,7 +454,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-13T17:40:37+00:00",
       "text": "GENIUS proved Congress can deliver on crypto. Now the Senate has until the August recess to do it again. The Clarity Act passed the committee with bipartisan support. The framework is ready. The only thing left is a floor vote.",
-      "summary": "Stand With Crypto urges Senate floor vote on Clarity Act before August recess after committee passage.",
+      "summary": "Advocacy group says Clarity Act cleared committee with bipartisan support and awaits Senate floor vote before August recess.",
       "url": "https://x.com/standwithcrypto/status/2076723486332993960",
       "type": "quote",
       "categories": [
