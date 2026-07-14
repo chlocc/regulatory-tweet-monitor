@@ -1,79 +1,27 @@
 {
-  "generated_at": "2026-07-14T15:00:35.657168+00:00",
-  "generated_at_unix": 1784041235,
+  "generated_at": "2026-07-14T18:00:05.762160+00:00",
+  "generated_at_unix": 1784052005,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-13T16:00:00+00:00",
-  "window_end": "2026-07-14T15:00:35.657168+00:00",
-  "new_this_run": 0,
-  "total_recent": 15,
+  "window_end": "2026-07-14T18:00:05.762160+00:00",
+  "new_this_run": 30,
+  "total_recent": 45,
   "errors": [
     {
-      "username": "SGJohnsson",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     },
     {
-      "username": "KhurramDara",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JohnEDeaton1",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JohnReedStark",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "0xlawyoor",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "kakashiii111",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "NYCStein",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "CryptoLawUS",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "HaileyLennonBTC",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "stephendpalley",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "Drew_Morris",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "theblockprof",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JacobRobinsonJD",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "lawtoshi",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "prestonjbyrne",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 0,
-    "successful_this_run": 0,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -81,6 +29,396 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2077089595863474586",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-14T17:55:24+00:00",
+      "text": "CLARITY does the opposite of what anti-tech Dems claim. Under their direction, the SEC refused to create rules and that led to the worst frauds and scams in the industry's history. Now, they're trying to stop CLARITY—leaving consumers exposed for their own political gain.",
+      "summary": "Crypto policy advocate defends CLARITY Act as needed market-structure rulemaking against Democratic opposition.",
+      "url": "https://x.com/milesjennings/status/2077089595863474586",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": "315"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077086777433805225",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-14T17:44:12+00:00",
+      "text": "Moderate democrats shouldn't fear @SenWarren's “anti-crypto army”. Why? Because it does not exist. Pass CLARITY. https://t.co/JMiQrMt2r1",
+      "summary": "Crypto policy advocate argues Warren's 'anti-crypto army' is overstated, urges Congress to pass the CLARITY Act.",
+      "url": "https://x.com/milesjennings/status/2077086777433805225",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 1,
+        "views": "262"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077086149403677141",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T17:41:43+00:00",
+      "text": "\"The average token holder does not really have the context or the knowledge to make effectice decisions on frontier protocols,\" @DrNickA says predicting DAO governance will shift towards expertise with specialized substructures https://t.co/hTPZWV3aAJ",
+      "summary": "Analyst predicts DAO governance will shift from broad token-holder voting toward specialized expert substructures.",
+      "url": "https://x.com/laurashin/status/2077086149403677141",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1116"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077085182192922648",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T17:37:52+00:00",
+      "text": "\"I think we pick up a lot of bad governance based on bad token distributions,\" @DrNickA on DAO struggles https://t.co/GvMJQa5fk6",
+      "summary": "Analyst says poor initial token distributions are a root cause of recurring DAO governance failures.",
+      "url": "https://x.com/laurashin/status/2077085182192922648",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1243"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077084325388972124",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T17:34:28+00:00",
+      "text": "\"Good idea, but where those tokens go to, if you randomly distribute them again, you can end up back at the same problems,\" @DrNickA on Alex Van De Sande's proposal to redelegate 5 million ENS tokens to reform the DAO https://t.co/hTPZWV3aAJ",
+      "summary": "Analyst critiques ENS proposal to redelegate 5M tokens, warning redistribution could recreate the same governance problems.",
+      "url": "https://x.com/laurashin/status/2077084325388972124",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1176"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077080660838359495",
+      "is_retweet": true,
+      "original_author": "lordvolth",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-14T17:19:54+00:00",
+      "text": "RT @lordvolth: We often hear that TradFi is \"skeptical\" of blockchains and DeFi... in reality it's just discipline. These institutions aren't waiting to believe in the tech. They're just telling us a COGS story. @cc_crowley and I talk about the near-term vs. long-term opportunity in programmable financial infrastructure 👇 Capital Markets players are adopting exactly the primitives that improve unit economics: atomic settlement, programmable money, tokenized collateral. Decentralization, the part with no line item, maybe gets left behind? CLARITY would be a real step toward the \"elegant convergence\" everyone predicts. But there's a long window where the short game and the long game both matter. Not competing bets, but parallel ones. Near-term, builders can help institutions adopt the primitives that move more capital onchain. Long-term, an open system continues to evolve and push the innovations that may eventually subsume the old system. @a16zcrypto https://t.co/do9dblLknZ",
+      "summary": "TradFi adopts DeFi primitives (atomic settlement, tokenized collateral); CLARITY Act seen as step toward crypto-TradFi convergence.",
+      "url": "https://x.com/milesjennings/status/2077080660838359495",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "143"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077077630575329636",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T17:07:52+00:00",
+      "text": "\"The stablecoin requirements under Genius conflict with the requirements under MiCA, which is candidly nonsensical considering the whole point of crypto and stablecoins\" Katherine on the contradiction between Genius and MiCA that's frustrating global crypto companies \"The big difference here is they want to cover tokenized assets more generally, but they also want to cover stablecoins issued by non-EU stablecoin issuers. One source of frustration for anyone that works at a global crypto company is that the stablecoin requirements under Genius conflict with the requirements under MiCA\" \"You have a slew of stablecoin issuers with either a single issuance model, I believe Circle has single issuance, versus a multi-issuance model like MoonPay, which has multiple entities in different jurisdictions issuing different stables. What MiCA is now saying is, sorry US and non-EU stablecoin issuers, you have to get in line, you're going to have comparable standards to the EU issuers\" \"Everyone has a few months, till September I think, to provide input. So we won't see proposed regulatory revisions for at least a year probably. But what's happening in my mind is that Europe is kind of freaking out in response to the growth of tokenization and stables, and they're figuring out how to fix this\"",
+      "summary": "GENIUS Act and EU MiCA stablecoin rules conflict, forcing non-EU issuers (Circle, MoonPay) toward EU-comparable standards.",
+      "url": "https://x.com/laurashin/status/2077077630575329636",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "3344"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077075676545290326",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T17:00:06+00:00",
+      "text": "🚨 Up next at 1 PM ET 🚨 One founder controls half of ENS's votes. An attacker spent $4M to legally steal $20M from BonkDAO. DAOs are dissolving back into companies. I ask @DrNickA of Jito and @metaproph3t of MetaDAO: is onchain governance broken, or growing up? DON'T MISS IT! Tune in 🎧 https://t.co/rs1kvC9ek3",
+      "summary": "Podcast previews debate on DAO governance flaws after $4M exploit let an attacker legally seize $20M from BonkDAO.",
+      "url": "https://x.com/laurashin/status/2077075676545290326",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "1526"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077072756869304586",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T16:48:30+00:00",
+      "text": "⚖️ Vy Le's reminder: the removal ruling cuts both ways. \"A decision that gives a pro-crypto administration more influence over the SEC and CFTC would give exactly the same authority to a future administration with very different policy priorities.\" DEX in the City is live now: https://t.co/rs1kvC9ek3",
+      "summary": "Lawyer warns SCOTUS removal-power ruling giving pro-crypto admins more SEC/CFTC control could later favor hostile administrations.",
+      "url": "https://x.com/laurashin/status/2077072756869304586",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1791"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077071204918407243",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T16:42:20+00:00",
+      "text": "🔥 Jessi Brooks on the SCOTUS removal-power ruling: \"This case really makes my blood boil.\" Her real worry: \"who are you afraid of?\" A commissioner with a fixed term \"is going to be afraid of the law and the record and doing the right thing.\" One who can be fired tomorrow? Different story. https://t.co/rs1kvC9M9B",
+      "summary": "Attorney argues SCOTUS removal-power ruling undermines SEC/CFTC commissioner independence by making them fireable at will.",
+      "url": "https://x.com/laurashin/status/2077071204918407243",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1598"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077066427912057074",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T16:23:21+00:00",
+      "text": "👀 The UK's new crypto rulebook treats crypto like TradFi. Katherine Kirkpatrick Bos: \"This regime is no joke... this will be very hard on smaller firms.\" The question she can't answer yet — is compliance even worth it to keep your UK customers? https://t.co/dtnjCjAVCp",
+      "summary": "UK's new crypto rulebook applies TradFi-style regulation, raising compliance burden concerns for smaller firms.",
+      "url": "https://x.com/laurashin/status/2077066427912057074",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "1656"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077056143835218006",
+      "is_retweet": true,
+      "original_author": "zerohedge",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T15:42:29+00:00",
+      "text": "RT @zerohedge: *WARSH: FED IS RACING TO PUT OUT GENIUS ACT RULES BY SATURDAY",
+      "summary": "Report that the Fed is rushing to finalize GENIUS Act stablecoin rules by Saturday.",
+      "url": "https://x.com/EleanorTerrett/status/2077056143835218006",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 104,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8004"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2077049829885112786",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-14T15:17:23+00:00",
+      "text": "Why are stablecoins a breakthrough in payments? @joshualipsky asked a great question on where are stablecoins in the cross-border payments conversation. Here's an excerpt of our conversation at @pointzeroforum.",
+      "summary": "Discussion of stablecoins as a breakthrough for cross-border payments infrastructure.",
+      "url": "https://x.com/ddisparte/status/2077049829885112786",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1019"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076902484950548887",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T05:31:54+00:00",
+      "text": "It’s actually pretty cool that MetaDAO keeps iterating. This raise seems pretty decent. Sure there’s previous investors but there’s no unlocks for a year, and in a year it should be clear whether they are successful (at which point it’s sustainable) or going to zero. Way better than the Ranger terms that instantly PvPed prior investors against ICO participants via instant unlock dilution. The business as is likely has some residual value vs it being a pure gamble. Even if there’s no 100x outcome (unlikely given payments is very winner takes all), there’s pretty decent exit potential by selling to a larger player, which is nice. Most interesting bit would be how an exit might happen. Acquisition of payment customer lists often have earn-outs attached or might be equity roll ups, which adds complication to a non-moonshot exit. The existence of a public market valuation also affects any M&A activity but presumably a “take-private” proposal could happen. One thing I remain somewhat unsure about on all MetaDAO raises is, ironically, how the project team is making money. PTSD from being founder rug pulled seems to result in retail investors loving when the project team itself has very restricted economics but Id rather the team be more economically aligned. Selling 75% of the economics at this point, with the remainder being locked behind aggressive price targets seems a bit much, given most Series A rounds only give up 30%ish. I also think futarchy really isn’t a thing for early stage projects and MetaDAO might end up just making them governance tokens with a futarchy conversion only after a project hits hard escape velocity. Might ape this one to see what happens tbh. I wonder what’s the mechanism for selling to VCs, a holdback of some ICO tokens?",
+      "summary": "Analysis of MetaDAO's token/equity capital structure, unlock terms, and futarchy governance model.",
+      "url": "https://x.com/wassielawyer/status/2076902484950548887",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "4480"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2076860203807449178",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T02:43:53+00:00",
+      "text": "🚨SCOOP: Top White House Crypto Adviser to Take Military Leave as Clarity Act Enters Critical Stretch Crypto Council Executive Director @patrickjwitt will embark on a months-long leave later this month to begin Army National Guard JAG training. https://t.co/EqjgUaLS0O",
+      "summary": "Crypto Council exec director to take military leave as Clarity Act legislative push intensifies.",
+      "url": "https://x.com/EleanorTerrett/status/2076860203807449178",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1047,
+        "retweets": 177,
+        "replies": 104,
+        "quotes": 37,
+        "views": "227749"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2076854982221971587",
       "is_retweet": true,
@@ -90,7 +428,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-14T02:23:08+00:00",
       "text": "RT @milesjennings: More lies. Currently, there are NO ethics guardrails on crypto. CLARITY puts new guardrails in place. @SenWarren knows that, but she'll continue to lie about what CLARITY does because she doesn't want it to pass. It's as simple as that.",
-      "summary": "Crypto lawyer defends CLARITY Act's new ethics guardrails against Sen. Warren's criticism.",
+      "summary": "Crypto lawyer defends CLARITY Act's ethics guardrails against Sen. Warren's criticism.",
       "url": "https://x.com/katiebiber/status/2076854982221971587",
       "type": "retweet",
       "categories": [
@@ -116,7 +454,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-14T02:19:30+00:00",
       "text": "RT @SenatorHagerty: America is primed for digital asset leadership. The GENIUS Act has already helped unlock investment and innovation in the stablecoin sector. Now, we have an opportunity to strengthen America’s leadership in digital assets, but only if we pass the CLARITY Act. The time is now, let’s get it done. 🇺🇸",
-      "summary": "Sen. Hagerty urges passage of CLARITY Act to build on GENIUS Act's stablecoin market gains.",
+      "summary": "Senator touts GENIUS Act stablecoin gains and urges passage of the CLARITY Act.",
       "url": "https://x.com/patrickjwitt/status/2076854066806673768",
       "type": "retweet",
       "categories": [
@@ -142,7 +480,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-14T01:25:42+00:00",
       "text": "No rule can give the CFTC spot authority over digital assets, grant new sanctions authority against adversaries, or protect developers from unwarranted prosecution. Only Congress can. The Clarity Act is the only path that works.",
-      "summary": "Sen. Lummis says only Congress via CLARITY Act can grant CFTC spot authority over digital assets.",
+      "summary": "Sen. Lummis argues only Congress via the Clarity Act can grant CFTC spot authority over digital assets.",
       "url": "https://x.com/SenLummis/status/2076840527937356210",
       "type": "quote",
       "categories": [
@@ -168,7 +506,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-14T00:46:14+00:00",
       "text": "RT @LorenzoARK: The Robinhood Chain is the cleanest case study of what happened to ETH's economics over time. Since inception, @RobinhoodApp Chain has grossed ~$816K in revenue. @Arbitrum, the middleware provider, takes 10%: ~$80K. Arbitrum then pays Ethereum for settlement: $1,538. The margin profile roughly: Robinhood: 89% Arbitrum: 10% Ethereum: 0.15% If your thesis is \"ETH is money,\" Robinhood building here is ultra bullish. More activity, more ETH collateral, more lindyness. If your thesis is \"ETH is a revenue generating asset,\" this is the ultra-bear case. And here's the uncomfortable truth: Robinhood was never going to build on Solana, Sui or any monolithic L1. They want the stack customization. They want to be landlords, not renters. Ethereum won this deal on merit. It's just not pricing it right. A healthy split to me looks more like: Robinhood: 75% Arbitrum: 10% Ethereum: 15% Ethereum sells the most valuable settlement layer in crypto at marginal cost. Things need to change. @ethlabs_org",
-      "summary": "Analysis of Robinhood Chain's revenue split with Arbitrum and Ethereum highlights L1 settlement economics.",
+      "summary": "Analysis of Robinhood's Arbitrum-based chain deal and revenue split implications for Ethereum's economics.",
       "url": "https://x.com/lex_node/status/2076830596177739870",
       "type": "retweet",
       "categories": [
@@ -194,7 +532,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-13T21:21:40+00:00",
       "text": "RT @_jikim: Significant. @FLEOAORG expressing support for CLARITY and confirming what many of us know--this bill is strong on consumer protection and law enforcement. The time is now to pass CLARITY to ensure the U.S. has these strong guardrails in place.",
-      "summary": "Law enforcement association FLEOA voices support for CLARITY Act's consumer protection provisions.",
+      "summary": "Federal law enforcement association (FLEOA) voices support for CLARITY Act's consumer protection provisions.",
       "url": "https://x.com/patrickjwitt/status/2076779116301320383",
       "type": "retweet",
       "categories": [
@@ -220,7 +558,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T20:59:54+00:00",
       "text": "RT @milesjennings: More lies. Currently, there are NO ethics guardrails on crypto. CLARITY puts new guardrails in place. @SenWarren knows that, but she'll continue to lie about what CLARITY does because she doesn't want it to pass. It's as simple as that.",
-      "summary": "Crypto policy advocate disputes Sen. Warren's claims, arguing CLARITY Act adds new ethics guardrails currently absent from crypto.",
+      "summary": "Crypto policy figure disputes Sen. Warren's criticism, says CLARITY Act adds new ethics guardrails.",
       "url": "https://x.com/lex_node/status/2076773636015341662",
       "type": "retweet",
       "categories": [
@@ -246,7 +584,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-13T20:59:10+00:00",
       "text": "1/ At its core, the Clarity Act is a consumer protection bill. It would establish clear federal rules designed to protect consumers engaging with digital assets. Here's how it would strengthen consumer protections across the digital asset ecosystem: 🧵",
-      "summary": "Blockchain Association thread argues the Clarity Act establishes federal consumer protection rules for digital assets.",
+      "summary": "Blockchain Association thread argues Clarity Act establishes federal consumer protection rules for digital assets.",
       "url": "https://x.com/BlockchainAssn/status/2076773454779420763",
       "type": "original",
       "categories": [
@@ -272,7 +610,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T20:45:21+00:00",
       "text": "RT @rleshner: Thank you to the Federal Law Enforcement Officers Association, who recognize that the Clarity Act is a step forward 💪",
-      "summary": "Federal Law Enforcement Officers Association praised as endorsing the Clarity Act crypto market structure bill.",
+      "summary": "Crypto executive thanks FLEOA for backing the Clarity Act as a step forward.",
       "url": "https://x.com/NYcryptolawyer/status/2076769974983467150",
       "type": "retweet",
       "categories": [
@@ -298,7 +636,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T20:44:54+00:00",
       "text": "RT @SenLummis: Millions of Americans already hold digital assets with no federal framework protecting them. The Clarity Act gives Americans the confidence and security they need to participate in our digital economy.",
-      "summary": "Sen. Lummis says Clarity Act would give Americans a federal framework protecting digital asset holders.",
+      "summary": "Sen. Lummis says Clarity Act would give Americans a federal framework for holding digital assets.",
       "url": "https://x.com/NYcryptolawyer/status/2076769863004049540",
       "type": "retweet",
       "categories": [
@@ -324,7 +662,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-13T19:51:27+00:00",
       "text": "RT @SummerMersinger: Thank you, @FLEOAORG, for engaging on this critical issue and recognizing that the Clarity Act can bring digital asset activity into a clear regulatory framework while preserving the authorities law enforcement needs to pursue illicit actors.",
-      "summary": "CFTC's Mersinger thanks FLEOA for backing Clarity Act as a regulatory framework preserving law enforcement authority.",
+      "summary": "Blockchain trade group thanks federal law enforcement org for supporting Clarity Act digital asset framework.",
       "url": "https://x.com/BlockchainAssn/status/2076756411183223208",
       "type": "retweet",
       "categories": [
@@ -350,7 +688,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T19:47:46+00:00",
       "text": "Federal law enforcement doesn't just casually hand out this kind of support. They do it because they know CLARITY will make Americans safer. Thank you @FLEOAORG.",
-      "summary": "Federal law enforcement group praised as supporting the CLARITY Act crypto market structure bill.",
+      "summary": "Lawyer cites federal law enforcement group's endorsement of CLARITY Act as evidence it improves safety.",
       "url": "https://x.com/iampaulgrewal/status/2076755484418408747",
       "type": "quote",
       "categories": [
@@ -368,6 +706,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2076750982097358922",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-13T19:29:52+00:00",
+      "text": "More lies. Currently, there are NO ethics guardrails on crypto. CLARITY puts new guardrails in place. @SenWarren knows that, but she'll continue to lie about what CLARITY does because she doesn't want it to pass. It's as simple as that.",
+      "summary": "Policy figure disputes Sen. Warren, claims CLARITY Act adds new crypto ethics guardrails currently absent.",
+      "url": "https://x.com/milesjennings/status/2076750982097358922",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 898,
+        "retweets": 131,
+        "replies": 60,
+        "quotes": 4,
+        "views": "65405"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2076750741570515289",
       "is_retweet": true,
       "original_author": "FLEOAORG",
@@ -376,7 +740,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-13T19:28:55+00:00",
       "text": "RT @FLEOAORG: FLEOA has submitted a letter to the U.S. Senate Committee on Banking, Housing, and Urban Affairs expressing its support for H.R. 3633, the Digital Asset Market Clarity Act, while offering targeted recommendations to strengthen the legislation and preserve essential federal law enforcement authorities. Read our full press release about this here: https://t.co/K4CHWM9AhY #FLEOA #PressRelease #Legislation",
-      "summary": "FLEOA sent Senate Banking Committee a letter backing H.R. 3633 CLARITY Act with recommendations to preserve law enforcement authority.",
+      "summary": "FLEOA sends Senate Banking Committee letter backing H.R. 3633 Clarity Act with recommendations to preserve law enforcement authority.",
       "url": "https://x.com/RebeccaRettig1/status/2076750741570515289",
       "type": "retweet",
       "categories": [
@@ -394,6 +758,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2076746778787934520",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-13T19:13:10+00:00",
+      "text": "RT @circle: “You don’t send a cross-border email. You message someone you trust.” @ddisparte explains how stablecoins combine the payment instruction and settlement asset, enabling value to settle when it is sent. Real-time global settlement, by design. https://t.co/qfjzasrbdM",
+      "summary": "Circle exec explains stablecoins combine payment instruction and settlement asset for real-time cross-border settlement.",
+      "url": "https://x.com/ddisparte/status/2076746778787934520",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 39,
+        "replies": 0,
+        "quotes": 0,
+        "views": "87"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2076745517879423349",
       "is_retweet": false,
       "original_author": null,
@@ -402,7 +792,7 @@
       "group": "Regulators & Government Officials",
       "created_at": "2026-07-13T19:08:10+00:00",
       "text": "Looking forward to joining @NathanBomey at @axios Live at 8:35am tomorrow, where we’ll discuss prediction markets, crypto, and the latest innovations on the new frontier of finance. Tune in here👇🔗 https://t.co/1CNB2we5H8",
-      "summary": "Regulator to discuss prediction markets and crypto innovation in live Axios interview.",
+      "summary": "CFTC Chairman Selig to discuss prediction markets and crypto regulation on Axios Live.",
       "url": "https://x.com/ChairmanSelig/status/2076745517879423349",
       "type": "original",
       "categories": [
@@ -420,6 +810,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2076740070992945422",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-13T18:46:31+00:00",
+      "text": "RT @a16zcrypto: “It feels like the world is going to forget that pre-stablecoins was even a thing.” Stablecoins are already moving hundreds of billions of dollars through the financial system. @PrimordialAA of @LayerZero_Core says demand is only accelerating. https://t.co/ByfvDxdYxd",
+      "summary": "a16z highlights stablecoins now moving hundreds of billions through the financial system.",
+      "url": "https://x.com/milesjennings/status/2076740070992945422",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 78,
+        "replies": 0,
+        "quotes": 0,
+        "views": "153"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2076732559820464516",
       "is_retweet": false,
       "original_author": null,
@@ -428,7 +844,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-13T18:16:40+00:00",
       "text": "America is primed for digital asset leadership. The GENIUS Act has already helped unlock investment and innovation in the stablecoin sector. Now, we have an opportunity to strengthen America’s leadership in digital assets, but only if we pass the CLARITY Act. The time is now, let’s get it done. 🇺🇸",
-      "summary": "Senator says GENIUS Act boosted stablecoin investment and urges Senate passage of the CLARITY Act.",
+      "summary": "Sen. Hagerty urges Senate to pass CLARITY Act after GENIUS Act's stablecoin progress.",
       "url": "https://x.com/SenatorHagerty/status/2076732559820464516",
       "type": "original",
       "categories": [
@@ -454,7 +870,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-13T17:40:37+00:00",
       "text": "GENIUS proved Congress can deliver on crypto. Now the Senate has until the August recess to do it again. The Clarity Act passed the committee with bipartisan support. The framework is ready. The only thing left is a floor vote.",
-      "summary": "Advocacy group says Clarity Act cleared committee with bipartisan support and awaits Senate floor vote before August recess.",
+      "summary": "Stand With Crypto urges Senate floor vote on Clarity Act before August recess.",
       "url": "https://x.com/standwithcrypto/status/2076723486332993960",
       "type": "quote",
       "categories": [
