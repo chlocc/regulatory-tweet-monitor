@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-15T09:04:51.032107+00:00",
-  "generated_at_unix": 1784106291,
+  "generated_at": "2026-07-15T12:08:58.474899+00:00",
+  "generated_at_unix": 1784117338,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-14T16:00:00+00:00",
-  "window_end": "2026-07-15T09:04:51.032107+00:00",
-  "new_this_run": 8,
-  "total_recent": 26,
+  "window_end": "2026-07-15T12:08:58.474899+00:00",
+  "new_this_run": 7,
+  "total_recent": 33,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2077319980232638642",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T09:10:52+00:00",
+      "text": "polynya's back, we're so back..ETH. https://t.co/0clH49zTus",
+      "summary": "polynya's back, we're so back..ETH. https://t.co/0clH49zTus",
+      "url": "https://x.com/lex_node/status/2077319980232638642",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 126,
+        "retweets": 3,
+        "replies": 11,
+        "quotes": 3,
+        "views": "8121"
+      }
+    },
     {
       "id": "2077214733644505582",
       "is_retweet": false,
@@ -43,6 +68,56 @@
         "replies": 69,
         "quotes": 6,
         "views": "48055"
+      }
+    },
+    {
+      "id": "2077184023776903433",
+      "is_retweet": true,
+      "original_author": "llamaonthebrink",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T00:10:38+00:00",
+      "text": "RT @llamaonthebrink: &gt;head of X product drops “solana advisor” from bio &gt;CT magically reunited from a single algo tweak &gt;everyone returns to their roots Don’t need a tinfoil hat to connect these dots 🤷 https://t.co/80C4Gq32UZ",
+      "summary": "RT @llamaonthebrink: &gt;head of X product drops “solana advisor” from bio &gt;CT magically reunited from a single algo tweak &gt;everyone returns to…",
+      "url": "https://x.com/lex_node/status/2077184023776903433",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": "728"
+      }
+    },
+    {
+      "id": "2077177027946229876",
+      "is_retweet": true,
+      "original_author": "tjbate2000",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T23:42:50+00:00",
+      "text": "RT @tjbate2000: Agreed. The most under-appreciated thing about Ethereum surge/congestion pricing (currently not active) is that just when TradFi REALLY needs to trade tokenised RWAs on L2s in size, ETH fees suddenly go up...a lot. And ETH goes deflationary/SOV. L2 'governance' tokens will get squeezed badly at peak times, as if they ever intended to accrue any value (what's that?)",
+      "summary": "RT @tjbate2000: Agreed. The most under-appreciated thing about Ethereum surge/congestion pricing (currently not active) is that just when TradFi…",
+      "url": "https://x.com/lex_node/status/2077177027946229876",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "782"
       }
     },
     {
@@ -96,6 +171,56 @@
       }
     },
     {
+      "id": "2077153322251755752",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T22:08:38+00:00",
+      "text": "As L2 tech teams compete for enterprise/institutional business, every L2 tokenholder will get rugged and all value will accrue back to ETH. There is no value accrual story for tokens like ZK, OP, etc., anywhere sufficient to give them meaningful value. Those labs teams are going to need almost all of the revenue just to survive, especially since they are all competing with each other fiercely so will have thin margins.",
+      "summary": "As L2 tech teams compete for enterprise/institutional business, every L2 tokenholder will get rugged and all value will accrue back to ETH. There is…",
+      "url": "https://x.com/lex_node/status/2077153322251755752",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 49,
+        "retweets": 5,
+        "replies": 10,
+        "quotes": 2,
+        "views": "5634"
+      }
+    },
+    {
+      "id": "2077148722312470575",
+      "is_retweet": true,
+      "original_author": "MelissaReddy_",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T21:50:21+00:00",
+      "text": "RT @MelissaReddy_: Folarin Balogun on Donald Trump’s intervention in getting his World Cup ban suspended on @CBSMornings: “I knew it was gonna cause a lot of controversy. I could almost see within my teammates a bit of nerves… I tried to just focus as best as I could, but it was difficult with a lot of outside noise”",
+      "summary": "RT @MelissaReddy_: Folarin Balogun on Donald Trump’s intervention in getting his World Cup ban suspended on @CBSMornings: “I knew it was gonna cause…",
+      "url": "https://x.com/MinarikLaw/status/2077148722312470575",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 617,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9"
+      }
+    },
+    {
       "id": "2077145899550007724",
       "is_retweet": true,
       "original_author": "JacobRobinsonJD",
@@ -146,6 +271,31 @@
       }
     },
     {
+      "id": "2077134341407199503",
+      "is_retweet": true,
+      "original_author": "MattFiebach",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T20:53:12+00:00",
+      "text": "RT @MattFiebach: The entirety of whats left of cypherpunk CT appears to be @colludingnode @donnoh_eth @VitalikButerin and @lex_node",
+      "summary": "RT @MattFiebach: The entirety of whats left of cypherpunk CT appears to be @colludingnode @donnoh_eth @VitalikButerin and @lex_node",
+      "url": "https://x.com/lex_node/status/2077134341407199503",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "854"
+      }
+    },
+    {
       "id": "2077122474165039234",
       "is_retweet": true,
       "original_author": "MarcoFoster_",
@@ -168,6 +318,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1379"
+      }
+    },
+    {
+      "id": "2077109838325129472",
+      "is_retweet": true,
+      "original_author": "coinbase",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T19:15:50+00:00",
+      "text": "RT @coinbase: @materkel believe in somETHing",
+      "summary": "RT @coinbase: @materkel believe in somETHing",
+      "url": "https://x.com/lex_node/status/2077109838325129472",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 158,
+        "replies": 0,
+        "quotes": 0,
+        "views": "667"
       }
     },
     {
