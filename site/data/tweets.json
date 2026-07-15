@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-15T06:13:54.558834+00:00",
-  "generated_at_unix": 1784096034,
+  "generated_at": "2026-07-15T09:04:51.032107+00:00",
+  "generated_at_unix": 1784106291,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-14T16:00:00+00:00",
-  "window_end": "2026-07-15T06:13:54.558834+00:00",
-  "new_this_run": 7,
-  "total_recent": 18,
+  "window_end": "2026-07-15T09:04:51.032107+00:00",
+  "new_this_run": 8,
+  "total_recent": 26,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -43,6 +43,131 @@
         "replies": 69,
         "quotes": 6,
         "views": "48055"
+      }
+    },
+    {
+      "id": "2077171966063042564",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-14T23:22:43+00:00",
+      "text": "The central issue my trip and the polarized reaction to it has raised is, should an American politician be able to go to the occupied West Bank and see it from a Palestinian perspective? I had been to Israel three times. I wanted to get the Palestinian perspective. https://t.co/zy444e54UO",
+      "summary": "The central issue my trip and the polarized reaction to it has raised is, should an American politician be able to go to the occupied West Bank and…",
+      "url": "https://x.com/RoKhanna/status/2077171966063042564",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2145,
+        "retweets": 342,
+        "replies": 506,
+        "quotes": 24,
+        "views": "74023"
+      }
+    },
+    {
+      "id": "2077159817039286477",
+      "is_retweet": true,
+      "original_author": "millercwl",
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-14T22:34:26+00:00",
+      "text": "RT @millercwl: @defenddevspac launched today is doing one thing: supporting lawmakers and candidates that support developers. Thanks to @glzavatone for creating this much-needed organization and to @berniemoreno for championing the BRCA, the Blockchain Regulatory Certainty Act! https://t.co/CEPCAyFE21",
+      "summary": "RT @millercwl: @defenddevspac launched today is doing one thing: supporting lawmakers and candidates that support developers. Thanks to @glzavatone…",
+      "url": "https://x.com/amandatums/status/2077159817039286477",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "38"
+      }
+    },
+    {
+      "id": "2077145899550007724",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-14T21:39:08+00:00",
+      "text": "RT @JacobRobinsonJD: Should code ever lose First Amendment protections? This podcast covers free speech and software, including cryptography, cryptocurrency and AI. It should be the internet's most comprehensive. You'll hear from experts like @valkenburgh, @prestonjbyrne, @LazPieper, Sam Enzer, and Professors Eugene Volokh (@VolokhC) and @JaneYakowitz. We trace the history of Cold War export controls through to the recent restrictions on Anthropic's AI models, and explain why the Supreme Court has never definitively answered the question above. Timestamps: 0:00 Anthropic AI export controls 6:17 Intro 9:39 The First Amendment 10:38 @VolokhC on his free speech philosophy 13:42 Speech vs function 19:24 @valkenburgh interview 25:50 The Cold War, munitions list and Phil Zimmermann 29:57 The Bernstein case 34:53 Strict scrutiny 38:48 The Corley case 49:17 Sorrell, Stevens and where the Supreme Court is heading 53:25 @prestonjbyrne on the Supreme Court's AI case 57:23 Defense Distributed and 3D-printing 1:04:00 Where publication ends and conduct begins 1:15:20 Lowe v. SEC and the agency line 1:45:45 Compelled speech 2:04:17 @LazPieper on Sorrell and third-party liability 2:11:29 @prestonjbyrne on the GRANITE Act and foreign censorship Thank you to the presenting sponsor of this episode, @altitude. Nothing in this podcast is legal or investment advice.",
+      "summary": "RT @JacobRobinsonJD: Should code ever lose First Amendment protections? This podcast covers free speech and software, including cryptography,…",
+      "url": "https://x.com/NeerajKA/status/2077145899550007724",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "424"
+      }
+    },
+    {
+      "id": "2077137714726551854",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-14T21:06:37+00:00",
+      "text": "Today, at the Maryland Blockchain Association Summer Conference, our Executive Director @masonlynaugh joined U.S @Sen_Alsobrooks and Maryland Blockchain Association founder Jacqueline Cooper for a discussion about the intergenerational need for crypto policy and the path forward for the Clarity Act. Clear rules for digital assets mean more opportunity for the 45K+ Maryland SWC Advocates and for the over 52M Americans who own crypto.",
+      "summary": "Today, at the Maryland Blockchain Association Summer Conference, our Executive Director @masonlynaugh joined U.S @Sen_Alsobrooks and Maryland…",
+      "url": "https://x.com/standwithcrypto/status/2077137714726551854",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 37,
+        "retweets": 14,
+        "replies": 1,
+        "quotes": 1,
+        "views": "2294"
+      }
+    },
+    {
+      "id": "2077122474165039234",
+      "is_retweet": true,
+      "original_author": "MarcoFoster_",
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-14T20:06:03+00:00",
+      "text": "RT @MarcoFoster_: Ro Khanna: “They’re just lying. I guess the people who lied about the genocide are going to lie about the detainment of Americans. Israel needs to be treated like an occupying power that is engaged in apartheid in the West Bank and has committed a genocide. Those are just the facts on the ground”",
+      "summary": "RT @MarcoFoster_: Ro Khanna: “They’re just lying. I guess the people who lied about the genocide are going to lie about the detainment of Americans.…",
+      "url": "https://x.com/RoKhanna/status/2077122474165039234",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 629,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1379"
       }
     },
     {
@@ -196,6 +321,56 @@
       }
     },
     {
+      "id": "2077084317403041977",
+      "is_retweet": true,
+      "original_author": "Ripple",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-14T17:34:26+00:00",
+      "text": "RT @Ripple: The Clarity truck is back in DC! Keep an eye out today and tomorrow👀 https://t.co/M7Q0wnCdTh",
+      "summary": "RT @Ripple: The Clarity truck is back in DC! Keep an eye out today and tomorrow👀 https://t.co/M7Q0wnCdTh",
+      "url": "https://x.com/BlockchainAssn/status/2077084317403041977",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 812,
+        "replies": 0,
+        "quotes": 0,
+        "views": "396"
+      }
+    },
+    {
+      "id": "2077083666149212576",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-14T17:31:51+00:00",
+      "text": "Few people have done more for our industry than @PatrickJWitt. Every time Clarity hit a wall, he found a way through. Thank you for championing digital assets in Washington — and best of luck in your next chapter of service. Now, let's finish the job and pass Clarity!",
+      "summary": "Few people have done more for our industry than @PatrickJWitt. Every time Clarity hit a wall, he found a way through. Thank you for championing…",
+      "url": "https://x.com/KristinSmith/status/2077083666149212576",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 56,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2864"
+      }
+    },
+    {
       "id": "2077081381683728874",
       "is_retweet": true,
       "original_author": "StateDept",
@@ -318,6 +493,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "9235"
+      }
+    },
+    {
+      "id": "2077076498092015764",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-14T17:03:22+00:00",
+      "text": "We’re on the Hill every day this week pushing for Clarity. Today, @SummerMersinger and @LindsayFraser0 joined @Multicoin’s @xethalis and @Coinbase’s @RobinRCook in the Senate to brief staff on the Clarity Act as we approach a floor vote. It’s time for Clarity. 🇺🇸 https://t.co/J3hILYrN4E",
+      "summary": "We’re on the Hill every day this week pushing for Clarity. Today, @SummerMersinger and @LindsayFraser0 joined @Multicoin’s @xethalis and @Coinbase’s…",
+      "url": "https://x.com/BlockchainAssn/status/2077076498092015764",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 34,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2249"
       }
     },
     {
