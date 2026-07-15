@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-15T15:00:05.349795+00:00",
-  "generated_at_unix": 1784127605,
+  "generated_at": "2026-07-15T18:00:05.278029+00:00",
+  "generated_at_unix": 1784138405,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-14T16:00:00+00:00",
-  "window_end": "2026-07-15T15:00:05.349795+00:00",
-  "new_this_run": 21,
-  "total_recent": 54,
-  "errors": [],
+  "window_end": "2026-07-15T18:00:05.278029+00:00",
+  "new_this_run": 26,
+  "total_recent": 80,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2077443027099111587",
+      "is_retweet": true,
+      "original_author": "josusanmartin",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-15T17:19:49+00:00",
+      "text": "RT @josusanmartin: kerneloptimization(.).fun now lives in paradigm(.)xyz/puzzles I've helped fix the bugs, now accepting sub 1,000 cycle solutions!! Lol. Feedback welcome too. https://t.co/xMP971fX3e",
+      "summary": "RT @josusanmartin: kerneloptimization(.).fun now lives in paradigm(.)xyz/puzzles I've helped fix the bugs, now accepting sub 1,000 cycle solutions!!…",
+      "url": "https://x.com/danrobinson/status/2077443027099111587",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "358"
+      }
+    },
+    {
+      "id": "2077435465502765231",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T16:49:46+00:00",
+      "text": "Later on, @SenLummis questioned him about what she described as “rumors” that Federal Reserve staff may have deleted supervisory records related to Silicon Valley Bank and Signature Bank before Warsh took office, amid the ongoing independent review of the Fed’s supervision of those banks. Warsh said he has “no reason to believe there’s any criminal activity,” but added that the Fed would cooperate with investigators and provide access to records if requested.",
+      "summary": "Later on, @SenLummis questioned him about what she described as “rumors” that Federal Reserve staff may have deleted supervisory records related to…",
+      "url": "https://x.com/EleanorTerrett/status/2077435465502765231",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 233,
+        "retweets": 31,
+        "replies": 5,
+        "quotes": 0,
+        "views": "29746"
+      }
+    },
+    {
+      "id": "2077425617163719049",
+      "is_retweet": true,
+      "original_author": "ajwarner90",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T16:10:38+00:00",
+      "text": "RT @ajwarner90: Personal Request: The ArbitrumDAO is currently having an election for its Oversight and Transparency Committee. I was fortunate enough to hold the position for the last year and would be honored to be able to hold a seat again for the upcoming term. For those unfamiliar, I am currently Chief Strategy Officer at @Offchain and in that capacity play a critical role across the growth of the Arbitrum platform, particularly on the enterprise side. I live and breathe the growth of Arbitrum and feel qualified to continue to help support the demand for the technology, the utilization of the treasury and the other functions that come with the role. Voting ends on Thursday, and if you are looking for candidates to support, I am open to any questions you may have! https://t.co/78BR0zFfQ7",
+      "summary": "RT @ajwarner90: Personal Request: The ArbitrumDAO is currently having an election for its Oversight and Transparency Committee. I was fortunate…",
+      "url": "https://x.com/laurashin/status/2077425617163719049",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1165"
+      }
+    },
+    {
+      "id": "2077408031873355849",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T15:00:45+00:00",
+      "text": "According to @perkinscr97, the people who should benefit most from crypto and AI, those without access to credit or job training, are the ones progressives are fighting hardest to stop. 🤔 @bitsandbips https://t.co/2h6dVq2ODw",
+      "summary": "According to @perkinscr97, the people who should benefit most from crypto and AI, those without access to credit or job training, are the ones…",
+      "url": "https://x.com/laurashin/status/2077408031873355849",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2655"
+      }
+    },
+    {
+      "id": "2077403250274570562",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-15T14:41:45+00:00",
+      "text": "$30B of tokenized assets are already onchain, and that number is forecasted to grow 100x by 2030. The U.S. has no regulatory framework for the blockchains those assets live on. The safety and resilience of our financial system depends on passing CLARITY now. https://t.co/rGVmbSnF7Q",
+      "summary": "$30B of tokenized assets are already onchain, and that number is forecasted to grow 100x by 2030. The U.S. has no regulatory framework for the…",
+      "url": "https://x.com/milesjennings/status/2077403250274570562",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 41,
+        "retweets": 6,
+        "replies": 7,
+        "quotes": 2,
+        "views": "3820"
+      }
+    },
     {
       "id": "2077394119228321989",
       "is_retweet": false,
@@ -71,6 +201,56 @@
       }
     },
     {
+      "id": "2077388175622758561",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T13:41:51+00:00",
+      "text": "RT @CryptoAmerica_: 🚨NEW: We sat down with @JohannKerbrat, SVP & GM of International & Crypto at @RobinhoodCrypto. Robinhood's goal? Bring 27 million accounts onchain. Johann explains how Robinhood Chain fits into that vision, why it's already seen $3 billion traded on DEXs and 45 million transactions, and why he views the early memecoin activity as a feature, not a bug, helping bootstrap liquidity and market infrastructure. Links below.",
+      "summary": "RT @CryptoAmerica_: 🚨NEW: We sat down with @JohannKerbrat, SVP & GM of International & Crypto at @RobinhoodCrypto. Robinhood's goal? Bring 27 million…",
+      "url": "https://x.com/EleanorTerrett/status/2077388175622758561",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8275"
+      }
+    },
+    {
+      "id": "2077383502895653295",
+      "is_retweet": true,
+      "original_author": "patrickjwitt",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-15T13:23:17+00:00",
+      "text": "RT @patrickjwitt: The world won’t wait on America forever. We can either lead the way on digital assets by passing the Clarity Act, or watch as someone else sets the rules of global finance for us.",
+      "summary": "RT @patrickjwitt: The world won’t wait on America forever. We can either lead the way on digital assets by passing the Clarity Act, or watch as…",
+      "url": "https://x.com/milesjennings/status/2077383502895653295",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 367,
+        "replies": 0,
+        "quotes": 0,
+        "views": "173"
+      }
+    },
+    {
       "id": "2077380930012950668",
       "is_retweet": true,
       "original_author": "DeatonforSenate",
@@ -93,6 +273,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "2573"
+      }
+    },
+    {
+      "id": "2077377941747761161",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T13:01:11+00:00",
+      "text": "⚖️ A Michigan court told Kalshi to cancel trades. The CFTC just told Kalshi: don't. A federal-vs-state showdown over prediction markets is heating up: https://t.co/QwJtY64HnI",
+      "summary": "⚖️ A Michigan court told Kalshi to cancel trades. The CFTC just told Kalshi: don't. A federal-vs-state showdown over prediction markets is heating…",
+      "url": "https://x.com/laurashin/status/2077377941747761161",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2326"
       }
     },
     {
@@ -121,6 +326,156 @@
       }
     },
     {
+      "id": "2077370345020121188",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T12:31:00+00:00",
+      "text": "🌐 The US and UK just dropped a joint roadmap to make tokenized assets and stablecoins move seamlessly across the Atlantic. Bessent + Reeves' taskforce lays out the plan: https://t.co/mo0IwZJj3T",
+      "summary": "🌐 The US and UK just dropped a joint roadmap to make tokenized assets and stablecoins move seamlessly across the Atlantic. Bessent + Reeves'…",
+      "url": "https://x.com/laurashin/status/2077370345020121188",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2418"
+      }
+    },
+    {
+      "id": "2077365577979515270",
+      "is_retweet": true,
+      "original_author": "England",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T12:12:04+00:00",
+      "text": "RT @England: Some mornings just feel different. This is one of them 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "summary": "RT @England: Some mornings just feel different. This is one of them 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "url": "https://x.com/EleanorTerrett/status/2077365577979515270",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5833,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10442"
+      }
+    },
+    {
+      "id": "2077360800067371418",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T11:53:04+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Bitcoin climbs above $65K after inflation posts biggest monthly drop since 2020 🎖️ White House crypto chief Patrick Witt is set to take military leave 🇬🇧 The US and UK unveil a joint roadmap to align tokenization and stablecoin rules ⚖️ The CFTC overrules a Michigan court to stop Kalshi from canceling trades 📩 Don’t miss out—read here & sign up for daily updates! https://t.co/X3Zl4nDX1Z",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Bitcoin climbs above $65K after inflation posts biggest monthly drop since 2020 🎖️ White House crypto chief…",
+      "url": "https://x.com/laurashin/status/2077360800067371418",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 1,
+        "views": "2643"
+      }
+    },
+    {
+      "id": "2077354239794557306",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T11:27:00+00:00",
+      "text": "🚨 Bitcoin just ripped above $65,000 after June inflation data posted its biggest monthly drop since 2020. Rate hike fears? Cooling fast. https://t.co/m7nab07895",
+      "summary": "🚨 Bitcoin just ripped above $65,000 after June inflation data posted its biggest monthly drop since 2020. Rate hike fears? Cooling fast.…",
+      "url": "https://x.com/laurashin/status/2077354239794557306",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 1,
+        "views": "3096"
+      }
+    },
+    {
+      "id": "2077348490795946461",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T11:04:10+00:00",
+      "text": "RT @laurashin: 'That's when I realized we need to follow the money.' 🔍 @SamLyman33 on the Texas data center fight that shaped his research into who is really funding the opposition to AI buildout. @bitsandbips https://t.co/9jItfI5UMW",
+      "summary": "RT @laurashin: 'That's when I realized we need to follow the money.' 🔍 @SamLyman33 on the Texas data center fight that shaped his research into who…",
+      "url": "https://x.com/laurashin/status/2077348490795946461",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077348442334970327",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T11:03:58+00:00",
+      "text": "RT @laurashin: According to @austincampbell , Jamie Dimon has stablecoins backwards. JPMorgan may be their biggest winner, not their biggest skeptic. 🏦 He makes the case on the latest Bits + Bips alongside @ramahluwalia , @perkinscr97 , and guest @SamLyman33 . Worth the listen. 🎧 Timestamps: 🗺️ 02:20 BPI's report: the Singham network's $24B block on US AI data centers 🏛️ 07:34 Astroturfing 101: town halls, busing, and the PSL playbook ⚛️ 20:41 Why the AI backlash echoes the mistakes made on nuclear power 📜 25:49 Sam's odds: Clarity passes in the next few weeks at 70% 📣 29:31 Cape: Get 33% off your first six months with code UNCHAINED at https://t.co/2ZtLziXsHV 🤝 30:31 Wyden's surprise break: why a key Democrat just backed BRCA 🎂 37:51 Austin's heuristic: age, not party, predicts crypto and AI support 🛢️ 43:18 Why the market is really pricing Iran tail risk, not a rate hike 🏦 48:57 Dimon's blind spot: why JPMorgan may be stablecoins' biggest winner 🎟️ 53:22 Interchange as a tax: Ram's coupons fix for merchants and consumers 💰 58:04 Franklin's Benji tech and the case for tokenized money funds",
+      "summary": "RT @laurashin: According to @austincampbell , Jamie Dimon has stablecoins backwards. JPMorgan may be their biggest winner, not their biggest skeptic.…",
+      "url": "https://x.com/laurashin/status/2077348442334970327",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2077319980232638642",
       "is_retweet": false,
       "original_author": null,
@@ -143,6 +498,31 @@
         "replies": 11,
         "quotes": 3,
         "views": "8121"
+      }
+    },
+    {
+      "id": "2077241823840653393",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T04:00:18+00:00",
+      "text": "'That's when I realized we need to follow the money.' 🔍 @SamLyman33 on the Texas data center fight that shaped his research into who is really funding the opposition to AI buildout. @bitsandbips https://t.co/9jItfI5UMW",
+      "summary": "'That's when I realized we need to follow the money.' 🔍 @SamLyman33 on the Texas data center fight that shaped his research into who is really…",
+      "url": "https://x.com/laurashin/status/2077241823840653393",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "4186"
       }
     },
     {
@@ -296,6 +676,31 @@
       }
     },
     {
+      "id": "2077210556365451442",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T01:56:04+00:00",
+      "text": "According to @austincampbell, America made the same mistake with nuclear power that it may be about to repeat with AI data centers. 📜 @SamLyman33 also puts real odds, 70%, on Clarity passing before August recess. @bitsandbips https://t.co/Nr68J8RZxk",
+      "summary": "According to @austincampbell, America made the same mistake with nuclear power that it may be about to repeat with AI data centers. 📜 @SamLyman33…",
+      "url": "https://x.com/laurashin/status/2077210556365451442",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 1,
+        "views": "16418"
+      }
+    },
+    {
       "id": "2077195345340080148",
       "is_retweet": false,
       "original_author": null,
@@ -393,6 +798,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "728"
+      }
+    },
+    {
+      "id": "2077179965141815615",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T23:54:30+00:00",
+      "text": "RT @laurashin: Ten years on Ethereum, zero oracle hacks. @nomos_paradox tells @Steven_Ehrlich that record is no accident. It is what happens when a team treats security like a religion, not a checklist. 🔐 Worth a listen for anyone lending against tokenized funds. Timestamps: 🎙️ 00:41 Niklas Kunkel on what actually separates the oracle providers, and why most people get it wrong 🛠️ 02:39 The origin story: why building MakerDAO forced Niklas to invent the oracle from scratch ⚠️ 06:35 The hidden single point of failure lurking inside every DeFi protocol 🏦 11:07 Chronicle's bet: from pricing tokens to verifying the real collateral behind tokenized RWAs 🧾 15:30 Don't trust, verify: how Chronicle rebuilds BlackRock's BUIDL fund from scratch, independently 📣 24:50 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV 📈 27:07 The hottest RWA trade nobody's talking about: why CLOs like Galaxy's new tokenized credit product are taking off 🚀 32:36 The SpaceX pre-IPO token mess: buyers paid up, then never got their shares 🌉 36:21 The KelpDAO exploit and the uncomfortable truth: every bridge is just an oracle in disguise 📊 42:28 Chronicle's next growth wave: tokenized equities and the redemption gap that could break them ⛓️ 48:15 The counterintuitive one: why even fully onchain-issued funds still can't skip proof of asset",
+      "summary": "RT @laurashin: Ten years on Ethereum, zero oracle hacks. @nomos_paradox tells @Steven_Ehrlich that record is no accident. It is what happens when a…",
+      "url": "https://x.com/laurashin/status/2077179965141815615",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077178532208287946",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T23:48:48+00:00",
+      "text": "RT @laurashin: 🚨@vnovakovski told me the Robinhood Chain perps deal was '12 years in the making,' dating back to high school. 🤝 We get into the 50/50 revenue split and how he thinks about the USDG collateral risk. 🎧 Timestamps: 🤝 01:28 Why Vlad calls the Robinhood Chain deal \"12 years in the making\" and how the revenue is split 🤓 03:40 How Robinhood perps differs from Lighter's own app 💸 05:03 What if means if USDG is the quote asset on Robinhood's perps and USDC is the quote asset on Lighter 💬 11:04 Novakovski on Lighter's Telegram Wallet deal vs Hyperliquid's builder codes 📣 12:50 Cape: Get 33% off six months of privacy first mobile service at https://t.co/2ZtLziY0xt 💼 13:44 Fidelity: Explore crypto and DeFi careers at https://t.co/8dua6AZQXA 📉 14:31 Why RWA perps are hitting highs while crypto native perp volume cools ⚠️ 18:00 How Lighter prices liquidation risk when tokenized stocks are collateral 🏛️ 21:14 Novakovski on the regulatory pathway DEXs need to move onshore",
+      "summary": "RT @laurashin: 🚨@vnovakovski told me the Robinhood Chain perps deal was '12 years in the making,' dating back to high school. 🤝 We get into the 50/50…",
+      "url": "https://x.com/laurashin/status/2077178532208287946",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077178405573857329",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T23:48:18+00:00",
+      "text": "According to @austincampbell , Jamie Dimon has stablecoins backwards. JPMorgan may be their biggest winner, not their biggest skeptic. 🏦 He makes the case on the latest Bits + Bips alongside @ramahluwalia , @perkinscr97 , and guest @SamLyman33 . Worth the listen. 🎧 Timestamps: 🗺️ 02:20 BPI's report: the Singham network's $24B block on US AI data centers 🏛️ 07:34 Astroturfing 101: town halls, busing, and the PSL playbook ⚛️ 20:41 Why the AI backlash echoes the mistakes made on nuclear power 📜 25:49 Sam's odds: Clarity passes in the next few weeks at 70% 📣 29:31 Cape: Get 33% off your first six months with code UNCHAINED at https://t.co/2ZtLziXsHV 🤝 30:31 Wyden's surprise break: why a key Democrat just backed BRCA 🎂 37:51 Austin's heuristic: age, not party, predicts crypto and AI support 🛢️ 43:18 Why the market is really pricing Iran tail risk, not a rate hike 🏦 48:57 Dimon's blind spot: why JPMorgan may be stablecoins' biggest winner 🎟️ 53:22 Interchange as a tax: Ram's coupons fix for merchants and consumers 💰 58:04 Franklin's Benji tech and the case for tokenized money funds",
+      "summary": "According to @austincampbell , Jamie Dimon has stablecoins backwards. JPMorgan may be their biggest winner, not their biggest skeptic. 🏦 He makes the…",
+      "url": "https://x.com/laurashin/status/2077178405573857329",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 2,
+        "views": "9751"
       }
     },
     {
@@ -546,6 +1026,31 @@
       }
     },
     {
+      "id": "2077143240982040720",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T21:28:34+00:00",
+      "text": "The O.C.’s @Ben_McKenzie was on Capitol Hill today lobbying senators to vote against the Clarity Act. Good coverage here from @JuliaShapero ⬇️",
+      "summary": "The O.C.’s @Ben_McKenzie was on Capitol Hill today lobbying senators to vote against the Clarity Act. Good coverage here from @JuliaShapero ⬇️",
+      "url": "https://x.com/EleanorTerrett/status/2077143240982040720",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 381,
+        "retweets": 70,
+        "replies": 86,
+        "quotes": 8,
+        "views": "90839"
+      }
+    },
+    {
       "id": "2077142216481395163",
       "is_retweet": false,
       "original_author": null,
@@ -621,6 +1126,31 @@
       }
     },
     {
+      "id": "2077136849542193431",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T21:03:10+00:00",
+      "text": "@austincampbell @bitsandbips @ramahluwalia @perkinscr97 @SamLyman33 The strongest wallet in crypto won't help if your phone is the weak link. Appreciate Cape supporting the show. 33% off with code UNCHAINED 👇 https://t.co/2WsRO0WUAE",
+      "summary": "@austincampbell @bitsandbips @ramahluwalia @perkinscr97 @SamLyman33 The strongest wallet in crypto won't help if your phone is the weak link.…",
+      "url": "https://x.com/laurashin/status/2077136849542193431",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1158"
+      }
+    },
+    {
       "id": "2077134341407199503",
       "is_retweet": true,
       "original_author": "MattFiebach",
@@ -671,6 +1201,31 @@
       }
     },
     {
+      "id": "2077122774657863950",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-14T20:07:15+00:00",
+      "text": "RT @SenLummis: No rule can give the CFTC spot authority over digital assets, grant new sanctions authority against adversaries, or protect developers from unwarranted prosecution. Only Congress can. The Clarity Act is the only path that works.",
+      "summary": "RT @SenLummis: No rule can give the CFTC spot authority over digital assets, grant new sanctions authority against adversaries, or protect developers…",
+      "url": "https://x.com/milesjennings/status/2077122774657863950",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 316,
+        "replies": 0,
+        "quotes": 0,
+        "views": "198"
+      }
+    },
+    {
       "id": "2077122474165039234",
       "is_retweet": true,
       "original_author": "MarcoFoster_",
@@ -693,6 +1248,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1379"
+      }
+    },
+    {
+      "id": "2077120003510288716",
+      "is_retweet": true,
+      "original_author": "JSeyff",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T19:56:14+00:00",
+      "text": "RT @JSeyff: NEW: @MorganStanley has filed updated documents for both their Ethereum ETF and their Solana ETF. Tickers will be $MSSE and $MSOL. Fees will be 0.14%. Launch likely getting pretty close. solana:So11111111111111111111111111111111111111112 ethereum:native https://t.co/0pGTi9stri",
+      "summary": "RT @JSeyff: NEW: @MorganStanley has filed updated documents for both their Ethereum ETF and their Solana ETF. Tickers will be $MSSE and $MSOL. Fees…",
+      "url": "https://x.com/EleanorTerrett/status/2077120003510288716",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 46,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9892"
       }
     },
     {
@@ -771,6 +1351,31 @@
       }
     },
     {
+      "id": "2077109935142211900",
+      "is_retweet": true,
+      "original_author": "JohnTerrett1",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T19:16:14+00:00",
+      "text": "RT @JohnTerrett1: John and John on the Roundtable like always. 77WABC, New York. Sunday 12th July 2026. https://t.co/Z7KD59nemO",
+      "summary": "RT @JohnTerrett1: John and John on the Roundtable like always. 77WABC, New York. Sunday 12th July 2026. https://t.co/Z7KD59nemO",
+      "url": "https://x.com/EleanorTerrett/status/2077109935142211900",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10587"
+      }
+    },
+    {
       "id": "2077109838325129472",
       "is_retweet": true,
       "original_author": "coinbase",
@@ -793,6 +1398,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "667"
+      }
+    },
+    {
+      "id": "2077105637775786007",
+      "is_retweet": true,
+      "original_author": "maxmeizlish",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-14T18:59:09+00:00",
+      "text": "RT @maxmeizlish: This is what true allied regulatory alignment looks like. And it's how a U.S.-led multi-money ecosystem will be built. Kudos to @USTreasury and @hmtreasury on jointly publishing today a set of recommendations of the Transatlantic Taskforce for Markets of the Future and an accompanying joint statement on stablecoins. Like @ddisparte wrote below, the joint report \"is as principled as it is inspiring.\"",
+      "summary": "RT @maxmeizlish: This is what true allied regulatory alignment looks like. And it's how a U.S.-led multi-money ecosystem will be built. Kudos to…",
+      "url": "https://x.com/ddisparte/status/2077105637775786007",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "143"
+      }
+    },
+    {
+      "id": "2077095115231748597",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-14T18:17:20+00:00",
+      "text": "🚨🧵NEW: Pulse check on the Clarity Act after a flurry of developments over the past 24 hours. Here’s the latest: Industry sources tell me updated Clarity Act text could drop soon, though they’re also preparing for it to slip to later this week as ethics negotiations continue.",
+      "summary": "🚨🧵NEW: Pulse check on the Clarity Act after a flurry of developments over the past 24 hours. Here’s the latest: Industry sources tell me updated…",
+      "url": "https://x.com/EleanorTerrett/status/2077095115231748597",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2992,
+        "retweets": 435,
+        "replies": 108,
+        "quotes": 28,
+        "views": "189567"
       }
     },
     {
