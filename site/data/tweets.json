@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-16T09:04:19.156704+00:00",
-  "generated_at_unix": 1784192659,
+  "generated_at": "2026-07-16T12:15:45.505642+00:00",
+  "generated_at_unix": 1784204145,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-15T16:00:00+00:00",
-  "window_end": "2026-07-16T09:04:19.156704+00:00",
-  "new_this_run": 14,
-  "total_recent": 40,
+  "window_end": "2026-07-16T12:15:45.505642+00:00",
+  "new_this_run": 4,
+  "total_recent": 44,
   "errors": [
     {
-      "username": "RoKhanna",
+      "username": "kspaglia",
       "error": "The read operation timed out"
     }
   ],
@@ -17,7 +17,7 @@
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2077726224760131858",
+      "is_retweet": true,
+      "original_author": "donnoh_eth",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T12:05:08+00:00",
+      "text": "RT @donnoh_eth: people be reading the bitcoin whitepaper and then think “but what if we add the financial institution back. and also make it an all powerful intermediary that can controls everything because people can’t be trusted with their money. this is what blockchains need” https://t.co/t3buWz2HMi",
+      "summary": "RT @donnoh_eth: people be reading the bitcoin whitepaper and then think “but what if we add the financial institution back. and also make it an all…",
+      "url": "https://x.com/lex_node/status/2077726224760131858",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "542"
+      }
+    },
     {
       "id": "2077526159873413347",
       "is_retweet": false,
@@ -48,6 +73,31 @@
         "replies": 3,
         "quotes": 0,
         "views": "1061"
+      }
+    },
+    {
+      "id": "2077521255104655716",
+      "is_retweet": true,
+      "original_author": "evmpapi",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T22:30:40+00:00",
+      "text": "RT @evmpapi: Literally met with a bank this week that shall not be named that is doing exactly this. Rollups of prime Ethereum built/battle tested tech or acquihire of talent, that can bring those innovations to their chains of choice. And builders are desperate for a check right now. Seems like the move to wait out the market created a massively discounted M&A pathway. My hope is that there will be problems with that approach eventually. And decentralization will have its day once again. Something will blossom from that bottleneck. Ethereum will always reign as the core technology all of these movements try to mimic.",
+      "summary": "RT @evmpapi: Literally met with a bank this week that shall not be named that is doing exactly this. Rollups of prime Ethereum built/battle tested…",
+      "url": "https://x.com/lex_node/status/2077521255104655716",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "829"
       }
     },
     {
@@ -223,6 +273,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "147"
+      }
+    },
+    {
+      "id": "2077506721459896334",
+      "is_retweet": true,
+      "original_author": "bitcoinpolicy",
+      "username": "zackbshapiro",
+      "display_name": "Zack Shapiro",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T21:32:55+00:00",
+      "text": "RT @bitcoinpolicy: Bitcoin Policy Institute's Quarterly Report for Q2 is live. You can read about our latest investigative research on CCP influence, our meetings with Taiwan’s central bank, Bitcoin’s role in two Armed Services committee hearings, the fight for dev protections in CLARITY, and much more. Attached below is the executive summary. You can access the full report here: https://t.co/5a9s1nXMoX",
+      "summary": "RT @bitcoinpolicy: Bitcoin Policy Institute's Quarterly Report for Q2 is live. You can read about our latest investigative research on CCP influence,…",
+      "url": "https://x.com/zackbshapiro/status/2077506721459896334",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 54,
+        "replies": 0,
+        "quotes": 0,
+        "views": "172"
       }
     },
     {
@@ -598,6 +673,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "7153"
+      }
+    },
+    {
+      "id": "2077450759101427760",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T17:50:32+00:00",
+      "text": "The founders who win won't be the ones refusing to build anything a normal person could use, and they're also not the ones simply reproducing TradFi on crypto rails. Decentralization and permissionless were never about grandma managing her own LTV ratios and praying that the oracle doesn't get manipulated at 2am on a Saturday. It was about ensuring that anyone can get a transaction included without permission, hold and exit their assets without an intermediary's consent, verify the ledger's state without having to trust some party to report it, and build on top without asking anyone's permission. If things get built on top that are gated, that's not inconsistent with decentralization - it's just what technology and infrastructure looks like when it matures.",
+      "summary": "The founders who win won't be the ones refusing to build anything a normal person could use, and they're also not the ones simply reproducing TradFi…",
+      "url": "https://x.com/TuongvyLe12/status/2077450759101427760",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 1,
+        "views": "2704"
       }
     },
     {
