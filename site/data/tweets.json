@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-16T15:00:05.564285+00:00",
-  "generated_at_unix": 1784214005,
+  "generated_at": "2026-07-16T18:00:05.601594+00:00",
+  "generated_at_unix": 1784224805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-15T16:00:00+00:00",
-  "window_end": "2026-07-16T15:00:05.564285+00:00",
-  "new_this_run": 12,
-  "total_recent": 56,
-  "errors": [],
+  "window_end": "2026-07-16T18:00:05.601594+00:00",
+  "new_this_run": 26,
+  "total_recent": 82,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,381 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2077805489853976877",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T17:20:07+00:00",
+      "text": "Jessi Brooks says Boko Haram now runs specialist AI units to troubleshoot weapons and plan attacks. 🤖 Her point on @DEXintheCityPod: their AI governance is more organized than a lot of startups, just aimed at the worst possible outcome. https://t.co/6rNW9hI4IF",
+      "summary": "Jessi Brooks says Boko Haram now runs specialist AI units to troubleshoot weapons and plan attacks. 🤖 Her point on @DEXintheCityPod: their AI…",
+      "url": "https://x.com/laurashin/status/2077805489853976877",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "1666"
+      }
+    },
+    {
+      "id": "2077796518233252119",
+      "is_retweet": true,
+      "original_author": "thebusyspice",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T16:44:28+00:00",
+      "text": "RT @thebusyspice: “Avalanche is a natural destination for the first expansion of @Aave V4 ... it combines a mature Aave lending market with a rapidly growing ecosystem for tokenized assets. — said @StaniKulechov",
+      "summary": "RT @thebusyspice: “Avalanche is a natural destination for the first expansion of @Aave V4 ... it combines a mature Aave lending market with a rapidly…",
+      "url": "https://x.com/laurashin/status/2077796518233252119",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "931"
+      }
+    },
+    {
+      "id": "2077796417137996090",
+      "is_retweet": true,
+      "original_author": "RVanGrack",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T16:44:04+00:00",
+      "text": "RT @RVanGrack: A unanimous Senate vote against an SBF pardon proves there is zero tolerance for market fraud. But symbolism isn't enough. We need to codify that stance as a country. At its core, the Clarity Act is a consumer protection bill designed to prevent frauds like FTX. So if Congress agrees an FTX situation should never happen again, it should agree on the Clarity Act.",
+      "summary": "RT @RVanGrack: A unanimous Senate vote against an SBF pardon proves there is zero tolerance for market fraud. But symbolism isn't enough. We need to…",
+      "url": "https://x.com/laurashin/status/2077796417137996090",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "951"
+      }
+    },
+    {
+      "id": "2077788128841216012",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T16:11:08+00:00",
+      "text": "What surprised me on @DEXintheCityPod: @TuongvyLe12 argues a single Supreme Court case just gave every future president more leverage over the SEC and CFTC. 🤔 How did this get so little attention? https://t.co/wBV4lS84ZF",
+      "summary": "What surprised me on @DEXintheCityPod: @TuongvyLe12 argues a single Supreme Court case just gave every future president more leverage over the SEC…",
+      "url": "https://x.com/laurashin/status/2077788128841216012",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2513"
+      }
+    },
+    {
+      "id": "2077774652689051892",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T15:17:35+00:00",
+      "text": "RT @CryptoAmerica_: Crypto in America is live from Capitol Hill at the @injective Summit! Watch our coverage from 12 PM to 5 PM ET below. https://t.co/qQHPJDazE1",
+      "summary": "RT @CryptoAmerica_: Crypto in America is live from Capitol Hill at the @injective Summit! Watch our coverage from 12 PM to 5 PM ET below.…",
+      "url": "https://x.com/EleanorTerrett/status/2077774652689051892",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7330"
+      }
+    },
+    {
+      "id": "2077767712852640167",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:50:00+00:00",
+      "text": "According to @TuongvyLe12, the Supreme Court just gave presidents far more leverage over the SEC and CFTC by overturning a 90 year old precedent. 🏛️ Her full breakdown is on @DEXintheCityPod. https://t.co/a1PJYma7Ji",
+      "summary": "According to @TuongvyLe12, the Supreme Court just gave presidents far more leverage over the SEC and CFTC by overturning a 90 year old precedent. 🏛️…",
+      "url": "https://x.com/laurashin/status/2077767712852640167",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 1,
+        "views": "2750"
+      }
+    },
+    {
+      "id": "2077766847345356976",
+      "is_retweet": true,
+      "original_author": "PatrickMcHenry",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-16T14:46:34+00:00",
+      "text": "RT @PatrickMcHenry: For over two decades in Congress, I saw how bold, forward-looking legislation can move our country ahead, and how outdated rules leave us scrambling to catch up. The Clarity Act is Congress’s chance to be proactive: establish consumer protections, provide regulatory certainty and give entrepreneurs the confidence to build. As I write in Fortune, Congress can seize the moment & break the cycle of reactive regulation. Now is our chance.",
+      "summary": "RT @PatrickMcHenry: For over two decades in Congress, I saw how bold, forward-looking legislation can move our country ahead, and how outdated rules…",
+      "url": "https://x.com/milesjennings/status/2077766847345356976",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 68,
+        "replies": 0,
+        "quotes": 0,
+        "views": "160"
+      }
+    },
+    {
+      "id": "2077763551716839919",
+      "is_retweet": true,
+      "original_author": "TuongvyLe12",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:33:28+00:00",
+      "text": "RT @TuongvyLe12: At @veda_labs we talk to institutions everyday and they see the power of Defi: open, permissionless, programmable, composable, interoperable, and non-custodial. The question is how DeFi can be offered to their users in a way that is usable and safe while preserving what makes DeFi special.",
+      "summary": "RT @TuongvyLe12: At @veda_labs we talk to institutions everyday and they see the power of Defi: open, permissionless, programmable, composable,…",
+      "url": "https://x.com/laurashin/status/2077763551716839919",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1195"
+      }
+    },
+    {
+      "id": "2077760513203699769",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:21:23+00:00",
+      "text": "RT @laurashin: Presidents just gained real leverage over who sits on the SEC and the CFTC. According to @TuongvyLe12 on @DEXintheCityPod, the Supreme Court's Slaughter ruling means every election could now reshape crypto policy overnight. Wild how little attention this got. ⚖️ Timestamps: 💙 00:28 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🇬🇧 01:05 Why the UK just published a crypto rulebook few even noticed 🇪🇺 13:15 Why Brussels wants to expand MiCA to cover tokenized assets and stablecoins ⚖️ 24:57 How the Supreme Court handed presidents new power over the SEC and CFTC 🏛️ 33:47 The legal reasoning behind the ruling, and why the Fed board was spared 🤖 39:37 The AI segment: a Cambridge report on Boko Haram's chatbot fueled weapons unit ⚖️ 47:58 Why crypto and AI both lack a Section 230, and who ends up getting sued 🦎 52:20 The good news: how TRM traced $15 million in crypto tied to wildlife trafficking",
+      "summary": "RT @laurashin: Presidents just gained real leverage over who sits on the SEC and the CFTC. According to @TuongvyLe12 on @DEXintheCityPod, the Supreme…",
+      "url": "https://x.com/laurashin/status/2077760513203699769",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077757098965000644",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:07:49+00:00",
+      "text": "🎭 Enso just exposed \"toxic pools\" — DeFi liquidity pools engineered to show your wallet a great price during simulation, then execute at a worse rate once the trade is mined. https://t.co/nHX24I5h2i",
+      "summary": "🎭 Enso just exposed \"toxic pools\" — DeFi liquidity pools engineered to show your wallet a great price during simulation, then execute at a worse rate…",
+      "url": "https://x.com/laurashin/status/2077757098965000644",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1394"
+      }
+    },
+    {
+      "id": "2077756679760797974",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:06:09+00:00",
+      "text": "RT @laurashin: 🚨 Jesse Pollak is handing Coinbase's Base app to the trader known as Cobie, and using the moment to admit his big bet on crypto social apps and creator coins was \"definitively wrong.\" Full story: https://t.co/OFXi2iEO5n",
+      "summary": "RT @laurashin: 🚨 Jesse Pollak is handing Coinbase's Base app to the trader known as Cobie, and using the moment to admit his big bet on crypto social…",
+      "url": "https://x.com/laurashin/status/2077756679760797974",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077756650358812849",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:06:02+00:00",
+      "text": "RT @laurashin: ⚖️ The Senate just voted unanimously: SBF should never get a pardon. \"He had his day in court,\" said Sen. Lummis, who co-led the resolution with Sen. Gallego. https://t.co/0UiXICmsEI",
+      "summary": "RT @laurashin: ⚖️ The Senate just voted unanimously: SBF should never get a pardon. \"He had his day in court,\" said Sen. Lummis, who co-led the…",
+      "url": "https://x.com/laurashin/status/2077756650358812849",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077756607518109982",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T14:05:52+00:00",
+      "text": "RT @laurashin: 🔺 Aave V4 just landed on Avalanche, its first home outside Ethereum. The real prize (a market for borrowing against tokenized Treasuries and RWAs) is still coming, per founder Stani Kulechov. https://t.co/j4ladDTPTh",
+      "summary": "RT @laurashin: 🔺 Aave V4 just landed on Avalanche, its first home outside Ethereum. The real prize (a market for borrowing against tokenized…",
+      "url": "https://x.com/laurashin/status/2077756607518109982",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077753619743662378",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T13:54:00+00:00",
+      "text": "In crypto terms, a network state is an L2 (network school) built on an L1 (in this case Malaysia). Here the L1 is refusing to accept validity of transactions on the L2 bc of alleged DPRK (Israeli) activity on the L2, which is debunked and dev (Balaji) is appealing to validators.",
+      "summary": "In crypto terms, a network state is an L2 (network school) built on an L1 (in this case Malaysia). Here the L1 is refusing to accept validity of…",
+      "url": "https://x.com/wassielawyer/status/2077753619743662378",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 51,
+        "retweets": 3,
+        "replies": 13,
+        "quotes": 0,
+        "views": "7078"
+      }
+    },
+    {
+      "id": "2077751102699696268",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T13:44:00+00:00",
+      "text": "Presidents just gained real leverage over who sits on the SEC and the CFTC. According to @TuongvyLe12 on @DEXintheCityPod, the Supreme Court's Slaughter ruling means every election could now reshape crypto policy overnight. Wild how little attention this got. ⚖️ Timestamps: 💙 00:28 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🇬🇧 01:05 Why the UK just published a crypto rulebook few even noticed 🇪🇺 13:15 Why Brussels wants to expand MiCA to cover tokenized assets and stablecoins ⚖️ 24:57 How the Supreme Court handed presidents new power over the SEC and CFTC 🏛️ 33:47 The legal reasoning behind the ruling, and why the Fed board was spared 🤖 39:37 The AI segment: a Cambridge report on Boko Haram's chatbot fueled weapons unit ⚖️ 47:58 Why crypto and AI both lack a Section 230, and who ends up getting sued 🦎 52:20 The good news: how TRM traced $15 million in crypto tied to wildlife trafficking",
+      "summary": "Presidents just gained real leverage over who sits on the SEC and the CFTC. According to @TuongvyLe12 on @DEXintheCityPod, the Supreme Court's…",
+      "url": "https://x.com/laurashin/status/2077751102699696268",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 2,
+        "replies": 5,
+        "quotes": 2,
+        "views": "5391"
+      }
+    },
     {
       "id": "2077750514435981394",
       "is_retweet": false,
@@ -43,6 +423,131 @@
         "replies": 0,
         "quotes": 0,
         "views": "256"
+      }
+    },
+    {
+      "id": "2077745239289127294",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T13:20:42+00:00",
+      "text": "Yesterday the Senate passed by unanimous consent a resolution introduced by @SenRubenGallego and @SenLummis that FTX founder @SBF_FTX should not receive a presidential pardon. What does this mean? Not much for SBF. It’s a strong political statement that essentially puts the Senate on record that it believes he should not be pardoned. But it’s a nonbinding resolution, meaning it doesn’t prevent a president from pardoning him in the future.",
+      "summary": "Yesterday the Senate passed by unanimous consent a resolution introduced by @SenRubenGallego and @SenLummis that FTX founder @SBF_FTX should not…",
+      "url": "https://x.com/EleanorTerrett/status/2077745239289127294",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 555,
+        "retweets": 56,
+        "replies": 22,
+        "quotes": 3,
+        "views": "62886"
+      }
+    },
+    {
+      "id": "2077743559638229138",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T13:14:01+00:00",
+      "text": "The best thing about the algo update is not having to fight distraction Coming here, having signaled through who you’re following what you want, and just getting it, and your brain not having to hack your way through a mountain of mental clutter My life is more zen 🧘🏻‍♀️🧘🏻‍♀️🧘🏻‍♀️",
+      "summary": "The best thing about the algo update is not having to fight distraction Coming here, having signaled through who you’re following what you want, and…",
+      "url": "https://x.com/laurashin/status/2077743559638229138",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2955"
+      }
+    },
+    {
+      "id": "2077737705103069521",
+      "is_retweet": true,
+      "original_author": "thejoycelai",
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T12:50:46+00:00",
+      "text": "RT @thejoycelai: It’s not that social itself was wrong. The problem is trying to turn social into a financial product. Which is what crypto keeps doing and can’t stop and get out of its own way.",
+      "summary": "RT @thejoycelai: It’s not that social itself was wrong. The problem is trying to turn social into a financial product. Which is what crypto keeps…",
+      "url": "https://x.com/wassielawyer/status/2077737705103069521",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "472"
+      }
+    },
+    {
+      "id": "2077736758855475498",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T12:47:00+00:00",
+      "text": "🔺 Aave V4 just landed on Avalanche, its first home outside Ethereum. The real prize (a market for borrowing against tokenized Treasuries and RWAs) is still coming, per founder Stani Kulechov. https://t.co/j4ladDTPTh",
+      "summary": "🔺 Aave V4 just landed on Avalanche, its first home outside Ethereum. The real prize (a market for borrowing against tokenized Treasuries and RWAs) is…",
+      "url": "https://x.com/laurashin/status/2077736758855475498",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 41,
+        "retweets": 16,
+        "replies": 8,
+        "quotes": 3,
+        "views": "6892"
+      }
+    },
+    {
+      "id": "2077735246196293646",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T12:40:59+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Stripe and Advent offer $53 billion to buy PayPal 🏛️ Trump to meet senators to break the Clarity Act ethics deadlock 🏦 DTCC begins live tokenized trading with JPMorgan, BlackRock and Goldman ⚖️ Senate unanimously opposes clemency for FTX founder Sam Bankman-Fried ⚡ Read today’s biggest crypto news… and subscribe for more! https://t.co/ywE6VeWgwo",
+      "summary": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Stripe and Advent offer $53 billion to buy PayPal 🏛️ Trump to meet senators to break the…",
+      "url": "https://x.com/laurashin/status/2077735246196293646",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -71,6 +576,31 @@
       }
     },
     {
+      "id": "2077733360785645722",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T12:33:30+00:00",
+      "text": "Tbh I’ve had my skepticism re network school in the past, largely because many of its online evangelists sound like cultists. I’ve read Balajis work cover to cover and find him to be one of the few thinkers, and perhaps the leading thinker which conceptualises cryptocurrencies and blockchain tech as a social technology. Ive criticised NS in the past (again mainly for the cringe evangelists) but having met Balaji in person and had the privilege to discuss an “opt in” internet based social contract, I can conclude he absolutely is a visionary. But what impressed me most was not his depth of thought (we had a 2-3 hour long debate on the social contract and nation state concepts), but that he puts his money where his mouth is. Throughout that 3 hours, Balaji showed himself to not just be a guy in an ivory tower but a practical nation builder. He gave off the vibes of a mayor in a frontier town as we walked the grounds together, discussing immigration, construction, fucking electricity and power down to minute details. He lives there 5 days a week in the same accommodation he sells to people living there. And while perhaps for marketing reasons, it seems that NS shies away from the Malaysian ghost town reality, Balaji was pretty upfront that Forest City was a failed Chinese ghost town that he wanted to populate from the cloud. Honestly walked away from it having very deep respect and admiration for the guy. Him winning here would be crypto, at its very fundamental levels, winning. Will gladly support anything @ns does.",
+      "summary": "Tbh I’ve had my skepticism re network school in the past, largely because many of its online evangelists sound like cultists. I’ve read Balajis work…",
+      "url": "https://x.com/wassielawyer/status/2077733360785645722",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 135,
+        "retweets": 6,
+        "replies": 7,
+        "quotes": 0,
+        "views": "13001"
+      }
+    },
+    {
       "id": "2077732003068198917",
       "is_retweet": false,
       "original_author": null,
@@ -96,6 +626,31 @@
       }
     },
     {
+      "id": "2077726692387496409",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T12:07:00+00:00",
+      "text": "⚖️ The Senate just voted unanimously: SBF should never get a pardon. \"He had his day in court,\" said Sen. Lummis, who co-led the resolution with Sen. Gallego. https://t.co/0UiXICmsEI",
+      "summary": "⚖️ The Senate just voted unanimously: SBF should never get a pardon. \"He had his day in court,\" said Sen. Lummis, who co-led the resolution with Sen.…",
+      "url": "https://x.com/laurashin/status/2077726692387496409",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 40,
+        "retweets": 4,
+        "replies": 8,
+        "quotes": 4,
+        "views": "7278"
+      }
+    },
+    {
       "id": "2077726224760131858",
       "is_retweet": true,
       "original_author": "donnoh_eth",
@@ -118,6 +673,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "542"
+      }
+    },
+    {
+      "id": "2077716626116640985",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T11:27:00+00:00",
+      "text": "🏛️ Trump is set to meet senators Thursday to try to break the Clarity Act deadlock . The sticking point is an ethics provision that would limit officials' personal crypto holdings, and Trump's own $1.4B in crypto income last year is at the center of it. https://t.co/HUCuVGvO16",
+      "summary": "🏛️ Trump is set to meet senators Thursday to try to break the Clarity Act deadlock . The sticking point is an ethics provision that would limit…",
+      "url": "https://x.com/laurashin/status/2077716626116640985",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2794"
       }
     },
     {
@@ -521,6 +1101,31 @@
       }
     },
     {
+      "id": "2077505902274293838",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T21:29:39+00:00",
+      "text": "Today was gonna be the day. 💔 Good run, boys. One day, we’ll bring it home.",
+      "summary": "Today was gonna be the day. 💔 Good run, boys. One day, we’ll bring it home.",
+      "url": "https://x.com/EleanorTerrett/status/2077505902274293838",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1230,
+        "retweets": 41,
+        "replies": 93,
+        "quotes": 5,
+        "views": "111955"
+      }
+    },
+    {
       "id": "2077502870476198218",
       "is_retweet": false,
       "original_author": null,
@@ -571,6 +1176,31 @@
       }
     },
     {
+      "id": "2077489995632550388",
+      "is_retweet": true,
+      "original_author": "BeliveLauren",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-15T20:26:27+00:00",
+      "text": "RT @BeliveLauren: Voting no on the Clarity Act isn't being against the crypto industry - it’s anti-consumer. It's a vote to leave crypto holders exposed to bad actors playing regulatory arbitrage. The bipartisan Clarity Act is now advancing towards a vote on the Senate floor, and it is a vote for consumer protection. More ⬇️",
+      "summary": "RT @BeliveLauren: Voting no on the Clarity Act isn't being against the crypto industry - it’s anti-consumer. It's a vote to leave crypto holders…",
+      "url": "https://x.com/milesjennings/status/2077489995632550388",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 58,
+        "replies": 0,
+        "quotes": 0,
+        "views": "220"
+      }
+    },
+    {
       "id": "2077487616413274179",
       "is_retweet": true,
       "original_author": "Crypto_WarRoom",
@@ -618,6 +1248,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "9951"
+      }
+    },
+    {
+      "id": "2077486830983745693",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-15T20:13:53+00:00",
+      "text": "🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿❤️ https://t.co/SAhlceCLrU",
+      "summary": "🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿❤️ https://t.co/SAhlceCLrU",
+      "url": "https://x.com/EleanorTerrett/status/2077486830983745693",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1287,
+        "retweets": 14,
+        "replies": 78,
+        "quotes": 0,
+        "views": "45253"
       }
     },
     {
