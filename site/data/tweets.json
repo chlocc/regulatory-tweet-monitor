@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-16T06:00:37.750890+00:00",
-  "generated_at_unix": 1784181637,
+  "generated_at": "2026-07-16T09:04:19.156704+00:00",
+  "generated_at_unix": 1784192659,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-15T16:00:00+00:00",
-  "window_end": "2026-07-16T06:00:37.750890+00:00",
-  "new_this_run": 23,
-  "total_recent": 26,
-  "errors": [],
+  "window_end": "2026-07-16T09:04:19.156704+00:00",
+  "new_this_run": 14,
+  "total_recent": 40,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -43,6 +48,106 @@
         "replies": 3,
         "quotes": 0,
         "views": "1061"
+      }
+    },
+    {
+      "id": "2077514451733881286",
+      "is_retweet": true,
+      "original_author": "SpeakerJohnson",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-15T22:03:38+00:00",
+      "text": "RT @SpeakerJohnson: Safeguarding American elections and strengthening our national defense are the most basic responsibilities of Congress and are supported by an overwhelming majority of Americans. While House Republicans have UNANIMOUSLY PASSED the SAVE Act THREE TIMES, Congressional Democrats continue OBSTRUCTING our attempts to secure our elections and fund our men and women in uniform. Not any longer. I applaud Chairman Arrington and the entire Budget Committee for moving swiftly to advance this budget resolution and unlock Republicans’ 3rd reconciliation bill.",
+      "summary": "RT @SpeakerJohnson: Safeguarding American elections and strengthening our national defense are the most basic responsibilities of Congress and are…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077514451733881286",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 848,
+        "replies": 0,
+        "quotes": 0,
+        "views": "657"
+      }
+    },
+    {
+      "id": "2077514389104570516",
+      "is_retweet": true,
+      "original_author": "HouseBudgetGOP",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-15T22:03:23+00:00",
+      "text": "RT @HouseBudgetGOP: The SAVE and Protect America Act: Stop Democrat obstruction. Secure our elections. Support our troops. Provide certainty for our food supply. https://t.co/gCHRcT7lWZ",
+      "summary": "RT @HouseBudgetGOP: The SAVE and Protect America Act: Stop Democrat obstruction. Secure our elections. Support our troops. Provide certainty for our…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077514389104570516",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "815"
+      }
+    },
+    {
+      "id": "2077513595873546304",
+      "is_retweet": true,
+      "original_author": "RepMarkHarrisNC",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-15T22:00:14+00:00",
+      "text": "RT @RepMarkHarrisNC: The House just passed its third FY 2027 appropriations bill. It strengthens America’s national security, supports our allies, confronts Communist China and other adversaries, blocks taxpayer funding for radical programs overseas, and cuts $2.69 billion in spending. America’s foreign policy should advance our national interests, not fund blank checks abroad.",
+      "summary": "RT @RepMarkHarrisNC: The House just passed its third FY 2027 appropriations bill. It strengthens America’s national security, supports our allies,…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077513595873546304",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "804"
+      }
+    },
+    {
+      "id": "2077513584578338952",
+      "is_retweet": true,
+      "original_author": "HouseAppropsGOP",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-15T22:00:11+00:00",
+      "text": "RT @HouseAppropsGOP: Security. Strength. Strategy. This is Article I in action - strengthening national security while demanding accountability for every investment. 🇺🇸",
+      "summary": "RT @HouseAppropsGOP: Security. Strength. Strategy. This is Article I in action - strengthening national security while demanding accountability for…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077513584578338952",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "794"
       }
     },
     {
@@ -146,6 +251,31 @@
       }
     },
     {
+      "id": "2077502870476198218",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-15T21:17:37+00:00",
+      "text": "Another government funding bill passed! Thanks to the hard work of @TomColeOK04 and @mariodb, the House has officially passed the fiscal year 2027 national security funding bill. This legislation keeps America First foreign policy at the forefront, strengthens our alliances abroad, and cuts out wasteful international spending.",
+      "summary": "Another government funding bill passed! Thanks to the hard work of @TomColeOK04 and @mariodb, the House has officially passed the fiscal year 2027…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077502870476198218",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31,
+        "retweets": 6,
+        "replies": 14,
+        "quotes": 3,
+        "views": "8469"
+      }
+    },
+    {
       "id": "2077487616413274179",
       "is_retweet": true,
       "original_author": "Crypto_WarRoom",
@@ -193,6 +323,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "9951"
+      }
+    },
+    {
+      "id": "2077485230705758364",
+      "is_retweet": true,
+      "original_author": "0xKolten",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T20:07:31+00:00",
+      "text": "RT @0xKolten: Active loans on Aave V4 are approaching $100 million. We’ll cross it very soon when the new @avax deployment heats up. https://t.co/aljpBWIVJh",
+      "summary": "RT @0xKolten: Active loans on Aave V4 are approaching $100 million. We’ll cross it very soon when the new @avax deployment heats up.…",
+      "url": "https://x.com/LindaJeng1/status/2077485230705758364",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8"
+      }
+    },
+    {
+      "id": "2077485028267671717",
+      "is_retweet": true,
+      "original_author": "BeliveLauren",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-15T20:06:43+00:00",
+      "text": "RT @BeliveLauren: Voting no on the Clarity Act isn't being against the crypto industry - it’s anti-consumer. It's a vote to leave crypto holders exposed to bad actors playing regulatory arbitrage. The bipartisan Clarity Act is now advancing towards a vote on the Senate floor, and it is a vote for consumer protection. More ⬇️",
+      "summary": "RT @BeliveLauren: Voting no on the Clarity Act isn't being against the crypto industry - it’s anti-consumer. It's a vote to leave crypto holders…",
+      "url": "https://x.com/BlockchainAssn/status/2077485028267671717",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 52,
+        "replies": 0,
+        "quotes": 0,
+        "views": "607"
       }
     },
     {
@@ -271,6 +451,31 @@
       }
     },
     {
+      "id": "2077468539561103598",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T19:01:11+00:00",
+      "text": "A vote against the Clarity Act is a vote to leave the same unregulated conditions in place to be exploited by bad actors. We've seen this movie. Let's not watch the sequel.",
+      "summary": "A vote against the Clarity Act is a vote to leave the same unregulated conditions in place to be exploited by bad actors. We've seen this movie.…",
+      "url": "https://x.com/s_alderoty/status/2077468539561103598",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3127,
+        "retweets": 525,
+        "replies": 69,
+        "quotes": 15,
+        "views": "109782"
+      }
+    },
+    {
       "id": "2077463873016274976",
       "is_retweet": false,
       "original_author": null,
@@ -293,6 +498,56 @@
         "replies": 407,
         "quotes": 27,
         "views": "203306"
+      }
+    },
+    {
+      "id": "2077459242135453993",
+      "is_retweet": true,
+      "original_author": "SophiaCookDC",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-15T18:24:15+00:00",
+      "text": "RT @SophiaCookDC: Busy day yesterday for the @BlockchainAssn team. 1st stop: Blockchain Bootcamp & Workforce Expo at the Capitol Technology University📍Hosted by the Maryland Blockchain Association & @bli_tools. @BlockchainAssn and @na_blockchain jointly spoke on the importance of associations: \"The Association Advantage: Why a Unified Voice Moves Blockchain Forward\" 2nd stop: Cocktails & Conversation with Cyber Founders at Pubkey📍Hosted by @generalcatalyst and @WashingtonAINet. Always great to support our members, especially during such a critical time. Let's get CLARITY done.",
+      "summary": "RT @SophiaCookDC: Busy day yesterday for the @BlockchainAssn team. 1st stop: Blockchain Bootcamp & Workforce Expo at the Capitol Technology…",
+      "url": "https://x.com/BlockchainAssn/status/2077459242135453993",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "627"
+      }
+    },
+    {
+      "id": "2077455792135979029",
+      "is_retweet": true,
+      "original_author": "adam_minehardt",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T18:10:32+00:00",
+      "text": "RT @adam_minehardt: CLARITY is stalled exactly where the arithmetic puts it, and attention was never the problem. 5 of 8 steps are done: House passed it 294-134, Senate Banking advanced it 15-9, calendar-eligible since June 1. The last three (60 votes in Senate, House passage, POTUS signature) are the hard part, with no cloture motion filed and about three usable Senate weeks before the August recess. Three disputes are doing the blocking: ethics/insider-trading, Section 604 developer liability, stablecoin yield. And unlike GENIUS, CLARITY has no bank-and-payments constituency forcing them shut. The real risk is inertia. Polymarket has been the live whip count: ~59% in June, sub-40% after the July 4 miss, ~43% now. It's tracking the same disputes staffers are negotiating. This isn't dead, and it's nowhere near guaranteed. The next three weeks are the closing act.",
+      "summary": "RT @adam_minehardt: CLARITY is stalled exactly where the arithmetic puts it, and attention was never the problem. 5 of 8 steps are done: House passed…",
+      "url": "https://x.com/jchervinsky/status/2077455792135979029",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1512"
       }
     },
     {
@@ -421,6 +676,31 @@
       }
     },
     {
+      "id": "2077443447263252776",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-15T17:21:29+00:00",
+      "text": "1/ Thank you to everyone who joined us today for Implementing GENIUS and Preparing for Clarity which we co-hosted with the University of Maryland's @SmithSchool and the Smith Enterprise Risk Consortium. Today's roundtable is part of Blockchain Association's ongoing initiative to engage with leading colleges and universities on digital asset policy, financial regulation, and the digital asset ecosystem. 👇",
+      "summary": "1/ Thank you to everyone who joined us today for Implementing GENIUS and Preparing for Clarity which we co-hosted with the University of Maryland's…",
+      "url": "https://x.com/BlockchainAssn/status/2077443447263252776",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2528"
+      }
+    },
+    {
       "id": "2077443027099111587",
       "is_retweet": true,
       "original_author": "josusanmartin",
@@ -546,6 +826,31 @@
       }
     },
     {
+      "id": "2077436319232381372",
+      "is_retweet": true,
+      "original_author": "canaanio",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-15T16:53:10+00:00",
+      "text": "RT @canaanio: Missed it? 🎙️ Building America’s Digital Infrastructure: Bitcoin, Energy &amp; Policy is up now with Canaan’s Gwyn Lauber @GwynLauber and Blockchain Association EVP Dan Spuller @DanSpuller. If you haven't already, listen here. https://t.co/m3om1FHES7",
+      "summary": "RT @canaanio: Missed it? 🎙️ Building America’s Digital Infrastructure: Bitcoin, Energy &amp; Policy is up now with Canaan’s Gwyn Lauber @GwynLauber…",
+      "url": "https://x.com/BlockchainAssn/status/2077436319232381372",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "617"
+      }
+    },
+    {
       "id": "2077435465502765231",
       "is_retweet": false,
       "original_author": null,
@@ -568,6 +873,56 @@
         "replies": 5,
         "quotes": 0,
         "views": "29746"
+      }
+    },
+    {
+      "id": "2077435024400359747",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-15T16:48:01+00:00",
+      "text": "Tim Walz asked, “How does this make us safer?” in response to Secretary Rubio stepping in to remove an illegal alien convicted of raping a 10-year-old girl. Well, Tim, typically, communities are safer when convicted child predators aren’t just roaming the streets.",
+      "summary": "Tim Walz asked, “How does this make us safer?” in response to Secretary Rubio stepping in to remove an illegal alien convicted of raping a…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077435024400359747",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 295,
+        "retweets": 42,
+        "replies": 32,
+        "quotes": 1,
+        "views": "10078"
+      }
+    },
+    {
+      "id": "2077431990920335502",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-15T16:35:58+00:00",
+      "text": "23 days until the August recess. 52 million American crypto owners are waiting on Clarity. Tell your Senators: it is time to schedule a vote on the Clarity Act. 👇",
+      "summary": "23 days until the August recess. 52 million American crypto owners are waiting on Clarity. Tell your Senators: it is time to schedule a vote on the…",
+      "url": "https://x.com/standwithcrypto/status/2077431990920335502",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 199,
+        "retweets": 52,
+        "replies": 7,
+        "quotes": 3,
+        "views": "6045"
       }
     },
     {
