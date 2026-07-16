@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-07-16T12:15:45.505642+00:00",
-  "generated_at_unix": 1784204145,
+  "generated_at": "2026-07-16T15:00:05.564285+00:00",
+  "generated_at_unix": 1784214005,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-15T16:00:00+00:00",
-  "window_end": "2026-07-16T12:15:45.505642+00:00",
-  "new_this_run": 4,
-  "total_recent": 44,
-  "errors": [
-    {
-      "username": "kspaglia",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-07-16T15:00:05.564285+00:00",
+  "new_this_run": 12,
+  "total_recent": 56,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2077750514435981394",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T13:41:40+00:00",
+      "text": "How does the CFTC tackle a topic like perpetual futures? @passalacqua_mj, Senior Advisor to @ChairmanSelig, on how the CFTC goes from a policy goal to substantive outcome. https://t.co/Lsnvw6XBeN",
+      "summary": "How does the CFTC tackle a topic like perpetual futures? @passalacqua_mj, Senior Advisor to @ChairmanSelig, on how the CFTC goes from a policy goal…",
+      "url": "https://x.com/JacobRobinsonJD/status/2077750514435981394",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "256"
+      }
+    },
+    {
+      "id": "2077733404540342543",
+      "is_retweet": true,
+      "original_author": "scottmelker",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T12:33:40+00:00",
+      "text": "RT @scottmelker: RIPPLE $XRP CLO STUART ALDEROTY: \"A VOTE AGAINST THE CLARITY ACT IS A VOTE TO LEAVE THE SAME UNREGULATED CONDITIONS IN PLACE TO BE EXPLOITED BY BAD ACTORS.\"",
+      "summary": "RT @scottmelker: RIPPLE $XRP CLO STUART ALDEROTY: \"A VOTE AGAINST THE CLARITY ACT IS A VOTE TO LEAVE THE SAME UNREGULATED CONDITIONS IN PLACE TO BE…",
+      "url": "https://x.com/JohnEDeaton1/status/2077733404540342543",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3565"
+      }
+    },
+    {
+      "id": "2077732003068198917",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T12:28:06+00:00",
+      "text": "The Adam Smith Institute's Freedom of Speech Bill abolishes \"grossly offensive\" speech as a criminal category. These posts, whilst wildly offensive, are nonetheless nonviolent expressions of opinion and in the drafters' view should not be criminalized. https://t.co/AvlpmjGkG2",
+      "summary": "The Adam Smith Institute's Freedom of Speech Bill abolishes \"grossly offensive\" speech as a criminal category. These posts, whilst wildly offensive,…",
+      "url": "https://x.com/prestonjbyrne/status/2077732003068198917",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 104,
+        "retweets": 18,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2934"
+      }
+    },
     {
       "id": "2077726224760131858",
       "is_retweet": true,
@@ -48,6 +118,131 @@
         "replies": 0,
         "quotes": 0,
         "views": "542"
+      }
+    },
+    {
+      "id": "2077707372961644931",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T10:50:14+00:00",
+      "text": "Ofcom's announcements around its new investigation into TikTok this morning are unusually media-forward. Normally, when the agency opens a new enforcement file, it is not quite this noisy. In early 2025, Ofcom opened with letters. In several high-profile attempted enforcements against my clients, you would also see embargoed press releases or public comment made to fairly low-circulation trade press. Doing a media blitz with agency personnel on national broadcast media (BBC Breakfast/LBC) is, in terms of the agency's normal pattern, highly unusual. My suspicion is that Ofcom is front-loading a PR campaign to manage public perception of its role, where prior enforcement actions have generally not resulted in the desired outcome by no fault of Ofcom's, but rather due to defects in the OSA's design by Parliament. The OSA's extraterritorial enforcement failures (many fines issued, only one collected from a domestic target) are, by now, well-known. Making a big story out of another, new, domestic UK target - TikTok, having London offices, is reachable, not judgment-proof, and compliance is likely - is making a story out of an enforcement case that Ofcom can actually win, without explaining the structural reason for that. The reason is that domestic enforcement cases are the only winnable ones, because a UK penalty is only as good as the UK's ability to collect it (and doing so beyond its borders is challenging if not impossible).",
+      "summary": "Ofcom's announcements around its new investigation into TikTok this morning are unusually media-forward. Normally, when the agency opens a new…",
+      "url": "https://x.com/prestonjbyrne/status/2077707372961644931",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 227,
+        "retweets": 28,
+        "replies": 12,
+        "quotes": 1,
+        "views": "6728"
+      }
+    },
+    {
+      "id": "2077575492736004400",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T02:06:11+00:00",
+      "text": "https://t.co/OOjZl2wdWr",
+      "summary": "https://t.co/OOjZl2wdWr",
+      "url": "https://x.com/theblockprof/status/2077575492736004400",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "564"
+      }
+    },
+    {
+      "id": "2077575100094623940",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T02:04:37+00:00",
+      "text": "My dad taught me if there’s something that can’t be fixed with duct tape then it just means you aren’t using enough duct tape. My kids have destroyed every glass drawer in this fridge. Eventually I will have a fridge made of duct tape. https://t.co/3JGomz3OYc",
+      "summary": "My dad taught me if there’s something that can’t be fixed with duct tape then it just means you aren’t using enough duct tape. My kids have destroyed…",
+      "url": "https://x.com/theblockprof/status/2077575100094623940",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "513"
+      }
+    },
+    {
+      "id": "2077539616056328206",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T23:43:37+00:00",
+      "text": "A version of the GRANITE Act, a foreign censorship shield bill devised by myself, @Arceris_btc and @RepDanielSingh , is being considered for adoption as an @ALEC_States model policy. https://t.co/eFM0L1yPXZ",
+      "summary": "A version of the GRANITE Act, a foreign censorship shield bill devised by myself, @Arceris_btc and @RepDanielSingh , is being considered for adoption…",
+      "url": "https://x.com/prestonjbyrne/status/2077539616056328206",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 87,
+        "retweets": 21,
+        "replies": 3,
+        "quotes": 0,
+        "views": "8024"
+      }
+    },
+    {
+      "id": "2077538400693875110",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T23:38:48+00:00",
+      "text": "On this day we remember Sergeant Micheal C. Chesna, a six year veteran of the Weymouth Police Department who was shot and killed after responding to reports of an erratic operator near South Shore Hospital. Upon arrival, he observed the vehicle had crashed and the driver was vandalizing a home nearby. Sergeant Chesna was struck in the head with a large rock, disarmed and fatally shot by the suspect, who also fatally shot Vera Adams in her home. The suspect was subsequently arrested by responding officers and taken into custody. The suspect has since been convicted of first-degree murder in the death of Sergeant Chesna and second-degree murder in the death of Vera Adams. Sergeant Chesna was a U.S. Army Veteran and recipient of the Purple Heart. He is survived by his wife and two children. Sergeant Michael C. Chesna eight years have passed, you are not forgotten.",
+      "summary": "On this day we remember Sergeant Micheal C. Chesna, a six year veteran of the Weymouth Police Department who was shot and killed after responding to…",
+      "url": "https://x.com/JohnEDeaton1/status/2077538400693875110",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 103,
+        "retweets": 19,
+        "replies": 3,
+        "quotes": 1,
+        "views": "10901"
       }
     },
     {
@@ -351,6 +546,31 @@
       }
     },
     {
+      "id": "2077497632528683345",
+      "is_retweet": true,
+      "original_author": "efenigson",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T20:56:48+00:00",
+      "text": "RT @efenigson: Banks Said No. Bitcoin Said Yes. How \"Born To Be Free\" Was Financed Without Selling a Sat | Ledn Spotlight At Camp Nakamoto, I sat down with John and Nadja of @BornTo_BeFree, an all-natural, tallow-based skincare brand built from scratch on a Bitcoin standard. They shared how traditional banks turned them down for a loan despite an 800 credit score and a profitable business, and how @hodlwithLedn Bitcoin-backed loans help them fund their business without selling a single sat. It's a real-world look at how Bitcoiners are using tools like Ledn to access liquidity, grow their businesses, and stay true to their low-time-preference mindset, without giving up their stack.",
+      "summary": "RT @efenigson: Banks Said No. Bitcoin Said Yes. How \"Born To Be Free\" Was Financed Without Selling a Sat | Ledn Spotlight At Camp Nakamoto, I sat…",
+      "url": "https://x.com/HaileyLennonBTC/status/2077497632528683345",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "295"
+      }
+    },
+    {
       "id": "2077487616413274179",
       "is_retweet": true,
       "original_author": "Crypto_WarRoom",
@@ -476,6 +696,31 @@
       }
     },
     {
+      "id": "2077479473184919999",
+      "is_retweet": true,
+      "original_author": "kakashiii111",
+      "username": "kakashiii111",
+      "display_name": "Kakashii",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T19:44:38+00:00",
+      "text": "RT @kakashiii111: The global electronics component shortage of 2000 remains a legendary supply chain case study. It occurred at the absolute peak of the dot-com bubble, a unique moment when multiple major technological shifts converged simultaneously. The market was hit by the explosive growth of mobile phones, the rapid build-out of internet routing infrastructure, a booming personal computer market, and a massive wave of corporate hardware upgrades driven by pre-millennium Y2K fears. When global manufacturing capacity couldn't keep pace, essential components such as flash memory quickly ran short, creating the perfect conditions for memory manufacturers to organize a cartel and discuss pricing and allocation. The dot-com era was not the first time this happened. The fact that only a handful of companies controlled the global memory market created fertile ground for price matching and allocation coordination. And that brings us to today. The 2000 case study can help us better understand today's market dynamics, supply chain developments, and the forces shaping the memory industry. Read my article: https://t.co/FuIgjpNHmj",
+      "summary": "RT @kakashiii111: The global electronics component shortage of 2000 remains a legendary supply chain case study. It occurred at the absolute peak of…",
+      "url": "https://x.com/kakashiii111/status/2077479473184919999",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2077476242635342113",
       "is_retweet": false,
       "original_author": null,
@@ -498,6 +743,31 @@
         "replies": 258,
         "quotes": 15,
         "views": "101506"
+      }
+    },
+    {
+      "id": "2077475085267407006",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T19:27:12+00:00",
+      "text": "And, let the next crypto bull run begin.",
+      "summary": "And, let the next crypto bull run begin.",
+      "url": "https://x.com/theblockprof/status/2077475085267407006",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "854"
       }
     },
     {
@@ -1023,6 +1293,31 @@
         "replies": 7,
         "quotes": 3,
         "views": "6045"
+      }
+    },
+    {
+      "id": "2077429841238868201",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-15T16:27:25+00:00",
+      "text": "It's impossible for Kalshi to satisfy both state and federal regulatory obligations. This is incompatible with a functioning national market. @ThaniaCh wrote the above, and explains in this clip why this is a textbook fact pattern of conflict preemption. \"The law says that federal law must prevail.\"",
+      "summary": "It's impossible for Kalshi to satisfy both state and federal regulatory obligations. This is incompatible with a functioning national market.…",
+      "url": "https://x.com/JacobRobinsonJD/status/2077429841238868201",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 2,
+        "views": "1450"
       }
     },
     {
