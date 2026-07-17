@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-17T15:00:33.260607+00:00",
-  "generated_at_unix": 1784300433,
+  "generated_at": "2026-07-17T18:00:44.546740+00:00",
+  "generated_at_unix": 1784311244,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-16T16:00:00+00:00",
-  "window_end": "2026-07-17T15:00:33.260607+00:00",
-  "new_this_run": 18,
-  "total_recent": 80,
-  "errors": [],
+  "window_end": "2026-07-17T18:00:44.546740+00:00",
+  "new_this_run": 23,
+  "total_recent": 103,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078157301773385741",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T16:38:05+00:00",
+      "text": "https://t.co/nlsQes6ud4",
+      "summary": "https://t.co/nlsQes6ud4",
+      "url": "https://x.com/EleanorTerrett/status/2078157301773385741",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 150,
+        "retweets": 17,
+        "replies": 4,
+        "quotes": 0,
+        "views": "19870"
+      }
+    },
     {
       "id": "2078128338413944886",
       "is_retweet": false,
@@ -68,6 +98,56 @@
         "replies": 2,
         "quotes": 0,
         "views": "1003"
+      }
+    },
+    {
+      "id": "2078115833079824616",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T13:53:18+00:00",
+      "text": "The @FinancialCmte will hold a field hearing at 10 AM ET in New York examining how the Clarity Act could unlock innovation. The hearing is informational and does not affect the Senate’s consideration of the bill. Meanwhile, updated legislative text remains elusive following yesterday’s meeting between President Trump and Senate Republicans on ethics. Industry leaders tell me they’re now preparing for the rollout of text to slip into next week.",
+      "summary": "The @FinancialCmte will hold a field hearing at 10 AM ET in New York examining how the Clarity Act could unlock innovation. The hearing is…",
+      "url": "https://x.com/EleanorTerrett/status/2078115833079824616",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 877,
+        "retweets": 163,
+        "replies": 54,
+        "quotes": 18,
+        "views": "82223"
+      }
+    },
+    {
+      "id": "2078111732061606169",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T13:37:01+00:00",
+      "text": "Further elaboration on this - given it looks like another VC funding cycle is starting and I don't want founders to go down the 'market standard' path of getting fucked over by VCs. If you are fundraising or know anyone fundraising, please fucking bookmark and share this. When you raise money via a SAFE + Token Warrant, for a project that intends to have a token, the most important provision in your fundraising documents is the definition of 'Portion' in your token warrant. This defines how many tokens your investor gets in the event there is a TGE and you must negotiate this. There are broadly, two versions of the deal structure. See the attached image. In the first structure, your investors get a percentage of your total supply. So if your investors invested 1m at 10m valuation cap (lets not account for potential dilution rn), the intention is they would get 10% of your total supply. So if you TGE with 1 billion tokens, your investors would get 100 million tokens. In the second structure, your investors get a percentage of the 'company supply'. So if your investors invest 1m at 10m valuation cap, what they get is 10% of whatever supply you allocate to team. So if you allocate 30% to 'team', the investor would get 30 million tokens (10% of 300 million). Investors will try to tell you that the first structure is 'standard', because they got used to it in the 2022 venture cycle and because its very investor favored. You need to push back on this because its fucking retarded. When an investor invests in you, what should happen is that their outcome should be tied to yours. When you sell them '10%' of your equity, the logical position should be that you are selling them 10% of your economics. i.e. if you as the project team exits for 90m, they get 10m. When you allow this mentally ill structure into your funding round, what is happening is that you are getting a far lower 'true val' than you are expecting. When you TGE, you aren't going to allocate 90% of tokens to team and 10% to investors. You are realistically only going to allocate 20-30% to team, because the rest should be used for protocol growth. So why the fuck would you allocate 10% to investors? With this provision, you think you have only sold 10% of your economics, but you have really sold something like 33%, because your investor has an outsized allocation in the protocol economics vis your team! Please for the love of Christ push back on this retarded framing of selling a fixed percentage of total supply to VCs. Image attached to demonstrate how the two different positions work. I'll write a longer essay when I'm sober, I'm like 7 drinks in.",
+      "summary": "Further elaboration on this - given it looks like another VC funding cycle is starting and I don't want founders to go down the 'market standard'…",
+      "url": "https://x.com/wassielawyer/status/2078111732061606169",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 78,
+        "retweets": 5,
+        "replies": 5,
+        "quotes": 2,
+        "views": "12425"
       }
     },
     {
@@ -146,6 +226,56 @@
       }
     },
     {
+      "id": "2078102718254837930",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T13:01:11+00:00",
+      "text": "📱 E*TRADE users can now buy Bitcoin, Ethereum, and Solana right next to their stocks. Morgan Stanley just flipped the switch, routing trades through ZeroHash at a 0.5% fee. https://t.co/tLmUFLXZfa",
+      "summary": "📱 E*TRADE users can now buy Bitcoin, Ethereum, and Solana right next to their stocks. Morgan Stanley just flipped the switch, routing trades through…",
+      "url": "https://x.com/laurashin/status/2078102718254837930",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2425"
+      }
+    },
+    {
+      "id": "2078095120281612716",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T12:31:00+00:00",
+      "text": "🏦 Visa just built a stablecoin pipeline for 15,000 banks and 200M+ merchants. First coin through the door: OUSD, backed by 140+ companies including Visa, Mastercard, and BlackRock. https://t.co/GbhtNbF6Be",
+      "summary": "🏦 Visa just built a stablecoin pipeline for 15,000 banks and 200M+ merchants. First coin through the door: OUSD, backed by 140+ companies including…",
+      "url": "https://x.com/laurashin/status/2078095120281612716",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 1,
+        "views": "2605"
+      }
+    },
+    {
       "id": "2078091295696822344",
       "is_retweet": true,
       "original_author": "NickJRishwain",
@@ -196,6 +326,56 @@
       }
     },
     {
+      "id": "2078087935165862052",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T12:02:27+00:00",
+      "text": "Trump's teleprompter operator has read his speeches since 2016. Turns out he was also betting on which words would appear in them, pocketing $100K+ on Kalshi, including during the State of the Union. 👀 Now he's in CFTC settlement talks. https://t.co/S0dvpemWlu",
+      "summary": "Trump's teleprompter operator has read his speeches since 2016. Turns out he was also betting on which words would appear in them, pocketing $100K+…",
+      "url": "https://x.com/laurashin/status/2078087935165862052",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2415"
+      }
+    },
+    {
+      "id": "2078087718915940793",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T12:01:35+00:00",
+      "text": "💰 Ken Griffin's Citadel Securities just wrote its first-ever crypto check: $400M into Crypto(dot)com at a $20B valuation. The money's earmarked for tokenized securities and derivatives. https://t.co/xn5c7qodFa",
+      "summary": "💰 Ken Griffin's Citadel Securities just wrote its first-ever crypto check: $400M into Crypto(dot)com at a $20B valuation. The money's earmarked for…",
+      "url": "https://x.com/laurashin/status/2078087718915940793",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 1,
+        "views": "2376"
+      }
+    },
+    {
       "id": "2078087374219641280",
       "is_retweet": true,
       "original_author": "xethalis",
@@ -218,6 +398,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "54"
+      }
+    },
+    {
+      "id": "2078087240224321684",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T11:59:41+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Trump's teleprompter operator allegedly won over $100,000 betting on his speeches 💵 Citadel Securities took a $400 million stake in Crypto(dot)com 💳 Visa launched a platform letting banks use stablecoins, starting with OUSD 📈 Morgan Stanley rolled out spot Bitcoin, Ethereum, and Solana trading on E*TRADE 📈 Read the latest update… and get more daily! Subscribe. https://t.co/JBmtlbYFGW",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Trump's teleprompter operator allegedly won over $100,000 betting on his speeches 💵 Citadel Securities took…",
+      "url": "https://x.com/laurashin/status/2078087240224321684",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1684"
       }
     },
     {
@@ -271,6 +476,31 @@
       }
     },
     {
+      "id": "2078037144350941661",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T08:40:37+00:00",
+      "text": "VCs getting % of total token supply instead of % of company supply is the silent killer for venture backed founders.",
+      "summary": "VCs getting % of total token supply instead of % of company supply is the silent killer for venture backed founders.",
+      "url": "https://x.com/wassielawyer/status/2078037144350941661",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 72,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 2,
+        "views": "18001"
+      }
+    },
+    {
       "id": "2078029718926823697",
       "is_retweet": true,
       "original_author": "ossoff",
@@ -293,6 +523,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "12"
+      }
+    },
+    {
+      "id": "2078013891188297784",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T07:08:13+00:00",
+      "text": "Unironically, Ukraine. Set up in a contested town / city that’s held by Ukraine atm, ideally one that was previously blitzed by Russia but retaken and has limited strategic value. Set up a drone unit of non-NATO citizens and have them support the war effort deep underground in a limited but not immaterial capacity. NATO citizens should support but not be in combat roles. Build rapport with locals. Europe / USA has mostly lost interest in war and Russia won’t want to inflict NATO citizen casualties to reinvigorate them. Stockpile drones and weaponry in the chaos of war. Pray a ceasefire and peace treaty is achieved. Flood investment into the town / city after peace is achieved. Align with local government etc. Rebuild parts of the city and claim ownership under local laws. Lobby / bribe your way into de facto SEZ status, whilst ostensibly integrating your drone unit into Ukrainian military. Do not surrender entire weapons stockpile. National service for all NS new joiners, six months of combat drone training. Secretly build a Samson Option with the weapons stockpile you hid. It’s not nuclear but enough to blow up key infra in the host country. Have a few brave volunteers be caught installing your mutually assured destruction apparatus. Denounce them terrorists and “execute” them. Hand over the “plans” and fully “cooperate” with the Ukrainian government. We do not support terrorist action and we are guests under the Ukrainians sovereignty. Now you have a friendly host nation that will always, have at the back of its mind, the possibility that a Samson Option exists. You have your own military. You have rights enshrined in a SEZ arrangement. You can borrow the international relations and the military of the host nation. Welcome to the network state.",
+      "summary": "Unironically, Ukraine. Set up in a contested town / city that’s held by Ukraine atm, ideally one that was previously blitzed by Russia but retaken…",
+      "url": "https://x.com/wassielawyer/status/2078013891188297784",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 21,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "views": "5300"
+      }
+    },
+    {
+      "id": "2077964846696644620",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T03:53:20+00:00",
+      "text": "Balaji should just do a deal with Johor to get a petrol station that allows Sinkie car plates with a NS membership to pump RON95 in Forest City. He will immediately have a legion of operationally ready Sinkie soldiers stationed in Woodlands ready to defend his sovereignty.",
+      "summary": "Balaji should just do a deal with Johor to get a petrol station that allows Sinkie car plates with a NS membership to pump RON95 in Forest City. He…",
+      "url": "https://x.com/wassielawyer/status/2077964846696644620",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 86,
+        "retweets": 5,
+        "replies": 6,
+        "quotes": 2,
+        "views": "5933"
       }
     },
     {
@@ -496,6 +776,31 @@
       }
     },
     {
+      "id": "2077949688616308746",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T02:53:06+00:00",
+      "text": "'It was literally an apathy attack,' @DrNickA told me about the exploit pattern hitting DAOs from Compound to BonkDAO. No one was watching, so no one stopped it. 👀 https://t.co/Ju8ycj0Sy2",
+      "summary": "'It was literally an apathy attack,' @DrNickA told me about the exploit pattern hitting DAOs from Compound to BonkDAO. No one was watching, so no one…",
+      "url": "https://x.com/laurashin/status/2077949688616308746",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3364"
+      }
+    },
+    {
       "id": "2077945152774058322",
       "is_retweet": true,
       "original_author": "WhiteHouse",
@@ -621,6 +926,31 @@
       }
     },
     {
+      "id": "2077937125027111121",
+      "is_retweet": true,
+      "original_author": "jacqmelinek",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T02:03:11+00:00",
+      "text": "RT @jacqmelinek: Shoutout to @Injective for hosting an event with the most beautiful view in DC (yes that background is real!) And thank you for having @CryptoAmerica_ there to host the livestream 🇺🇸 https://t.co/uq3cV3Foys",
+      "summary": "RT @jacqmelinek: Shoutout to @Injective for hosting an event with the most beautiful view in DC (yes that background is real!) And thank you for…",
+      "url": "https://x.com/EleanorTerrett/status/2077937125027111121",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10440"
+      }
+    },
+    {
       "id": "2077929232655634776",
       "is_retweet": false,
       "original_author": null,
@@ -671,6 +1001,31 @@
       }
     },
     {
+      "id": "2077927473258401929",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T01:24:50+00:00",
+      "text": "RT @laurashin: 'It's just a little bit crazy to throw all this money with no accountability,' @metaproph3t told me about ENS's treasury. @DrNickA sees it differently. They also touched on BonkDAO, VVV and MetaDAO. 🍯 Timestamps: 🏛️ 01:06 Laura frames the DAO reckoning: disbandments, low turnout, and the Venice fight 📉 08:26 How ENS DAO's collapsing voter turnout let a 3% stake decide its fate ⚖️ 12:55 Proph3t on why voting is a cost, and how a 51% attack captures a DAO 🏦 19:11 Nick maps DAOs' next phase: substructures picked for expertise, not popularity 🍯 24:09 Why Jeff Lau called ENS's treasury plan a honeypot with zero accountability 📣 28:50 Cape: Get 33% off six months of privacy first mobile service at https://t.co/2ZtLziXsHV 🏗️ 29:49 Why founders like Nick Johnson get vilified for wanting DAOs to run efficiently 🗳️ 36:35 Why Nick Johnson's silent vote against ENS's Security Council reads as an attack 💰 41:34 How BonkDAO lost $20 million to one proposal backed by just seven votes 🧩 46:22 Why Proph3t would not buy Venice's VVV token despite defending its disclosures 🔮 56:45 Proph3t on MetaDAO's origin story: pro oversight, not pro governance",
+      "summary": "RT @laurashin: 'It's just a little bit crazy to throw all this money with no accountability,' @metaproph3t told me about ENS's treasury. @DrNickA…",
+      "url": "https://x.com/laurashin/status/2077927473258401929",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2077923145739120928",
       "is_retweet": true,
       "original_author": "theblockprof",
@@ -718,6 +1073,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "98"
+      }
+    },
+    {
+      "id": "2077912548096303360",
+      "is_retweet": true,
+      "original_author": "_jikim",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-17T00:25:31+00:00",
+      "text": "RT @_jikim: This is one of the many reasons we need CLARITY. More and more assets and infrastructure are moving onchain, and blockchain infrastructure will be the core ledger of finance. The question is where that growth gets anchored. CLARITY answers that with a framework that protects consumers and ensures U.S. leadership. The time is now.",
+      "summary": "RT @_jikim: This is one of the many reasons we need CLARITY. More and more assets and infrastructure are moving onchain, and blockchain…",
+      "url": "https://x.com/milesjennings/status/2077912548096303360",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "209"
       }
     },
     {
@@ -796,6 +1176,31 @@
       }
     },
     {
+      "id": "2077904394767737216",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T23:53:07+00:00",
+      "text": "If you have 51% of a DAO's tokens, @metaproph3t says you could vote yourself the entire treasury and still come out ahead. That's the flaw MetaDAO's decision markets are built to fix. 🧮 https://t.co/JAHUhkrVnl",
+      "summary": "If you have 51% of a DAO's tokens, @metaproph3t says you could vote yourself the entire treasury and still come out ahead. That's the flaw MetaDAO's…",
+      "url": "https://x.com/laurashin/status/2077904394767737216",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2997"
+      }
+    },
+    {
       "id": "2077892160272187817",
       "is_retweet": true,
       "original_author": "MetaLawMan",
@@ -868,6 +1273,31 @@
         "replies": 27,
         "quotes": 3,
         "views": "30853"
+      }
+    },
+    {
+      "id": "2077889813336719728",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T22:55:11+00:00",
+      "text": "'It's just a little bit crazy to throw all this money with no accountability,' @metaproph3t told me about ENS's treasury. @DrNickA sees it differently. They also touched on BonkDAO, VVV and MetaDAO. 🍯 Timestamps: 🏛️ 01:06 Laura frames the DAO reckoning: disbandments, low turnout, and the Venice fight 📉 08:26 How ENS DAO's collapsing voter turnout let a 3% stake decide its fate ⚖️ 12:55 Proph3t on why voting is a cost, and how a 51% attack captures a DAO 🏦 19:11 Nick maps DAOs' next phase: substructures picked for expertise, not popularity 🍯 24:09 Why Jeff Lau called ENS's treasury plan a honeypot with zero accountability 📣 28:50 Cape: Get 33% off six months of privacy first mobile service at https://t.co/2ZtLziXsHV 🏗️ 29:49 Why founders like Nick Johnson get vilified for wanting DAOs to run efficiently 🗳️ 36:35 Why Nick Johnson's silent vote against ENS's Security Council reads as an attack 💰 41:34 How BonkDAO lost $20 million to one proposal backed by just seven votes 🧩 46:22 Why Proph3t would not buy Venice's VVV token despite defending its disclosures 🔮 56:45 Proph3t on MetaDAO's origin story: pro oversight, not pro governance",
+      "summary": "'It's just a little bit crazy to throw all this money with no accountability,' @metaproph3t told me about ENS's treasury. @DrNickA sees it…",
+      "url": "https://x.com/laurashin/status/2077889813336719728",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 4,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3211"
       }
     },
     {
@@ -971,6 +1401,31 @@
       }
     },
     {
+      "id": "2077884230378586133",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T22:33:00+00:00",
+      "text": "Should a DAO ever control its own treasury? @DrNickA and @metaproph3t helped me untangle that question, from curated delegates to decision markets to why voting itself might be the wrong goal. 🗳️ https://t.co/6cTYGDghe9",
+      "summary": "Should a DAO ever control its own treasury? @DrNickA and @metaproph3t helped me untangle that question, from curated delegates to decision markets to…",
+      "url": "https://x.com/laurashin/status/2077884230378586133",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3519"
+      }
+    },
+    {
       "id": "2077875948276355505",
       "is_retweet": true,
       "original_author": "zherring",
@@ -993,6 +1448,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "752"
+      }
+    },
+    {
+      "id": "2077874446719959066",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T21:54:07+00:00",
+      "text": "\"It seems like he's bringing some of the product guys at Coinbase down a notch and back into the community\" Taylor on why Cobie's ground floor approach matters at Coinbase \"When Cobie joined Coinbase originally I could see it, two things could happen. First is that he just gets so disgusted by Coinbase and their ivory tower shit and just immediately gets super disenchanted and gives up. The other is that he powers through and brings his unique sort of, the way he approaches things\" \"He's never up in the ivory tower, he is always on the ground floor, he's always listening to people, bringing that to Coinbase and Coinbase employees. I think he's still doing that\" \"He's been quieter on Twitter lately, but back listening, and if they can do that successfully, I think it's massively important\"",
+      "summary": "\"It seems like he's bringing some of the product guys at Coinbase down a notch and back into the community\" Taylor on why Cobie's ground floor…",
+      "url": "https://x.com/laurashin/status/2077874446719959066",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 34,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 0,
+        "views": "13834"
+      }
+    },
+    {
+      "id": "2077871548967354804",
+      "is_retweet": true,
+      "original_author": "SovereignGains",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T21:42:36+00:00",
+      "text": "RT @SovereignGains: Well @JohannKerbrat from @RobinhoodApp went on @laurashin's podcast and said, \"We think this is just the beginning. This is just two weeks in. There's a lot more we are planning on building on top of it.\" Also clear Robinhood is holding things back until Clarity Act passes. I wonder what they'll be building on top of Robinhood Chain if and when Clarity Act passes.",
+      "summary": "RT @SovereignGains: Well @JohannKerbrat from @RobinhoodApp went on @laurashin's podcast and said, \"We think this is just the beginning. This is just…",
+      "url": "https://x.com/laurashin/status/2077871548967354804",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1472"
+      }
+    },
+    {
+      "id": "2077869868544926167",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T21:35:56+00:00",
+      "text": "\"I was like, wait, why am I seeing a fucking penguin and not my friends\" Taylor on the overnight X algorithm switchup \"For me it was the cute animal videos. I'd be on crypto Twitter and then these cute animal videos, especially the AI generated ones. A penguin eating a fish but it's 100% AI, it was horrible\" \"Overnight Nikita flipped the switch. I'm happy about that, but it is wild\" \"It's wild that they had fucked the algo for that long, to be honest\"",
+      "summary": "\"I was like, wait, why am I seeing a fucking penguin and not my friends\" Taylor on the overnight X algorithm switchup \"For me it was the cute animal…",
+      "url": "https://x.com/laurashin/status/2077869868544926167",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "5207"
       }
     },
     {
@@ -1021,6 +1551,31 @@
       }
     },
     {
+      "id": "2077858210044621258",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-16T20:49:36+00:00",
+      "text": "RT @BlockchainAssn: Happening now: @SummerMersinger joins @CryptoAmerica_ live from the @injective Summit in DC. https://t.co/7w9SKvp8WP https://t.co/VGJm91MVOI",
+      "summary": "RT @BlockchainAssn: Happening now: @SummerMersinger joins @CryptoAmerica_ live from the @injective Summit in DC. https://t.co/7w9SKvp8WP…",
+      "url": "https://x.com/EleanorTerrett/status/2077858210044621258",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10646"
+      }
+    },
+    {
       "id": "2077853528324727247",
       "is_retweet": true,
       "original_author": "HLglobal_",
@@ -1043,6 +1598,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1348"
+      }
+    },
+    {
+      "id": "2077852163997667458",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-16T20:25:35+00:00",
+      "text": "RT @faryarshirzad: Patrick McHenry knows better than anyone how critical it is for Congress to act proactively to establish consumer protections and law enforcement enhancements - and ensure that the next generation of the financial system is built in the US. Let’s get CLARITY done.",
+      "summary": "RT @faryarshirzad: Patrick McHenry knows better than anyone how critical it is for Congress to act proactively to establish consumer protections and…",
+      "url": "https://x.com/milesjennings/status/2077852163997667458",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": "220"
       }
     },
     {
