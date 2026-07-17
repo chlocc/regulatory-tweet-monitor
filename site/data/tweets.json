@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-07-17T06:14:19.079952+00:00",
-  "generated_at_unix": 1784268859,
+  "generated_at": "2026-07-17T09:13:55.901373+00:00",
+  "generated_at_unix": 1784279635,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-16T16:00:00+00:00",
-  "window_end": "2026-07-17T06:14:19.079952+00:00",
-  "new_this_run": 28,
-  "total_recent": 32,
+  "window_end": "2026-07-17T09:13:55.901373+00:00",
+  "new_this_run": 19,
+  "total_recent": 51,
   "errors": [
     {
-      "username": "SECGov",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "VP",
+      "username": "RoKhanna",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -430,6 +426,131 @@
       }
     },
     {
+      "id": "2077885862533276074",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T22:39:29+00:00",
+      "text": "This “TA” from DOJ suggests something that’s literally in the Grassley compromise language added to the BRCA in the Senate Banking markup version: “If lawmakers wanted to preserve the “current standards” of money laundering charges, the DOJ said a “simpler option would be to cross-reference 1960(b)(1)(C) in the clarification of treatment section,” per the email.” Clarification of treatment with cross-reference in that exact section!",
+      "summary": "This “TA” from DOJ suggests something that’s literally in the Grassley compromise language added to the BRCA in the Senate Banking markup version:…",
+      "url": "https://x.com/amandatums/status/2077885862533276074",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "590"
+      }
+    },
+    {
+      "id": "2077885852202725778",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T22:39:27+00:00",
+      "text": "This story gets DOJ’s position wrong, gets Section 1960 wrong, and gets both Senator Cortez Masto’s amendment and the Grassley compromise wrong. I’d be impressed if it wasn’t so disappointing to see more unsupported anti-Clarity reporting. Putting aside the fact that @BrendanPedersen does not include recent, directly-on-point, publicly reported DOJ statements from June 23 saying the exact opposite of the supposed DOJ email cited here (see below), the bigger issue is that the article and the DOJ statements cited within do not accurately cite the criminal code. Money laundering is prohibited in 18 USC 1956 and 1957; operating an unlicensed money transmitting business is covered in 18 USC 1960. The BRCA clarifies the application of “money transmitting” for the BSA and 1960 and says nothing at all about money laundering or 1956 or 1957. Further breakdown in replies",
+      "summary": "This story gets DOJ’s position wrong, gets Section 1960 wrong, and gets both Senator Cortez Masto’s amendment and the Grassley compromise wrong. I’d…",
+      "url": "https://x.com/amandatums/status/2077885852202725778",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 59,
+        "retweets": 17,
+        "replies": 8,
+        "quotes": 5,
+        "views": "7783"
+      }
+    },
+    {
+      "id": "2077853528324727247",
+      "is_retweet": true,
+      "original_author": "HLglobal_",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T20:31:00+00:00",
+      "text": "RT @HLglobal_: What does regulatory clarity look like for Hyperliquid? @lindsayfraser0, @_jikim, and @CodyCarboneDC join @jchervinsky to discuss the policy priorities, legislative proposals, and industry advocacy shaping the path forward. https://t.co/vC7HAM4HYr",
+      "summary": "RT @HLglobal_: What does regulatory clarity look like for Hyperliquid? @lindsayfraser0, @_jikim, and @CodyCarboneDC join @jchervinsky to discuss the…",
+      "url": "https://x.com/jchervinsky/status/2077853528324727247",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1348"
+      }
+    },
+    {
+      "id": "2077850308240150853",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T20:18:12+00:00",
+      "text": "Happening now: @SummerMersinger joins @CryptoAmerica_ live from the @injective Summit in DC. https://t.co/7w9SKvp8WP https://t.co/VGJm91MVOI",
+      "summary": "Happening now: @SummerMersinger joins @CryptoAmerica_ live from the @injective Summit in DC. https://t.co/7w9SKvp8WP https://t.co/VGJm91MVOI",
+      "url": "https://x.com/BlockchainAssn/status/2077850308240150853",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 74,
+        "retweets": 11,
+        "replies": 2,
+        "quotes": 1,
+        "views": "17202"
+      }
+    },
+    {
+      "id": "2077847765900562931",
+      "is_retweet": true,
+      "original_author": "HLglobal_",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T20:08:06+00:00",
+      "text": "RT @HLglobal_: Afternoon at the HL Summit kicks off with a keynote from @jchervinsky of @HyperliquidPC. Jake discusses the evolving US crypto policy landscape and where Hyperliquid stands today. https://t.co/amFh8M92KG",
+      "summary": "RT @HLglobal_: Afternoon at the HL Summit kicks off with a keynote from @jchervinsky of @HyperliquidPC. Jake discusses the evolving US crypto policy…",
+      "url": "https://x.com/jchervinsky/status/2077847765900562931",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1419"
+      }
+    },
+    {
       "id": "2077832824187445544",
       "is_retweet": false,
       "original_author": null,
@@ -530,6 +651,106 @@
       }
     },
     {
+      "id": "2077831569641804004",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T19:03:45+00:00",
+      "text": "RT @JacobRobinsonJD: The line between a surveillance state and personal privacy seems to quietly shrink each year. Thankfully, @coincenter is doing something about that. Future generations will be thankful.",
+      "summary": "RT @JacobRobinsonJD: The line between a surveillance state and personal privacy seems to quietly shrink each year. Thankfully, @coincenter is doing…",
+      "url": "https://x.com/NeerajKA/status/2077831569641804004",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "410"
+      }
+    },
+    {
+      "id": "2077827843564650598",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T18:48:56+00:00",
+      "text": "RT @valkenburgh: @ethereanbull @marcel039 I'm explaining the dream that keeps me working to protect bitcoin devs, ethereum devs, any devs in FOSS money and privacy tech that still believe in that dream (even when they are far from having achieved it or when they occasionally go astray).",
+      "summary": "RT @valkenburgh: @ethereanbull @marcel039 I'm explaining the dream that keeps me working to protect bitcoin devs, ethereum devs, any devs in FOSS…",
+      "url": "https://x.com/valkenburgh/status/2077827843564650598",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2077827838208622768",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T18:48:55+00:00",
+      "text": "RT @valkenburgh: Something has shifted in the last few years... Digital rights groups have become very shy about cryptocurrency work even where regulation of those technologies directly impacts principles like code as speech and warrantless surveillance online. Crypto groups have become increasingly focused on institutional and financial markets questions and a bit less dedicated to the original mission: replacing government and corporate infrastructure with free and open peer-to-peer systems. We want to talk more about the peer-to-peer part and maybe earn some stronger alliances with the larger freedom tech movement. As a small first step, we're launching a new space to talk about tech authoritarianism and the peer-to-peer alternatives: Peer-to-Peer from Coin Center. Please subscribe and share.",
+      "summary": "RT @valkenburgh: Something has shifted in the last few years... Digital rights groups have become very shy about cryptocurrency work even where…",
+      "url": "https://x.com/NeerajKA/status/2077827838208622768",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 28,
+        "replies": 0,
+        "quotes": 0,
+        "views": "365"
+      }
+    },
+    {
+      "id": "2077827282207723842",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T18:46:42+00:00",
+      "text": "Something has shifted in the last few years... Digital rights groups have become very shy about cryptocurrency work even where regulation of those technologies directly impacts principles like code as speech and warrantless surveillance online. Crypto groups have become increasingly focused on institutional and financial markets questions and a bit less dedicated to the original mission: replacing government and corporate infrastructure with free and open peer-to-peer systems. We want to talk more about the peer-to-peer part and maybe earn some stronger alliances with the larger freedom tech movement. As a small first step, we're launching a new space to talk about tech authoritarianism and the peer-to-peer alternatives: Peer-to-Peer from Coin Center. Please subscribe and share.",
+      "summary": "Something has shifted in the last few years... Digital rights groups have become very shy about cryptocurrency work even where regulation of those…",
+      "url": "https://x.com/valkenburgh/status/2077827282207723842",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 91,
+        "retweets": 28,
+        "replies": 9,
+        "quotes": 1,
+        "views": "8623"
+      }
+    },
+    {
       "id": "2077826941181177979",
       "is_retweet": false,
       "original_author": null,
@@ -577,6 +798,81 @@
         "replies": 16,
         "quotes": 1,
         "views": "5783"
+      }
+    },
+    {
+      "id": "2077823750494466179",
+      "is_retweet": true,
+      "original_author": "LazPieper",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T18:32:40+00:00",
+      "text": "RT @LazPieper: There is a looming threat of tech authoritarianism around the world, where individual privacy and autonomy are being marginalized for control and profits by governments and corporations alike. We believe it’s important that you stay informed on these matters and on the solutions that exist to combat encroaching surveillance and censorship. Subscribe.",
+      "summary": "RT @LazPieper: There is a looming threat of tech authoritarianism around the world, where individual privacy and autonomy are being marginalized for…",
+      "url": "https://x.com/NeerajKA/status/2077823750494466179",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "415"
+      }
+    },
+    {
+      "id": "2077818361711350163",
+      "is_retweet": true,
+      "original_author": "marcel039",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T18:11:16+00:00",
+      "text": "RT @marcel039: #Bitcoin explained by @valkenburgh https://t.co/Fe1nq5iCYG",
+      "summary": "RT @marcel039: #Bitcoin explained by @valkenburgh https://t.co/Fe1nq5iCYG",
+      "url": "https://x.com/valkenburgh/status/2077818361711350163",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "285"
+      }
+    },
+    {
+      "id": "2077815527624626312",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T18:00:00+00:00",
+      "text": "🗽 New York: Our NY State Chapter President @NarvaezChris_ made the case for the CLARITY Act in the pages of the @NYDailyNews — bringing the voices of everyday crypto owners straight to New Yorkers. https://t.co/w4BB8dquWZ",
+      "summary": "🗽 New York: Our NY State Chapter President @NarvaezChris_ made the case for the CLARITY Act in the pages of the @NYDailyNews — bringing the voices of…",
+      "url": "https://x.com/standwithcrypto/status/2077815527624626312",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 42,
+        "retweets": 8,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2531"
       }
     },
     {
@@ -652,6 +948,81 @@
         "replies": 29,
         "quotes": 0,
         "views": "33559"
+      }
+    },
+    {
+      "id": "2077809731624673323",
+      "is_retweet": true,
+      "original_author": "SummerMersinger",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T17:36:58+00:00",
+      "text": "RT @SummerMersinger: As a former regulator, if there's one thing I'd encourage people to understand about the Clarity Act, it's that this is, at its core, a critically important consumer protection bill. I explain why in my latest @CoinDesk op-ed: https://t.co/y0PO6QPXxN",
+      "summary": "RT @SummerMersinger: As a former regulator, if there's one thing I'd encourage people to understand about the Clarity Act, it's that this is, at its…",
+      "url": "https://x.com/BlockchainAssn/status/2077809731624673323",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "581"
+      }
+    },
+    {
+      "id": "2077807661395902815",
+      "is_retweet": true,
+      "original_author": "RepBenCline",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-16T17:28:44+00:00",
+      "text": "RT @RepBenCline: Working families benefited more than anyone from the Working Families Tax Cuts, with almost 70% of tax filers who earned less than $100,000 receiving cuts. @HouseGOP is securing the economic future of Americans and delivering on our promise of a better, safer, more affordable America.",
+      "summary": "RT @RepBenCline: Working families benefited more than anyone from the Working Families Tax Cuts, with almost 70% of tax filers who earned less than…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077807661395902815",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "916"
+      }
+    },
+    {
+      "id": "2077807370567049631",
+      "is_retweet": true,
+      "original_author": "RepRussFulcher",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-16T17:27:35+00:00",
+      "text": "RT @RepRussFulcher: The House has passed the Fiscal Year 2027 National Security, Department of State, and Related Programs Appropriations Act. This legislation cracks down on transnational criminal networks, redefines foreign assistance to promote self-sufficiency, strengthens program oversight to protect taxpayer dollars, and cuts $2.6 billion in spending. America first. Fiscal discipline. Greater accountability. I voted yes.",
+      "summary": "RT @RepRussFulcher: The House has passed the Fiscal Year 2027 National Security, Department of State, and Related Programs Appropriations Act. This…",
+      "url": "https://x.com/GOPMajorityWhip/status/2077807370567049631",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "925"
       }
     },
     {
@@ -755,6 +1126,31 @@
       }
     },
     {
+      "id": "2077796970802864404",
+      "is_retweet": true,
+      "original_author": "aave",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T16:46:16+00:00",
+      "text": "RT @aave: Introducing Aave Daily, a new Telegram channel where we'll share the latest Aave, GHO, and governance news each day. Join the channel below. https://t.co/rB991qGVWV",
+      "summary": "RT @aave: Introducing Aave Daily, a new Telegram channel where we'll share the latest Aave, GHO, and governance news each day. Join the channel…",
+      "url": "https://x.com/LindaJeng1/status/2077796970802864404",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5"
+      }
+    },
+    {
       "id": "2077796518233252119",
       "is_retweet": true,
       "original_author": "thebusyspice",
@@ -805,6 +1201,31 @@
       }
     },
     {
+      "id": "2077793454558417055",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T16:32:17+00:00",
+      "text": "At the Maryland Blockchain Association Summer Conference, @Sen_Alsobrooks told SWC Executive Director @masonlynaugh why the Senate must act on market structure: this technology is here — and it needs proper guardrails to thrive in the U.S. https://t.co/1rVS1dVdJC",
+      "summary": "At the Maryland Blockchain Association Summer Conference, @Sen_Alsobrooks told SWC Executive Director @masonlynaugh why the Senate must act on market…",
+      "url": "https://x.com/standwithcrypto/status/2077793454558417055",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 42,
+        "retweets": 8,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2758"
+      }
+    },
+    {
       "id": "2077788128841216012",
       "is_retweet": false,
       "original_author": null,
@@ -827,6 +1248,56 @@
         "replies": 2,
         "quotes": 0,
         "views": "2513"
+      }
+    },
+    {
+      "id": "2077786837133783550",
+      "is_retweet": true,
+      "original_author": "NatCryptoAssoc",
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T16:06:00+00:00",
+      "text": "RT @NatCryptoAssoc: The Clarity Act is still working its way through Congress. Here is what you should know. 💡 67 million people in this country hold crypto today. Right now, there are no clear rules about which government agency oversees which digital assets. The Clarity Act aims to fix that by defining whether a digital asset falls under the SEC or the CFTC, helping pave the way for more comprehensive consumer protections. Curious how many crypto holders live in your neighborhood?: https://t.co/ubAizTnmNd",
+      "summary": "RT @NatCryptoAssoc: The Clarity Act is still working its way through Congress. Here is what you should know. 💡 67 million people in this country hold…",
+      "url": "https://x.com/s_alderoty/status/2077786837133783550",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6776"
+      }
+    },
+    {
+      "id": "2077786452063076543",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-16T16:04:28+00:00",
+      "text": "1/ In addition to being a consumer protection bill, the Clarity Act is also a public safety bill. It would bring more digital asset activity under U.S. regulatory oversight and strengthen law enforcement's ability to identify, investigate, and disrupt illicit finance. Here's how 🧵",
+      "summary": "1/ In addition to being a consumer protection bill, the Clarity Act is also a public safety bill. It would bring more digital asset activity under…",
+      "url": "https://x.com/BlockchainAssn/status/2077786452063076543",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 8,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2014"
       }
     }
   ]
