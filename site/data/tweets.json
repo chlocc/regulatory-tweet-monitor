@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-17T12:13:49.592709+00:00",
-  "generated_at_unix": 1784290429,
+  "generated_at": "2026-07-17T15:00:33.260607+00:00",
+  "generated_at_unix": 1784300433,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-16T16:00:00+00:00",
-  "window_end": "2026-07-17T12:13:49.592709+00:00",
-  "new_this_run": 11,
-  "total_recent": 62,
+  "window_end": "2026-07-17T15:00:33.260607+00:00",
+  "new_this_run": 18,
+  "total_recent": 80,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078128338413944886",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T14:43:00+00:00",
+      "text": "\"The hard question in cryptocurrency is where is the line between your speech as a professional and your conduct as a professional?\" @valkenburgh on when crypto-related activity should (and shouldn't) be protected by the First Amendment. It's among the most important points of the entire 2-hour podcast.",
+      "summary": "\"The hard question in cryptocurrency is where is the line between your speech as a professional and your conduct as a professional?\" @valkenburgh on…",
+      "url": "https://x.com/JacobRobinsonJD/status/2078128338413944886",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "241"
+      }
+    },
+    {
+      "id": "2078120311363375208",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T14:11:06+00:00",
+      "text": "JUST NOW: \"Our leadership in finance and technology depends on clear predictable rules. That's been at the heart of financial oversight throughout our Nation's history.\" - @RepFrenchHill Clear rules = consumer protections. Tell your Senator to pass the Clarity Act. https://t.co/4gp0IRJmeU",
+      "summary": "JUST NOW: \"Our leadership in finance and technology depends on clear predictable rules. That's been at the heart of financial oversight throughout…",
+      "url": "https://x.com/CryptoLawUS/status/2078120311363375208",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 41,
+        "retweets": 11,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1003"
+      }
+    },
+    {
+      "id": "2078110650077757447",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T13:32:43+00:00",
+      "text": "I hear you @CryptoWendyO. The below message is directed at Party Establishment - not voters. Career politicians have literally robbed the American people. https://t.co/3gT1nJkTXU",
+      "summary": "I hear you @CryptoWendyO. The below message is directed at Party Establishment - not voters. Career politicians have literally robbed the American…",
+      "url": "https://x.com/JohnEDeaton1/status/2078110650077757447",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 60,
+        "retweets": 6,
+        "replies": 4,
+        "quotes": 0,
+        "views": "9113"
+      }
+    },
+    {
+      "id": "2078107737771164095",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T13:21:08+00:00",
+      "text": "RT @valkenburgh: Cops should not be able to lock you up for five years without proving that you had criminal intent.",
+      "summary": "RT @valkenburgh: Cops should not be able to lock you up for five years without proving that you had criminal intent.",
+      "url": "https://x.com/theblockprof/status/2078107737771164095",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "64"
+      }
+    },
+    {
+      "id": "2078107655206252690",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T13:20:49+00:00",
+      "text": "RT @DeatonforSenate: France abandoned widespread mail-in voting in the 1970s over election fraud concerns. Maybe it's worth asking whether we should revisit the issue here. https://t.co/CCGFc86dP9",
+      "summary": "RT @DeatonforSenate: France abandoned widespread mail-in voting in the 1970s over election fraud concerns. Maybe it's worth asking whether we should…",
+      "url": "https://x.com/JohnEDeaton1/status/2078107655206252690",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3263"
+      }
+    },
     {
       "id": "2078091295696822344",
       "is_retweet": true,
@@ -546,6 +671,31 @@
       }
     },
     {
+      "id": "2077923145739120928",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T01:07:38+00:00",
+      "text": "RT @theblockprof: If you go to law school you learn that serious crimes require intent to commit the crime. Then you learn prosecutors have found ways to water down intent with the help of DOJ friendly judges, such that they can jail people who did not intend to and did not commit a crime.",
+      "summary": "RT @theblockprof: If you go to law school you learn that serious crimes require intent to commit the crime. Then you learn prosecutors have found…",
+      "url": "https://x.com/theblockprof/status/2077923145739120928",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2077919488742232149",
       "is_retweet": true,
       "original_author": "buffalu__",
@@ -621,6 +771,106 @@
       }
     },
     {
+      "id": "2077904429102026919",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T23:53:16+00:00",
+      "text": "I’ve been saying this for the last 4 years. Career politicians have stolen the prosperity of young people. We need real reform putting the needs of American citizens first, second, and third.",
+      "summary": "I’ve been saying this for the last 4 years. Career politicians have stolen the prosperity of young people. We need real reform putting the needs of…",
+      "url": "https://x.com/JohnEDeaton1/status/2077904429102026919",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 146,
+        "retweets": 18,
+        "replies": 11,
+        "quotes": 0,
+        "views": "13688"
+      }
+    },
+    {
+      "id": "2077892160272187817",
+      "is_retweet": true,
+      "original_author": "MetaLawMan",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T23:04:31+00:00",
+      "text": "RT @MetaLawMan: The powers that be REALLY don’t want @JohnEDeaton1 anywhere near the United States Senate. BUT WE DO. Support the anti-fraud candidate. USMC &amp; Federal prosecutor @DeatonforSenate",
+      "summary": "RT @MetaLawMan: The powers that be REALLY don’t want @JohnEDeaton1 anywhere near the United States Senate. BUT WE DO. Support the anti-fraud…",
+      "url": "https://x.com/JohnEDeaton1/status/2077892160272187817",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3805"
+      }
+    },
+    {
+      "id": "2077890644849091019",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T22:58:29+00:00",
+      "text": "After everything crypto has been through this past decade, the Clarity Act could die over ‘ethics concerns’? Simulation confirmed. You can’t write satire this good.",
+      "summary": "After everything crypto has been through this past decade, the Clarity Act could die over ‘ethics concerns’? Simulation confirmed. You can’t write…",
+      "url": "https://x.com/JohnEDeaton1/status/2077890644849091019",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 829,
+        "retweets": 75,
+        "replies": 87,
+        "quotes": 5,
+        "views": "64415"
+      }
+    },
+    {
+      "id": "2077890116127707487",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T22:56:23+00:00",
+      "text": "THE IRONY WRITES ITSELF: Ten years of crypto chaos: an ICO craze, Regulation by Enforcement, fraud, collapse, confusion. In other words, a decade of crypto’s biggest scandals, and “ethics concerns” is what stalls the one bill meant to bring order to it all. Only in Washington.",
+      "summary": "THE IRONY WRITES ITSELF: Ten years of crypto chaos: an ICO craze, Regulation by Enforcement, fraud, collapse, confusion. In other words, a decade of…",
+      "url": "https://x.com/JohnEDeaton1/status/2077890116127707487",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 425,
+        "retweets": 71,
+        "replies": 27,
+        "quotes": 3,
+        "views": "30853"
+      }
+    },
+    {
       "id": "2077887732936823083",
       "is_retweet": false,
       "original_author": null,
@@ -643,6 +893,31 @@
         "replies": 2,
         "quotes": 1,
         "views": "726"
+      }
+    },
+    {
+      "id": "2077886541599252530",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T22:42:11+00:00",
+      "text": "If you go to law school you learn that serious crimes require intent to commit the crime. Then you learn prosecutors have found ways to water down intent with the help of DOJ friendly judges, such that they can jail people who did not intend to and did not commit a crime.",
+      "summary": "If you go to law school you learn that serious crimes require intent to commit the crime. Then you learn prosecutors have found ways to water down…",
+      "url": "https://x.com/theblockprof/status/2077886541599252530",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1260"
       }
     },
     {
@@ -721,6 +996,31 @@
       }
     },
     {
+      "id": "2077862378276802884",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T21:06:10+00:00",
+      "text": "What in the actual hell? The grift in Washington & MA is mind blowing. @AyannaPressley goes from a net worth of about $12,500 before being elected to over $8M in 7 years. Mind you, her and her husband achieve wealth with her making $174K salary - and maintaining two residences in two of the most expensive housing markets in the country. Her husband - Conan Harris - served 10 years in prison on a drug trafficking charge. However, He had the great foresight to found Conan Harris & Associates, a consulting firm, THREE DAYS BEFORE Pressley took office in 2019. Recently, Conan Harris and his team were selected to build the roughly $2 billion Springfield courthouse project - with a 40-year lease deal - with the property reverting back to his company at the end of the lease. 🤯 His connections clearly paid off considering he beat out local Springfield bidders to win this enormous contract. Maybe I’m being too cynical and he truly was the most qualified bidder to build a 250,000 square foot state-of-the-art courthouse. 🤔 After all, I hear prison has a really good “wood shop” class nowadays. But just before I was about to comment on Conan Harris, I read this 💩 👇 We truly live in the corruption era. In fact, the ONLY thing bipartisan in Washington is corruption.",
+      "summary": "What in the actual hell? The grift in Washington & MA is mind blowing. @AyannaPressley goes from a net worth of about $12,500 before being elected to…",
+      "url": "https://x.com/JohnEDeaton1/status/2077862378276802884",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 249,
+        "retweets": 60,
+        "replies": 19,
+        "quotes": 4,
+        "views": "24245"
+      }
+    },
+    {
       "id": "2077853528324727247",
       "is_retweet": true,
       "original_author": "HLglobal_",
@@ -771,6 +1071,31 @@
       }
     },
     {
+      "id": "2077849159013384351",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T20:13:38+00:00",
+      "text": "Tomorrow marks 1 year since the CLARITY Act passed the House. The clock is ticking. Tell your Senator to get it done! 👉https://t.co/GzHabguvh1",
+      "summary": "Tomorrow marks 1 year since the CLARITY Act passed the House. The clock is ticking. Tell your Senator to get it done! 👉https://t.co/GzHabguvh1",
+      "url": "https://x.com/CryptoLawUS/status/2077849159013384351",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 140,
+        "retweets": 33,
+        "replies": 5,
+        "quotes": 0,
+        "views": "8576"
+      }
+    },
+    {
       "id": "2077847765900562931",
       "is_retweet": true,
       "original_author": "HLglobal_",
@@ -793,6 +1118,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "1419"
+      }
+    },
+    {
+      "id": "2077846155317088553",
+      "is_retweet": true,
+      "original_author": "legalstyleblog",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T20:01:42+00:00",
+      "text": "RT @legalstyleblog: The consequences of (I think) a typo spotted in London. The seller presumably meant to ask for a flag to show he exchanged Indian rupees. Instead, the flag printed suggests he exchanges Indiana dollars, which don’t exist. https://t.co/n44QU12Z1Q",
+      "summary": "RT @legalstyleblog: The consequences of (I think) a typo spotted in London. The seller presumably meant to ask for a flag to show he exchanged Indian…",
+      "url": "https://x.com/prestonjbyrne/status/2077846155317088553",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "336"
+      }
+    },
+    {
+      "id": "2077835502703567329",
+      "is_retweet": true,
+      "original_author": "LucyTCWife",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T19:19:22+00:00",
+      "text": "RT @LucyTCWife: This! I refuse to be like those that chose to be outraged about situations dependent on the colour you vote for! The FSU are absolutely right. I do not advocate for ANYONE to be arrested over offensive words. Being offensive doesn’t make you a criminal,",
+      "summary": "RT @LucyTCWife: This! I refuse to be like those that chose to be outraged about situations dependent on the colour you vote for! The FSU are…",
+      "url": "https://x.com/prestonjbyrne/status/2077835502703567329",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 119,
+        "replies": 0,
+        "quotes": 0,
+        "views": "333"
       }
     },
     {
@@ -918,6 +1293,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "410"
+      }
+    },
+    {
+      "id": "2077830414282953014",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T18:59:09+00:00",
+      "text": "The line between a surveillance state and personal privacy seems to quietly shrink each year. Thankfully, @coincenter is doing something about that. Future generations will be thankful.",
+      "summary": "The line between a surveillance state and personal privacy seems to quietly shrink each year. Thankfully, @coincenter is doing something about that.…",
+      "url": "https://x.com/JacobRobinsonJD/status/2077830414282953014",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2419"
       }
     },
     {
@@ -1168,6 +1568,56 @@
         "replies": 277,
         "quotes": 7,
         "views": "13287"
+      }
+    },
+    {
+      "id": "2077812254049804590",
+      "is_retweet": true,
+      "original_author": "WatcherGuru",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T17:46:59+00:00",
+      "text": "RT @WatcherGuru: JUST IN: 🇺🇸 Crypto Clarity Act is not projected to be signed into law this year despite President Trump meeting with Senators today to help advance the bill. https://t.co/fC8ozE8vHj",
+      "summary": "RT @WatcherGuru: JUST IN: 🇺🇸 Crypto Clarity Act is not projected to be signed into law this year despite President Trump meeting with Senators today…",
+      "url": "https://x.com/HaileyLennonBTC/status/2077812254049804590",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 522,
+        "replies": 0,
+        "quotes": 0,
+        "views": "201"
+      }
+    },
+    {
+      "id": "2077811216315994145",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T17:42:52+00:00",
+      "text": ".@BeliveLauren nailed it. The Clarity Act prevents the next FTX collapse and holds bad actors accountable. Your voice matters to every Senator voting on this bill. Call them. Connect with Congress. ⬇️ 🔗https://t.co/qDqRGF3aSb ☎️(202) 224-3121",
+      "summary": ".@BeliveLauren nailed it. The Clarity Act prevents the next FTX collapse and holds bad actors accountable. Your voice matters to every Senator voting…",
+      "url": "https://x.com/CryptoLawUS/status/2077811216315994145",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 122,
+        "retweets": 23,
+        "replies": 3,
+        "quotes": 0,
+        "views": "7241"
       }
     },
     {
