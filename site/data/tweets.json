@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-07-17T09:13:55.901373+00:00",
-  "generated_at_unix": 1784279635,
+  "generated_at": "2026-07-17T12:13:49.592709+00:00",
+  "generated_at_unix": 1784290429,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-16T16:00:00+00:00",
-  "window_end": "2026-07-17T09:13:55.901373+00:00",
-  "new_this_run": 19,
-  "total_recent": 51,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-07-17T12:13:49.592709+00:00",
+  "new_this_run": 11,
+  "total_recent": 62,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,156 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078091295696822344",
+      "is_retweet": true,
+      "original_author": "NickJRishwain",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T12:15:48+00:00",
+      "text": "RT @NickJRishwain: The Texas floods and Canadian wildfires really need to get together. Nature required process improvement.",
+      "summary": "RT @NickJRishwain: The Texas floods and Canadian wildfires really need to get together. Nature required process improvement.",
+      "url": "https://x.com/NYcryptolawyer/status/2078091295696822344",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "40"
+      }
+    },
+    {
+      "id": "2078091041735840143",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T12:14:48+00:00",
+      "text": "RT @JacobRobinsonJD: The line between a surveillance state and personal privacy seems to quietly shrink each year. Thankfully, @coincenter is doing something about that. Future generations will be thankful.",
+      "summary": "RT @JacobRobinsonJD: The line between a surveillance state and personal privacy seems to quietly shrink each year. Thankfully, @coincenter is doing…",
+      "url": "https://x.com/NYcryptolawyer/status/2078091041735840143",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "32"
+      }
+    },
+    {
+      "id": "2078087374219641280",
+      "is_retweet": true,
+      "original_author": "xethalis",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T12:00:13+00:00",
+      "text": "RT @xethalis: Busy trip to DC with @BlockchainAssn and @fund_defi. There’s still a little wood to chop and not a lot of daylight to do it, but have confidence in and respect for the Hill staffers who have poured the better part of a decade in getting CLARITY to where it is. @SenLummis is a cattle herder and I look forward to her bringing the them home over the next three weeks. CLARITY introduces important protections for consumers and builders, replacing a complicated, ill-fitting and patchwork series of regulation with comprehensive rules that will guide global regulation and promote responsible innovation. You work hard for good bills because perfect bills are not possible. This is a good bill and the Senate must vote Yes. Happy 50th Bday to @ChairmanHeath and 1st to the GENIUS Act. Great party @circle. And Kudos to @glzavatone and @cows2crypto for outstanding @defenddevspac and @AIPLeads events.",
+      "summary": "RT @xethalis: Busy trip to DC with @BlockchainAssn and @fund_defi. There’s still a little wood to chop and not a lot of daylight to do it, but have…",
+      "url": "https://x.com/NYcryptolawyer/status/2078087374219641280",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "54"
+      }
+    },
+    {
+      "id": "2078073500850405711",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T11:05:05+00:00",
+      "text": "Such an important post. Insightful and self-reflective. There are a lot of lessons here and there is a lot of reflecting to do all around, especially for those who all too quickly refer to the crypto “community”. A community is only as strong as the support which its members provide to each other. Thank you, @CamiRusso for sharing this.",
+      "summary": "Such an important post. Insightful and self-reflective. There are a lot of lessons here and there is a lot of reflecting to do all around, especially…",
+      "url": "https://x.com/NYcryptolawyer/status/2078073500850405711",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "509"
+      }
+    },
+    {
+      "id": "2078069462121480296",
+      "is_retweet": true,
+      "original_author": "amandatums",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T10:49:03+00:00",
+      "text": "RT @amandatums: This story gets DOJ’s position wrong, gets Section 1960 wrong, and gets both Senator Cortez Masto’s amendment and the Grassley compromise wrong. I’d be impressed if it wasn’t so disappointing to see more unsupported anti-Clarity reporting. Putting aside the fact that @BrendanPedersen does not include recent, directly-on-point, publicly reported DOJ statements from June 23 saying the exact opposite of the supposed DOJ email cited here (see below), the bigger issue is that the article and the DOJ statements cited within do not accurately cite the criminal code. Money laundering is prohibited in 18 USC 1956 and 1957; operating an unlicensed money transmitting business is covered in 18 USC 1960. The BRCA clarifies the application of “money transmitting” for the BSA and 1960 and says nothing at all about money laundering or 1956 or 1957. Further breakdown in replies",
+      "summary": "RT @amandatums: This story gets DOJ’s position wrong, gets Section 1960 wrong, and gets both Senator Cortez Masto’s amendment and the Grassley…",
+      "url": "https://x.com/NYcryptolawyer/status/2078069462121480296",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "66"
+      }
+    },
+    {
+      "id": "2078029718926823697",
+      "is_retweet": true,
+      "original_author": "ossoff",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T08:11:07+00:00",
+      "text": "RT @ossoff: Tonight I heard a failed and desperate president who as war spirals and prices rise is as always focused on his grievances, his shame, and above all his fear of the accountability that will come with defeat. I also heard a president signaling his unmistakable intent to attack these elections and our voting rights, just as he tried to throw out our votes and seize the presidency in 2020. Our answer will be overwhelming. Across Georgia a wave of defiance is building to rebuke him so decisively that no president ever again dares such brazen corruption and abuse. The power of the presidency is nothing compared to the power of the people.",
+      "summary": "RT @ossoff: Tonight I heard a failed and desperate president who as war spirals and prices rise is as always focused on his grievances, his shame,…",
+      "url": "https://x.com/MinarikLaw/status/2078029718926823697",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3965,
+        "replies": 0,
+        "quotes": 0,
+        "views": "12"
+      }
+    },
     {
       "id": "2077959501265662122",
       "is_retweet": false,
@@ -301,6 +446,31 @@
       }
     },
     {
+      "id": "2077942132485054512",
+      "is_retweet": true,
+      "original_author": "GraemeMoore",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T02:23:05+00:00",
+      "text": "RT @GraemeMoore: @bchesky The plan? Hack the AirBNB CEO’s account and tweet broadly about tokenized assets https://t.co/dzUxDpQVhU",
+      "summary": "RT @GraemeMoore: @bchesky The plan? Hack the AirBNB CEO’s account and tweet broadly about tokenized assets https://t.co/dzUxDpQVhU",
+      "url": "https://x.com/lex_node/status/2077942132485054512",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "720"
+      }
+    },
+    {
       "id": "2077941245956297209",
       "is_retweet": false,
       "original_author": null,
@@ -373,6 +543,56 @@
         "replies": 959,
         "quotes": 320,
         "views": "750888"
+      }
+    },
+    {
+      "id": "2077919488742232149",
+      "is_retweet": true,
+      "original_author": "buffalu__",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T00:53:06+00:00",
+      "text": "RT @buffalu__: is this mev?",
+      "summary": "RT @buffalu__: is this mev?",
+      "url": "https://x.com/RebeccaRettig1/status/2077919488742232149",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "98"
+      }
+    },
+    {
+      "id": "2077909643058147685",
+      "is_retweet": true,
+      "original_author": "amandatums",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T00:13:59+00:00",
+      "text": "RT @amandatums: This story gets DOJ’s position wrong, gets Section 1960 wrong, and gets both Senator Cortez Masto’s amendment and the Grassley compromise wrong. I’d be impressed if it wasn’t so disappointing to see more unsupported anti-Clarity reporting. Putting aside the fact that @BrendanPedersen does not include recent, directly-on-point, publicly reported DOJ statements from June 23 saying the exact opposite of the supposed DOJ email cited here (see below), the bigger issue is that the article and the DOJ statements cited within do not accurately cite the criminal code. Money laundering is prohibited in 18 USC 1956 and 1957; operating an unlicensed money transmitting business is covered in 18 USC 1960. The BRCA clarifies the application of “money transmitting” for the BSA and 1960 and says nothing at all about money laundering or 1956 or 1957. Further breakdown in replies",
+      "summary": "RT @amandatums: This story gets DOJ’s position wrong, gets Section 1960 wrong, and gets both Senator Cortez Masto’s amendment and the Grassley…",
+      "url": "https://x.com/RebeccaRettig1/status/2077909643058147685",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "110"
       }
     },
     {
@@ -473,6 +693,31 @@
         "replies": 8,
         "quotes": 5,
         "views": "7783"
+      }
+    },
+    {
+      "id": "2077875948276355505",
+      "is_retweet": true,
+      "original_author": "zherring",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T22:00:05+00:00",
+      "text": "RT @zherring: I have the same reaction to the weird self-driving golf car/t thing which is “maybe not for me in terms of price + usecase but damn its cool to see more of this weird future emerge.” it did kinda feel like society was frozen in amber for 10-15 years and suddenly a switch was flipped, and now things are changing at a face-ripping pace. hard not to be bullish on the future now that phds in rocket science are getting recruited by robotics teams again and not internet ad platforms.",
+      "summary": "RT @zherring: I have the same reaction to the weird self-driving golf car/t thing which is “maybe not for me in terms of price + usecase but damn its…",
+      "url": "https://x.com/lex_node/status/2077875948276355505",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "752"
       }
     },
     {
@@ -1223,6 +1468,31 @@
         "replies": 1,
         "quotes": 0,
         "views": "2758"
+      }
+    },
+    {
+      "id": "2077791624675909960",
+      "is_retweet": true,
+      "original_author": "l2beat",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-16T16:25:01+00:00",
+      "text": "RT @l2beat: For the past couple of months we've been looking into Native Rollups - the idea of turning L2 blocks into proof-carrying transactions on L1. In that time, the work has moved from research posts and draft EIPs to a working PoC from the @class_lambda @ethrex_client team. Today we're launching a page to help you learn more about the ongoing research and follow its progress! Here's a summary of where we are, plus some insights from @ethrex_client on the PoC they've been working on 👇",
+      "summary": "RT @l2beat: For the past couple of months we've been looking into Native Rollups - the idea of turning L2 blocks into proof-carrying transactions on…",
+      "url": "https://x.com/lex_node/status/2077791624675909960",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "765"
       }
     },
     {
