@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-18T15:00:12.143975+00:00",
-  "generated_at_unix": 1784386812,
+  "generated_at": "2026-07-18T18:00:01.933927+00:00",
+  "generated_at_unix": 1784397601,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-17T16:00:00+00:00",
-  "window_end": "2026-07-18T15:00:12.143975+00:00",
-  "new_this_run": 10,
-  "total_recent": 57,
-  "errors": [],
+  "window_end": "2026-07-18T18:00:01.933927+00:00",
+  "new_this_run": 19,
+  "total_recent": 76,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078528502324945200",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T17:13:06+00:00",
+      "text": "What actually decides whether Bitcoin's rally holds? GSR's @baehr says it comes down to real rates, not the CPI headline. 🧠 https://t.co/QOstf0K62q",
+      "summary": "What actually decides whether Bitcoin's rally holds? GSR's @baehr says it comes down to real rates, not the CPI headline. 🧠 https://t.co/QOstf0K62q",
+      "url": "https://x.com/laurashin/status/2078528502324945200",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 1,
+        "views": "1918"
+      }
+    },
+    {
+      "id": "2078515295459881312",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-18T16:20:38+00:00",
+      "text": "If Dean (or @tszzl, @willdepue…) says something consistent with OpenAI’s interests, he’s called a hack If Dean says something contrary to OpenAI’s interests, he’s called a hypocrite If we want honest takes from lab employees, or indeed any takes at all, this is not the way",
+      "summary": "If Dean (or @tszzl, @willdepue…) says something consistent with OpenAI’s interests, he’s called a hack If Dean says something contrary to OpenAI’s…",
+      "url": "https://x.com/danrobinson/status/2078515295459881312",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 1,
+        "views": "5551"
+      }
+    },
+    {
+      "id": "2078496263201558731",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T15:05:00+00:00",
+      "text": "I found this framing from @baehr sharp: the longer Clarity Act negotiations drag on, the less likely passage gets, but the more surprising it would be when it lands. 📉 New @bitsandbips clip. https://t.co/TW9NNrcS5G",
+      "summary": "I found this framing from @baehr sharp: the longer Clarity Act negotiations drag on, the less likely passage gets, but the more surprising it would…",
+      "url": "https://x.com/laurashin/status/2078496263201558731",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 1,
+        "views": "4049"
+      }
+    },
     {
       "id": "2078486217008513283",
       "is_retweet": false,
@@ -43,6 +123,31 @@
         "replies": 1,
         "quotes": 0,
         "views": "355"
+      }
+    },
+    {
+      "id": "2078476130013851987",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T13:45:00+00:00",
+      "text": "Robinhood Chain is two weeks old, and memecoins already make up 85% of its trading while RWAs sit at about 1%. 🐸 🎯In @johannkerbrat's view, that is not a bug, it is the permissionless design working as intended 🎧 Timestamps: 🐸 01:06 Why memecoins are 85% of Robinhood Chain's DEX volume, not RWAs 🚀 05:35 Why PumpFun listing Robinhood Chain tokens was the result of their strategy 🔐 09:33 Where Robinhood's responsibility ends and the permissionless chain begins 📣 11:12 Cape: Use code UNCHAINED for 33% off your first six months at https://t.co/2ZtLziY0xt ⚡ 16:17 Why Robinhood built a separate Lighter instance for its perps 💵 20:24 Why USDG, not USDC or Tether, backs Robinhood Chain's lending and margin 📉 23:23 Does the chain mitigate the 63% swing crypto can have on Robinhood's earnings?",
+      "summary": "Robinhood Chain is two weeks old, and memecoins already make up 85% of its trading while RWAs sit at about 1%. 🐸 🎯In @johannkerbrat's view, that is…",
+      "url": "https://x.com/laurashin/status/2078476130013851987",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3863"
       }
     },
     {
@@ -96,6 +201,56 @@
       }
     },
     {
+      "id": "2078332290191757714",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-18T04:13:26+00:00",
+      "text": "Balaji is getting the Malaysia special. Malaysia Protest 4 Palestine isn’t the issue here. It’s Malaysian Pay 4 Play. You can’t do anything in the country without making sure you “align interests” with the right people. Lots of people clowning on Balaji but he’s not retarded. He definitely had some level of assurance before setting up in Forest City. It’s not hard to guess where his backers might be. Forest City is owned by 60% Chinese developers and 40% Johor, with the approval of the Sultan of Johor, the richest Malaysian Sultan, who is now literally King of Malaysia. The Chinese rugged Forest City after they withdrew from One Belt One Road. Forest City is now a ghost town - despite significant investment in - population is about 8000. About 1000 are Balaji’s people. A non negligible portion of the population service network school (the other small group of visitors are golfers). Without these USD wielding immigrants, many of the Forest City residents would have moved to Johor Bahru or another city. There are people in power in Malaysia that want to see Forest City revitalised. There’s a lot of money in that. Balaji’s 100m MYR investment isn’t much but it justifies them printing hundreds of millions more to continue development. He is in trouble now because he has found some success and now the other factions want their pound of flesh, knowing he has money. Malaysian authorities have this incredible superpower of being able to magic up licenses and regulations until they get paid. He’s currently being slapped by the education regulator and investigated by the immigration authorities. Note they haven’t kicked him out completely or shut the door to NS, it’s simply a lot of posturing. The message is clear - whoever was protecting you hasn’t paid us off. So get with the programme and *ahem* make sure you have the right licenses. I’d be very surprised if Balaji hasn’t already been solicited by a dozen middlemen offering to get him the right licenses to make the problems go away. Most of them likely scammers. Balaji’s difficulty level is also set at Indian, which is higher even than Chinese in Malaysia. The next few days are now critical for Balaji and will determine whether he will be heralded as the tech Prometheus of Malaysia, or persecuted as a Jew loving Indian that practises sodomy (a Malaysia special!) It all comes down to getting… the right licenses.",
+      "summary": "Balaji is getting the Malaysia special. Malaysia Protest 4 Palestine isn’t the issue here. It’s Malaysian Pay 4 Play. You can’t do anything in the…",
+      "url": "https://x.com/wassielawyer/status/2078332290191757714",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 692,
+        "retweets": 50,
+        "replies": 69,
+        "quotes": 19,
+        "views": "64505"
+      }
+    },
+    {
+      "id": "2078305062955175974",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T02:25:14+00:00",
+      "text": "RT @circle: Great discussion with @ddisparte on the GENIUS Act, stablecoin policy, and the future of digital dollars. https://t.co/Qhdb1xpvNl",
+      "summary": "RT @circle: Great discussion with @ddisparte on the GENIUS Act, stablecoin policy, and the future of digital dollars. https://t.co/Qhdb1xpvNl",
+      "url": "https://x.com/EleanorTerrett/status/2078305062955175974",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9679"
+      }
+    },
+    {
       "id": "2078300270421790938",
       "is_retweet": true,
       "original_author": "xethalis",
@@ -121,6 +276,31 @@
       }
     },
     {
+      "id": "2078298056529985714",
+      "is_retweet": true,
+      "original_author": "milkroaddaily",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-18T01:57:24+00:00",
+      "text": "RT @milkroaddaily: The biggest risk to crypto in the U.S. isn't another SEC lawsuit. It's uncertainty. When founders don't know the rules, they build elsewhere, or they build AI instead. If the Clarity Act stalls, America exports its next generation of crypto startups while Europe and Asia race ahead. FT @BitcoinJesusETH @Collin_McCune Tune in to know more ⏱ TIME POINTS ⏱ 00:00 - Intro 01:31 – Will the Clarity Act Pass? 03:15 – What's Holding It Back? 05:19 – Crypto's Washington Push 08:25 – The Truth About the Bill 14:42 – Why Clarity Matters 17:41 – Securitize 18:19 – Bitget 18:53 – Banks vs. Crypto 25:45 – Is the U.S. Falling Behind? 28:51 – If the Bill Passes... 30:47 – Crypto Meets AI 32:55 – How to Make a Difference",
+      "summary": "RT @milkroaddaily: The biggest risk to crypto in the U.S. isn't another SEC lawsuit. It's uncertainty. When founders don't know the rules, they build…",
+      "url": "https://x.com/milesjennings/status/2078298056529985714",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "214"
+      }
+    },
+    {
       "id": "2078290730099921259",
       "is_retweet": true,
       "original_author": "thecolinmclaren",
@@ -143,6 +323,131 @@
         "replies": 0,
         "quotes": 0,
         "views": "306"
+      }
+    },
+    {
+      "id": "2078283216721436870",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T00:58:26+00:00",
+      "text": "RT @laurashin: 💰 Ken Griffin's Citadel Securities just wrote its first-ever crypto check: $400M into Crypto(dot)com at a $20B valuation. The money's earmarked for tokenized securities and derivatives. https://t.co/xn5c7qodFa",
+      "summary": "RT @laurashin: 💰 Ken Griffin's Citadel Securities just wrote its first-ever crypto check: $400M into Crypto(dot)com at a $20B valuation. The money's…",
+      "url": "https://x.com/laurashin/status/2078283216721436870",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2078283199839457529",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T00:58:22+00:00",
+      "text": "RT @laurashin: Trump's teleprompter operator has read his speeches since 2016. Turns out he was also betting on which words would appear in them, pocketing $100K+ on Kalshi, including during the State of the Union. 👀 Now he's in CFTC settlement talks. https://t.co/S0dvpemWlu",
+      "summary": "RT @laurashin: Trump's teleprompter operator has read his speeches since 2016. Turns out he was also betting on which words would appear in them,…",
+      "url": "https://x.com/laurashin/status/2078283199839457529",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2078283191039750432",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T00:58:20+00:00",
+      "text": "RT @laurashin: 🏦 Visa just built a stablecoin pipeline for 15,000 banks and 200M+ merchants. First coin through the door: OUSD, backed by 140+ companies including Visa, Mastercard, and BlackRock. https://t.co/GbhtNbF6Be",
+      "summary": "RT @laurashin: 🏦 Visa just built a stablecoin pipeline for 15,000 banks and 200M+ merchants. First coin through the door: OUSD, backed by 140+…",
+      "url": "https://x.com/laurashin/status/2078283191039750432",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2078283185197105642",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T00:58:18+00:00",
+      "text": "RT @laurashin: 📱 E*TRADE users can now buy Bitcoin, Ethereum, and Solana right next to their stocks. Morgan Stanley just flipped the switch, routing trades through ZeroHash at a 0.5% fee. https://t.co/tLmUFLXZfa",
+      "summary": "RT @laurashin: 📱 E*TRADE users can now buy Bitcoin, Ethereum, and Solana right next to their stocks. Morgan Stanley just flipped the switch, routing…",
+      "url": "https://x.com/laurashin/status/2078283185197105642",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2078283152573829326",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-18T00:58:10+00:00",
+      "text": "RT @laurashin: What actually turns a relief bounce into a real crypto rally? On @bitsandbips, GSR's @baehr says the market is still ambivalent, not convicted, even after its best week in months. 🤔 Timestamps: 🌡️ 02:56 CPI cools to 3.5%. Does crypto's rally finally have real legs? 🎯 07:29 Peak hawkishness hasn't hit yet, Baehr explains why under Kevin Warsh 📊 11:53 Mag 7 vs Russell 2000: the surprising reason CoinDesk 80 beat Bitcoin in Q2 🏦 17:32 What actually powered Ether's 2025 rally, Baehr's pro-DAT case 💧 22:20 Stablecoin supply is shrinking and Strategy stopped buying. So who's left to buy? 📈 25:35 Aave lending rates near the risk free rate. What that says about appetite to lever up 🏛️ 34:46 Vaults, curators, and the fiduciary questions DeFi still can't answer ⚖️ 43:59 Clarity Act countdown: why passage would still catch markets off guard",
+      "summary": "RT @laurashin: What actually turns a relief bounce into a real crypto rally? On @bitsandbips, GSR's @baehr says the market is still ambivalent, not…",
+      "url": "https://x.com/laurashin/status/2078283152573829326",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -196,6 +501,81 @@
       }
     },
     {
+      "id": "2078266830326583342",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T23:53:19+00:00",
+      "text": "What actually turns a relief bounce into a real crypto rally? On @bitsandbips, GSR's @baehr says the market is still ambivalent, not convicted, even after its best week in months. 🤔 Timestamps: 🌡️ 02:56 CPI cools to 3.5%. Does crypto's rally finally have real legs? 🎯 07:29 Peak hawkishness hasn't hit yet, Baehr explains why under Kevin Warsh 📊 11:53 Mag 7 vs Russell 2000: the surprising reason CoinDesk 80 beat Bitcoin in Q2 🏦 17:32 What actually powered Ether's 2025 rally, Baehr's pro-DAT case 💧 22:20 Stablecoin supply is shrinking and Strategy stopped buying. So who's left to buy? 📈 25:35 Aave lending rates near the risk free rate. What that says about appetite to lever up 🏛️ 34:46 Vaults, curators, and the fiduciary questions DeFi still can't answer ⚖️ 43:59 Clarity Act countdown: why passage would still catch markets off guard",
+      "summary": "What actually turns a relief bounce into a real crypto rally? On @bitsandbips, GSR's @baehr says the market is still ambivalent, not convicted, even…",
+      "url": "https://x.com/laurashin/status/2078266830326583342",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 4,
+        "replies": 7,
+        "quotes": 2,
+        "views": "5090"
+      }
+    },
+    {
+      "id": "2078261993816105169",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-17T23:34:06+00:00",
+      "text": "RT @circle: Trust, transparency, accountability. On @NYSE, @ddisparte explains how the GENIUS Act raises the standard for stablecoin issuers through reserve reporting, financial crime compliance, and regulatory clarity. https://t.co/mL48eJjwjF",
+      "summary": "RT @circle: Trust, transparency, accountability. On @NYSE, @ddisparte explains how the GENIUS Act raises the standard for stablecoin issuers through…",
+      "url": "https://x.com/ddisparte/status/2078261993816105169",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": "68"
+      }
+    },
+    {
+      "id": "2078261794045599779",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-17T23:33:18+00:00",
+      "text": "Happy GENIUS day @CryptoAmerica_",
+      "summary": "Happy GENIUS day @CryptoAmerica_",
+      "url": "https://x.com/ddisparte/status/2078261794045599779",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 1,
+        "views": "2386"
+      }
+    },
+    {
       "id": "2078261084876657127",
       "is_retweet": true,
       "original_author": "CoinDesk",
@@ -243,6 +623,31 @@
         "replies": 142,
         "quotes": 25,
         "views": "59615"
+      }
+    },
+    {
+      "id": "2078255923894911313",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-17T23:09:59+00:00",
+      "text": "Great example of the absurd hurdles the crypto industry is being asked to overcome in its quest for clear rules. The below activity literally has nothing to do with crypto, yet it’s somehow a problem the crypto industry must deal with to pass CLARITY?",
+      "summary": "Great example of the absurd hurdles the crypto industry is being asked to overcome in its quest for clear rules. The below activity literally has…",
+      "url": "https://x.com/milesjennings/status/2078255923894911313",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 77,
+        "retweets": 2,
+        "replies": 9,
+        "quotes": 0,
+        "views": "8710"
       }
     },
     {
@@ -443,6 +848,31 @@
         "replies": 39,
         "quotes": 7,
         "views": "63683"
+      }
+    },
+    {
+      "id": "2078234241180037208",
+      "is_retweet": true,
+      "original_author": "yaeunda",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T21:43:49+00:00",
+      "text": "RT @yaeunda: When the former Federal Reserve Board Chief Of Innovations @Sunayna and @EleanorTerrett speak about Central Banking and Innovation you have to recognize a masterclass is happening. My takeaways are: that innovation is all around us and learning + leaning in happens to be a game changer! Bodacious Goals everybody…you just might surprise yourself. Thank you both for a great fireside chat indeed.",
+      "summary": "RT @yaeunda: When the former Federal Reserve Board Chief Of Innovations @Sunayna and @EleanorTerrett speak about Central Banking and Innovation you…",
+      "url": "https://x.com/EleanorTerrett/status/2078234241180037208",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10286"
       }
     },
     {
@@ -743,6 +1173,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "939"
+      }
+    },
+    {
+      "id": "2078203410029887555",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T19:41:18+00:00",
+      "text": "RT @CryptoAmerica_: “The stock market might be paused but the actual world keeps turning.” @JohannKerbrat SVP and GM of International &amp; Crypto @RobinhoodCrypto on the power of tokenization in a 24/7 market https://t.co/mpZee6z7NS",
+      "summary": "RT @CryptoAmerica_: “The stock market might be paused but the actual world keeps turning.” @JohannKerbrat SVP and GM of International &amp; Crypto…",
+      "url": "https://x.com/EleanorTerrett/status/2078203410029887555",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9027"
+      }
+    },
+    {
+      "id": "2078203384113377678",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-17T19:41:12+00:00",
+      "text": "RT @CryptoAmerica_: Perps are going to slowly take over the traditional finance world, according to @JohannKerbrat SVP and GM of International &amp; Crypto @RobinhoodCrypto https://t.co/fyDQvFDrJk",
+      "summary": "RT @CryptoAmerica_: Perps are going to slowly take over the traditional finance world, according to @JohannKerbrat SVP and GM of International &amp;…",
+      "url": "https://x.com/EleanorTerrett/status/2078203384113377678",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8607"
       }
     },
     {
