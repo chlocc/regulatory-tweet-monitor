@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-07-18T09:04:32.280545+00:00",
-  "generated_at_unix": 1784365472,
+  "generated_at": "2026-07-18T12:06:07.974647+00:00",
+  "generated_at_unix": 1784376367,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-17T16:00:00+00:00",
-  "window_end": "2026-07-18T09:04:32.280545+00:00",
-  "new_this_run": 20,
-  "total_recent": 41,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-07-18T12:06:07.974647+00:00",
+  "new_this_run": 6,
+  "total_recent": 47,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078450791912820862",
+      "is_retweet": true,
+      "original_author": "iampaulgrewal",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-18T12:04:19+00:00",
+      "text": "RT @iampaulgrewal: Love crypto? Pass CLARITY to promote its growth. Hate crypto? Pass CLARITY to prevent its abuses. Don’t care or feel somewhere in the middle about crypto? Pass CLARITY to show Congress can still actually do something with the power granted by the American people. It’s time.",
+      "summary": "RT @iampaulgrewal: Love crypto? Pass CLARITY to promote its growth. Hate crypto? Pass CLARITY to prevent its abuses. Don’t care or feel somewhere in…",
+      "url": "https://x.com/MinarikLaw/status/2078450791912820862",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 233,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1"
+      }
+    },
+    {
+      "id": "2078300270421790938",
+      "is_retweet": true,
+      "original_author": "xethalis",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-18T02:06:12+00:00",
+      "text": "RT @xethalis: Incredibly well stated by @RepBryanSteil. It’s time for the Senate to join the House in passing CLARITY. It has key consumer protections &amp; sets market structure to promote growth, disclosure and certainty. This is how America can and must lead.",
+      "summary": "RT @xethalis: Incredibly well stated by @RepBryanSteil. It’s time for the Senate to join the House in passing CLARITY. It has key consumer…",
+      "url": "https://x.com/NYcryptolawyer/status/2078300270421790938",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "124"
+      }
+    },
     {
       "id": "2078290730099921259",
       "is_retweet": true,
@@ -48,6 +93,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "306"
+      }
+    },
+    {
+      "id": "2078282103481893119",
+      "is_retweet": true,
+      "original_author": "milesjennings",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-18T00:54:00+00:00",
+      "text": "RT @milesjennings: Great example of the absurd hurdles the crypto industry is being asked to overcome in its quest for clear rules. The below activity literally has nothing to do with crypto, yet it’s somehow a problem the crypto industry must deal with to pass CLARITY?",
+      "summary": "RT @milesjennings: Great example of the absurd hurdles the crypto industry is being asked to overcome in its quest for clear rules. The below…",
+      "url": "https://x.com/lex_node/status/2078282103481893119",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "696"
       }
     },
     {
@@ -76,6 +146,31 @@
       }
     },
     {
+      "id": "2078261084876657127",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T23:30:29+00:00",
+      "text": "RT @CoinDesk: .@RebeccaRettig1 and @RVanGrack name this week's hero and zero on The Policy Protocol. Hero: Harry Jung, Patrick Witt's deputy, who is expected to assume his duties shaping the CLARITY Act while Witt is on military leave. Zero: Sam Bankman-Fried, after the Senate unanimously passed a resolution stating the FTX founder should not receive a pardon or commutation.",
+      "summary": "RT @CoinDesk: .@RebeccaRettig1 and @RVanGrack name this week's hero and zero on The Policy Protocol. Hero: Harry Jung, Patrick Witt's deputy, who is…",
+      "url": "https://x.com/RebeccaRettig1/status/2078261084876657127",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "74"
+      }
+    },
+    {
       "id": "2078257038560317577",
       "is_retweet": false,
       "original_author": null,
@@ -98,6 +193,31 @@
         "replies": 142,
         "quotes": 25,
         "views": "59615"
+      }
+    },
+    {
+      "id": "2078254694149788151",
+      "is_retweet": true,
+      "original_author": "punk5736",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T23:05:05+00:00",
+      "text": "RT @punk5736: Ensuring that hyperscalers and leading AI labs contribute to security research in the digital commons is a necessary and just goal for the open-source community to pursue. The case for structured collaboration with open-source projects needs to be made unrelentingly, especially as the gap between publicly available and privately held digital intelligence widens. Infrastructure projects like the following would uniquely benefit because of their open architectures, inherent complexity, and substantive contributions: @linuxfoundation: The Linux kernel underpins cloud security, @Android and @GrapheneOS, millions of PCs, and most connected devices. @leanprover: The prover kernel ensures soundness and consistency across the Lean proof ecosystem, which is advancing mathematics and enabling computer scientists to confidently build more powerful abstractions. @ethereumfndn @ethereuminsti @ethlabs_org: Ethereum’s core protocol specifications and implementations provide a global commons for digital integrity, financial access, and coordination. RISC-V zero-knowledge virtual machines (@eth_proofs, @SuccinctLabs, @NexusLabs, @brevis_zk, @openvm_org): zkVM provers and verifiers are driving a new generation of software architectures that enable privacy and introduce a fairer topology to the internet. The privledged positions of @GoogleDeepMind @AnthropicAI @OpenAI @grok @Microsoft @facebook @amazon in advanced AI is rooted in open source and is sustained by a dynamic digital commons. It stands to reason that their current programs, where they exist, aren't nearly substantive enough. Meaningful token budgets should be allocated, and access to leading models should be provided to qualified sets of open-source projects.",
+      "summary": "RT @punk5736: Ensuring that hyperscalers and leading AI labs contribute to security research in the digital commons is a necessary and just goal for…",
+      "url": "https://x.com/lex_node/status/2078254694149788151",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "738"
       }
     },
     {
@@ -348,6 +468,31 @@
         "replies": 22,
         "quotes": 7,
         "views": "19554"
+      }
+    },
+    {
+      "id": "2078221570296656191",
+      "is_retweet": true,
+      "original_author": "haydenzadams",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T20:53:28+00:00",
+      "text": "RT @haydenzadams: We just submitted two Uniswap governance proposals for final onchain vote: 1) v2 + v3 protocol fees on robinhood chain 2) v4 protocol fees on ethereum, base, arbitrum, robinhood, bnb, polygon, optimism (third proposal with remaining v4 chains coming soon) Both direct all new protocol fees into the existing UNI burn mechanism Based on current volumes, especially robinhood, we expect the impact on UNI burn to be substantial",
+      "summary": "RT @haydenzadams: We just submitted two Uniswap governance proposals for final onchain vote: 1) v2 + v3 protocol fees on robinhood chain 2) v4…",
+      "url": "https://x.com/N0th1n3/status/2078221570296656191",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 49,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6"
       }
     },
     {
