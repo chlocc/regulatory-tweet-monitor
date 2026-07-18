@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-18T12:06:07.974647+00:00",
-  "generated_at_unix": 1784376367,
+  "generated_at": "2026-07-18T15:00:12.143975+00:00",
+  "generated_at_unix": 1784386812,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-17T16:00:00+00:00",
-  "window_end": "2026-07-18T12:06:07.974647+00:00",
-  "new_this_run": 6,
-  "total_recent": 47,
+  "window_end": "2026-07-18T15:00:12.143975+00:00",
+  "new_this_run": 10,
+  "total_recent": 57,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078486217008513283",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-18T14:25:05+00:00",
+      "text": "If you squint you can see me back near the bar. Happy Birthday to Circle and Genius!",
+      "summary": "If you squint you can see me back near the bar. Happy Birthday to Circle and Genius!",
+      "url": "https://x.com/theblockprof/status/2078486217008513283",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "355"
+      }
+    },
     {
       "id": "2078450791912820862",
       "is_retweet": true,
@@ -43,6 +68,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1"
+      }
+    },
+    {
+      "id": "2078438907134222405",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-18T11:17:05+00:00",
+      "text": "RT @JacobRobinsonJD: Should code ever lose First Amendment protections? This podcast covers free speech and software, including cryptography, cryptocurrency and AI. It should be the internet's most comprehensive. You'll hear from experts like @valkenburgh, @prestonjbyrne, @LazPieper, Sam Enzer, and Professors Eugene Volokh (@VolokhC) and @JaneYakowitz. We trace the history of Cold War export controls through to the recent restrictions on Anthropic's AI models, and explain why the Supreme Court has never definitively answered the question above. Timestamps: 0:00 Anthropic AI export controls 6:17 Intro 9:39 The First Amendment 10:38 @VolokhC on his free speech philosophy 13:42 Speech vs function 19:24 @valkenburgh interview 25:50 The Cold War, munitions list and Phil Zimmermann 29:57 The Bernstein case 34:53 Strict scrutiny 38:48 The Corley case 49:17 Sorrell, Stevens and where the Supreme Court is heading 53:25 @prestonjbyrne on the Supreme Court's AI case 57:23 Defense Distributed and 3D-printing 1:04:00 Where publication ends and conduct begins 1:15:20 Lowe v. SEC and the agency line 1:45:45 Compelled speech 2:04:17 @LazPieper on Sorrell and third-party liability 2:11:29 @prestonjbyrne on the GRANITE Act and foreign censorship Thank you to the presenting sponsor of this episode, @altitude. Nothing in this podcast is legal or investment advice.",
+      "summary": "RT @JacobRobinsonJD: Should code ever lose First Amendment protections? This podcast covers free speech and software, including cryptography,…",
+      "url": "https://x.com/JacobRobinsonJD/status/2078438907134222405",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -221,6 +271,31 @@
       }
     },
     {
+      "id": "2078254475525947400",
+      "is_retweet": true,
+      "original_author": "iampaulgrewal",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T23:04:13+00:00",
+      "text": "RT @iampaulgrewal: Love crypto? Pass CLARITY to promote its growth. Hate crypto? Pass CLARITY to prevent its abuses. Don’t care or feel somewhere in the middle about crypto? Pass CLARITY to show Congress can still actually do something with the power granted by the American people. It’s time.",
+      "summary": "RT @iampaulgrewal: Love crypto? Pass CLARITY to promote its growth. Hate crypto? Pass CLARITY to prevent its abuses. Don’t care or feel somewhere in…",
+      "url": "https://x.com/HaileyLennonBTC/status/2078254475525947400",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 240,
+        "replies": 0,
+        "quotes": 0,
+        "views": "298"
+      }
+    },
+    {
       "id": "2078247526898024729",
       "is_retweet": true,
       "original_author": "FinancialCmte",
@@ -268,6 +343,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "908"
+      }
+    },
+    {
+      "id": "2078242419594674474",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T22:16:19+00:00",
+      "text": "Kimi-K3 is why Congress needs to shield American companies from European regulations. It’s a national security issue. We can’t let the UK, EU, or anyone else slow us down.",
+      "summary": "Kimi-K3 is why Congress needs to shield American companies from European regulations. It’s a national security issue. We can’t let the UK, EU, or…",
+      "url": "https://x.com/prestonjbyrne/status/2078242419594674474",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 110,
+        "retweets": 8,
+        "replies": 2,
+        "quotes": 0,
+        "views": "3193"
+      }
+    },
+    {
+      "id": "2078241207382163750",
+      "is_retweet": true,
+      "original_author": "businessbarista",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T22:11:30+00:00",
+      "text": "RT @businessbarista: Kimi K3 owned the internet today. Read tons of content & observed 10 key patterns: 1) The open source-to-frontier gap went from a year+ behind to 6 months to 6 days, all within the last 12 months. 2) An open model debuted ahead of a flagship US model for the first time ever. Artificial Analysis scored K3 at 57. Opus 4.8 sits at ~56, GPT-5.6 Terra at 55. It's still behind Fable 5 and GPT 5.6 Sol. 3) K3 helped build itself. An early version of K3 did the majority of Moonshot's own kernel optimization work during development. One 15-hour unattended run made a core operation 2.5x faster. 4) It's cheap per token, not cheap per answer. Sticker price is 1/3 of Fable. But it only runs at max thinking effort and burns ~2x the tokens per response. @simonw measured 13,241 reasoning tokens to write a 3,417 token answer. 5) The era of dirt-cheap Chinese AI is ending. $3/$15 per million tokens. Hacker News called it \"extremely high for a Chinese open-weight model.\" 6) Weights don't drop until July 27. Mentions of \"open\" quietly disappeared from the docs an hour after launch. 7) Even when the weights drop, you can't run them. 2.8 trillion parameters. Top Reddit joke: \"2TB VRAM Is All You Need.\" Open weights increasingly means auditable by companies with GPU clusters, not runnable by you. 8) The \"they just distill/copy\" argument is dying in public. One of the most upvoted comments: you'd have to be \"a complete ignorant or a complete bigot\" to believe Chinese labs aren't legit at this point. 9) Day one user verdict: fast, but less accurate. \"Faster than Claude, but less accurate. On par with GPT 5.5 perhaps, but not 5.6 or Fable.\" 10) The one thing everyone agrees on: competition is wonderful. Even the skeptics: \"Say what you want about these Chinese models but they sure create competition and urgency in the space.\"",
+      "summary": "RT @businessbarista: Kimi K3 owned the internet today. Read tons of content & observed 10 key patterns: 1) The open source-to-frontier gap went from…",
+      "url": "https://x.com/prestonjbyrne/status/2078241207382163750",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 45,
+        "replies": 0,
+        "quotes": 0,
+        "views": "339"
       }
     },
     {
@@ -696,6 +821,56 @@
       }
     },
     {
+      "id": "2078198163429527843",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T19:20:27+00:00",
+      "text": "As many know, I’ve been very critical of President Trump. In fact, I challenge anyone to find a Republican Nominee or Candidate for federal office who’s been as independent as I have. I literally said “F the Republican Party - F the Democrat Party” during a debate 🆚 @sethmoulton. Shortly after I announced I was running for U.S. Senate against @EdMarkey, I was interviewed by @kelleratlarge and I said, especially as someone who’s fought for regulatory clarity involving digital assets, including suing the @SECGov on behalf of retail investors, that I hated the Trump Meme coin (and all Meme coins for that matter), and that I absolutely hated the fact that the President and his family was getting heavily involved into Crypto - not just because of perceived conflicts of interests and appearances of impropriety but because it would make Crypto a partisan issue. Of course, according to @EricTrump, he and his family embraced Crypto because they were debanked by TradFi. We know Chokepoint 2.0 was real, so Eric’s claims can’t be easily dismissed. I knew the partisanship would happen because we have elected officials including @EdMarkey and @sethmoulton who simply: HATE DONALD TRUMP MORE THAN THEY LOVE AMERICA. @dmweisberger👇= 🎯 For 10 years in Crypto we’ve seen chaos, fraud, collapse, and bankruptcies. And finally, we have a chance to end the uncertainty and chaos. Why would Democrats prevent clarity for the rest of America’s investors, businesses and entrepreneurs? If your argument is because it might enrich Trump and his family, it’s been reported that Trump himself has made $1.4 billion dollars off crypto already. So, let me get this straight: You’re going to prevent America from securing the lead in the world related to financial innovation to prevent something that has already occurred? That makes perfect sense - in Washington. As Dave states: “The right approach is to propose a Bill that covers Crypto, Securities, [commodities], Derivatives & Prediction markets uniformly, for the executive AND legislative branches.” Yet, Congress still hasn’t ended insider trading related to the stock market. And they wonder why they have an approval rating of like 12%. My Washington Clean Hands Act will end all the grift. In the meantime, maybe put America’s interests first.",
+      "summary": "As many know, I’ve been very critical of President Trump. In fact, I challenge anyone to find a Republican Nominee or Candidate for federal office…",
+      "url": "https://x.com/JohnEDeaton1/status/2078198163429527843",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 275,
+        "retweets": 62,
+        "replies": 20,
+        "quotes": 2,
+        "views": "27060"
+      }
+    },
+    {
+      "id": "2078191207771942921",
+      "is_retweet": true,
+      "original_author": "DuncanBurnsMA",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T18:52:49+00:00",
+      "text": "RT @DuncanBurnsMA: Did you know State Street has second highest civil &amp; criminal penalties in MA history (GE #1)? Why do they continue to be organized corporate crime ring? Because most of their criminal charges result in non-prosecutorial agreements, or fines, the cost of doing business.",
+      "summary": "RT @DuncanBurnsMA: Did you know State Street has second highest civil &amp; criminal penalties in MA history (GE #1)? Why do they continue to be…",
+      "url": "https://x.com/JohnEDeaton1/status/2078191207771942921",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4154"
+      }
+    },
+    {
       "id": "2078191004113416401",
       "is_retweet": false,
       "original_author": null,
@@ -718,6 +893,31 @@
         "replies": 51,
         "quotes": 13,
         "views": "33872"
+      }
+    },
+    {
+      "id": "2078190555524128969",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T18:50:14+00:00",
+      "text": "RT @DeatonforSenate: I'm honored to have the endorsement of U.S. Senator Cynthia Lummis, one of our nation's leading voices on innovation and digital asset policy. Senator Lummis knows that Massachusetts deserves a leader who will fight for families, protect consumers, encourage innovation, and help create the jobs of tomorrow. I'm grateful for her support and look forward to working to build a stronger economy that puts people first. Thank you, Senator Lummis, for your confidence and support.",
+      "summary": "RT @DeatonforSenate: I'm honored to have the endorsement of U.S. Senator Cynthia Lummis, one of our nation's leading voices on innovation and digital…",
+      "url": "https://x.com/JohnEDeaton1/status/2078190555524128969",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3908"
       }
     },
     {
@@ -818,6 +1018,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1355"
+      }
+    },
+    {
+      "id": "2078180179558683095",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T18:09:00+00:00",
+      "text": "\"Are you going to be held liable for how someone else uses what you've made publicly available to the world?\" @LazPieper on the principle underlying ongoing crypto cases that would set a dangerous precedent for builders everywhere. https://t.co/ogNS2xUMg1",
+      "summary": "\"Are you going to be held liable for how someone else uses what you've made publicly available to the world?\" @LazPieper on the principle underlying…",
+      "url": "https://x.com/JacobRobinsonJD/status/2078180179558683095",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3696"
       }
     },
     {
@@ -1118,6 +1343,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "19870"
+      }
+    },
+    {
+      "id": "2078151372021584262",
+      "is_retweet": true,
+      "original_author": "dnlklr",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T16:14:31+00:00",
+      "text": "RT @dnlklr: Is nothing sacred to these AI freaks???? Mark Zuckerberg and Larry Ellison just built this monstrous data center in the very heart of Paris—only steps away from Notre-Dame and the Louvre. Can’t the EU do something? https://t.co/x5Kn0TVf7c",
+      "summary": "RT @dnlklr: Is nothing sacred to these AI freaks???? Mark Zuckerberg and Larry Ellison just built this monstrous data center in the very heart of…",
+      "url": "https://x.com/prestonjbyrne/status/2078151372021584262",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 412,
+        "replies": 0,
+        "quotes": 0,
+        "views": "373"
       }
     },
     {
