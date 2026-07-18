@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-18T06:00:11.752854+00:00",
-  "generated_at_unix": 1784354411,
+  "generated_at": "2026-07-18T09:04:32.280545+00:00",
+  "generated_at_unix": 1784365472,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-17T16:00:00+00:00",
-  "window_end": "2026-07-18T06:00:11.752854+00:00",
+  "window_end": "2026-07-18T09:04:32.280545+00:00",
   "new_this_run": 20,
-  "total_recent": 21,
-  "errors": [],
+  "total_recent": 41,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2078290730099921259",
+      "is_retweet": true,
+      "original_author": "thecolinmclaren",
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-18T01:28:17+00:00",
+      "text": "RT @thecolinmclaren: Literally nobody is as good at this as @KristinSmith as we run through the tape Developers believe in her leadership, members and staff seek her counsel, the anti-crypto army fears her, and she is a joy and a delight to have as a friend and mentor Win or lose, we are at the precipice of the unprecedented because of the work of an unchosen few who put in the countless hours, untold effort, personal risk, and substantial capital to build things like @SolanaInstitute @BlockchainAssn and @AIPLeads @KristinSmith is one of those few We should count ourselves lucky she is",
+      "summary": "RT @thecolinmclaren: Literally nobody is as good at this as @KristinSmith as we run through the tape Developers believe in her leadership, members…",
+      "url": "https://x.com/KristinSmith/status/2078290730099921259",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "306"
+      }
+    },
     {
       "id": "2078279505550905672",
       "is_retweet": false,
@@ -296,6 +326,31 @@
       }
     },
     {
+      "id": "2078223037506158881",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T20:59:18+00:00",
+      "text": "It's time to pass the CLARITY Act. 🇺🇸",
+      "summary": "It's time to pass the CLARITY Act. 🇺🇸",
+      "url": "https://x.com/standwithcrypto/status/2078223037506158881",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1097,
+        "retweets": 134,
+        "replies": 22,
+        "quotes": 7,
+        "views": "19554"
+      }
+    },
+    {
       "id": "2078218847627157604",
       "is_retweet": true,
       "original_author": "RepStutzman",
@@ -346,6 +401,31 @@
       }
     },
     {
+      "id": "2078204930297364633",
+      "is_retweet": true,
+      "original_author": "GOPMajorityWhip",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-17T19:47:21+00:00",
+      "text": "RT @GOPMajorityWhip: A year ago today, the House passed the CLARITY Act with nearly 80 Democrats joining Republicans in support. Since then, the bill has sat in the Senate. It is time for the Senate to pass the CLARITY Act and send it to @POTUS desk to provide the regulatory certainty America needs to remain THE global leader in digital assets.",
+      "summary": "RT @GOPMajorityWhip: A year ago today, the House passed the CLARITY Act with nearly 80 Democrats joining Republicans in support. Since then, the bill…",
+      "url": "https://x.com/patrickjwitt/status/2078204930297364633",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 179,
+        "replies": 0,
+        "quotes": 0,
+        "views": "831"
+      }
+    },
+    {
       "id": "2078204482941296903",
       "is_retweet": true,
       "original_author": "GOPMajorityWhip",
@@ -368,6 +448,231 @@
         "replies": 0,
         "quotes": 0,
         "views": "729"
+      }
+    },
+    {
+      "id": "2078203586148753597",
+      "is_retweet": true,
+      "original_author": "Rep_Davidson",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-17T19:42:00+00:00",
+      "text": "RT @Rep_Davidson: One year ago today, the House passed the CLARITY Act to establish clear rules for digital asset markets, protect consumers, and keep innovation in the United States. I encourage the Senate to build on that work and help get the this important legislation across the finish line and onto President Trump’s desk.",
+      "summary": "RT @Rep_Davidson: One year ago today, the House passed the CLARITY Act to establish clear rules for digital asset markets, protect consumers, and…",
+      "url": "https://x.com/patrickjwitt/status/2078203586148753597",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 121,
+        "replies": 0,
+        "quotes": 0,
+        "views": "939"
+      }
+    },
+    {
+      "id": "2078202376012366031",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T19:37:12+00:00",
+      "text": "RT @JacobRobinsonJD: \"Are you going to be held liable for how someone else uses what you've made publicly available to the world?\" @LazPieper on the principle underlying ongoing crypto cases that would set a dangerous precedent for builders everywhere. https://t.co/ogNS2xUMg1",
+      "summary": "RT @JacobRobinsonJD: \"Are you going to be held liable for how someone else uses what you've made publicly available to the world?\" @LazPieper on the…",
+      "url": "https://x.com/NeerajKA/status/2078202376012366031",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "421"
+      }
+    },
+    {
+      "id": "2078201171462820151",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T19:32:25+00:00",
+      "text": "RT @StaniKulechov: Proposal to expand Aave on @tempo.",
+      "summary": "RT @StaniKulechov: Proposal to expand Aave on @tempo.",
+      "url": "https://x.com/LindaJeng1/status/2078201171462820151",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 57,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6"
+      }
+    },
+    {
+      "id": "2078200819954975076",
+      "is_retweet": true,
+      "original_author": "EconWithNick",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T19:31:01+00:00",
+      "text": "RT @EconWithNick: The Bank Secrecy Act is one of the biggest attacks on the Fourth Amendment, and yet @POTUS has chosen to expand it with his executive order. https://t.co/odsFx3AWFp",
+      "summary": "RT @EconWithNick: The Bank Secrecy Act is one of the biggest attacks on the Fourth Amendment, and yet @POTUS has chosen to expand it with his…",
+      "url": "https://x.com/valkenburgh/status/2078200819954975076",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "262"
+      }
+    },
+    {
+      "id": "2078191004113416401",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-17T18:52:00+00:00",
+      "text": "A year ago today, the House passed the CLARITY Act with nearly 80 Democrats joining Republicans in support. Since then, the bill has sat in the Senate. It is time for the Senate to pass the CLARITY Act and send it to @POTUS desk to provide the regulatory certainty America needs to remain THE global leader in digital assets.",
+      "summary": "A year ago today, the House passed the CLARITY Act with nearly 80 Democrats joining Republicans in support. Since then, the bill has sat in the…",
+      "url": "https://x.com/GOPMajorityWhip/status/2078191004113416401",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1001,
+        "retweets": 177,
+        "replies": 51,
+        "quotes": 13,
+        "views": "33872"
+      }
+    },
+    {
+      "id": "2078185834554020230",
+      "is_retweet": true,
+      "original_author": "alekslarsen",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T18:31:28+00:00",
+      "text": "RT @alekslarsen: “smart” people have a tendency, when first engaging with crypto, to try and separate the innovations they currently approve of from the decentralized networks that created them. they praise the fruit and scorn the tree that bore it decentralized networks like Ethereum permeate the world’s edges, creating a breeding ground for products that solve problems tradFi can’t reach. stablecoins and tokenization emerged from public chains, which is why those chains are where most of the stablecoin/tokenization activity and network effects concentrate if you like stablecoins/tokenization, you should at minimum be open minded about what decentralized networks might create in the future. “blockchain not bitcoin” is even more ignorant now than it was 10 years ago",
+      "summary": "RT @alekslarsen: “smart” people have a tendency, when first engaging with crypto, to try and separate the innovations they currently approve of from…",
+      "url": "https://x.com/valkenburgh/status/2078185834554020230",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "256"
+      }
+    },
+    {
+      "id": "2078184717015195794",
+      "is_retweet": true,
+      "original_author": "alekslarsen",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T18:27:01+00:00",
+      "text": "RT @alekslarsen: “smart” people have a tendency, when first engaging with crypto, to try and separate the innovations they currently approve of from the decentralized networks that created them. they praise the fruit and scorn the tree that bore it decentralized networks like Ethereum permeate the world’s edges, creating a breeding ground for products that solve problems tradFi can’t reach. stablecoins and tokenization emerged from public chains, which is why those chains are where most of the stablecoin/tokenization activity and network effects concentrate if you like stablecoins/tokenization, you should at minimum be open minded about what decentralized networks might create in the future. “blockchain not bitcoin” is even more ignorant now than it was 10 years ago",
+      "summary": "RT @alekslarsen: “smart” people have a tendency, when first engaging with crypto, to try and separate the innovations they currently approve of from…",
+      "url": "https://x.com/NeerajKA/status/2078184717015195794",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "444"
+      }
+    },
+    {
+      "id": "2078184081771151677",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T18:24:30+00:00",
+      "text": "I'm genuinely confused by the argument here. It seems to be: open-weight AI models reduce the profits of American VC-backed companies; many leading open models currently come from China; therefore open AI is somehow \"communist.\" We've never applied that logic to any other technology. Linux, Apache, PostgreSQL, and countless other open-source projects destroyed proprietary software margins and dramatically reduced returns for some investors. We called that competition and innovation—not communism. If the concern is reliance on Chinese AI, make that argument. If the concern is national security, make that argument. But \"this technology makes it harder for incumbents to earn monopoly-like returns\" has never been a definition of communism. It's often just what technological progress and real free markets look like.",
+      "summary": "I'm genuinely confused by the argument here. It seems to be: open-weight AI models reduce the profits of American VC-backed companies; many leading…",
+      "url": "https://x.com/valkenburgh/status/2078184081771151677",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 77,
+        "retweets": 5,
+        "replies": 9,
+        "quotes": 1,
+        "views": "5943"
+      }
+    },
+    {
+      "id": "2078180629418488184",
+      "is_retweet": true,
+      "original_author": "Grayscale",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T18:10:47+00:00",
+      "text": "RT @Grayscale: Hyperliquid meets Wall Street. The house of all finance is accelerating. Yesterday, @a16zcrypto, @GoldmanSachs, @Bloomberg, @jpmorgan, and @multicoin came to listen. Grayscale gave them the $HYPG story. Hyperliquid. https://t.co/8rmzP62FNT",
+      "summary": "RT @Grayscale: Hyperliquid meets Wall Street. The house of all finance is accelerating. Yesterday, @a16zcrypto, @GoldmanSachs, @Bloomberg, @jpmorgan,…",
+      "url": "https://x.com/jchervinsky/status/2078180629418488184",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 56,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1355"
       }
     },
     {
@@ -421,6 +726,56 @@
       }
     },
     {
+      "id": "2078171640261718029",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T17:35:04+00:00",
+      "text": "1/ One year ago tomorrow, I was at the White House watching @POTUS sign the GENIUS Act into law – the first standalone crypto bill in American history. A lot can happen in a year. Here's what this one delivered. 👇 https://t.co/TvvBjulyeR",
+      "summary": "1/ One year ago tomorrow, I was at the White House watching @POTUS sign the GENIUS Act into law – the first standalone crypto bill in American…",
+      "url": "https://x.com/KristinSmith/status/2078171640261718029",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 62,
+        "retweets": 9,
+        "replies": 3,
+        "quotes": 1,
+        "views": "27966"
+      }
+    },
+    {
+      "id": "2078169922308321698",
+      "is_retweet": true,
+      "original_author": "DetBlockchain",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T17:28:14+00:00",
+      "text": "RT @DetBlockchain: Michigan showed out for our @standwithcrypto Day of Action! Shoutout to everyone who joined and made their voices known. We're shaping the future, one advocate at a time 🛡️ https://t.co/FkASobJPny",
+      "summary": "RT @DetBlockchain: Michigan showed out for our @standwithcrypto Day of Action! Shoutout to everyone who joined and made their voices known. We're…",
+      "url": "https://x.com/standwithcrypto/status/2078169922308321698",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1131"
+      }
+    },
+    {
       "id": "2078167663524643287",
       "is_retweet": false,
       "original_author": null,
@@ -443,6 +798,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "5146"
+      }
+    },
+    {
+      "id": "2078167398171959594",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T17:18:12+00:00",
+      "text": "Great discussion with the top execs from crypto’s top trade associations at @hlglobal_ yesterday. We covered the Clarity Act; everyone wants the bill done, and a handful of issues remain outstanding with time running short. My fellow panelists were still optimistic about passage before August recess…more optimistic than me. We also talked SEC/CFTC; both agencies are well informed and working hard on Project Crypto. No matter which way Clarity goes, they will each have a lot to do in the coming months and years. Thank you @lindsayfraser0 @_jikim @CodyCarboneDC for your hard work and taking the time during a busy week! 🙏",
+      "summary": "Great discussion with the top execs from crypto’s top trade associations at @hlglobal_ yesterday. We covered the Clarity Act; everyone wants the bill…",
+      "url": "https://x.com/jchervinsky/status/2078167398171959594",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 121,
+        "retweets": 27,
+        "replies": 21,
+        "quotes": 1,
+        "views": "12685"
       }
     },
     {
@@ -471,6 +851,31 @@
       }
     },
     {
+      "id": "2078165506352116125",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T17:10:41+00:00",
+      "text": "RT @CoinDesk: 🎥 @RepBryanSteil asks @Coincenter's @jasonsomensatto why crypto regulations should recognize decentralized networks instead of treating them like traditional centralized financial systems. Somensatto argues blockchains are infrastructure, not intermediaries: https://t.co/gTvetWSxUg",
+      "summary": "RT @CoinDesk: 🎥 @RepBryanSteil asks @Coincenter's @jasonsomensatto why crypto regulations should recognize decentralized networks instead of treating…",
+      "url": "https://x.com/NeerajKA/status/2078165506352116125",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": "319"
+      }
+    },
+    {
       "id": "2078165313934270527",
       "is_retweet": true,
       "original_author": "Rep_Davidson",
@@ -493,6 +898,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "787"
+      }
+    },
+    {
+      "id": "2078161989374001353",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T16:56:43+00:00",
+      "text": "Love crypto? Pass CLARITY to promote its growth. Hate crypto? Pass CLARITY to prevent its abuses. Don’t care or feel somewhere in the middle about crypto? Pass CLARITY to show Congress can still actually do something with the power granted by the American people. It’s time.",
+      "summary": "Love crypto? Pass CLARITY to promote its growth. Hate crypto? Pass CLARITY to prevent its abuses. Don’t care or feel somewhere in the middle about…",
+      "url": "https://x.com/iampaulgrewal/status/2078161989374001353",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2123,
+        "retweets": 225,
+        "replies": 66,
+        "quotes": 11,
+        "views": "52929"
+      }
+    },
+    {
+      "id": "2078161157190201392",
+      "is_retweet": true,
+      "original_author": "austincampbell",
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-17T16:53:24+00:00",
+      "text": "RT @austincampbell: With Clarity back in the spotlight, one particular topic generating angst is the BRCA. @valkenburgh has written about this. @davidzmorris has written about this. @amandatums and DeFi education fund have written about this. However, I want to make a specific point clear on why this is such a big issue after the Tornado Cash case and @rstormsf's conviction for unlicensed money transmission. First, the crime he was convicted of did not require intent. It was \"you did a thing where you needed to have a license for X, and you did not have a license for X\". It's that simple. Those sorts of crimes are a special class where it's exceptionally important that, if you are going to enforce them, the obligation be clear, understandable, and known beforehand. Second, Roman was NOT convicted of conspiracy crimes around money laundering and sanctions. The jury couldn't come to a decision on those. Those crimes require some amount of knowledge and/or intent, meaning if you genuinely did not know the funds were criminal, and weren't so grossly negligent that any half-assed idiot should have known, you can't be convicted. So what's the problem? Why do I think we need the BRCA? Why have I been on my own high horse in the newsletter about this repeatedly? The reason: because the government itself cannot fucking tell us where the line is for money transmission. One, I think of Roman's conviction stands at the district court, this is the best and strongest line of appeal, possibly all the way to the top in the current era. If the government itself cannot tell me where the line is, that's a problem. Don't believe me? FinCEN, the people who look at this, published guidance about control and how money transmission works that drew a clear line, because it's important that your web browser, your ISP, and your computer manufacturer are not money transmitters. They aren't and can't be licensed, they cannot meaningfully fulfill those obligations, and saying they have to amounts to simply banning things, including all kinds of speech. The DoJ, on the other hand, because the prosecutors were entirely indifferent to the secondary consequences of their actions, did the equivalent of bombing a bus full of schoolchildren to kill one bad guy by arguing that, you know, you actually don't need control, you just need some undisclosed and undefined combination of things that feel, to a boomer who doesn't understand technology, like money transmission happened. Which now literally means your web browser is probably a money transmitter, if you understand how this stuff works. That is not good. And the implications of that go far, far beyond crypto. One, for basic rule of law and fair notice about crimes, but two, because for the love of god, your web browser is NOT a money transmitter and you need a clear, defining line as to where that boundary is so people can stay on either side of it. Or, in the simplest terms, if the people who were responsible for giving you a license would have said \"no you don't need one\" and the DoJ prosecutes you anyways for not having a license, something is horribly, horribly broken.",
+      "summary": "RT @austincampbell: With Clarity back in the spotlight, one particular topic generating angst is the BRCA. @valkenburgh has written about this.…",
+      "url": "https://x.com/amandatums/status/2078161157190201392",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "51"
       }
     },
     {
@@ -543,6 +998,56 @@
         "replies": 1009,
         "quotes": 62,
         "views": "179267"
+      }
+    },
+    {
+      "id": "2078150693152600313",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T16:11:50+00:00",
+      "text": "1/ The Clarity Act is the product of years of bipartisan work. Last year, the House passed market structure legislation with overwhelming bipartisan support. This year, the Senate Banking Committee advanced the Clarity Act on a bipartisan 15-9 vote. Now the Senate should finish the job. 🧵",
+      "summary": "1/ The Clarity Act is the product of years of bipartisan work. Last year, the House passed market structure legislation with overwhelming bipartisan…",
+      "url": "https://x.com/BlockchainAssn/status/2078150693152600313",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 67,
+        "retweets": 16,
+        "replies": 6,
+        "quotes": 1,
+        "views": "2921"
+      }
+    },
+    {
+      "id": "2078148092637876713",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-17T16:01:30+00:00",
+      "text": "One year ago today, the GENIUS Act was signed into law, the first major crypto legislation in American history. 365 days later, the results speak for themselves. 🧵",
+      "summary": "One year ago today, the GENIUS Act was signed into law, the first major crypto legislation in American history. 365 days later, the results speak for…",
+      "url": "https://x.com/standwithcrypto/status/2078148092637876713",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 124,
+        "retweets": 17,
+        "replies": 3,
+        "quotes": 2,
+        "views": "6525"
       }
     }
   ]
