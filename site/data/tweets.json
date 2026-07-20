@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-20T09:22:29.526562+00:00",
-  "generated_at_unix": 1784539349,
+  "generated_at": "2026-07-20T12:01:22.810270+00:00",
+  "generated_at_unix": 1784548882,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-19T16:00:00+00:00",
-  "window_end": "2026-07-20T09:22:29.526562+00:00",
+  "window_end": "2026-07-20T12:01:22.810270+00:00",
   "new_this_run": 3,
-  "total_recent": 10,
-  "errors": [],
+  "total_recent": 13,
+  "errors": [
+    {
+      "username": "jnnylng",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 30,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -121,6 +126,31 @@
       }
     },
     {
+      "id": "2078986460120707089",
+      "is_retweet": true,
+      "original_author": "ImperiumPaper",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T23:32:52+00:00",
+      "text": "RT @ImperiumPaper: An underappreciated risk of GENIUS to USDC and similar centralized stablecoins is escheat risk. In everyday English, this to say the risk from unclaimed property laws, which send abandoned assets to state governments. Circle is famously loathe to freeze tokens without a lawful order from the government. This is understandable, because that kind of taking and seizure exposes them to litigation risk if the holder surfaces and Circle has no iron-clad justification. However, USDC was born in 2018, which is plenty of time for tokens to be viewed as abandoned. Now, unclaimed/abandoned property laws vary by state and asset type, and how centralized asset issuers handle self-custodied has not to my knowledge been tested yet. Normally, simple possession defeats escheatment. But for accounts there is an inactivity clock, usually 5 or more years. Furthermore, for payments instruments there is a *presumption* of abandonment at 7 or 15 years from issuance, depending upon the instrument. While I think redeemable stablecoins are likely at risk of presumed abandonment-style escheatment, the fungibility of ERC20 tokens makes that nonsensical as soon as the USDC commingles with its younger brethren. The blockchain, however, provides really good evidence of inactivity - 5 years of no outgoing transactions or signed messages is easy to demonstrate and explain. Currently, Circle, like CEXs, banks, and custodians, only escheats balances from inactive onboarded users. This is because the obligation falls to a “holder” of the assets. A self-custodied wallet belonging to an unknown person is arguably not someone Circle has a relationship with, and so not holding assets on their behalf. Until GENIUS, USDC lived in a kind of gray area that likely fragments the payoff for a state treasurer, lowering the motivation to pursue escheatment claims. GENIUS, however, clearly establishes that all token holders are contingent creditors of the issuer through how it handles bankruptcy and claims priority on the issuer’s reserves. That makes the anon, cold storage or dormant address with USDC arguably an issuer-holder relationship that is familiar to unclaimed property law. Notably, there’s is no safe harbor or federal preemption over state escheatment laws in GENIUS Secondly, there’s a real motivation for two states in particular to sort this out in court as the supply of escheatable USDC grows: New York and Delaware. If USDC is determined to be equivalent to a money order or traveler’s check, then New York (as the principal place of business of Circle) is lined up for a yearly windfall as inactive USDC supply ripens like grapes on a vine. If USDC is covered by more general property classification, then Delaware (as the legal domicile) is going to want that free money. An analogous fight recently played out in the Supreme Court in 2023 where Wisconsin and Pennsylvania sued Delaware for a share of escheatment of MoneyGram checks. Delaware had to cough up $191m and forgo part of an ongoing escheatment income stream. So states will be motivated! Circle, of course, is motivated to avoid this question coming up, as it would rob them of free float, which is what produces their income. It also gets messy about how to administer escheatment on a self-custodied address. GENIUS requires 1:1 backing, so simple freezing may force Circle to pay out of pocket. Burning is the cleanest answer for them, or a safe harbor that excludes frozen stables from supply. @JBSDC @millercwl @amandatums may also have views on GENIUS collision with state escheatment",
+      "summary": "RT @ImperiumPaper: An underappreciated risk of GENIUS to USDC and similar centralized stablecoins is escheat risk. In everyday English, this to say…",
+      "url": "https://x.com/lex_node/status/2078986460120707089",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "787"
+      }
+    },
+    {
       "id": "2078968468750115016",
       "is_retweet": false,
       "original_author": null,
@@ -218,6 +248,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "36569"
+      }
+    },
+    {
+      "id": "2078909444784599445",
+      "is_retweet": true,
+      "original_author": "MetaLeX_Labs",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T18:26:50+00:00",
+      "text": "RT @MetaLeX_Labs: MetaLeX has filed a comment to the @SECGov's Staff Statement Regarding User Interfaces Utilized to Prepare Transactions in Crypto Asset Securities the comment principally requests clarification that “processing trade documentation” does not include blockchain signatures to standard securities purchase agreements as part of tokenized securities trades https://t.co/NLaBtIL7Si",
+      "summary": "RT @MetaLeX_Labs: MetaLeX has filed a comment to the @SECGov's Staff Statement Regarding User Interfaces Utilized to Prepare Transactions in Crypto…",
+      "url": "https://x.com/NYcryptolawyer/status/2078909444784599445",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "120"
+      }
+    },
+    {
+      "id": "2078900539677430103",
+      "is_retweet": true,
+      "original_author": "aibra",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T17:51:27+00:00",
+      "text": "RT @aibra: If you're a qualified US investor or non-US person you can convert 1M solana:DLGRpmkMGr7J4KD1xR5x2XjaGeQH64PLFQkyxNNSpump into @collectdotrip equity via @MetaLeX_Labs ACE Round at a ~ 2.5M valuation which is 4x lower that what they raised from @Pumpfun. Note: I have a $TCG bag and an ACE Round participant",
+      "summary": "RT @aibra: If you're a qualified US investor or non-US person you can convert 1M solana:DLGRpmkMGr7J4KD1xR5x2XjaGeQH64PLFQkyxNNSpump into…",
+      "url": "https://x.com/lex_node/status/2078900539677430103",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "790"
       }
     },
     {
