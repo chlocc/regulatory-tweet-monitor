@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-07-20T12:01:22.810270+00:00",
-  "generated_at_unix": 1784548882,
+  "generated_at": "2026-07-20T15:00:05.364178+00:00",
+  "generated_at_unix": 1784559605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-19T16:00:00+00:00",
-  "window_end": "2026-07-20T12:01:22.810270+00:00",
-  "new_this_run": 3,
-  "total_recent": 13,
-  "errors": [
-    {
-      "username": "jnnylng",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-07-20T15:00:05.364178+00:00",
+  "new_this_run": 9,
+  "total_recent": 22,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079201067158433826",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T13:45:38+00:00",
+      "text": "6K+ messages to Congress calling for the Clarity Act. You did that🔥 Now let’s hit 10K🎯 If we don’t get this bill done, there will be no consumer protection for crypto users and government overreach will be the norm. The other side wants to end this technology because they don’t understand it. But we know crypto’s potential. Share, repost, make your voice heard. Let’s finish this!👊 https://t.co/4gp0IRJmeU",
+      "summary": "6K+ messages to Congress calling for the Clarity Act. You did that🔥 Now let’s hit 10K🎯 If we don’t get this bill done, there will be no consumer…",
+      "url": "https://x.com/CryptoLawUS/status/2079201067158433826",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 66,
+        "retweets": 19,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3396"
+      }
+    },
+    {
+      "id": "2079186766553137298",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T12:48:49+00:00",
+      "text": "\" This shouldn't be a partisan issue.\" @valkenburgh on why both Republicans and Democrats should want Clarity to pass. (this got me fired up) \"This is a bill that will protect consumers from bad cryptocurrency companies, that will regulate good cryptocurrency companies, and that will also ensure that we're not unjustly prosecuting software developers for things like money transmission.\"",
+      "summary": "\" This shouldn't be a partisan issue.\" @valkenburgh on why both Republicans and Democrats should want Clarity to pass. (this got me fired up) \"This…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079186766553137298",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "560"
+      }
+    },
+    {
+      "id": "2079173585801728193",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T11:56:26+00:00",
+      "text": "RT @DeatonforSenate: https://t.co/mUXa3KVJJd 14,000 feet over Massachusetts… still no sign of Markey. Join the fun, show us all the places he’s definitely not, and chip in to help elect a senator who will actually represent Massachusetts. 👀 https://t.co/k2PNupf6Lj",
+      "summary": "RT @DeatonforSenate: https://t.co/mUXa3KVJJd 14,000 feet over Massachusetts… still no sign of Markey. Join the fun, show us all the places he’s…",
+      "url": "https://x.com/JohnEDeaton1/status/2079173585801728193",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3008"
+      }
+    },
     {
       "id": "2079048830096375925",
       "is_retweet": true,
@@ -48,6 +118,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "2055"
+      }
+    },
+    {
+      "id": "2079032443227558315",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T02:35:35+00:00",
+      "text": "GENIUS made America the crypto capital. CLARITY secures it. Call your Senator. Connect with Congress. 🔗https://t.co/qDqRGF3aSb ☎️(202) 224-3121",
+      "summary": "GENIUS made America the crypto capital. CLARITY secures it. Call your Senator. Connect with Congress. 🔗https://t.co/qDqRGF3aSb ☎️(202) 224-3121",
+      "url": "https://x.com/CryptoLawUS/status/2079032443227558315",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 98,
+        "retweets": 24,
+        "replies": 2,
+        "quotes": 0,
+        "views": "9841"
       }
     },
     {
@@ -101,6 +196,31 @@
       }
     },
     {
+      "id": "2078992103099576447",
+      "is_retweet": true,
+      "original_author": "DavidSacks",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T23:55:17+00:00",
+      "text": "RT @DavidSacks: Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There’s no reason to limit American models on tasks that Chinese models handle without issue. We’re only making ourselves less competitive.",
+      "summary": "RT @DavidSacks: Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There’s no reason to limit…",
+      "url": "https://x.com/prestonjbyrne/status/2078992103099576447",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1552,
+        "replies": 0,
+        "quotes": 0,
+        "views": "308"
+      }
+    },
+    {
       "id": "2078991777370153126",
       "is_retweet": false,
       "original_author": null,
@@ -126,6 +246,31 @@
       }
     },
     {
+      "id": "2078986848538427702",
+      "is_retweet": true,
+      "original_author": "suchenzang",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T23:34:25+00:00",
+      "text": "RT @suchenzang: absolutely incredible things happening on the TL: alibaba effectively admitted to being MANDATED by their Big Guy to pivot AWAY from closed and TOWARDS open (weights) while the US is throwing export controls around like a game of blind pin-the-tail-on-the-donkey, China is really going all in on commoditization, forcing their corps to foot their own AI bills and release the final artifacts to the public (thereby controlling public fear of walled gardens and mass job displacement while allowing their AI labs to build goodwill at the same time) now tell me, who is the blind one in their policy strategies?",
+      "summary": "RT @suchenzang: absolutely incredible things happening on the TL: alibaba effectively admitted to being MANDATED by their Big Guy to pivot AWAY from…",
+      "url": "https://x.com/prestonjbyrne/status/2078986848538427702",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 178,
+        "replies": 0,
+        "quotes": 0,
+        "views": "351"
+      }
+    },
+    {
       "id": "2078986460120707089",
       "is_retweet": true,
       "original_author": "ImperiumPaper",
@@ -148,6 +293,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "787"
+      }
+    },
+    {
+      "id": "2078978584807346210",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T23:01:34+00:00",
+      "text": "Now can we stop pretending to like soccer?",
+      "summary": "Now can we stop pretending to like soccer?",
+      "url": "https://x.com/HaileyLennonBTC/status/2078978584807346210",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "1582"
+      }
+    },
+    {
+      "id": "2078972890968457688",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T22:38:57+00:00",
+      "text": "RT @DeatonforSenate: @sethmoulton https://t.co/qFGCZNE5hE",
+      "summary": "RT @DeatonforSenate: @sethmoulton https://t.co/qFGCZNE5hE",
+      "url": "https://x.com/JohnEDeaton1/status/2078972890968457688",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3756"
       }
     },
     {
@@ -223,6 +418,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1138"
+      }
+    },
+    {
+      "id": "2078921435548955124",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-19T19:14:29+00:00",
+      "text": "RT @DeatonforSenate: Seth talks a lot about service. The only service he's mastered is self-service. If you can't point to a major bill you've led on healthcare, housing, or energy, why are you asking Massachusetts for a promotion? He's Markey 2.0...another aspiring career politician focused on climbing the ladder instead of delivering results. Massachusetts deserves a real platform they can believe in. #peopleoverpolitics",
+      "summary": "RT @DeatonforSenate: Seth talks a lot about service. The only service he's mastered is self-service. If you can't point to a major bill you've led on…",
+      "url": "https://x.com/JohnEDeaton1/status/2078921435548955124",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 66,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4229"
       }
     },
     {
