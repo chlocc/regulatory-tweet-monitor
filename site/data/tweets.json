@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-07-20T15:00:05.364178+00:00",
-  "generated_at_unix": 1784559605,
+  "generated_at": "2026-07-20T18:00:06.226942+00:00",
+  "generated_at_unix": 1784570406,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-19T16:00:00+00:00",
-  "window_end": "2026-07-20T15:00:05.364178+00:00",
-  "new_this_run": 9,
-  "total_recent": 22,
-  "errors": [],
+  "window_end": "2026-07-20T18:00:06.226942+00:00",
+  "new_this_run": 11,
+  "total_recent": 33,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079224318932799687",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T15:18:02+00:00",
+      "text": "RT @CryptoAmerica_: Thank you, Chairman Hood! 🥹 https://t.co/COBpBtwYsN",
+      "summary": "RT @CryptoAmerica_: Thank you, Chairman Hood! 🥹 https://t.co/COBpBtwYsN",
+      "url": "https://x.com/EleanorTerrett/status/2079224318932799687",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7686"
+      }
+    },
     {
       "id": "2079201067158433826",
       "is_retweet": false,
@@ -71,6 +105,56 @@
       }
     },
     {
+      "id": "2079181277367079247",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T12:27:00+00:00",
+      "text": "💸 FTX is sending ~$900M to creditors on July 31, the fifth distribution round, pushing most claim classes past 100% recovery. https://t.co/uZ8VdJ3Kw0",
+      "summary": "💸 FTX is sending ~$900M to creditors on July 31, the fifth distribution round, pushing most claim classes past 100% recovery. https://t.co/uZ8VdJ3Kw0",
+      "url": "https://x.com/laurashin/status/2079181277367079247",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 3,
+        "views": "12984"
+      }
+    },
+    {
+      "id": "2079174230781112461",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T11:59:00+00:00",
+      "text": "🇫🇷 France just ordered ISPs to block Polymarket, calling it illegal gambling, not the financial trading venue the company claims to run. https://t.co/BAmoJCK9T5",
+      "summary": "🇫🇷 France just ordered ISPs to block Polymarket, calling it illegal gambling, not the financial trading venue the company claims to run.…",
+      "url": "https://x.com/laurashin/status/2079174230781112461",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 1,
+        "views": "5001"
+      }
+    },
+    {
       "id": "2079173585801728193",
       "is_retweet": true,
       "original_author": "DeatonforSenate",
@@ -93,6 +177,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "3008"
+      }
+    },
+    {
+      "id": "2079167752908980387",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T11:33:16+00:00",
+      "text": "🚨🗞️NEW: Ethics Clouds Clarity’s Path to the Senate Floor Following last Thursday’s meeting between President Trump and Republican senators, the White House has yet to agree on ethics parameters while industry still awaits updated bill text. https://t.co/eCqGPXO1Ei",
+      "summary": "🚨🗞️NEW: Ethics Clouds Clarity’s Path to the Senate Floor Following last Thursday’s meeting between President Trump and Republican senators, the White…",
+      "url": "https://x.com/EleanorTerrett/status/2079167752908980387",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 922,
+        "retweets": 147,
+        "replies": 95,
+        "quotes": 21,
+        "views": "116546"
+      }
+    },
+    {
+      "id": "2079166680950022597",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T11:29:00+00:00",
+      "text": "🚨 Michael Saylor is coming out swinging against Bitcoin's BIP-110, calling the anti-spam soft fork \"a bad idea.\" His warning: \"the proposed cure is more dangerous than the condition.\" https://t.co/Ik1VxkxwMU",
+      "summary": "🚨 Michael Saylor is coming out swinging against Bitcoin's BIP-110, calling the anti-spam soft fork \"a bad idea.\" His warning: \"the proposed cure is…",
+      "url": "https://x.com/laurashin/status/2079166680950022597",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3096"
+      }
+    },
+    {
+      "id": "2079159729465754071",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T11:01:23+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Michael Saylor calls Bitcoin's BIP-110 anti-spam soft fork \"a bad idea\" 🚫 France orders internet providers to block Polymarket 💸 FTX to send roughly $900 million to creditors in fifth payout 🎯 Read it now… and make sure you never miss one. Subscribe! https://t.co/vQ9jgAaNsP",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Michael Saylor calls Bitcoin's BIP-110 anti-spam soft fork \"a bad idea\" 🚫 France orders internet providers…",
+      "url": "https://x.com/laurashin/status/2079159729465754071",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2770"
       }
     },
     {
@@ -346,6 +505,31 @@
       }
     },
     {
+      "id": "2078969038546342284",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-19T22:23:38+00:00",
+      "text": "Great job, Spain! 👏🏼 Showed ’em 😜",
+      "summary": "Great job, Spain! 👏🏼 Showed ’em 😜",
+      "url": "https://x.com/EleanorTerrett/status/2078969038546342284",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 340,
+        "retweets": 12,
+        "replies": 24,
+        "quotes": 1,
+        "views": "30563"
+      }
+    },
+    {
       "id": "2078968468750115016",
       "is_retweet": false,
       "original_author": null,
@@ -393,6 +577,81 @@
         "replies": 4,
         "quotes": 0,
         "views": "4172"
+      }
+    },
+    {
+      "id": "2078963576409047142",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-19T22:01:56+00:00",
+      "text": "RT @CryptoAmerica_: Former @TheNCUA Chairman Rodney E. Hood, who also helped open the door for banks to participate in crypto while leading the @USOCC, says credit unions have an important role to play in the new financial system. https://t.co/wGoXrPCv6s",
+      "summary": "RT @CryptoAmerica_: Former @TheNCUA Chairman Rodney E. Hood, who also helped open the door for banks to participate in crypto while leading the…",
+      "url": "https://x.com/EleanorTerrett/status/2078963576409047142",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9355"
+      }
+    },
+    {
+      "id": "2078958891401126175",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-19T21:43:19+00:00",
+      "text": "'We decided to stick to our 5% budget.' What stood out to me on Uneasy Money: Cap's Benjamin Peillard ( @Benjamin918_) turned a shrinking airdrop budget into a promise that nobody would lose money. 🧩 https://t.co/35CVEY3lUp",
+      "summary": "'We decided to stick to our 5% budget.' What stood out to me on Uneasy Money: Cap's Benjamin Peillard ( @Benjamin918_) turned a shrinking airdrop…",
+      "url": "https://x.com/laurashin/status/2078958891401126175",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 2,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3458"
+      }
+    },
+    {
+      "id": "2078958351283781742",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-19T21:41:10+00:00",
+      "text": "'We decided to stick to our 5% budget.' What stood out to me on Uneasy Money: Cap's Benjamin Peillard ( @Benjamin918_) turned a shrinking airdrop budget into a promise that nobody would lose money. 🧩 https://t.co/2BGu4u5r5S",
+      "summary": "'We decided to stick to our 5% budget.' What stood out to me on Uneasy Money: Cap's Benjamin Peillard ( @Benjamin918_) turned a shrinking airdrop…",
+      "url": "https://x.com/laurashin/status/2078958351283781742",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 2,
+        "replies": 2,
+        "quotes": 0,
+        "views": "5219"
       }
     },
     {
@@ -468,6 +727,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "36569"
+      }
+    },
+    {
+      "id": "2078913037168505221",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-19T18:41:07+00:00",
+      "text": "I loved how directly @johannkerbrat put this: he does not think regulation catches up to tokenization, he thinks tokenization outgrows it. 🌍🔑 https://t.co/2J3y26ADha",
+      "summary": "I loved how directly @johannkerbrat put this: he does not think regulation catches up to tokenization, he thinks tokenization outgrows it. 🌍🔑…",
+      "url": "https://x.com/laurashin/status/2078913037168505221",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 3,
+        "replies": 7,
+        "quotes": 0,
+        "views": "5861"
       }
     },
     {
