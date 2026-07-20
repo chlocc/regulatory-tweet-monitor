@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-19T20:57:05.354251+00:00",
-  "generated_at_unix": 1784494625,
+  "generated_at": "2026-07-20T06:03:23.415994+00:00",
+  "generated_at_unix": 1784527403,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-07-18T16:00:00+00:00",
-  "window_end": "2026-07-19T20:57:05.354251+00:00",
-  "new_this_run": 8,
-  "total_recent": 10,
+  "window_start": "2026-07-19T16:00:00+00:00",
+  "window_end": "2026-07-20T06:03:23.415994+00:00",
+  "new_this_run": 5,
+  "total_recent": 7,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
@@ -20,6 +20,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079048830096375925",
+      "is_retweet": true,
+      "original_author": "DavidSacks",
+      "username": "howardlutnick",
+      "display_name": "Howard Lutnick",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-20T03:40:42+00:00",
+      "text": "RT @DavidSacks: Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There’s no reason to limit American models on tasks that Chinese models handle without issue. We’re only making ourselves less competitive.",
+      "summary": "RT @DavidSacks: Kimi K3 just fixed 15 critical security bugs that Codex and Fable refused because of “cyber guardrails.” There’s no reason to limit…",
+      "url": "https://x.com/howardlutnick/status/2079048830096375925",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1107,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2055"
+      }
+    },
+    {
+      "id": "2079010861906108755",
+      "is_retweet": true,
+      "original_author": "CENTCOM",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-20T01:09:50+00:00",
+      "text": "RT @CENTCOM: CENTCOM began conducting a new wave of strikes against Iran at 7 p.m. ET today for the ninth consecutive night. The strikes will continue degrading Iranian military capabilities used to attack commercial vessels and civilian mariners transiting the Strait of Hormuz.",
+      "summary": "RT @CENTCOM: CENTCOM began conducting a new wave of strikes against Iran at 7 p.m. ET today for the ninth consecutive night. The strikes will…",
+      "url": "https://x.com/WhiteHouse/status/2079010861906108755",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2497,
+        "replies": 0,
+        "quotes": 0,
+        "views": "39154"
+      }
+    },
+    {
+      "id": "2079010832898204024",
+      "is_retweet": true,
+      "original_author": "FBIDirectorKash",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-20T01:09:43+00:00",
+      "text": "RT @FBIDirectorKash: The 2026 FIFA World Cup was the largest sporting event in the history of the world, shattering previous attendance record by double digits. America- we got it done, ZERO major security incidents across our nation while we hosted the equivalent of 78 super bowls in 38 days, along with 40 base camps, endless fan zones, and celebrations in nearly every state. President Trump promised his administration would deliver the most safe, secure, and fun environment for FIFA. He started by establishing the White House FIFA Task Force some 16 months ago, and we got right to work. This FBI led the charge dedicating nearly 5,000 personnel to the effort out of HQ, field, and international offices - across 16 host cities. And, none of what we accomplished is possible without our federal, state and local partners who all put in the same relentless effort. It’s the largest resource dedication the FBI has EVER made for a any event. This FBI stood up a Joint Ops Center, International Police Coordination Center, Intelligence Coordination Center, and more - all from scratch- to collect and share intel in live time. We established the first ever counter-UAS drone school, training members of law enforcement from across the country for the World Cup- we seized over 700 drones near FIFA airspace. Whether it was UFC 250, SAIL 250, State Fair 250 or so many other events happening simultaneously- we DELIVERED the safest and most secure World Cup in history. President Trump's leadership set the course, he led the way, and this FBI and our partners rose to the challenge- thanks to all our partners, @FIFA @DHSgov @WHTaskForceFIFA and their Director Andrew Giuliani.",
+      "summary": "RT @FBIDirectorKash: The 2026 FIFA World Cup was the largest sporting event in the history of the world, shattering previous attendance record by…",
+      "url": "https://x.com/WhiteHouse/status/2079010832898204024",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5065,
+        "replies": 0,
+        "quotes": 0,
+        "views": "30496"
+      }
+    },
+    {
+      "id": "2078991777370153126",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-19T23:54:00+00:00",
+      "text": "Always such a treat getting to step into the announcer's booth at CFD to say hi to the crowd. https://t.co/3eccESdkcT",
+      "summary": "Always such a treat getting to step into the announcer's booth at CFD to say hi to the crowd. https://t.co/3eccESdkcT",
+      "url": "https://x.com/SenLummis/status/2078991777370153126",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 362,
+        "retweets": 14,
+        "replies": 11,
+        "quotes": 1,
+        "views": "29392"
+      }
+    },
+    {
+      "id": "2078968468750115016",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-07-19T22:21:22+00:00",
+      "text": "Congratulations to Vice President JD Vance and Second Lady Usha Vance on the birth of their fourth child! 💙🇺🇸",
+      "summary": "Congratulations to Vice President JD Vance and Second Lady Usha Vance on the birth of their fourth child! 💙🇺🇸",
+      "url": "https://x.com/WhiteHouse/status/2078968468750115016",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31996,
+        "retweets": 2814,
+        "replies": 665,
+        "quotes": 98,
+        "views": "570903"
+      }
+    },
     {
       "id": "2078917314699829423",
       "is_retweet": true,
@@ -68,206 +193,6 @@
         "replies": 0,
         "quotes": 0,
         "views": "48539"
-      }
-    },
-    {
-      "id": "2078844809310089513",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-19T14:10:00+00:00",
-      "text": "If something is genuinely decentralized, it should not be regulated like a bank. Getting that distinction right took years of work, and we finally have the opportunity to make it law. Let’s pass the Clarity Act.",
-      "summary": "If something is genuinely decentralized, it should not be regulated like a bank. Getting that distinction right took years of work, and we finally…",
-      "url": "https://x.com/SenLummis/status/2078844809310089513",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 5280,
-        "retweets": 760,
-        "replies": 288,
-        "quotes": 64,
-        "views": "140068"
-      }
-    },
-    {
-      "id": "2078598013165908235",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-18T21:49:19+00:00",
-      "text": "So glad to see Cody rally around Chloe and help make her 7th birthday memorable. Happy birthday, Chloe!!",
-      "summary": "So glad to see Cody rally around Chloe and help make her 7th birthday memorable. Happy birthday, Chloe!!",
-      "url": "https://x.com/SenLummis/status/2078598013165908235",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 318,
-        "retweets": 20,
-        "replies": 15,
-        "quotes": 0,
-        "views": "52886"
-      }
-    },
-    {
-      "id": "2078544644518899838",
-      "is_retweet": true,
-      "original_author": "RepStutzman",
-      "username": "FinancialCmte",
-      "display_name": "Financial Services GOP",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-18T18:17:15+00:00",
-      "text": "RT @RepStutzman: I was honored to join @FinancialCmte Chairman @RepFrenchHill and @RepBryanSteil at the field hearing on the anniversary of the CLARITY Act passing the House. As @RepTimMoore, @RepTimmons, @RepHaridopolos, @RepMeuser, and I all discussed on this panel at Federal Hall, the CLARITY act is a crucial piece of legislation to secure our economic future. Now, the senate needs to pass CLARITY!",
-      "summary": "RT @RepStutzman: I was honored to join @FinancialCmte Chairman @RepFrenchHill and @RepBryanSteil at the field hearing on the anniversary of the…",
-      "url": "https://x.com/FinancialCmte/status/2078544644518899838",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 8,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1023"
-      }
-    },
-    {
-      "id": "2078532490734817737",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-18T17:28:57+00:00",
-      "text": "The @CheFrontierDays parade never disappoints. So great seeing everyone this morning! https://t.co/NwSYWdxDOd",
-      "summary": "The @CheFrontierDays parade never disappoints. So great seeing everyone this morning! https://t.co/NwSYWdxDOd",
-      "url": "https://x.com/SenLummis/status/2078532490734817737",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 317,
-        "retweets": 18,
-        "replies": 25,
-        "quotes": 0,
-        "views": "36157"
-      }
-    },
-    {
-      "id": "2078528502324945200",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-07-18T17:13:06+00:00",
-      "text": "What actually decides whether Bitcoin's rally holds? GSR's @baehr says it comes down to real rates, not the CPI headline. 🧠 https://t.co/QOstf0K62q",
-      "summary": "What actually decides whether Bitcoin's rally holds? GSR's @baehr says it comes down to real rates, not the CPI headline. 🧠 https://t.co/QOstf0K62q",
-      "url": "https://x.com/laurashin/status/2078528502324945200",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 6,
-        "retweets": 1,
-        "replies": 5,
-        "quotes": 1,
-        "views": "1918"
-      }
-    },
-    {
-      "id": "2078517866857406717",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-18T16:30:51+00:00",
-      "text": "One year ago, the GENIUS Act became law. The GENIUS Act was an important first step in securing the dollar’s dominance, but we must capitalize on that momentum if we are going to cement America’s legacy as the crypto capital of the world. Let’s get the Clarity Act done!",
-      "summary": "One year ago, the GENIUS Act became law. The GENIUS Act was an important first step in securing the dollar’s dominance, but we must capitalize on…",
-      "url": "https://x.com/SenLummis/status/2078517866857406717",
-      "type": "original",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 3904,
-        "retweets": 496,
-        "replies": 158,
-        "quotes": 29,
-        "views": "100691"
-      }
-    },
-    {
-      "id": "2078515295459881312",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "danrobinson",
-      "display_name": "Dan Robinson",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-18T16:20:38+00:00",
-      "text": "If Dean (or @tszzl, @willdepue…) says something consistent with OpenAI’s interests, he’s called a hack If Dean says something contrary to OpenAI’s interests, he’s called a hypocrite If we want honest takes from lab employees, or indeed any takes at all, this is not the way",
-      "summary": "If Dean (or @tszzl, @willdepue…) says something consistent with OpenAI’s interests, he’s called a hack If Dean says something contrary to OpenAI’s…",
-      "url": "https://x.com/danrobinson/status/2078515295459881312",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 29,
-        "retweets": 1,
-        "replies": 4,
-        "quotes": 1,
-        "views": "5551"
-      }
-    },
-    {
-      "id": "2078513878624035228",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-18T16:15:00+00:00",
-      "text": "No regulation didn’t just mean no oversight. It meant that when Celsius, Voyager, and FTX went bankrupt, customer assets were treated like corporate property instead of customer property. The Clarity Act fixes the rule that let that happen. Protecting customers in bankruptcy shouldn’t be a partisan idea.",
-      "summary": "No regulation didn’t just mean no oversight. It meant that when Celsius, Voyager, and FTX went bankrupt, customer assets were treated like corporate…",
-      "url": "https://x.com/SenLummis/status/2078513878624035228",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 3807,
-        "retweets": 502,
-        "replies": 143,
-        "quotes": 22,
-        "views": "107693"
       }
     }
   ]
