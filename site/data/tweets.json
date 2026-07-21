@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-21T12:00:02.012457+00:00",
-  "generated_at_unix": 1784635202,
+  "generated_at": "2026-07-21T15:00:05.808028+00:00",
+  "generated_at_unix": 1784646005,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-20T16:00:00+00:00",
-  "window_end": "2026-07-21T12:00:02.012457+00:00",
-  "new_this_run": 6,
-  "total_recent": 17,
+  "window_end": "2026-07-21T15:00:05.808028+00:00",
+  "new_this_run": 16,
+  "total_recent": 33,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079560205130486015",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T13:32:43+00:00",
+      "text": "RT @CryptoLawUS: CLARITY UPDATE: The White House has reportedly agreed on an ethics package. We're on track to more than 10K messages to Congress. Your voice is making a difference. Speak up. The time is now. Connect to Congress here: https://t.co/GzHabguvh1",
+      "summary": "RT @CryptoLawUS: CLARITY UPDATE: The White House has reportedly agreed on an ethics package. We're on track to more than 10K messages to Congress.…",
+      "url": "https://x.com/JohnEDeaton1/status/2079560205130486015",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 45,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2260"
+      }
+    },
+    {
+      "id": "2079559670465765858",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T13:30:36+00:00",
+      "text": "CLARITY UPDATE: The White House has reportedly agreed on an ethics package. We're on track to more than 10K messages to Congress. Your voice is making a difference. Speak up. The time is now. Connect to Congress here: https://t.co/GzHabguvh1",
+      "summary": "CLARITY UPDATE: The White House has reportedly agreed on an ethics package. We're on track to more than 10K messages to Congress. Your voice is…",
+      "url": "https://x.com/CryptoLawUS/status/2079559670465765858",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 192,
+        "retweets": 46,
+        "replies": 2,
+        "quotes": 2,
+        "views": "9712"
+      }
+    },
+    {
+      "id": "2079548776805470519",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T12:47:19+00:00",
+      "text": "Thrilled to have @GOPMajorityWhip Tom Emmer join the @LawofCodeFM podcast later this week. We'll cover the Clarity Act, why he introduced the BRCA in 2018, how politics has changed and his early legal career representing ... volunteer firefighters. https://t.co/HXb6UiaYr2",
+      "summary": "Thrilled to have @GOPMajorityWhip Tom Emmer join the @LawofCodeFM podcast later this week. We'll cover the Clarity Act, why he introduced the BRCA in…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079548776805470519",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 1,
+        "views": "2447"
+      }
+    },
+    {
+      "id": "2079542335247880468",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T12:21:43+00:00",
+      "text": "The government can do this and Warren will still claim crypto is untraceable",
+      "summary": "The government can do this and Warren will still claim crypto is untraceable",
+      "url": "https://x.com/HaileyLennonBTC/status/2079542335247880468",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 21,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2065"
+      }
+    },
+    {
+      "id": "2079526299593490584",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T11:18:00+00:00",
+      "text": "In late May, the CFTC approved a perpetual futures contract that references the spot price of bitcoin. Will on-chain finance be next? I asked @passalacqua_mj, Senior Advisor to @ChairmanSelig, about that. Worthwhile insights here. https://t.co/SpmRhS6zXI",
+      "summary": "In late May, the CFTC approved a perpetual futures contract that references the spot price of bitcoin. Will on-chain finance be next? I asked…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079526299593490584",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "872"
+      }
+    },
     {
       "id": "2079405758165250177",
       "is_retweet": true,
@@ -43,6 +168,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "652"
+      }
+    },
+    {
+      "id": "2079365652150653206",
+      "is_retweet": true,
+      "original_author": "sentosumosaba",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T00:39:38+00:00",
+      "text": "RT @sentosumosaba: Clarity Act Be one of the 10,000 letters of urgency. Use John Deaton’s tool 👇🏽 just 30 seconds to complete your Name, Address, Zip - and the form letter (already written) fires off.",
+      "summary": "RT @sentosumosaba: Clarity Act Be one of the 10,000 letters of urgency. Use John Deaton’s tool 👇🏽 just 30 seconds to complete your Name, Address, Zip…",
+      "url": "https://x.com/JohnEDeaton1/status/2079365652150653206",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 36,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3398"
+      }
+    },
+    {
+      "id": "2079363065439498497",
+      "is_retweet": true,
+      "original_author": "AdamThierer",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T00:29:22+00:00",
+      "text": "RT @AdamThierer: Interested in a deep dive into AI, free speech &amp; the likely First Amendment cases and controversies of the future? This “Law of Code” podcast from @JacobRobinsonJD has it all. It's a free 2-hour course on all the key issues &amp; cases. Incredibly wide-ranging discussion.",
+      "summary": "RT @AdamThierer: Interested in a deep dive into AI, free speech &amp; the likely First Amendment cases and controversies of the future? This “Law of…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079363065439498497",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "53"
+      }
+    },
+    {
+      "id": "2079359049271775571",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T00:13:24+00:00",
+      "text": "Literally if you ever get a call from a crypto company, you’re getting a call from a scammer. The only exception might be @River because they actually have amazing customer support but even then 100% verify and call them back after researching their customer support number",
+      "summary": "Literally if you ever get a call from a crypto company, you’re getting a call from a scammer. The only exception might be @River because they…",
+      "url": "https://x.com/HaileyLennonBTC/status/2079359049271775571",
+      "type": "quote",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 50,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "5211"
+      }
+    },
+    {
+      "id": "2079334965469151319",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T22:37:42+00:00",
+      "text": "RT @JacobRobinsonJD: @JohnEDeaton1 @patrickjwitt Second-best news:",
+      "summary": "RT @JacobRobinsonJD: @JohnEDeaton1 @patrickjwitt Second-best news:",
+      "url": "https://x.com/JohnEDeaton1/status/2079334965469151319",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4107"
       }
     },
     {
@@ -71,6 +296,31 @@
       }
     },
     {
+      "id": "2079326086446354850",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T22:02:25+00:00",
+      "text": "RT @CryptoLawUS: GENIUS made America the crypto capital. CLARITY secures it. Call your Senator. Connect with Congress. 🔗https://t.co/qDqRGF3aSb ☎️(202) 224-3121",
+      "summary": "RT @CryptoLawUS: GENIUS made America the crypto capital. CLARITY secures it. Call your Senator. Connect with Congress. 🔗https://t.co/qDqRGF3aSb…",
+      "url": "https://x.com/JohnEDeaton1/status/2079326086446354850",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 55,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3159"
+      }
+    },
+    {
       "id": "2079324967083163926",
       "is_retweet": true,
       "original_author": "NeerajKA",
@@ -93,6 +343,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "8"
+      }
+    },
+    {
+      "id": "2079323269237281011",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T21:51:14+00:00",
+      "text": "RT @CryptoLawUS: 6K+ messages to Congress calling for the Clarity Act. You did that🔥 Now let’s hit 10K🎯 If we don’t get this bill done, there will be no consumer protection for crypto users and government overreach will be the norm. The other side wants to end this technology because they don’t understand it. But we know crypto’s potential. Share, repost, make your voice heard. Let’s finish this!👊 https://t.co/4gp0IRJmeU",
+      "summary": "RT @CryptoLawUS: 6K+ messages to Congress calling for the Clarity Act. You did that🔥 Now let’s hit 10K🎯 If we don’t get this bill done, there will be…",
+      "url": "https://x.com/JohnEDeaton1/status/2079323269237281011",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 96,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3061"
+      }
+    },
+    {
+      "id": "2079323240921461105",
+      "is_retweet": true,
+      "original_author": "xrplumber",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T21:51:07+00:00",
+      "text": "RT @xrplumber: @JohnEDeaton1 and @CryptoLawUS are making it so easy for 🫵 to make a difference. It took me literally 30 seconds!!!! GET👏IT👏DONE👏",
+      "summary": "RT @xrplumber: @JohnEDeaton1 and @CryptoLawUS are making it so easy for 🫵 to make a difference. It took me literally 30 seconds!!!! GET👏IT👏DONE👏",
+      "url": "https://x.com/JohnEDeaton1/status/2079323240921461105",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3751"
       }
     },
     {
@@ -221,6 +521,81 @@
       }
     },
     {
+      "id": "2079294394281210074",
+      "is_retweet": true,
+      "original_author": "digitalassetbuy",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T19:56:29+00:00",
+      "text": "RT @digitalassetbuy: Reminder: The same Senators pretending to care about ethics as a way to stop the Clarity Act didn't give two shits about Nancy Pelosi's ethics for decades. https://t.co/n8jStWjPSk",
+      "summary": "RT @digitalassetbuy: Reminder: The same Senators pretending to care about ethics as a way to stop the Clarity Act didn't give two shits about Nancy…",
+      "url": "https://x.com/JohnEDeaton1/status/2079294394281210074",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 136,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3142"
+      }
+    },
+    {
+      "id": "2079293274385207560",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T19:52:02+00:00",
+      "text": "RT @JacobRobinsonJD: The Trump Administration is reportedly considering banning Chinese open-source AI models within the United States. @prestonjbyrne explains why an open source model is likely to be the defining Supreme Court case on code as speech.",
+      "summary": "RT @JacobRobinsonJD: The Trump Administration is reportedly considering banning Chinese open-source AI models within the United States.…",
+      "url": "https://x.com/prestonjbyrne/status/2079293274385207560",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "347"
+      }
+    },
+    {
+      "id": "2079292176056356884",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T19:47:40+00:00",
+      "text": "The Trump Administration is reportedly considering banning Chinese open-source AI models within the United States. @prestonjbyrne explains why an open source model is likely to be the defining Supreme Court case on code as speech.",
+      "summary": "The Trump Administration is reportedly considering banning Chinese open-source AI models within the United States. @prestonjbyrne explains why an…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079292176056356884",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 26,
+        "retweets": 7,
+        "replies": 3,
+        "quotes": 1,
+        "views": "6565"
+      }
+    },
+    {
       "id": "2079288162283586020",
       "is_retweet": false,
       "original_author": null,
@@ -343,6 +718,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "740"
+      }
+    },
+    {
+      "id": "2079262743396298959",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T17:50:43+00:00",
+      "text": "RT @CryptoLawUS: 🚨We need 10,000 letters to get Clarity across the finish line. Time is running out, and without clear rules, consumers aren't protected. Don't let the skeptics win. Connect with Congress: https://t.co/GzHabguvh1",
+      "summary": "RT @CryptoLawUS: 🚨We need 10,000 letters to get Clarity across the finish line. Time is running out, and without clear rules, consumers aren't…",
+      "url": "https://x.com/JohnEDeaton1/status/2079262743396298959",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 196,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3472"
       }
     },
     {
