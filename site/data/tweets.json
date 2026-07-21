@@ -1,80 +1,299 @@
 {
-  "generated_at": "2026-07-21T06:17:11.027736+00:00",
-  "generated_at_unix": 1784614631,
+  "generated_at": "2026-07-21T09:00:05.854318+00:00",
+  "generated_at_unix": 1784624405,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-20T16:00:00+00:00",
-  "window_end": "2026-07-21T06:17:11.027736+00:00",
-  "new_this_run": 0,
-  "total_recent": 0,
-  "errors": [
-    {
-      "username": "SECGov",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "HesterPeirce",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "BoHines",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "davidsacks47",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "WhiteHouse",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "howardlutnick",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "VP",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "ADGlobalMarket",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "RepFrenchHill",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "FinancialCmte",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "USHouseFSC",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "SenLummis",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "SenatorHagerty",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "SenRubenGallego",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    }
-  ],
+  "window_end": "2026-07-21T09:00:05.854318+00:00",
+  "new_this_run": 11,
+  "total_recent": 11,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 1,
-    "successful_this_run": 1,
-    "next_index": 15,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
   "rate_limit": {
     "active": false
   },
-  "tweets": []
+  "tweets": [
+    {
+      "id": "2079318954439258320",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-20T21:34:05+00:00",
+      "text": "Christian towns around Bethlehem are surrounded on all sides by settlers who steal their water and attack their families. They cannot freely move across their land and are blocked from going to holy sites in Jerusalem. Listen to the mayors of these towns share their stories. https://t.co/NkHQ3AfQT0",
+      "summary": "Christian towns around Bethlehem are surrounded on all sides by settlers who steal their water and attack their families. They cannot freely move…",
+      "url": "https://x.com/RoKhanna/status/2079318954439258320",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5898,
+        "retweets": 2223,
+        "replies": 313,
+        "quotes": 62,
+        "views": "84642"
+      }
+    },
+    {
+      "id": "2079313396613390822",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T21:12:00+00:00",
+      "text": "RT @StaniKulechov: Aave V4 Prime is a great market for borrowers: - bluechip collateral at good Collateral Factors - no rehypothecation of collateral - cash back on borrow interest in USDC",
+      "summary": "RT @StaniKulechov: Aave V4 Prime is a great market for borrowers: - bluechip collateral at good Collateral Factors - no rehypothecation of collateral…",
+      "url": "https://x.com/LindaJeng1/status/2079313396613390822",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3"
+      }
+    },
+    {
+      "id": "2079312859280834718",
+      "is_retweet": true,
+      "original_author": "HarryYJung",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-20T21:09:52+00:00",
+      "text": "RT @HarryYJung: 1/6 In two weeks, I will leave government service with immense gratitude. Serving in @POTUS administration and working for @DavidSacks in the @WhiteHouse Crypto Council has been a great honor. These past two years transformed America’s position on crypto. I’m proud of all we accomplished.",
+      "summary": "RT @HarryYJung: 1/6 In two weeks, I will leave government service with immense gratitude. Serving in @POTUS administration and working for…",
+      "url": "https://x.com/patrickjwitt/status/2079312859280834718",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "853"
+      }
+    },
+    {
+      "id": "2079307095640576228",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-20T20:46:57+00:00",
+      "text": "For the past year, I have worked diligently to get the Clarity Act passed, fulfilling President Trump’s vision to make the U.S. the crypto capital of the world. Last week, it was reported that I was set to leave for mandatory training as part of my service in the Georgia Army National Guard, right before Clarity hits the Senate floor. While I remain committed to fulfilling my service obligation, I am grateful to report that my training has been deferred, and that I will be able to see this effort through to the end. Thanks to @POTUS and @DavidSacks for the opportunity to continue this important work and to everyone who reached out last week. Let’s finish the job. 🇺🇸",
+      "summary": "For the past year, I have worked diligently to get the Clarity Act passed, fulfilling President Trump’s vision to make the U.S. the crypto capital of…",
+      "url": "https://x.com/patrickjwitt/status/2079307095640576228",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8178,
+        "retweets": 987,
+        "replies": 497,
+        "quotes": 117,
+        "views": "712290"
+      }
+    },
+    {
+      "id": "2079296535511056797",
+      "is_retweet": true,
+      "original_author": "paulbarrontv",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-20T20:05:00+00:00",
+      "text": "RT @paulbarrontv: 🇺🇸Congress Misses DEADLINE🏛️🔥 Interview @lindsayfraser0 @BlockchainAssn 👀 WATCH👉https://t.co/yg1n99fs2d $ETH $BTC $SOL $XRP https://t.co/IWu93BoMLz",
+      "summary": "RT @paulbarrontv: 🇺🇸Congress Misses DEADLINE🏛️🔥 Interview @lindsayfraser0 @BlockchainAssn 👀 WATCH👉https://t.co/yg1n99fs2d $ETH $BTC $SOL $XRP…",
+      "url": "https://x.com/BlockchainAssn/status/2079296535511056797",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "502"
+      }
+    },
+    {
+      "id": "2079288162283586020",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-20T19:31:43+00:00",
+      "text": "The CLARITY act is about crypto. This is an op-ed against it. It argues that the proposed protections for crypto developers could also protect AI developers, a bad thing according to her. AI or crypto, liability should fall on the user of a tool. Not its builder. https://t.co/cnnVy3e9wd",
+      "summary": "The CLARITY act is about crypto. This is an op-ed against it. It argues that the proposed protections for crypto developers could also protect AI…",
+      "url": "https://x.com/NeerajKA/status/2079288162283586020",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 111,
+        "retweets": 8,
+        "replies": 8,
+        "quotes": 2,
+        "views": "14175"
+      }
+    },
+    {
+      "id": "2079267957377737029",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T18:11:26+00:00",
+      "text": "When most people think of where regular Americans check government overreach, they think of the streets or maybe the ballot box. But in terms of daily impact, neither compares to the jury box.",
+      "summary": "When most people think of where regular Americans check government overreach, they think of the streets or maybe the ballot box. But in terms of…",
+      "url": "https://x.com/iampaulgrewal/status/2079267957377737029",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 45,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 0,
+        "views": "7776"
+      }
+    },
+    {
+      "id": "2079266392831140135",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-20T18:05:13+00:00",
+      "text": "1/ The next generation of financial markets will be built somewhere. The question is whether they're built in the United States under American rules, creating American jobs and investment, or in foreign jurisdictions that are moving faster to provide regulatory certainty. With Clarity, our Senate can choose American leadership. 🧵",
+      "summary": "1/ The next generation of financial markets will be built somewhere. The question is whether they're built in the United States under American rules,…",
+      "url": "https://x.com/BlockchainAssn/status/2079266392831140135",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 30,
+        "retweets": 4,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1961"
+      }
+    },
+    {
+      "id": "2079265940844241248",
+      "is_retweet": true,
+      "original_author": "SpeakerJohnson",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-20T18:03:25+00:00",
+      "text": "RT @SpeakerJohnson: This week, we're moving forward with the SAVE and Protect America Act to deliver on: ✅Securing our elections ✅Strengthening our national defense ✅Supporting our farmers Ultimately, Democrats will have to explain to the American people why they continue putting their COMMUNIST AGENDA ahead of America’s national security.",
+      "summary": "RT @SpeakerJohnson: This week, we're moving forward with the SAVE and Protect America Act to deliver on: ✅Securing our elections ✅Strengthening our…",
+      "url": "https://x.com/GOPMajorityWhip/status/2079265940844241248",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1158,
+        "replies": 0,
+        "quotes": 0,
+        "views": "740"
+      }
+    },
+    {
+      "id": "2079246184103710938",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-20T16:44:55+00:00",
+      "text": "The U.S cannot wait any longer. We need to pass the CLARITY Act.",
+      "summary": "The U.S cannot wait any longer. We need to pass the CLARITY Act.",
+      "url": "https://x.com/standwithcrypto/status/2079246184103710938",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2594,
+        "retweets": 329,
+        "replies": 45,
+        "quotes": 6,
+        "views": "56182"
+      }
+    },
+    {
+      "id": "2079235649714933840",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-20T16:03:03+00:00",
+      "text": "A critical week for CLARITY. The Senate has 18 days before August recess, and the CLARITY Act still has no vote scheduled or updated legislative text. 2.9 million SWC advocates have a message for Washington: don't leave without getting this done. https://t.co/KebIlY9ZAm",
+      "summary": "A critical week for CLARITY. The Senate has 18 days before August recess, and the CLARITY Act still has no vote scheduled or updated legislative…",
+      "url": "https://x.com/standwithcrypto/status/2079235649714933840",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 409,
+        "retweets": 94,
+        "replies": 15,
+        "quotes": 4,
+        "views": "11798"
+      }
+    }
+  ]
 }
