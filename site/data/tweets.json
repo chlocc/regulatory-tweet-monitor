@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-21T09:00:05.854318+00:00",
-  "generated_at_unix": 1784624405,
+  "generated_at": "2026-07-21T12:00:02.012457+00:00",
+  "generated_at_unix": 1784635202,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-20T16:00:00+00:00",
-  "window_end": "2026-07-21T09:00:05.854318+00:00",
-  "new_this_run": 11,
-  "total_recent": 11,
+  "window_end": "2026-07-21T12:00:02.012457+00:00",
+  "new_this_run": 6,
+  "total_recent": 17,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079405758165250177",
+      "is_retweet": true,
+      "original_author": "serpinxbt",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T03:19:00+00:00",
+      "text": "RT @serpinxbt: cb slander is out of hand today.. coinbase, base, ecosystem fund have been awesome partners to us there are teams, institutions out there that act in crypto with absolute MALICE. teams that RINSE retail with their exchanges/products no malice from CB/Brian imo, just naive",
+      "summary": "RT @serpinxbt: cb slander is out of hand today.. coinbase, base, ecosystem fund have been awesome partners to us there are teams, institutions out…",
+      "url": "https://x.com/lex_node/status/2079405758165250177",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "652"
+      }
+    },
+    {
+      "id": "2079333411357884458",
+      "is_retweet": true,
+      "original_author": "ErikVoorhees",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T22:31:32+00:00",
+      "text": "RT @ErikVoorhees: Ethereum should ditch the communist egalitarian/child's eighth birthday unicorn branding and code Machiavellian That is far more the point of decentralized networks... resistance to adversaries, and brutal respect for the explicitly non-egalitarian state of both nature and man within in. In line with Bitcoin's apropos slogan, \"money for enemies\"",
+      "summary": "RT @ErikVoorhees: Ethereum should ditch the communist egalitarian/child's eighth birthday unicorn branding and code Machiavellian That is far more…",
+      "url": "https://x.com/lex_node/status/2079333411357884458",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 50,
+        "replies": 0,
+        "quotes": 0,
+        "views": "665"
+      }
+    },
+    {
+      "id": "2079324967083163926",
+      "is_retweet": true,
+      "original_author": "NeerajKA",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T21:57:58+00:00",
+      "text": "RT @NeerajKA: The CLARITY act is about crypto. This is an op-ed against it. It argues that the proposed protections for crypto developers could also protect AI developers, a bad thing according to her. AI or crypto, liability should fall on the user of a tool. Not its builder. https://t.co/cnnVy3e9wd",
+      "summary": "RT @NeerajKA: The CLARITY act is about crypto. This is an op-ed against it. It argues that the proposed protections for crypto developers could also…",
+      "url": "https://x.com/N0th1n3/status/2079324967083163926",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8"
+      }
+    },
     {
       "id": "2079318954439258320",
       "is_retweet": false,
@@ -171,6 +246,31 @@
       }
     },
     {
+      "id": "2079287624791908419",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T19:29:35+00:00",
+      "text": "RT @CoinDesk: .@SenatorHagerty takes aim at Sen. Elizabeth Warren, arguing her opposition to decentralized crypto reflects a preference for digital assets that can be tracked, controlled and \"choke pointed\" by centralized authorities. https://t.co/3B8zM67jaU",
+      "summary": "RT @CoinDesk: .@SenatorHagerty takes aim at Sen. Elizabeth Warren, arguing her opposition to decentralized crypto reflects a preference for digital…",
+      "url": "https://x.com/RebeccaRettig1/status/2079287624791908419",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 40,
+        "replies": 0,
+        "quotes": 0,
+        "views": "84"
+      }
+    },
+    {
       "id": "2079267957377737029",
       "is_retweet": false,
       "original_author": null,
@@ -243,6 +343,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "740"
+      }
+    },
+    {
+      "id": "2079262487271051405",
+      "is_retweet": true,
+      "original_author": "MetaDAOProject",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T17:49:42+00:00",
+      "text": "RT @MetaDAOProject: Tomorrow at 17:00 UTC we're running a $250,000 raise for @ripcarsio, the first Hot Wheels gacha platform. This raise will use Ownership Score to decide 50% of the allocations, an experimental system designed to reward our users. https://t.co/3yxxDopEe7",
+      "summary": "RT @MetaDAOProject: Tomorrow at 17:00 UTC we're running a $250,000 raise for @ripcarsio, the first Hot Wheels gacha platform. This raise will use…",
+      "url": "https://x.com/lex_node/status/2079262487271051405",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "715"
+      }
+    },
+    {
+      "id": "2079254704899739875",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-20T17:18:46+00:00",
+      "text": "if you're getting mad at the CEO of a public company, it shows that you don't like needing to depend on other people's wealth/power the answer is not to go simp for Vlad now it's to go back to real crypto (decentralization/autonomy), and stop buying bullshit decentralized version of onchain stonks btw: https://t.co/MIFi0npYZY",
+      "summary": "if you're getting mad at the CEO of a public company, it shows that you don't like needing to depend on other people's wealth/power the answer is not…",
+      "url": "https://x.com/lex_node/status/2079254704899739875",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 98,
+        "retweets": 9,
+        "replies": 9,
+        "quotes": 0,
+        "views": "7803"
       }
     },
     {
