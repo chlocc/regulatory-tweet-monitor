@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-07-21T15:00:05.808028+00:00",
-  "generated_at_unix": 1784646005,
+  "generated_at": "2026-07-21T18:00:05.902075+00:00",
+  "generated_at_unix": 1784656805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-20T16:00:00+00:00",
-  "window_end": "2026-07-21T15:00:05.808028+00:00",
-  "new_this_run": 16,
-  "total_recent": 33,
-  "errors": [],
+  "window_end": "2026-07-21T18:00:05.902075+00:00",
+  "new_this_run": 30,
+  "total_recent": 63,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,581 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079621775135244611",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:37:23+00:00",
+      "text": "\"The allegation is that this teleprompter was placing bets on Kalshi. Kalshi picked up the irregular activity, and now this individual is on leave\" Katherine on Trump's teleprompter operator reportedly betting on his speeches on Kalshi, and how Kalshi caught it \"They've also been embroiled in some insider scrutiny surrounding Donald Trump's longtime teleprompter. Think about it, a teleprompter gets the text from the president's speech writing or comms team before it's public\" \"So the allegation is that this teleprompter was placing bets on Kalshi\" \"Kalshi picked up the irregular activity, fulfilling its DCM self-policing obligation, and now this individual is on leave\"",
+      "summary": "\"The allegation is that this teleprompter was placing bets on Kalshi. Kalshi picked up the irregular activity, and now this individual is on leave\"…",
+      "url": "https://x.com/laurashin/status/2079621775135244611",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2180"
+      }
+    },
+    {
+      "id": "2079619428719759684",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:28:03+00:00",
+      "text": "RT @CryptoAmerica_: Are the two big products in the crypto world perps and prediction markets? @JohannKerbrat SVP and GM of International &amp; Crypto @RobinhoodCrypto believes they are worth watching as regulatory conversations continue. https://t.co/KdMhcLGMIJ",
+      "summary": "RT @CryptoAmerica_: Are the two big products in the crypto world perps and prediction markets? @JohannKerbrat SVP and GM of International &amp;…",
+      "url": "https://x.com/EleanorTerrett/status/2079619428719759684",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5274"
+      }
+    },
+    {
+      "id": "2079618861024919611",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:25:48+00:00",
+      "text": "RT @laurashin: Most Bitcoin treasury companies exist to buy more coin, full stop. I asked @LynAldenContact why her new venture, Orange Juice, does the opposite: buy 'boring,' cash-flowing businesses first, then layer a Bitcoin treasury on top at the parent-company level. Could this become the Berkshire Hathaway of Bitcoin?🍊 Timestamps: 🍊 00:56 Lyn Alden lays out the $40M raise behind Orange Juice's core thesis 💵 08:06 Why Lyn Alden targets cash-flowing firms over VC backed startups 📱 11:17 Cape: get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV 🏦 12:16 How keeping the Bitcoin treasury at the parent level avoids procyclical risk 🪖 25:37 How Orange Juice handles a bleeding company and Ruben Zweiban's Navy SEAL background 📈 32:15 Why Lyn says going public aids liquidity, retail access, and tax deferral ⚠️ 39:15 Why Lyn is critical of Strategy's capital structure and Saylor's kidney line 🗑️ 47:40 Why Lyn views Bitcoin inscriptions as spam despite BIP 110's technical limits ⚛️ 50:47 How Lyn assesses the quantum computing threat to Bitcoin's security",
+      "summary": "RT @laurashin: Most Bitcoin treasury companies exist to buy more coin, full stop. I asked @LynAldenContact why her new venture, Orange Juice, does…",
+      "url": "https://x.com/laurashin/status/2079618861024919611",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618606279557489",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:24:47+00:00",
+      "text": "RT @laurashin: BREAKING: The White House just agreed to ethics language covering Trump himself in the CLARITY Act, with DOJ enforcement instead of state AGs 🏛️. This could be the deal that finally gets crypto's biggest bill to a Senate floor vote. https://t.co/rPohlAxd9Q",
+      "summary": "RT @laurashin: BREAKING: The White House just agreed to ethics language covering Trump himself in the CLARITY Act, with DOJ enforcement instead of…",
+      "url": "https://x.com/laurashin/status/2079618606279557489",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618595944902959",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:24:45+00:00",
+      "text": "RT @laurashin: The White House's top CLARITY Act negotiator just deferred his mandatory Army National Guard training, again 🪖, to stay at the table through the bill's final stretch. https://t.co/crfKs5cVGC",
+      "summary": "RT @laurashin: The White House's top CLARITY Act negotiator just deferred his mandatory Army National Guard training, again 🪖, to stay at the table…",
+      "url": "https://x.com/laurashin/status/2079618595944902959",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618586159497367",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:24:43+00:00",
+      "text": "RT @laurashin: Andrew Cuomo just joined OKX's board 🤝, hours after going on Fox Business to pitch 24/7 tokenized stock trading as the future of American finance. https://t.co/MBs69HtBEo",
+      "summary": "RT @laurashin: Andrew Cuomo just joined OKX's board 🤝, hours after going on Fox Business to pitch 24/7 tokenized stock trading as the future of…",
+      "url": "https://x.com/laurashin/status/2079618586159497367",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618567893393615",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:24:38+00:00",
+      "text": "RT @laurashin: 🚨 Jack Mallers steps down as Twenty One Capital CEO, leaving to return to Strike after a board disagreement over the company's direction. The Tether-controlled treasury firm's three-way merger with Strike and Elektron is also unraveling. https://t.co/EP4UQwG98U",
+      "summary": "RT @laurashin: 🚨 Jack Mallers steps down as Twenty One Capital CEO, leaving to return to Strike after a board disagreement over the company's…",
+      "url": "https://x.com/laurashin/status/2079618567893393615",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618428411757031",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:24:05+00:00",
+      "text": "RT @laurashin: Strategy just raised $263.5M, and for the second week in a row, didn't buy a single bitcoin with it 📉. All of it went to cash instead. The dollar reserve just crossed $3.2B. https://t.co/b1oEqMt0GY",
+      "summary": "RT @laurashin: Strategy just raised $263.5M, and for the second week in a row, didn't buy a single bitcoin with it 📉. All of it went to cash instead.…",
+      "url": "https://x.com/laurashin/status/2079618428411757031",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618282181517673",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:23:30+00:00",
+      "text": "RT @laurashin: Robinhood Chain is two weeks old, and memecoins already make up 85% of its trading while RWAs sit at about 1%. 🐸 🎯In @johannkerbrat's view, that is not a bug, it is the permissionless design working as intended 🎧 Timestamps: 🐸 01:06 Why memecoins are 85% of Robinhood Chain's DEX volume, not RWAs 🚀 05:35 Why PumpFun listing Robinhood Chain tokens was the result of their strategy 🔐 09:33 Where Robinhood's responsibility ends and the permissionless chain begins 📣 11:12 Cape: Use code UNCHAINED for 33% off your first six months at https://t.co/2ZtLziY0xt ⚡ 16:17 Why Robinhood built a separate Lighter instance for its perps 💵 20:24 Why USDG, not USDC or Tether, backs Robinhood Chain's lending and margin 📉 23:23 Does the chain mitigate the 63% swing crypto can have on Robinhood's earnings?",
+      "summary": "RT @laurashin: Robinhood Chain is two weeks old, and memecoins already make up 85% of its trading while RWAs sit at about 1%. 🐸 🎯In @johannkerbrat's…",
+      "url": "https://x.com/laurashin/status/2079618282181517673",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079618109598761214",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:22:49+00:00",
+      "text": "\"The company that runs Amazon deliveries in Japan is about to start paying a huge chunk of the drivers in yen stablecoins\" Jessi on the real world after effect of Japan's new stablecoin law \"There has been a major response already. This was a long time coming, so it's not like the switch just flipped, but it has cleared the runway for spot crypto ETFs, the Tokyo Stock Exchange is getting involved\" \"It's not just trading desk money. What came out today is that the company that runs Amazon deliveries in Japan is about to start paying a huge chunk of the drivers in yen stablecoins\" \"Which is really showing the real after effect of this law that was just passed\"",
+      "summary": "\"The company that runs Amazon deliveries in Japan is about to start paying a huge chunk of the drivers in yen stablecoins\" Jessi on the real world…",
+      "url": "https://x.com/laurashin/status/2079618109598761214",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2644"
+      }
+    },
+    {
+      "id": "2079618095161717233",
+      "is_retweet": true,
+      "original_author": "BrendanPedersen",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:22:45+00:00",
+      "text": "RT @BrendanPedersen: Difficult to underscore how skeptical Dems are on the Lummis-Moreno-Trump deal on crypto ethics, sight unseen. “You gotta go find Democratic votes,” Gallego told me. “We’re not gonna stand for some simple, piece-of-shit legislation.”",
+      "summary": "RT @BrendanPedersen: Difficult to underscore how skeptical Dems are on the Lummis-Moreno-Trump deal on crypto ethics, sight unseen. “You gotta go…",
+      "url": "https://x.com/EleanorTerrett/status/2079618095161717233",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5507"
+      }
+    },
+    {
+      "id": "2079617818664870252",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:21:40+00:00",
+      "text": "RT @laurashin: 'Ethereum should charge more.' That's @kaiynne's take on the latest Uneasy Money, and what stuck with me: he thinks weak L2s should be forced to become their own L1s. 🤔 According to @tayvano_, though, the lost revenue may not be lost at all. Worth the listen. Timestamps: 🪂 01:30 Benjamin and Weso explain how Cap's Stabledrop plan fell apart post-TGE 💸 08:05 Weso on why uncapped points programs turn into runaway marketing spend 🐦 21:31 Kain and Taylor on crypto Twitter's algorithm flip after a year of exile 📱 24:17 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🏛️ 25:09 Why EthSystems, the newest EF spinout, splits Kain on bullish or bearish 🤝 30:20 Taylor on Jesse handing Base app duties to Cobie and what it signals 🎰 36:28 Robinhood Chain's memecoin surge, Morpho ties, and the CashCat backstory ⚖️ 41:17 Is Ethereum undercharging L2s? Kain makes the case for pushing costs to L1 🔓 55:51 BarnBridge's SEC-era DAO, this week's governance exploit, and the https://t.co/1iDi8iLh1X fix that stops it ☢️ 01:11:31 The Ostium hack: North Korea-linked actor, stolen keys, oracle compromise 💥 01:26:24 Closing rapid-fire: Euler's recovery and an old Vyper compiler bug revisited",
+      "summary": "RT @laurashin: 'Ethereum should charge more.' That's @kaiynne's take on the latest Uneasy Money, and what stuck with me: he thinks weak L2s should be…",
+      "url": "https://x.com/laurashin/status/2079617818664870252",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079614689093243099",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:09:13+00:00",
+      "text": "Most Bitcoin treasury companies exist to buy more coin, full stop. I asked @LynAldenContact why her new venture, Orange Juice, does the opposite: buy 'boring,' cash-flowing businesses first, then layer a Bitcoin treasury on top at the parent-company level. Could this become the Berkshire Hathaway of Bitcoin?🍊 Timestamps: 🍊 00:56 Lyn Alden lays out the $40M raise behind Orange Juice's core thesis 💵 08:06 Why Lyn Alden targets cash-flowing firms over VC backed startups 📱 11:17 Cape: get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV 🏦 12:16 How keeping the Bitcoin treasury at the parent level avoids procyclical risk 🪖 25:37 How Orange Juice handles a bleeding company and Ruben Zweiban's Navy SEAL background 📈 32:15 Why Lyn says going public aids liquidity, retail access, and tax deferral ⚠️ 39:15 Why Lyn is critical of Strategy's capital structure and Saylor's kidney line 🗑️ 47:40 Why Lyn views Bitcoin inscriptions as spam despite BIP 110's technical limits ⚛️ 50:47 How Lyn assesses the quantum computing threat to Bitcoin's security",
+      "summary": "Most Bitcoin treasury companies exist to buy more coin, full stop. I asked @LynAldenContact why her new venture, Orange Juice, does the opposite: buy…",
+      "url": "https://x.com/laurashin/status/2079614689093243099",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2070"
+      }
+    },
+    {
+      "id": "2079614494808920123",
+      "is_retweet": true,
+      "original_author": "CharlesGoodnig1",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T17:08:27+00:00",
+      "text": "RT @CharlesGoodnig1: This appears to be a PE fund that holds its idle cash in bitcoin, not USD. A bit of an odd duck asset-wise, I'd imagine it performs only as well as its operating companies, is BTC just a marketing wrapper?",
+      "summary": "RT @CharlesGoodnig1: This appears to be a PE fund that holds its idle cash in bitcoin, not USD. A bit of an odd duck asset-wise, I'd imagine it…",
+      "url": "https://x.com/laurashin/status/2079614494808920123",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "820"
+      }
+    },
+    {
+      "id": "2079610689467928999",
+      "is_retweet": true,
+      "original_author": "ErikVoorhees",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T16:53:20+00:00",
+      "text": "RT @ErikVoorhees: There is a misconception that to enjoy open-source you need to \"run your own AI on your own hardware.\" Hobbyists enjoy such things, 99% of the world doesn't. And the best open source models are vastly larger than what most peoples' hardware can plausibly run. Solution is easy: access any model as a service from https://t.co/HGUdedRs2j (every open and closed model available) Private, unrestricted. Get an API key from Venice, give it to your agent, and you're gtg with no manual setup of anything.",
+      "summary": "RT @ErikVoorhees: There is a misconception that to enjoy open-source you need to \"run your own AI on your own hardware.\" Hobbyists enjoy such things,…",
+      "url": "https://x.com/laurashin/status/2079610689467928999",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 19,
+        "replies": 0,
+        "quotes": 0,
+        "views": "710"
+      }
+    },
+    {
+      "id": "2079610228329381981",
+      "is_retweet": true,
+      "original_author": "BrendanPedersen",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T16:51:30+00:00",
+      "text": "RT @BrendanPedersen: GILLIBRAND tells reporters she has not seen the text of the crypto ethics agreement between Senate GOP and the White House. “It’ll be negotiated,” Gillibrand says",
+      "summary": "RT @BrendanPedersen: GILLIBRAND tells reporters she has not seen the text of the crypto ethics agreement between Senate GOP and the White House.…",
+      "url": "https://x.com/EleanorTerrett/status/2079610228329381981",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6655"
+      }
+    },
+    {
+      "id": "2079610036523769920",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T16:50:44+00:00",
+      "text": "Is it game over for everyone else tokenizing stocks? Vy Le on the DTCC news: \"If you're DTCC, you're not just another company issuing tokenized stocks, you are the infrastructure.\" https://t.co/6gZ9XYmSwy",
+      "summary": "Is it game over for everyone else tokenizing stocks? Vy Le on the DTCC news: \"If you're DTCC, you're not just another company issuing tokenized…",
+      "url": "https://x.com/laurashin/status/2079610036523769920",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1449"
+      }
+    },
+    {
+      "id": "2079608362522575063",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T16:44:05+00:00",
+      "text": "🚨NEW: @Sen_Alsobrooks tells me the White House’s idea to have the Department of Justice enforce the Clarity Act’s ethics provisions is an “unserious offer” and says she would not support the bill if that is the only enforcement option. Senator @berniemoreno, who has been working with @SenatorLummis to secure an ethics agreement with the White House, told reporters last night that the current proposal would put the DOJ, rather than state attorneys general, in charge of enforcement. “But we’ll keep working from that floor to reach an agreement that holds us all accountable,” Alsobrooks said. Alsobrooks is one of two Democratic senators who voted to advance the Clarity Act out of the Senate Banking Committee in May, and has said her continued support for the bill hinges on strong ethics provisions being included in the final text.",
+      "summary": "🚨NEW: @Sen_Alsobrooks tells me the White House’s idea to have the Department of Justice enforce the Clarity Act’s ethics provisions is an “unserious…",
+      "url": "https://x.com/EleanorTerrett/status/2079608362522575063",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 810,
+        "retweets": 107,
+        "replies": 99,
+        "quotes": 18,
+        "views": "71208"
+      }
+    },
+    {
+      "id": "2079607699218526485",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T16:41:27+00:00",
+      "text": "Japan just reclassified crypto as a financial instrument and cut the tax on gains from as high as 55% to a flat 20%. Jessi Brooks: the carrot is big, the regulatory stick is heavier — the space is maturing. Unregistered exchanges now risk up to 10 years in prison. https://t.co/RpGVjWNElq",
+      "summary": "Japan just reclassified crypto as a financial instrument and cut the tax on gains from as high as 55% to a flat 20%. Jessi Brooks: the carrot is big,…",
+      "url": "https://x.com/laurashin/status/2079607699218526485",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1593"
+      }
+    },
+    {
+      "id": "2079593411837845827",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T15:44:41+00:00",
+      "text": "🚨NEW: Bipartisan discussions are taking place on Capitol Hill today relating to ethics, I’m told. Negotiators are also discussing DeFi provisions, but ethics remains the primary hurdle. Asked about the ethics proposal, a spokesperson for @SenLummis said last week’s conversation with the White House “went well” and that “the ethics text set to release in the coming days will reflect that productive conversation.”",
+      "summary": "🚨NEW: Bipartisan discussions are taking place on Capitol Hill today relating to ethics, I’m told. Negotiators are also discussing DeFi provisions,…",
+      "url": "https://x.com/EleanorTerrett/status/2079593411837845827",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1957,
+        "retweets": 359,
+        "replies": 73,
+        "quotes": 31,
+        "views": "190801"
+      }
+    },
+    {
+      "id": "2079589481997320248",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-21T15:29:04+00:00",
+      "text": "Can we estimate what percentage of unsolved conjectures are true, based on the rate at which they have been confirmed or disproven? Could there be a science of \"conjecture statistics\"?",
+      "summary": "Can we estimate what percentage of unsolved conjectures are true, based on the rate at which they have been confirmed or disproven? Could there be a…",
+      "url": "https://x.com/danrobinson/status/2079589481997320248",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2498"
+      }
+    },
+    {
+      "id": "2079585967933898975",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T15:15:06+00:00",
+      "text": "RT @CryptoAmerica_: “The GENIUS Act has standardized what stablecoins need to look like, but now we need the roads and the infrastructure. Really, the unlock for GENIUS and for crypto at large is for the Clarity Act to pass.” @nathanmccauley, Co-Founder and CEO of @Anchorage, describes why passing crypto market structure legislation is so important.",
+      "summary": "RT @CryptoAmerica_: “The GENIUS Act has standardized what stablecoins need to look like, but now we need the roads and the infrastructure. Really,…",
+      "url": "https://x.com/EleanorTerrett/status/2079585967933898975",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7220"
+      }
+    },
+    {
+      "id": "2079577540851609864",
+      "is_retweet": true,
+      "original_author": "jordainc",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T14:41:37+00:00",
+      "text": "RT @jordainc: Thune asked about chances of CLARITY passing says right now he thinks there's a \"good chance\" there can be a deal but caveated that could change: \"I think it's going to depend on whether Democrats get to a place where they can deliver the votes for us to get on the bill, and we're still working on that. I've been optimistic about it. I've been pessimistic about it. Been optimistic about it. And today, I think there's a good chance, knock on wood, that they'll strike something that we can get the votes for to get it on the floor. We'll see -- that may change. May change within the hour\"",
+      "summary": "RT @jordainc: Thune asked about chances of CLARITY passing says right now he thinks there's a \"good chance\" there can be a deal but caveated that…",
+      "url": "https://x.com/EleanorTerrett/status/2079577540851609864",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8413"
+      }
+    },
     {
       "id": "2079560205130486015",
       "is_retweet": true,
@@ -146,6 +730,31 @@
       }
     },
     {
+      "id": "2079479593288049134",
+      "is_retweet": true,
+      "original_author": "abigbluebird",
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T08:12:24+00:00",
+      "text": "RT @abigbluebird: Duelling is the solution. Yeah sure, we could end with a similar outcome but odds are most times, there'll be a party that recognizes such petty disputes are not worth risking your life for and forfeits his honour/apologizes. A common nonsensical line that people spout about is that we as civilized society members can always talk things out. Show me a person who genuinely believes that and I'll show you someone who has never accomplished anything in life. It's just a total lack of basic understanding of human psychology. That only works if there's common ground/objectives. But most petty disputes are over 'feeling wronged' or perceived issues regarding 'justice'. It's just a gap of social etiquette in most cases that's not covered by the law. And barring cases of being oblivious or misunderstandings, as someone on the receiving end facing someone who's unwilling to 'yield', it's just either 'sucking it up', or doing a paggro war of intimidation which doesn't work on many elderly folks who've internalized that as long as they don't break the law, there's nothing you can do. The other way which the government has been very obviously dialling back on, is getting a lot more heavy on enforcement for social etiquette infractions. Before someone throws out the North Korea/China accusations, Germany and Switzerland can get pretty handed with noise complaints and dishing out fines. If the state wishes to hold a firm monopoly on the use of violence/force, it comes with a responsibility to 'right' social wrongs as much as possible. Worth noting that although it's almost never used, HDB has the power to seize back a unit as a last resort of a variety of owner infractions.",
+      "summary": "RT @abigbluebird: Duelling is the solution. Yeah sure, we could end with a similar outcome but odds are most times, there'll be a party that…",
+      "url": "https://x.com/wassielawyer/status/2079479593288049134",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "515"
+      }
+    },
+    {
       "id": "2079405758165250177",
       "is_retweet": true,
       "original_author": "serpinxbt",
@@ -168,6 +777,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "652"
+      }
+    },
+    {
+      "id": "2079397644796096728",
+      "is_retweet": true,
+      "original_author": "emrwilkins",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-21T02:46:46+00:00",
+      "text": "RT @emrwilkins: On crypto - Moreno told me this evening that \"The president has agreed to the most aggressive ethics language in the history of the United States.\" \"It’s up to Democrats whether they want to accept yes for an answer,\" he added. D's and R's plan to meet on bill tomorrow.",
+      "summary": "RT @emrwilkins: On crypto - Moreno told me this evening that \"The president has agreed to the most aggressive ethics language in the history of the…",
+      "url": "https://x.com/milesjennings/status/2079397644796096728",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 65,
+        "replies": 0,
+        "quotes": 0,
+        "views": "183"
       }
     },
     {
@@ -271,6 +905,31 @@
       }
     },
     {
+      "id": "2079334038104408522",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T22:34:01+00:00",
+      "text": "🚨NEWS: I’m hearing from multiple industry sources that the White House has agreed on an ethics package for the Clarity Act and sent the language to certain Senate Republicans this afternoon. It’s still unclear what the details of the agreement are (I’ve reached out for comment), but industry participants are hopeful this could clear the way for updated bill text to be released soon.",
+      "summary": "🚨NEWS: I’m hearing from multiple industry sources that the White House has agreed on an ethics package for the Clarity Act and sent the language to…",
+      "url": "https://x.com/EleanorTerrett/status/2079334038104408522",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8504,
+        "retweets": 1540,
+        "replies": 325,
+        "quotes": 310,
+        "views": "1248152"
+      }
+    },
+    {
       "id": "2079333411357884458",
       "is_retweet": true,
       "original_author": "ErikVoorhees",
@@ -296,6 +955,31 @@
       }
     },
     {
+      "id": "2079330459516068242",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-20T22:19:48+00:00",
+      "text": "RT @circle: Circle has received final OCC approval to establish Circle National Trust, a federally chartered national trust bank. On @NYSE, @ddisparte discusses what this milestone means for USDC infrastructure, institutional custody, and regulated stablecoins in the U.S. https://t.co/JnkJVvNEbU",
+      "summary": "RT @circle: Circle has received final OCC approval to establish Circle National Trust, a federally chartered national trust bank. On @NYSE,…",
+      "url": "https://x.com/ddisparte/status/2079330459516068242",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 84,
+        "replies": 0,
+        "quotes": 0,
+        "views": "71"
+      }
+    },
+    {
       "id": "2079326086446354850",
       "is_retweet": true,
       "original_author": "CryptoLawUS",
@@ -318,6 +1002,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "3159"
+      }
+    },
+    {
+      "id": "2079325340581638474",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-20T21:59:27+00:00",
+      "text": "🚨UPDATE: White House Crypto Council Executive Director @patrickjwitt’s military training has been deferred, and Deputy Director @HarryYJung is leaving the administration. Things change fast in Washington. https://t.co/PY2ZO7we06",
+      "summary": "🚨UPDATE: White House Crypto Council Executive Director @patrickjwitt’s military training has been deferred, and Deputy Director @HarryYJung is…",
+      "url": "https://x.com/EleanorTerrett/status/2079325340581638474",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2232,
+        "retweets": 283,
+        "replies": 47,
+        "quotes": 16,
+        "views": "144503"
       }
     },
     {
@@ -646,6 +1355,31 @@
       }
     },
     {
+      "id": "2079284884141641784",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-20T19:18:42+00:00",
+      "text": "RT @a16zcrypto: What happens when the CLARITY Act passes? @Collin_McCune points to the “absolute explosion of activity” following stablecoin legislation: “The most important thing that people miss about why clarity is so important is: It is a signal.” “It’s a signal that America is here, and they’ve made a long-term decision.” @milkroaddaily",
+      "summary": "RT @a16zcrypto: What happens when the CLARITY Act passes? @Collin_McCune points to the “absolute explosion of activity” following stablecoin…",
+      "url": "https://x.com/milesjennings/status/2079284884141641784",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 50,
+        "replies": 0,
+        "quotes": 0,
+        "views": "151"
+      }
+    },
+    {
       "id": "2079267957377737029",
       "is_retweet": false,
       "original_author": null,
@@ -693,6 +1427,31 @@
         "replies": 2,
         "quotes": 0,
         "views": "1961"
+      }
+    },
+    {
+      "id": "2079266119282475515",
+      "is_retweet": true,
+      "original_author": "MicahCarroll",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-20T18:04:08+00:00",
+      "text": "RT @MicahCarroll: Within OpenAI, we recently paused access for an internal model due to misalignment. See the blogpost for details. We have since improved our safeguards and redeployed the model. https://t.co/eSJpvqo8ve",
+      "summary": "RT @MicahCarroll: Within OpenAI, we recently paused access for an internal model due to misalignment. See the blogpost for details. We have since…",
+      "url": "https://x.com/gabriel_weil/status/2079266119282475515",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 76,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6"
       }
     },
     {
