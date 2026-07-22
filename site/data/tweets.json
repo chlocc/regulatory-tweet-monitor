@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-07-22T06:00:04.659995+00:00",
-  "generated_at_unix": 1784700004,
+  "generated_at": "2026-07-22T09:07:58.804390+00:00",
+  "generated_at_unix": 1784711278,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-21T16:00:00+00:00",
-  "window_end": "2026-07-22T06:00:04.659995+00:00",
-  "new_this_run": 21,
-  "total_recent": 40,
+  "window_end": "2026-07-22T09:07:58.804390+00:00",
+  "new_this_run": 11,
+  "total_recent": 51,
   "errors": [
     {
-      "username": "SenRubenGallego",
+      "username": "patrickjwitt",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "LindaJeng1",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -73,6 +77,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "137"
+      }
+    },
+    {
+      "id": "2079726768735285578",
+      "is_retweet": true,
+      "original_author": "jon_stokes",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-22T00:34:35+00:00",
+      "text": "RT @jon_stokes: I actually know the answer: His definition of \"alignment\" is \"there is a little police officer inside the software, installed by its maker, that stops the user from doing something that the user is trying to do but that the maker thinks may be bad.\"",
+      "summary": "RT @jon_stokes: I actually know the answer: His definition of \"alignment\" is \"there is a little police officer inside the software, installed by its…",
+      "url": "https://x.com/NeerajKA/status/2079726768735285578",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "370"
       }
     },
     {
@@ -226,6 +255,31 @@
       }
     },
     {
+      "id": "2079674051052683433",
+      "is_retweet": true,
+      "original_author": "SolanaInstitute",
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T21:05:06+00:00",
+      "text": "RT @SolanaInstitute: Ethics remains a focal point in Clarity Act negotiations and is critical to getting the bill across the finish line. @KristinSmith on where talks stand: \"What's on the table are the most stringent ethics regulations we've seen to date.\" https://t.co/GUfTbVDV60",
+      "summary": "RT @SolanaInstitute: Ethics remains a focal point in Clarity Act negotiations and is critical to getting the bill across the finish line.…",
+      "url": "https://x.com/KristinSmith/status/2079674051052683433",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "278"
+      }
+    },
+    {
       "id": "2079673655886254144",
       "is_retweet": false,
       "original_author": null,
@@ -298,6 +352,31 @@
         "replies": 848,
         "quotes": 152,
         "views": "447705"
+      }
+    },
+    {
+      "id": "2079663853806174651",
+      "is_retweet": true,
+      "original_author": "RepTimmons",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-21T20:24:35+00:00",
+      "text": "RT @RepTimmons: America should lead the world in digital assets, not force innovation overseas. One year after the House passed the CLARITY Act, I joined my colleagues in NYC to discuss how we’re advancing clear rules that protect consumers, unleash innovation, and keep the next generation of financial technology here in America. 🇺🇸",
+      "summary": "RT @RepTimmons: America should lead the world in digital assets, not force innovation overseas. One year after the House passed the CLARITY Act, I…",
+      "url": "https://x.com/GOPMajorityWhip/status/2079663853806174651",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "888"
       }
     },
     {
@@ -426,6 +505,81 @@
       }
     },
     {
+      "id": "2079646237637099755",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T19:14:35+00:00",
+      "text": "Our team was back on the Hill today for DeFi and Donuts, a Congressional staff briefing and demo. Thank you to our members @aave, @coinbase, @plumenetwork, @SolanaInstitute, and @Uniswap for joining us today in the Senate. https://t.co/P4O1HHt6uh",
+      "summary": "Our team was back on the Hill today for DeFi and Donuts, a Congressional staff briefing and demo. Thank you to our members @aave, @coinbase,…",
+      "url": "https://x.com/BlockchainAssn/status/2079646237637099755",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 1,
+        "views": "1378"
+      }
+    },
+    {
+      "id": "2079645533811921115",
+      "is_retweet": true,
+      "original_author": "jon_stokes",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T19:11:47+00:00",
+      "text": "RT @jon_stokes: Look I think I've figured this whole thing out. Follow along as I try to steelman, and tell me where I'm wrong. OpenAI guys on the TL believe that if they can't sell metered inference tokens at a sufficient markup, then they will not have enough of a business to fund the next big training run. They are surely correct about this. They believe that if people release powerful open models, this will probably fatally impact their ability to sell inference tokens at enough of a markup to fund the next big training run. They are surely correct about this, too. They also think that if they cannot fund the next big training run (again, by selling inference tokens at a markup), then NOBODY will be able to fund the next big training run because it means there's no money in it. This last bit seems to me & many others to be not just wrong, but totally bananas in a \"guy, have seen the actual software industry and how it works in real life?!\" kind of way. There are a lot of ways to monetize software out there in the world. Insofar as inference can add new capabilities to software, there will be lots of ways to monetize it. In other words, if you're telling me, \"we can't have a business selling inference if X or Y thing keeps happening,\" then my only response is, \"ok well that sucks for you... sounds like that's a terrible business.\" But if you're telling me that \"selling metered inference tokens is a terrible business\" is tantamount to \"nobody will fund big training runs that are upstream of more effective & economically valuable inference tokens\", then I think you are extremely wrong and should get out more and learn about other parts of the software ecosystem. Workplace automation is huge and will be even bigger in the future as models get better. You can sell workplace automation very profitably in lots of different packages (depending on the workplace and the type of automation). Like, I'm sorry that you really really want to be in the metered inference token business and not the workplace automation business, but them's the breaks. The market wants what the market wants. We all need to live in reality and not beg for Uncle Sam to save us all from open source -- because that was already tried and it didn't work.",
+      "summary": "RT @jon_stokes: Look I think I've figured this whole thing out. Follow along as I try to steelman, and tell me where I'm wrong. OpenAI guys on the TL…",
+      "url": "https://x.com/valkenburgh/status/2079645533811921115",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 129,
+        "replies": 0,
+        "quotes": 0,
+        "views": "275"
+      }
+    },
+    {
+      "id": "2079643660753178988",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T19:04:21+00:00",
+      "text": "So far in 2026, our team has... ✔️been involved in 316 meetings on the Hill and with federal agencies ✔️held 13 staff lunch briefings on the Hill ✔️organized four fly-ins for our members. \"Crypto industry representatives are working “nonstop” to push for the legislation, while also working on tax-related bills, said @SummerMersinger, CEO of Blockchain Association. “It’s been a very active year and feels like it’s all leading up to a moment that will hopefully happen soon.\" Reporting by @BGOV's @kackleyZ on crypto's moment in Washington 👇",
+      "summary": "So far in 2026, our team has... ✔️been involved in 316 meetings on the Hill and with federal agencies ✔️held 13 staff lunch briefings on the Hill…",
+      "url": "https://x.com/BlockchainAssn/status/2079643660753178988",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 26,
+        "retweets": 7,
+        "replies": 3,
+        "quotes": 1,
+        "views": "5472"
+      }
+    },
+    {
       "id": "2079641755746435424",
       "is_retweet": true,
       "original_author": "FinancialCmte",
@@ -476,6 +630,31 @@
       }
     },
     {
+      "id": "2079640939711139847",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T18:53:32+00:00",
+      "text": "1/ Tens of millions of Americans own digital assets. They live in every state and every congressional district. They're teachers, veterans, small business owners, retirees, and young people saving for the future. They're already in this market. Congress hasn't set the rules for it yet. 🧵",
+      "summary": "1/ Tens of millions of Americans own digital assets. They live in every state and every congressional district. They're teachers, veterans, small…",
+      "url": "https://x.com/BlockchainAssn/status/2079640939711139847",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1485"
+      }
+    },
+    {
       "id": "2079626850448322780",
       "is_retweet": true,
       "original_author": "CommerceGov",
@@ -498,6 +677,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "3740"
+      }
+    },
+    {
+      "id": "2079624339620614431",
+      "is_retweet": true,
+      "original_author": "FrankieIsLost",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T17:47:34+00:00",
+      "text": "RT @FrankieIsLost: ai people tend to dislike crypto but they should really study operation choke point 2.0 for a glimpse of what’s to come",
+      "summary": "RT @FrankieIsLost: ai people tend to dislike crypto but they should really study operation choke point 2.0 for a glimpse of what’s to come",
+      "url": "https://x.com/valkenburgh/status/2079624339620614431",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 70,
+        "replies": 0,
+        "quotes": 0,
+        "views": "272"
       }
     },
     {
@@ -801,6 +1005,56 @@
       }
     },
     {
+      "id": "2079616742926450714",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T17:17:23+00:00",
+      "text": "RT @valkenburgh: Listen closely to critics of CLARITY and the BRCA and you’ll hear a position far broader than crypto: No powerful software system should exist without a large corporate intermediary in control, one the government can commandeer to surveil and control its users.",
+      "summary": "RT @valkenburgh: Listen closely to critics of CLARITY and the BRCA and you’ll hear a position far broader than crypto: No powerful software system…",
+      "url": "https://x.com/NeerajKA/status/2079616742926450714",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": "383"
+      }
+    },
+    {
+      "id": "2079616215010398547",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-21T17:15:17+00:00",
+      "text": "Listen closely to critics of CLARITY and the BRCA and you’ll hear a position far broader than crypto: No powerful software system should exist without a large corporate intermediary in control, one the government can commandeer to surveil and control its users.",
+      "summary": "Listen closely to critics of CLARITY and the BRCA and you’ll hear a position far broader than crypto: No powerful software system should exist…",
+      "url": "https://x.com/valkenburgh/status/2079616215010398547",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 92,
+        "retweets": 27,
+        "replies": 7,
+        "quotes": 3,
+        "views": "5836"
+      }
+    },
+    {
       "id": "2079614689093243099",
       "is_retweet": false,
       "original_author": null,
@@ -873,6 +1127,31 @@
         "replies": 25,
         "quotes": 0,
         "views": "4262"
+      }
+    },
+    {
+      "id": "2079612071533044096",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-21T16:58:49+00:00",
+      "text": "Keep them coming! Fraud is no longer an option. It will no longer be overlooked or covered up in this country, and those who are found guilty will be prosecuted to the fullest extent of the law.",
+      "summary": "Keep them coming! Fraud is no longer an option. It will no longer be overlooked or covered up in this country, and those who are found guilty will be…",
+      "url": "https://x.com/GOPMajorityWhip/status/2079612071533044096",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31,
+        "retweets": 6,
+        "replies": 13,
+        "quotes": 0,
+        "views": "3548"
       }
     },
     {
