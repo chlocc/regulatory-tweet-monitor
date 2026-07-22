@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-07-22T09:07:58.804390+00:00",
-  "generated_at_unix": 1784711278,
+  "generated_at": "2026-07-22T12:14:20.980075+00:00",
+  "generated_at_unix": 1784722460,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-21T16:00:00+00:00",
-  "window_end": "2026-07-22T09:07:58.804390+00:00",
-  "new_this_run": 11,
-  "total_recent": 51,
+  "window_end": "2026-07-22T12:14:20.980075+00:00",
+  "new_this_run": 6,
+  "total_recent": 57,
   "errors": [
     {
-      "username": "patrickjwitt",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "LindaJeng1",
+      "username": "kspaglia",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +25,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079893196096594075",
+      "is_retweet": true,
+      "original_author": "malekanoms",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T11:35:55+00:00",
+      "text": "RT @malekanoms: The missing bit: instant settlement can’t work if exchanges like the LSE (or any other) try to keep the intermediated structure. The cost of capital is too high. Yet another reason vapid tokenization by TradFi clearinghouses involving the same brokers as today is bound to fail.",
+      "summary": "RT @malekanoms: The missing bit: instant settlement can’t work if exchanges like the LSE (or any other) try to keep the intermediated structure. The…",
+      "url": "https://x.com/lex_node/status/2079893196096594075",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "603"
+      }
+    },
+    {
+      "id": "2079839898027139437",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T08:04:07+00:00",
+      "text": "they don't want you to know that you can simply tokenize the stock of your company at any time https://t.co/4Q5nZIvjS1 https://t.co/QYRQEciDX8",
+      "summary": "they don't want you to know that you can simply tokenize the stock of your company at any time https://t.co/4Q5nZIvjS1 https://t.co/QYRQEciDX8",
+      "url": "https://x.com/lex_node/status/2079839898027139437",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "1570"
+      }
+    },
+    {
+      "id": "2079838321237258714",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T07:57:51+00:00",
+      "text": "RT @lex_node: @Dave_Kayac @jessepollak it's been permissible to do direct tokenization of stock in a Delaware corporation since 2017. Many other jurisdictions as well. people are just tarded. @MetaLeX_Labs can do this for any company today, you can even DIY it directly on our webapp if you want.",
+      "summary": "RT @lex_node: @Dave_Kayac @jessepollak it's been permissible to do direct tokenization of stock in a Delaware corporation since 2017. Many other…",
+      "url": "https://x.com/lex_node/status/2079838321237258714",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079836782082871707",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T07:51:45+00:00",
+      "text": ". @jessepollak isn't a corporate/securities lawyer so this wasn't maximally precise but people dunking on this don't know what they're talking about either. A debt security that exists solely to get exposure to an equity security is ultimately a rather silly idea that shouldn't be necessary & may have adverse consequences (including ultimate recharacterization by courts and regulators as an equity security). Even if it \"works\" legally & doesn't get recharacterized, it's ultimately creating more intermediaries, which is contrary to the goals of crypto. And reducing fungibility. I get that people just want \"onchain exposure\" and resist any quality-control nuance that gets in the way of them celebrating that, but it's worth doing this the right way, reducing intermediation, abstraction, complication, and complexity.",
+      "summary": ". @jessepollak isn't a corporate/securities lawyer so this wasn't maximally precise but people dunking on this don't know what they're talking about…",
+      "url": "https://x.com/lex_node/status/2079836782082871707",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 46,
+        "retweets": 1,
+        "replies": 15,
+        "quotes": 0,
+        "views": "4546"
+      }
+    },
     {
       "id": "2079750498958114938",
       "is_retweet": true,
@@ -155,6 +251,31 @@
       }
     },
     {
+      "id": "2079703009857020345",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T23:00:11+00:00",
+      "text": "Ethereum is changing. Mark my words, it will no longer be the crypto industry's punching bag. There are new orgs and there is new money and a warrior spirit.",
+      "summary": "Ethereum is changing. Mark my words, it will no longer be the crypto industry's punching bag. There are new orgs and there is new money and a warrior…",
+      "url": "https://x.com/lex_node/status/2079703009857020345",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 649,
+        "retweets": 41,
+        "replies": 45,
+        "quotes": 7,
+        "views": "20086"
+      }
+    },
+    {
       "id": "2079695753253941620",
       "is_retweet": true,
       "original_author": "SecRollins",
@@ -252,6 +373,31 @@
         "replies": 143,
         "quotes": 17,
         "views": "66587"
+      }
+    },
+    {
+      "id": "2079677446958334042",
+      "is_retweet": true,
+      "original_author": "colleenklein",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T21:18:36+00:00",
+      "text": "RT @colleenklein: We're proud to back @FerdiDabitz and the @augustus_bank team in their Series B raise! Thanks to stablecoin rails, the US dollar now moves 24/7/365, but that's not the case for non-stablecoin dollars sitting in bank accounts, where they're largely stuck on nights, weekends, & holidays. We're seeing markets that want to go 24/7/365 but struggle to do so, because US banking infrastructure isn't set up to support their around-the-clock needs for funding, withdrawals, & collateral mobility. Augustus aims to be that bank: rebuilding banking itself on stablecoin rails, with AI integrated from the start, so banking can finally keep pace with the money it moves",
+      "summary": "RT @colleenklein: We're proud to back @FerdiDabitz and the @augustus_bank team in their Series B raise! Thanks to stablecoin rails, the US dollar now…",
+      "url": "https://x.com/RebeccaRettig1/status/2079677446958334042",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "108"
       }
     },
     {
