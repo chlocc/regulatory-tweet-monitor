@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-07-22T15:01:58.837818+00:00",
-  "generated_at_unix": 1784732518,
+  "generated_at": "2026-07-22T18:07:03.316382+00:00",
+  "generated_at_unix": 1784743623,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-21T16:00:00+00:00",
-  "window_end": "2026-07-22T15:01:58.837818+00:00",
-  "new_this_run": 15,
-  "total_recent": 72,
+  "window_end": "2026-07-22T18:07:03.316382+00:00",
+  "new_this_run": 37,
+  "total_recent": 109,
   "errors": [
     {
-      "username": "prestonjbyrne",
-      "error": "<urlopen error [Errno 54] Connection reset by peer>"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +29,306 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079989925852934222",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T18:00:17+00:00",
+      "text": "What surprised me on @bitsandbips: @AlexWilsonTGB argues PayPal 'chose to fail' at stablecoins, and that Stripe's $53B bid for it is really a bet on distribution nobody else built. 💳 Worth a listen. https://t.co/wpzAsJ6LXZ",
+      "summary": "What surprised me on @bitsandbips: @AlexWilsonTGB argues PayPal 'chose to fail' at stablecoins, and that Stripe's $53B bid for it is really a bet on…",
+      "url": "https://x.com/laurashin/status/2079989925852934222",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "842"
+      }
+    },
+    {
+      "id": "2079989860157333828",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T18:00:01+00:00",
+      "text": "What surprised me on @bitsandbips: @AlexWilsonTGB argues PayPal 'chose to fail' at stablecoins, and that Stripe's $53B bid for it is really a bet on distribution nobody else built. 💳 Worth a listen. Timestamps: 📣 01:33 Cape: Get 33% off your first six months of America's privacy first mobile carrier at https://t.co/2ZtLziXsHV 🤝 02:49 Meet Alex Wilson: the Cyclops founder on his second run at stablecoin payments 💳 04:59 Stripe's $53B bid for PayPal and what it says about the distribution battle ⚔️ 16:51 The stablecoin distribution war: Circle, the bank-led OUSD, and Robinhood's USDG 🚀 25:47 SpaceX's post-IPO round trip and what record US equity issuance signals 🇨🇳 32:56 Kimi K3: China's cheap open weight model rattles US AI and chip stocks 🧩 38:42 Where Ram thinks AI's value actually accrues: semis, then the app layer 🧠 41:23 Austin on AI in health care and Claude Fable 5's Jacobian conjecture breakthrough 🛡️ 48:11 Why Austin says there's no way to opt out of the AI guardrails race ⚖️ 52:12 The Clarity Act: why Chris says it's one shot on goal before recess",
+      "summary": "What surprised me on @bitsandbips: @AlexWilsonTGB argues PayPal 'chose to fail' at stablecoins, and that Stripe's $53B bid for it is really a bet on…",
+      "url": "https://x.com/laurashin/status/2079989860157333828",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "842"
+      }
+    },
+    {
+      "id": "2079984624923463840",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "jessefried",
+      "display_name": "Jesse Fried",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-22T17:39:13+00:00",
+      "text": "Why a shareholder vote? Directors share the firm-level benefits of less frequent reporting but bear almost none of investors’ valuation and monitoring costs—and may personally benefit from a wider information gap. cc: @SECPaulSAtkins @SECGov @HesterPeirce",
+      "summary": "Why a shareholder vote? Directors share the firm-level benefits of less frequent reporting but bear almost none of investors’ valuation and…",
+      "url": "https://x.com/jessefried/status/2079984624923463840",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8"
+      }
+    },
+    {
+      "id": "2079984108651123087",
+      "is_retweet": true,
+      "original_author": "iampaulgrewal",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T17:37:10+00:00",
+      "text": "RT @iampaulgrewal: The SEC deleted a full year of Gary Gensler's communications at the peak of his campaign against crypto. The FDIC tried to secretly cut off an entire lawful industry from the banking system and buried the evidence. The US government doesn't get to operate like this. Unless the American people allow them to. So @Coinbase sued, won, and exposed the details, resulting in one of the largest FOIA awards in each agency's history. More details below.",
+      "summary": "RT @iampaulgrewal: The SEC deleted a full year of Gary Gensler's communications at the peak of his campaign against crypto. The FDIC tried to…",
+      "url": "https://x.com/milesjennings/status/2079984108651123087",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 373,
+        "replies": 0,
+        "quotes": 0,
+        "views": "101"
+      }
+    },
+    {
+      "id": "2079983269882589496",
+      "is_retweet": true,
+      "original_author": "peterwildeford",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-22T17:33:50+00:00",
+      "text": "RT @peterwildeford: If an AI goes rogue and cyberattacks another company it's technically not illegal because there was no (human) intent to cause damage. This is going to make for interesting case law in the future. There may need to be laws governing liability for rogue AI action going forward.",
+      "summary": "RT @peterwildeford: If an AI goes rogue and cyberattacks another company it's technically not illegal because there was no (human) intent to cause…",
+      "url": "https://x.com/gabriel_weil/status/2079983269882589496",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1"
+      }
+    },
+    {
+      "id": "2079975271361581488",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T17:02:03+00:00",
+      "text": "RT @a16zcrypto: BREAKING: The Senate has released updated text of the CLARITY Act. https://t.co/VfoOmAtdIS",
+      "summary": "RT @a16zcrypto: BREAKING: The Senate has released updated text of the CLARITY Act. https://t.co/VfoOmAtdIS",
+      "url": "https://x.com/milesjennings/status/2079975271361581488",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "84"
+      }
+    },
+    {
+      "id": "2079963113370361953",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T16:13:44+00:00",
+      "text": "100% this tbh. The concept of a network state wasn’t tested until Malaysia kicked them out. Now Balaji has actually proven the thesis that you can build an internet society untethered to a physical location, with enough strength to negotiate alliances with nation states.",
+      "summary": "100% this tbh. The concept of a network state wasn’t tested until Malaysia kicked them out. Now Balaji has actually proven the thesis that you can…",
+      "url": "https://x.com/wassielawyer/status/2079963113370361953",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 47,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 1,
+        "views": "4549"
+      }
+    },
+    {
+      "id": "2079962540243656846",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T16:11:28+00:00",
+      "text": "Law enforcement: A new section of the bill is entirely dedicated to strengthening law enforcement’s ability to investigate crypto-related crime. 📌Increases funding for state and local crypto investigations and blockchain analytics tools. 📌Creates new training programs for law enforcement and prosecutors. 📌Establishes a “cyber center” to combat threats from nation-state actors like North Korea and Iran. 📌Creates a public-private task force to coordinate efforts against crypto fraud. 📌Requires stablecoin issuers to comply with lawful orders to freeze, seize, burn, and reissue tokens when appropriate.",
+      "summary": "Law enforcement: A new section of the bill is entirely dedicated to strengthening law enforcement’s ability to investigate crypto-related crime.…",
+      "url": "https://x.com/EleanorTerrett/status/2079962540243656846",
+      "type": "reply",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 325,
+        "retweets": 43,
+        "replies": 4,
+        "quotes": 3,
+        "views": "21617"
+      }
+    },
+    {
+      "id": "2079962528243650990",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T16:11:25+00:00",
+      "text": "🚨NEW: Senate Republicans have just released an updated version of the Clarity Act following briefing calls with stakeholders this morning. Here are some of the key provisions in the latest text, including ethics, the BRCA and other areas we’ve been following closely.",
+      "summary": "🚨NEW: Senate Republicans have just released an updated version of the Clarity Act following briefing calls with stakeholders this morning. Here are…",
+      "url": "https://x.com/EleanorTerrett/status/2079962528243650990",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2673,
+        "retweets": 530,
+        "replies": 123,
+        "quotes": 75,
+        "views": "172285"
+      }
+    },
+    {
+      "id": "2079949150293217395",
+      "is_retweet": true,
+      "original_author": "balajis",
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T15:18:15+00:00",
+      "text": "RT @balajis: I am pleased to announce that a memorandum of understanding has been signed between the Republic of Kazakhstan and Network School. Our new campus will become a haven for global techno-optimism, with expedited visas, streamlined redomiciliation, and active recruitment of talent. https://t.co/R20i8UAYoc",
+      "summary": "RT @balajis: I am pleased to announce that a memorandum of understanding has been signed between the Republic of Kazakhstan and Network School. Our…",
+      "url": "https://x.com/wassielawyer/status/2079949150293217395",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 365,
+        "replies": 0,
+        "quotes": 0,
+        "views": "326"
+      }
+    },
+    {
+      "id": "2079947065203814471",
+      "is_retweet": true,
+      "original_author": "Eleanor_Mueller",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T15:09:58+00:00",
+      "text": "RT @Eleanor_Mueller: As Republicans brief crypto stakeholders on Clarity, Alsobrooks isn’t mincing words onstage with @BurgessEv: The GOP’s proposal to allow DOJ to enforce ethics provisions is “wild and unserious and stone-cold crazy,” she says. “We must empower state-level attorneys general. … For many of us, that is an absolute. It’s an absolute that we cannot completely rely on the DOJ given what we’ve seen.”",
+      "summary": "RT @Eleanor_Mueller: As Republicans brief crypto stakeholders on Clarity, Alsobrooks isn’t mincing words onstage with @BurgessEv: The GOP’s proposal…",
+      "url": "https://x.com/EleanorTerrett/status/2079947065203814471",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8244"
+      }
+    },
+    {
+      "id": "2079945361851039853",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T15:03:12+00:00",
+      "text": "Drip allows AI agents to pay creators for referencing their work. But Drip is not trying to replace subscriptions, @justinblau told me 🤔 https://t.co/0QK5NYgMB1",
+      "summary": "Drip allows AI agents to pay creators for referencing their work. But Drip is not trying to replace subscriptions, @justinblau told me 🤔…",
+      "url": "https://x.com/laurashin/status/2079945361851039853",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "3025"
+      }
+    },
     {
       "id": "2079937509845332295",
       "is_retweet": false,
@@ -51,6 +355,56 @@
       }
     },
     {
+      "id": "2079936903697056141",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "jessefried",
+      "display_name": "Jesse Fried",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-22T14:29:35+00:00",
+      "text": "cc @TheZvi @binarybits @GaryMarcus @scmallaby @azeem — curious whether you think mission directors can actually deliver the safety they promise",
+      "summary": "cc @TheZvi @binarybits @GaryMarcus @scmallaby @azeem — curious whether you think mission directors can actually deliver the safety they promise",
+      "url": "https://x.com/jessefried/status/2079936903697056141",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "24"
+      }
+    },
+    {
+      "id": "2079932415766659322",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T14:11:45+00:00",
+      "text": "Decided to do a quick explainer because @torabyou is a chad and there should be a post from someone that actually understands bankruptcy re the recent Movement news. I am also the one that architected Project Fenix (in its initial form), which was a plan to keep the Movement Network functional notwithstanding the issues at the time, before I stopped advising the Movement Foundation so I have some context there. (I am also fairly amused they have kept the project name.) TLDR: Movement Labs bankruptcy is all according to keikaku (keikaku means plan). In or around May 2025, certain concerning discoveries were made by the Movement Foundation re the activities of Movement Labs (the company going into bankruptcy). The extent of those activities were not known. Torab and the Movement team worked under Movement Labs at that time. The uncertainty around the extent of Movement Labs liabilities (and wtf they were doing) was unclear. Thus it made it impossible to have Movement Labs continue developing the protocol. A lot of the team understandably, considered leaving. Despite my friendly advice that he was inheriting too much baggage, Torab decided to continue building on Movement because he didn't want to let the ecosystem and community down. Torab had pretty much unanimously been chosen by the Move stakeholders at the time to be the new CEO. The man has my eternal respect for choosing to do so (I attempted multiple times as his friend to talk him out of it on the grounds that he would be dealing with too much bullshit). Move Industries was thus formed by Torab (with support from the Movement Foundation) to create a new core contributor to the Movement Network, with the intention that Movement Labs would be sunsetted. To my knowledge, all Movement Network related developments are now performed out of Move Industries. The Labs bankruptcy was thus very much expected (and planned as far back as mid-2025), and to my understanding, does not impact the new core contributor entity led by Torab, nor the Movement Foundation.",
+      "summary": "Decided to do a quick explainer because @torabyou is a chad and there should be a post from someone that actually understands bankruptcy re the…",
+      "url": "https://x.com/wassielawyer/status/2079932415766659322",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 62,
+        "retweets": 7,
+        "replies": 11,
+        "quotes": 3,
+        "views": "9743"
+      }
+    },
+    {
       "id": "2079931682895851784",
       "is_retweet": false,
       "original_author": null,
@@ -73,6 +427,56 @@
         "replies": 0,
         "quotes": 1,
         "views": "493"
+      }
+    },
+    {
+      "id": "2079929463975117148",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "jessefried",
+      "display_name": "Jesse Fried",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-22T14:00:02+00:00",
+      "text": "4/ OpenAI today: a new set of mission directors controls the firm; they can subordinate profit to other goals, and on safety and security matters, they must. Investors remain powerless, like in November 2023.",
+      "summary": "4/ OpenAI today: a new set of mission directors controls the firm; they can subordinate profit to other goals, and on safety and security matters,…",
+      "url": "https://x.com/jessefried/status/2079929463975117148",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "61"
+      }
+    },
+    {
+      "id": "2079929457628856518",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "jessefried",
+      "display_name": "Jesse Fried",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-22T14:00:00+00:00",
+      "text": "5/ Anthropic, which could change before IPO, appears meaningfully less risky than OpenAI. Most importantly, a stockholder supermajority can flip a “kill switch” and eject the mission directors. But the threshold is secret. If the bar is too high, the switch may be hard to flip.",
+      "summary": "5/ Anthropic, which could change before IPO, appears meaningfully less risky than OpenAI. Most importantly, a stockholder supermajority can flip a…",
+      "url": "https://x.com/jessefried/status/2079929457628856518",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "46"
       }
     },
     {
@@ -126,6 +530,81 @@
       }
     },
     {
+      "id": "2079915180079956097",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T13:03:16+00:00",
+      "text": "Subscribe to Unchained Premium today to watch! https://t.co/vGnhvOGmP9",
+      "summary": "Subscribe to Unchained Premium today to watch! https://t.co/vGnhvOGmP9",
+      "url": "https://x.com/laurashin/status/2079915180079956097",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "341"
+      }
+    },
+    {
+      "id": "2079915168130314501",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T13:03:13+00:00",
+      "text": "Yaya Fanusie spent years in national security and counterterrorism. Then he studied China's digital yuan and got convinced that privacy tech is not a threat to governments. It's a strategic asset for democracies. That's a very different framing than what you usually hear. 🎧 https://t.co/qNyogcaWXV",
+      "summary": "Yaya Fanusie spent years in national security and counterterrorism. Then he studied China's digital yuan and got convinced that privacy tech is not a…",
+      "url": "https://x.com/laurashin/status/2079915168130314501",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "3453"
+      }
+    },
+    {
+      "id": "2079904249744400401",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T12:19:50+00:00",
+      "text": "RT @intangiblecoins: we are pledging up to $5m in grants to open source developers building post-quantum cryptography for bitcoin, post-quantum signature schema for bitcoin, reviewing code, doing security audits, and more if you are working on this and need funding, email: quantum at galaxy dot com",
+      "summary": "RT @intangiblecoins: we are pledging up to $5m in grants to open source developers building post-quantum cryptography for bitcoin, post-quantum…",
+      "url": "https://x.com/laurashin/status/2079904249744400401",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 30,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1157"
+      }
+    },
+    {
       "id": "2079896489107832970",
       "is_retweet": false,
       "original_author": null,
@@ -151,6 +630,31 @@
       }
     },
     {
+      "id": "2079893469892579796",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:37:00+00:00",
+      "text": "Bitcoin touched $67K on Clarity Act optimism, then slipped back below $66K just as fast. Is the rally for real? 👀 https://t.co/YZIrsUSjWe",
+      "summary": "Bitcoin touched $67K on Clarity Act optimism, then slipped back below $66K just as fast. Is the rally for real? 👀 https://t.co/YZIrsUSjWe",
+      "url": "https://x.com/laurashin/status/2079893469892579796",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 1,
+        "views": "3732"
+      }
+    },
+    {
       "id": "2079893196096594075",
       "is_retweet": true,
       "original_author": "malekanoms",
@@ -173,6 +677,181 @@
         "replies": 0,
         "quotes": 0,
         "views": "603"
+      }
+    },
+    {
+      "id": "2079892892802248758",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:34:42+00:00",
+      "text": "RT @laurashin: Movement Labs just filed for Chapter 11, the same company whose MOVE token got dumped by a market maker one day after launch. 💥 The full collapse, explained: https://t.co/2QhR2vV9CM",
+      "summary": "RT @laurashin: Movement Labs just filed for Chapter 11, the same company whose MOVE token got dumped by a market maker one day after launch. 💥 The…",
+      "url": "https://x.com/laurashin/status/2079892892802248758",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079892882224222256",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:34:40+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 📉 Bitcoin retreats from $67,000 💀 Movement Labs files for Chapter 11 after its token-dump scandal 🇷🇺 Russia passes its first comprehensive crypto law 🏳️ Jack Mallers steps down as Twenty One Capital CEO 📩 Don’t miss out—read here & sign up for daily updates! https://t.co/uOvHhMcw2W",
+      "summary": "RT @laurashin: In today's Unchained Daily newsletter: 📉 Bitcoin retreats from $67,000 💀 Movement Labs files for Chapter 11 after its token-dump…",
+      "url": "https://x.com/laurashin/status/2079892882224222256",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2079891537568124982",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:29:19+00:00",
+      "text": "🚨NEW: Industry stakeholders are set to have a call with Republican leadership later this morning to receive an update on the latest Clarity Act text, according to an industry source invited to the call.",
+      "summary": "🚨NEW: Industry stakeholders are set to have a call with Republican leadership later this morning to receive an update on the latest Clarity Act text,…",
+      "url": "https://x.com/EleanorTerrett/status/2079891537568124982",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3205,
+        "retweets": 501,
+        "replies": 95,
+        "quotes": 40,
+        "views": "174089"
+      }
+    },
+    {
+      "id": "2079890315784458695",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:24:28+00:00",
+      "text": "In today's Unchained Daily newsletter: 📉 Bitcoin retreats from $67,000 💀 Movement Labs files for Chapter 11 after its token-dump scandal 🇷🇺 Russia passes its first comprehensive crypto law 🏳️ Jack Mallers steps down as Twenty One Capital CEO 📩 Don’t miss out—read here & sign up for daily updates! https://t.co/uOvHhMcw2W",
+      "summary": "In today's Unchained Daily newsletter: 📉 Bitcoin retreats from $67,000 💀 Movement Labs files for Chapter 11 after its token-dump scandal 🇷🇺 Russia…",
+      "url": "https://x.com/laurashin/status/2079890315784458695",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 3,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3539"
+      }
+    },
+    {
+      "id": "2079888437059215364",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:17:00+00:00",
+      "text": "Movement Labs just filed for Chapter 11, the same company whose MOVE token got dumped by a market maker one day after launch. 💥 The full collapse, explained: https://t.co/2QhR2vV9CM",
+      "summary": "Movement Labs just filed for Chapter 11, the same company whose MOVE token got dumped by a market maker one day after launch. 💥 The full collapse,…",
+      "url": "https://x.com/laurashin/status/2079888437059215364",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 5,
+        "replies": 7,
+        "quotes": 1,
+        "views": "3835"
+      }
+    },
+    {
+      "id": "2079887032386552112",
+      "is_retweet": true,
+      "original_author": "mattyryze",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T11:11:25+00:00",
+      "text": "RT @mattyryze: reading this made my head hurt https://t.co/IH5f3LrDDA",
+      "summary": "RT @mattyryze: reading this made my head hurt https://t.co/IH5f3LrDDA",
+      "url": "https://x.com/laurashin/status/2079887032386552112",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1391"
+      }
+    },
+    {
+      "id": "2079877303522484283",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T10:32:46+00:00",
+      "text": "The most bullish thing Kazakhstan and Balaji can do rn is to throw a bunch of money at Sacha Baron Cohen to film Borat Third Moviefilm: Solicitation of Esteemed Magic Money Man to build Internet School for Make Benefit Glorious Nation of Kazakhstan.",
+      "summary": "The most bullish thing Kazakhstan and Balaji can do rn is to throw a bunch of money at Sacha Baron Cohen to film Borat Third Moviefilm: Solicitation…",
+      "url": "https://x.com/wassielawyer/status/2079877303522484283",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 102,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 0,
+        "views": "4480"
       }
     },
     {
@@ -251,6 +930,56 @@
       }
     },
     {
+      "id": "2079812879965102181",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T06:16:46+00:00",
+      "text": "Dev agreeing not to pump and dump his own tokens while dev is literally President of the United States. Hilariously he can agree to whatever bc he will just pardon himself and his sons before he leaves office.",
+      "summary": "Dev agreeing not to pump and dump his own tokens while dev is literally President of the United States. Hilariously he can agree to whatever bc he…",
+      "url": "https://x.com/wassielawyer/status/2079812879965102181",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3831"
+      }
+    },
+    {
+      "id": "2079768210656711041",
+      "is_retweet": true,
+      "original_author": "Unchained_pod",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T03:19:16+00:00",
+      "text": "RT @Unchained_pod: HTTP became HTTPS and that one letter unlocked all of e-commerce. Yaya Fanusie of @AleoHQ says privacy will give stablecoins the same shift. Without privacy, payroll, settlement, and everyday payments on-chain simply won't happen at scale, he says. 🎧 https://t.co/CnQbKeNvFP",
+      "summary": "RT @Unchained_pod: HTTP became HTTPS and that one letter unlocked all of e-commerce. Yaya Fanusie of @AleoHQ says privacy will give stablecoins the…",
+      "url": "https://x.com/laurashin/status/2079768210656711041",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1265"
+      }
+    },
+    {
       "id": "2079750498958114938",
       "is_retweet": true,
       "original_author": "GOPMajorityWhip",
@@ -301,6 +1030,56 @@
       }
     },
     {
+      "id": "2079744210412941787",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T01:43:54+00:00",
+      "text": "I don't understand why there are so many negative reactions to this clip. It speaks to me of jealousy. Naval is very successful. He's made it to a point in his life where he can do whatever TF he wants. And what he wants to do is have unscheduled days and the luxury of time for his own whims. WHY TF do you all care and why are you so mad about it???",
+      "summary": "I don't understand why there are so many negative reactions to this clip. It speaks to me of jealousy. Naval is very successful. He's made it to a…",
+      "url": "https://x.com/laurashin/status/2079744210412941787",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 87,
+        "retweets": 1,
+        "replies": 36,
+        "quotes": 0,
+        "views": "24204"
+      }
+    },
+    {
+      "id": "2079743737224171742",
+      "is_retweet": true,
+      "original_author": "9dai_5",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T01:42:01+00:00",
+      "text": "RT @9dai_5: Japan has always treated crypto as part of the financial system. But there are pros and cons. Crypto assets were first regulated under the Payment Services Act, with the framework beginning in 2017.",
+      "summary": "RT @9dai_5: Japan has always treated crypto as part of the financial system. But there are pros and cons. Crypto assets were first regulated under…",
+      "url": "https://x.com/laurashin/status/2079743737224171742",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1344"
+      }
+    },
+    {
       "id": "2079741436858101966",
       "is_retweet": false,
       "original_author": null,
@@ -323,6 +1102,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1178"
+      }
+    },
+    {
+      "id": "2079739679507615989",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T01:25:53+00:00",
+      "text": ".@axios confirms and adds to my earlier reporting: Bipartisan ethics discussions are underway, with @SenThomTillis spearheading negotiations on the GOP side. https://t.co/L7na0VzWjn",
+      "summary": ".@axios confirms and adds to my earlier reporting: Bipartisan ethics discussions are underway, with @SenThomTillis spearheading negotiations on the…",
+      "url": "https://x.com/EleanorTerrett/status/2079739679507615989",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1563,
+        "retweets": 224,
+        "replies": 36,
+        "quotes": 11,
+        "views": "126018"
       }
     },
     {
@@ -423,6 +1227,106 @@
         "replies": 45,
         "quotes": 7,
         "views": "20086"
+      }
+    },
+    {
+      "id": "2079701328545149099",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T22:53:30+00:00",
+      "text": "After hearing Patrick Witt's intel, Robert's confidence about the odds that Clarity passes have jumped from 70% to 75% 🤣 (This, to me, is like saying 6 minute abs is so much better than 7 minute abs 😂) https://t.co/U3woC9eUsN",
+      "summary": "After hearing Patrick Witt's intel, Robert's confidence about the odds that Clarity passes have jumped from 70% to 75% 🤣 (This, to me, is like saying…",
+      "url": "https://x.com/laurashin/status/2079701328545149099",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 21,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "7647"
+      }
+    },
+    {
+      "id": "2079699441536122885",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T22:46:00+00:00",
+      "text": "\"Most of my time has been spent on battling\" -- Patrick Witt on his work fighting for the Clarity Act ⚔️ https://t.co/U3woC9eUsN",
+      "summary": "\"Most of my time has been spent on battling\" -- Patrick Witt on his work fighting for the Clarity Act ⚔️ https://t.co/U3woC9eUsN",
+      "url": "https://x.com/laurashin/status/2079699441536122885",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5916"
+      }
+    },
+    {
+      "id": "2079699299047465193",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T22:45:26+00:00",
+      "text": "🚨NEW: @DigitalChamber has become the first trade association to sue over Illinois’ new Digital Asset Tax Act, filing a lawsuit seeking to block the nation’s first state tax targeting crypto business activity before it takes effect on January 1, 2027. The complaint argues the law, which slaps a 0.2% tax on certain digital asset business activity, unconstitutionally singles out blockchain-based transactions for different tax treatment than comparable transactions conducted through TradFi rails.",
+      "summary": "🚨NEW: @DigitalChamber has become the first trade association to sue over Illinois’ new Digital Asset Tax Act, filing a lawsuit seeking to block the…",
+      "url": "https://x.com/EleanorTerrett/status/2079699299047465193",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1147,
+        "retweets": 171,
+        "replies": 27,
+        "quotes": 12,
+        "views": "78110"
+      }
+    },
+    {
+      "id": "2079698442998124745",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-21T22:42:02+00:00",
+      "text": "🎲 Patrick Witt gives his odds on the Clarity Act getting across the finish line: \"Right now, the prediction markets are about accurate. It's a coin flip. It could go either way\" https://t.co/U3woC9eUsN",
+      "summary": "🎲 Patrick Witt gives his odds on the Clarity Act getting across the finish line: \"Right now, the prediction markets are about accurate. It's a coin…",
+      "url": "https://x.com/laurashin/status/2079698442998124745",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5713"
       }
     },
     {
@@ -1123,6 +2027,31 @@
         "replies": 2,
         "quotes": 2,
         "views": "6150"
+      }
+    },
+    {
+      "id": "2079631483292266750",
+      "is_retweet": true,
+      "original_author": "RyanGreenblatt",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-21T18:15:57+00:00",
+      "text": "RT @RyanGreenblatt: An economist and a futurist walk into a bar. The economist takes a sip of his drink. \"Ugh, if only people understood basic economics. High-skilled immigration alone would do wonders for US growth.\" Futurist: \"Oh yeah? Say 100 million immigrants moved to the US, each matching the best human experts in every economically relevant field. Big deal?\" Economist: \"Massive. Transformative.\" Futurist: \"What if they also worked longer hours and faster than any American?\" Economist: \"Even better.\" Futurist: \"What if they were extremely frugal — consuming only the bare minimum needed to keep working?\" Economist: \"A near-100% savings rate? Better still!\" Futurist: \"What if they were very clumsy and physically weak, so they could only do some kinds of work?\" Economist: \"They could still do all cognitive labor — that's over half all wages! Somewhat less good, sure. Still transformative.\" Futurist: \"What if their skin was grey, almost metallic, from some kind of accident?\" Economist: \"Who cares?!\" Futurist: \"What if they were AIs?\" Economist: \"3% growth per year, tops. There'd be bottlenecks. Honestly, the people predicting explosive growth from AI should learn some economics.\"",
+      "summary": "RT @RyanGreenblatt: An economist and a futurist walk into a bar. The economist takes a sip of his drink. \"Ugh, if only people understood basic…",
+      "url": "https://x.com/gabriel_weil/status/2079631483292266750",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 190,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5"
       }
     },
     {
