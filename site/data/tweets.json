@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-22T12:14:20.980075+00:00",
-  "generated_at_unix": 1784722460,
+  "generated_at": "2026-07-22T15:01:58.837818+00:00",
+  "generated_at_unix": 1784732518,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-21T16:00:00+00:00",
-  "window_end": "2026-07-22T12:14:20.980075+00:00",
-  "new_this_run": 6,
-  "total_recent": 57,
+  "window_end": "2026-07-22T15:01:58.837818+00:00",
+  "new_this_run": 15,
+  "total_recent": 72,
   "errors": [
     {
-      "username": "kspaglia",
-      "error": "The read operation timed out"
+      "username": "prestonjbyrne",
+      "error": "<urlopen error [Errno 54] Connection reset by peer>"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +25,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2079937509845332295",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T14:32:00+00:00",
+      "text": "\"Corley, I think, got it fundamentally wrong in that it said, 'We're going to impose intermediate scrutiny rather than strict scrutiny on this regulation because the underlying thing being regulated isn't actually speech in the pure sense. It's some sort of speech conduct hybrid for a bad purpose, and it's not expressive.' And that has no grounding in past Supreme Court precedent.\" @valkenburgh on what most First Amendment scholars consider the case on where code loses protections as speech. I agree with Peter. Reminder: the court in Corley was targeting a publisher for linking to a website that allowed users to download the software. They weren't punishing the software users for illegal activity (that was too inconvenient, ofc), they were punishing someone for publishing something.",
+      "summary": "\"Corley, I think, got it fundamentally wrong in that it said, 'We're going to impose intermediate scrutiny rather than strict scrutiny on this…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079937509845332295",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "204"
+      }
+    },
+    {
+      "id": "2079931682895851784",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T14:08:51+00:00",
+      "text": "This was me trying to get paid for consulting with a (v large, reputable) crypto company. Higher @altitude. https://t.co/MpihYtUWFe",
+      "summary": "This was me trying to get paid for consulting with a (v large, reputable) crypto company. Higher @altitude. https://t.co/MpihYtUWFe",
+      "url": "https://x.com/JacobRobinsonJD/status/2079931682895851784",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 1,
+        "views": "493"
+      }
+    },
+    {
+      "id": "2079922322505408644",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T13:31:39+00:00",
+      "text": "🫵Your Senator needs to hear from you. We've come so far - now's not the time to stop. Tell your Senator to pass the Clarity Act here: https://t.co/GzHabguvh1",
+      "summary": "🫵Your Senator needs to hear from you. We've come so far - now's not the time to stop. Tell your Senator to pass the Clarity Act here:…",
+      "url": "https://x.com/CryptoLawUS/status/2079922322505408644",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 95,
+        "retweets": 28,
+        "replies": 2,
+        "quotes": 2,
+        "views": "6512"
+      }
+    },
+    {
+      "id": "2079918175538340244",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T13:15:10+00:00",
+      "text": "RT @SenLummis: Terra’s collapse wiped out roughly $40 billion, and much of what remained got swallowed by the bankruptcy process itself. The Clarity Act doesn’t just draw a line between reserve-backed assets and algorithmic experiments. It makes sure that when something fails, customer assets aren’t creditors’ first course.",
+      "summary": "RT @SenLummis: Terra’s collapse wiped out roughly $40 billion, and much of what remained got swallowed by the bankruptcy process itself. The Clarity…",
+      "url": "https://x.com/JohnEDeaton1/status/2079918175538340244",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 427,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2593"
+      }
+    },
+    {
+      "id": "2079896489107832970",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T11:49:00+00:00",
+      "text": "When the U.S. government first tried to limit Anthropic's most advanced models, they were sued by an American company that had employees in Canada. Here's some detail on that Legion LegalTech Corp lawsuit. I'd expect we see many more, especially after yesterday's OpenAI announcement.",
+      "summary": "When the U.S. government first tried to limit Anthropic's most advanced models, they were sued by an American company that had employees in Canada.…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079896489107832970",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "559"
+      }
+    },
     {
       "id": "2079893196096594075",
       "is_retweet": true,
@@ -173,6 +298,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "137"
+      }
+    },
+    {
+      "id": "2079741436858101966",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T01:32:52+00:00",
+      "text": "\" If we can have the same pendulum swing we had last year from the Gary Gensler regime to the current government's policy in the opposite direction again, we'll be in a world of hurt.\" @millercwl of @SolanaInstitute on why we need the Clarity Act to pass. Important 24 hours ahead.",
+      "summary": "\" If we can have the same pendulum swing we had last year from the Gary Gensler regime to the current government's policy in the opposite direction…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079741436858101966",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1178"
       }
     },
     {
@@ -351,6 +501,31 @@
       }
     },
     {
+      "id": "2079693464585871492",
+      "is_retweet": true,
+      "original_author": "philjacobson",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T22:22:15+00:00",
+      "text": "RT @philjacobson: Excited to announce @altitude as the presenting sponsor of @LawofCodeFM. Jacob is building the defining media brand for lawyers operating at the frontier. Each episode goes extremely deep while making complex ideas easy to understand. No matter the episode you listen to, you learn a ton. No legal degree needed. The guests are fantastic. @HesterPeirce joined for the episode on SEC and Crypto. @jchervinsky joined for Perps. Law of Code will rapidly become a must listen for every legal professional and founder in AI, crypto, and other frontier industries.",
+      "summary": "RT @philjacobson: Excited to announce @altitude as the presenting sponsor of @LawofCodeFM. Jacob is building the defining media brand for lawyers…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079693464585871492",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "62"
+      }
+    },
+    {
       "id": "2079690863291031768",
       "is_retweet": false,
       "original_author": null,
@@ -476,6 +651,31 @@
       }
     },
     {
+      "id": "2079664833759154392",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T20:28:29+00:00",
+      "text": "As a crypto lawyer, I watched clients struggle with banking and payments for months (sometimes years). It sucked. That's why I'm grateful to have @altitude as the Presenting Sponsor for @LawofCodeFM. It's the type of product I wish existed five years ago. Nearly every business in emerging tech runs into the same payment problems: 1. multiple entities and counterparties 2. across multiple jurisdictions 3. each needing its own payment infrastructure @SimkinStepan, a lawyer-turned-builder who I interviewed nearly five years ago (Ep. 39), stepped away from his legal career to solve problems for businesses. He's built @altitude as the cure for payment headaches. A command center with one account for stablecoins and fiat, Altitude offers zero-fee transfers, Visa cards with cashback on AI and travel spend, automated bill payments, invoicing ... I could go on. If you have clients with payment headaches, Altitude is worth understanding. Learn more at https://t.co/OPhWPeeAbJ. Thank you to Stepan, @philjacobson and the @altitude team for building a wicked product (and supporting the podcast).",
+      "summary": "As a crypto lawyer, I watched clients struggle with banking and payments for months (sometimes years). It sucked. That's why I'm grateful to have…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079664833759154392",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 5,
+        "replies": 3,
+        "quotes": 2,
+        "views": "2239"
+      }
+    },
+    {
       "id": "2079664623205146792",
       "is_retweet": false,
       "original_author": null,
@@ -523,6 +723,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "888"
+      }
+    },
+    {
+      "id": "2079660255064076390",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T20:10:17+00:00",
+      "text": "America MUST always be the world’s leader when it comes to financial innovation and inclusion. I founded @CryptoLawUS to help make it easy for everyday Americans to contact Members of Congress. Use our Connect to Congress app to tell your Senator to pass the Clarity Act.",
+      "summary": "America MUST always be the world’s leader when it comes to financial innovation and inclusion. I founded @CryptoLawUS to help make it easy for…",
+      "url": "https://x.com/JohnEDeaton1/status/2079660255064076390",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 272,
+        "retweets": 54,
+        "replies": 11,
+        "quotes": 4,
+        "views": "18501"
+      }
+    },
+    {
+      "id": "2079658243782029385",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T20:02:18+00:00",
+      "text": "RT @CryptoLawUS: 📢Maryland: Senator Alsobrooks is holding up Clarity. She needs to hear from you. This bill is about clear rules - rules that protect you and give law enforcement the tools to stop bad actors. 👇 Connect to Congress: https://t.co/GzHabguvh1",
+      "summary": "RT @CryptoLawUS: 📢Maryland: Senator Alsobrooks is holding up Clarity. She needs to hear from you. This bill is about clear rules - rules that protect…",
+      "url": "https://x.com/JohnEDeaton1/status/2079658243782029385",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 70,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3243"
       }
     },
     {
@@ -598,6 +848,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "850"
+      }
+    },
+    {
+      "id": "2079651579544678470",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T19:35:49+00:00",
+      "text": "Next week marks 100 days to the midterms. Clarity has to get done. Without it, the crypto skeptics win and regulation by enforcement returns. Consumers will pay the price. Tell your Senator to get it done. 👇 https://t.co/GzHabguvh1",
+      "summary": "Next week marks 100 days to the midterms. Clarity has to get done. Without it, the crypto skeptics win and regulation by enforcement returns.…",
+      "url": "https://x.com/CryptoLawUS/status/2079651579544678470",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 101,
+        "retweets": 25,
+        "replies": 1,
+        "quotes": 1,
+        "views": "12535"
       }
     },
     {
@@ -798,6 +1073,56 @@
         "replies": 1,
         "quotes": 0,
         "views": "1485"
+      }
+    },
+    {
+      "id": "2079638232208113732",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T18:42:47+00:00",
+      "text": "Pennsylvania, you're at 330 messages to Congress. Your Senator needs to hear from you.📢 Every message matters. Spread the word. Tell Congress to pass the Clarity Act. The future of crypto depends on it.🚀 https://t.co/GzHabguvh1",
+      "summary": "Pennsylvania, you're at 330 messages to Congress. Your Senator needs to hear from you.📢 Every message matters. Spread the word. Tell Congress to pass…",
+      "url": "https://x.com/CryptoLawUS/status/2079638232208113732",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 118,
+        "retweets": 35,
+        "replies": 5,
+        "quotes": 1,
+        "views": "4996"
+      }
+    },
+    {
+      "id": "2079634657155399979",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T18:28:34+00:00",
+      "text": "👊New Jersey, you're at 210 messages to Congress. Let's keep up the pace and get to 500. Your Senator's vote is critical to pass the Clarity Act. Tell your Senator to get it done - for consumer protection, innovation, and clear rules of the road. Time is running out. https://t.co/4gp0IRJmeU",
+      "summary": "👊New Jersey, you're at 210 messages to Congress. Let's keep up the pace and get to 500. Your Senator's vote is critical to pass the Clarity Act. Tell…",
+      "url": "https://x.com/CryptoLawUS/status/2079634657155399979",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 135,
+        "retweets": 46,
+        "replies": 2,
+        "quotes": 2,
+        "views": "6150"
       }
     },
     {
@@ -1151,6 +1476,31 @@
       }
     },
     {
+      "id": "2079617056232641017",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T17:18:38+00:00",
+      "text": "RT @CryptoLawUS: URGENT: Arizona, Maryland, Georgia, Nevada, Pennsylvania - your Senators hold a key vote on Clarity, and not enough letters are reaching them. Tell them to get it done. Everyone else - keep pushing your Senators. Every voice counts. https://t.co/GzHabguvh1",
+      "summary": "RT @CryptoLawUS: URGENT: Arizona, Maryland, Georgia, Nevada, Pennsylvania - your Senators hold a key vote on Clarity, and not enough letters are…",
+      "url": "https://x.com/JohnEDeaton1/status/2079617056232641017",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 99,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3440"
+      }
+    },
+    {
       "id": "2079616742926450714",
       "is_retweet": true,
       "original_author": "valkenburgh",
@@ -1273,6 +1623,31 @@
         "replies": 25,
         "quotes": 0,
         "views": "4262"
+      }
+    },
+    {
+      "id": "2079613436682535061",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-21T17:04:15+00:00",
+      "text": "📢Maryland: Senator Alsobrooks is holding up Clarity. She needs to hear from you. This bill is about clear rules - rules that protect you and give law enforcement the tools to stop bad actors. 👇 Connect to Congress: https://t.co/GzHabguvh1",
+      "summary": "📢Maryland: Senator Alsobrooks is holding up Clarity. She needs to hear from you. This bill is about clear rules - rules that protect you and give law…",
+      "url": "https://x.com/CryptoLawUS/status/2079613436682535061",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 186,
+        "retweets": 70,
+        "replies": 0,
+        "quotes": 3,
+        "views": "23678"
       }
     },
     {
