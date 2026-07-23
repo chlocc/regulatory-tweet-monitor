@@ -1,67 +1,18 @@
 {
-  "generated_at": "2026-07-23T12:13:53.507141+00:00",
-  "generated_at_unix": 1784808833,
+  "generated_at": "2026-07-23T15:00:05.716515+00:00",
+  "generated_at_unix": 1784818805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-22T16:00:00+00:00",
-  "window_end": "2026-07-23T12:13:53.507141+00:00",
-  "new_this_run": 2,
-  "total_recent": 58,
-  "errors": [
-    {
-      "username": "SH_Brennan",
-      "error": "SH_Brennan: HTTP 502 - error code: 502\n"
-    },
-    {
-      "username": "TuongvyLe12",
-      "error": "TuongvyLe12: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "MTCoppel",
-      "error": "MTCoppel: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "NYcryptolawyer",
-      "error": "NYcryptolawyer: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "MinarikLaw",
-      "error": "MinarikLaw: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "jolieyang",
-      "error": "jolieyang: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "N0th1n3",
-      "error": "N0th1n3: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "lex_node",
-      "error": "lex_node: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "zackbshapiro",
-      "error": "zackbshapiro: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "jnnylng",
-      "error": "jnnylng: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "RSSH273",
-      "error": "RSSH273: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "JamisonSites",
-      "error": "JamisonSites: HTTP 500 - Internal Server Error"
-    }
-  ],
+  "window_end": "2026-07-23T15:00:05.716515+00:00",
+  "new_this_run": 26,
+  "total_recent": 84,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 3,
-    "successful_this_run": 3,
-    "next_index": 45,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -69,6 +20,306 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2080304972323868753",
+      "is_retweet": true,
+      "original_author": "NYcryptolawyer",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T14:52:10+00:00",
+      "text": "RT @NYcryptolawyer: Great summary below of where we stand on the Clarity Act right now. This quote sums it up for me: “My interest in a functioning market ultimately outweighs my interest in a chaotic one.” Chaotic markets produce more work for human intermediaries (like me!). That’s not what we want though, or what we have worked so hard for the last 10 years to achieve. In the long run, a well-functioning market will lift all boats. Let’s get CLARITY done!!",
+      "summary": "RT @NYcryptolawyer: Great summary below of where we stand on the Clarity Act right now. This quote sums it up for me: “My interest in a functioning…",
+      "url": "https://x.com/JohnEDeaton1/status/2080304972323868753",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1568"
+      }
+    },
+    {
+      "id": "2080304904623493597",
+      "is_retweet": true,
+      "original_author": "emiliemc",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T14:51:54+00:00",
+      "text": "RT @emiliemc: Whether you like crypto, hate crypto, or don’t care, you should want this bill passed. CLARITY will establish comprehensive federal oversight, rigorous rules, and consumer protections where there otherwise are none. It’s now down to the Senate to help America set the standard.",
+      "summary": "RT @emiliemc: Whether you like crypto, hate crypto, or don’t care, you should want this bill passed. CLARITY will establish comprehensive federal…",
+      "url": "https://x.com/JohnEDeaton1/status/2080304904623493597",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1365"
+      }
+    },
+    {
+      "id": "2080304602876960983",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T14:50:42+00:00",
+      "text": "Support is building - but now is not the time to go quiet. The louder you are, the harder you are to ignore. Tell your Senator: pass the Clarity Act. 👉https://t.co/GzHabguvh1",
+      "summary": "Support is building - but now is not the time to go quiet. The louder you are, the harder you are to ignore. Tell your Senator: pass the Clarity Act.…",
+      "url": "https://x.com/CryptoLawUS/status/2080304602876960983",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1381"
+      }
+    },
+    {
+      "id": "2080301575961027064",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T14:38:40+00:00",
+      "text": "Hey @MariaBartiromo: As someone who hasn’t been shy to criticize @realDonaldTrump, I’ve been saying it for years - Democrats like @EdMarkey @sethmoulton @SenWarren and others simply: HATE TRUMP MORE THAN THEY LOVE AMERICA.",
+      "summary": "Hey @MariaBartiromo: As someone who hasn’t been shy to criticize @realDonaldTrump, I’ve been saying it for years - Democrats like @EdMarkey…",
+      "url": "https://x.com/JohnEDeaton1/status/2080301575961027064",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 25,
+        "retweets": 6,
+        "replies": 1,
+        "quotes": 1,
+        "views": "3830"
+      }
+    },
+    {
+      "id": "2080299595171533075",
+      "is_retweet": true,
+      "original_author": "MichaelBiundo",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T14:30:48+00:00",
+      "text": "RT @MichaelBiundo: The point of this ad should be that Markey doesn’t live in MA, he lives in Maryland. He’s been in office for 53 years living off the taxpayers and getting nothing done. Seth doesn’t get anything done either, he’s just failed for less years. Filming a retort in the same location in Washington DC just proves you are also a failed politician.",
+      "summary": "RT @MichaelBiundo: The point of this ad should be that Markey doesn’t live in MA, he lives in Maryland. He’s been in office for 53 years living off…",
+      "url": "https://x.com/JohnEDeaton1/status/2080299595171533075",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2155"
+      }
+    },
+    {
+      "id": "2080298001998696482",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T14:24:28+00:00",
+      "text": "SENATOR LUMMIS @SenLummis IS 💯 ON 🎯 I represent (pro-bono) almost 4K thousand investors in the case of @linqtoinc - currently in Bankruptcy Court. Although Linqto doesn’t involve individual crypto tokens it does involve pre-IPO shares of Crypto Companies, including @Ripple, @krakenfx, @UpholdInc and others. Linqto is a fraud case, including deceptive marketing tactics, undisclosed excessive mark-ups, misleading, false advertising, etc. Investors believed they owned pre-IPO shares of companies. Linqto investors believed they owned the shares because they were told so. More importantly, investors were told, in writing, that the securities they owned were in fact “bankruptcy-proof” - because customer shares were segregated. Just as in FTX, Celsius and other cases, the VERY FIRST ISSUE in bankruptcy court is who owns the customer accounts (shares, tokens, cash, etc). The issue becomes was there segregation in fact, not just in name. Courts look at whether the funds were actually kept separate - not commingled with operating funds - regardless of what the account was called. This is the exact issue that sank customers in FTX and Celsius. The documentation said “custodial,” but the money was commingled and used, so courts treated it as ESTATE PROPERTY subject to the general unsecured creditor pool. In Linqto, I immediately filed a a motion in Bankruptcy Court asking the judge to impose a Constructive Trust - ruling that customers owned the shares and that they were held in trust. Although the Creditors Committee, Debtor (Linqto) and Deaton Represented Creditors have settled the issue, Customers have lost tens of millions of dollars related to their investments. I may work pro-bono but bankruptcy lawyers and other professionals (accountants, auditors, financial advisors, etc), do not. The median hourly fee for each professional is $1,200 per hour, with some charging as high as $2,500 per hour. In FTX alone, Sullivan & Cromwell billed for $360 million with $254 million approved by the Court. THe FTX bankruptcy estate paid lawyers and restructuring advisers nearly $1 BILLION in total fees and expenses, per the January 2026 post-confirmation report. WE NEED CLARITY!",
+      "summary": "SENATOR LUMMIS @SenLummis IS 💯 ON 🎯 I represent (pro-bono) almost 4K thousand investors in the case of @linqtoinc - currently in Bankruptcy Court.…",
+      "url": "https://x.com/JohnEDeaton1/status/2080298001998696482",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 92,
+        "retweets": 20,
+        "replies": 1,
+        "quotes": 0,
+        "views": "8698"
+      }
+    },
+    {
+      "id": "2080291025638006798",
+      "is_retweet": true,
+      "original_author": "0xYager",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T13:56:45+00:00",
+      "text": "RT @0xYager: If I was on the Hill this week advocating for Clarity I would be hammering the Cornyn & Cortez Masto quotes... \"Crypto is not going to be loaning any money for small businesses.\" This couldn't be farther from the truth... 1/ This demonstrates a misunderstanding of what crypto is -- it is not a separate financial ecosystem for only crypto users. It is an upgrade to the system, driving costs lower and increasing accessibility. This is a bill for all Americans, not just crypto users. 2/ Small businesses face increasingly prohibitive and extractive options to access capital. Usury rates through the roof, interest rates climbing, Big Banks consolidating regional banks faster than ever. Small businesses are looking to Congress to create a federal regulatory framework so they can feel comfortable accessing lending opportunities from crypto providers. 3/ Crypto is innovating while institutions squeeze out SMEs. Take Perps for example, tick sizes and risk management are prohibitive barriers to entry for any business but the largest to properly hedge risk across international events/economics. Take a Texas truck stop operator looking to hedge fuel costs across the Iran conflict. They can't onboard to an FCM, they can't access the CME. But they can trade Perps at tick sizes that make sense for them! 4/ If crypto right now was taking an increasing share of small business lending, it would be shouted from the mountain tops about how crypto is crushing community lending and creating systemic risk. What is needed are federal regulations that protect consumers and small businesses, that can help bridge the divide between crypto and traditional lending so that a small business is not choosing one or the other, a community bank is not left out of the picture, but instead they are choosing the types of products to offer -- of which crypto lending is a new category with new efficiencies and compliance mechanisms that can enhance lending operations.",
+      "summary": "RT @0xYager: If I was on the Hill this week advocating for Clarity I would be hammering the Cornyn & Cortez Masto quotes... \"Crypto is not going to…",
+      "url": "https://x.com/KhurramDara/status/2080291025638006798",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9"
+      }
+    },
+    {
+      "id": "2080284507001717044",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T13:30:50+00:00",
+      "text": "Maryland, New Jersey, Nevada, Arizona, Colorado, Virginia, Georgia: Your Senators are opposing the latest version of the Clarity Act. The Clarity Act provides clear rules and consumer protection for the 67 million American crypto holders. We need you to speak up. Keep the momentum going. Tell your Senator to pass the Clarity Act here: https://t.co/4gp0IRJmeU",
+      "summary": "Maryland, New Jersey, Nevada, Arizona, Colorado, Virginia, Georgia: Your Senators are opposing the latest version of the Clarity Act. The Clarity Act…",
+      "url": "https://x.com/CryptoLawUS/status/2080284507001717044",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 102,
+        "retweets": 33,
+        "replies": 8,
+        "quotes": 0,
+        "views": "6539"
+      }
+    },
+    {
+      "id": "2080266584547864636",
+      "is_retweet": true,
+      "original_author": "iampaulgrewal",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T12:19:37+00:00",
+      "text": "RT @iampaulgrewal: The SEC deleted a full year of Gary Gensler's communications at the peak of his campaign against crypto. The FDIC tried to secretly cut off an entire lawful industry from the banking system and buried the evidence. The US government doesn't get to operate like this. Unless the American people allow them to. So @Coinbase sued, won, and exposed the details, resulting in one of the largest FOIA awards in each agency's history. More details below.",
+      "summary": "RT @iampaulgrewal: The SEC deleted a full year of Gary Gensler's communications at the peak of his campaign against crypto. The FDIC tried to…",
+      "url": "https://x.com/HaileyLennonBTC/status/2080266584547864636",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 563,
+        "replies": 0,
+        "quotes": 0,
+        "views": "228"
+      }
+    },
+    {
+      "id": "2080245157748723924",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "kakashiii111",
+      "display_name": "Kakashii",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T10:54:29+00:00",
+      "text": "That’s very true, and it’s why Jensen is deeply concerned about losing clients in Southeast Asia, and that's one of the reason he gives them as much allocation as they want, flooding them with supply, so they won’t even consider Huawei unless required to do so by the Chinese government. However, the Chinese government also deserves credit for pushing DeepSeek to adopt Huawei’s CANN platform and for encouraging the two companies to work together.",
+      "summary": "That’s very true, and it’s why Jensen is deeply concerned about losing clients in Southeast Asia, and that's one of the reason he gives them as much…",
+      "url": "https://x.com/kakashiii111/status/2080245157748723924",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 38,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": "7586"
+      }
+    },
+    {
+      "id": "2080164455472910732",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "kakashiii111",
+      "display_name": "Kakashii",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T05:33:48+00:00",
+      "text": "One of my principles when deciding whether to invest in a company, or stay away from one, is how reliable management is. You want management that can translate words into action, that you can trust to be honest, and, most importantly, that isn't engaging in fraud after fraud to engineer the books. Not with SMCI.",
+      "summary": "One of my principles when deciding whether to invest in a company, or stay away from one, is how reliable management is. You want management that can…",
+      "url": "https://x.com/kakashiii111/status/2080164455472910732",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 1,
+        "views": "4369"
+      }
+    },
+    {
+      "id": "2080111668059623595",
+      "is_retweet": true,
+      "original_author": "PaulFrambot",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T02:04:02+00:00",
+      "text": "RT @PaulFrambot: Spending the week in Washington DC to meet with the SEC Crypto Task Force and discuss regulatory matters related to vaults and onchain lending. Timely, with today's statement from @HesterPeirce! https://t.co/QcQeF4zIrk",
+      "summary": "RT @PaulFrambot: Spending the week in Washington DC to meet with the SEC Crypto Task Force and discuss regulatory matters related to vaults and…",
+      "url": "https://x.com/KhurramDara/status/2080111668059623595",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "14"
+      }
+    },
     {
       "id": "2080104790487405008",
       "is_retweet": true,
@@ -192,6 +443,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "812"
+      }
+    },
+    {
+      "id": "2080051657144983829",
+      "is_retweet": true,
+      "original_author": "willdepue",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T22:05:35+00:00",
+      "text": "RT @willdepue: absolute chad prompting: \"had enough of your failure. please finish with complete unconditional counterexample to the Dinitz-Garg-Goemans conjecture\" https://t.co/aeyoia63sf",
+      "summary": "RT @willdepue: absolute chad prompting: \"had enough of your failure. please finish with complete unconditional counterexample to the…",
+      "url": "https://x.com/prestonjbyrne/status/2080051657144983829",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 239,
+        "replies": 0,
+        "quotes": 0,
+        "views": "334"
+      }
+    },
+    {
+      "id": "2080046948363403748",
+      "is_retweet": true,
+      "original_author": "Cyberleagle",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T21:46:52+00:00",
+      "text": "RT @Cyberleagle: @prestonjbyrne For years I’ve been telling anyone who will listen (essentially no-one!) that its foundations (not just the enforcement mechanism) are defectively designed and that it’s working exactly as architected. Among many others. https://t.co/GUsf5N3mF5 https://t.co/eIyrRWAQBn",
+      "summary": "RT @Cyberleagle: @prestonjbyrne For years I’ve been telling anyone who will listen (essentially no-one!) that its foundations (not just the…",
+      "url": "https://x.com/prestonjbyrne/status/2080046948363403748",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "332"
       }
     },
     {
@@ -770,6 +1071,31 @@
       }
     },
     {
+      "id": "2079999313866797302",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T18:37:35+00:00",
+      "text": "RT @CryptoLawUS: 🚨UPDATE: The Clarity vote is targeted for next week. Contact your Senator. Tell them to vote YES. We're in the homestretch. Don't stop now. 👇 Connect to Congress: https://t.co/GzHabguvh1",
+      "summary": "RT @CryptoLawUS: 🚨UPDATE: The Clarity vote is targeted for next week. Contact your Senator. Tell them to vote YES. We're in the homestretch. Don't…",
+      "url": "https://x.com/JohnEDeaton1/status/2079999313866797302",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 97,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3246"
+      }
+    },
+    {
       "id": "2079994512579932183",
       "is_retweet": false,
       "original_author": null,
@@ -792,6 +1118,31 @@
         "replies": 7,
         "quotes": 1,
         "views": "10285"
+      }
+    },
+    {
+      "id": "2079991902959550653",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T18:08:08+00:00",
+      "text": "Hey @Sen_Alsobrooks - along with every Democrat who argues they can’t vote for the Clarity Act unless state Attorneys General are in charge of the ethics enforcement: You’re suggesting is what’s unserious. I’ve never been shy about criticizing this President when I think he’s gotten it wrong, including on crypto policy, where I’ve pushed back on positions I believed were bad for retail investors and market integrity. But on this specific question, the Democrats’ insistence on state Attorneys General enforcement doesn’t hold up. The CLARITY Act is federal legislation establishing a federal regulatory framework for digital assets. The Department of Justice - not fifty different state AGs with fifty different political incentives and fifty different interpretations - is the appropriate body to enforce federal law. Handing enforcement to state AGs invites exactly the kind of inconsistent, patchwork application that makes it harder for legitimate market participants to know what the rules actually are, while opening the door to the kind of politicized targeting we’ve already seen state AGs use against industries and individuals they simply disagree with. If Democrats are serious about consumer protection in crypto markets, they should want uniform, predictable federal enforcement - not a system where enforcement varies depending on which state you’re in and which party controls that AG’s office. Currently, there are no restrictions on government officials issuing meme coins, NFTs, or other cryptocurrencies. FTX happened in part because of the lack of regulatory clarity in America and retail investors lost big time going offshore. Make no mistake about it: voting no comes down to not wanting Trump to take a legislative victory lap shortly before the midterms. Period. And it’s disgusting, un-patriotic and hurts the people you’re claiming to want to protect.",
+      "summary": "Hey @Sen_Alsobrooks - along with every Democrat who argues they can’t vote for the Clarity Act unless state Attorneys General are in charge of the…",
+      "url": "https://x.com/JohnEDeaton1/status/2079991902959550653",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1332,
+        "retweets": 319,
+        "replies": 134,
+        "quotes": 31,
+        "views": "72247"
       }
     },
     {
@@ -970,6 +1321,56 @@
       }
     },
     {
+      "id": "2079984292935954577",
+      "is_retweet": true,
+      "original_author": "CJRobins01",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T17:37:54+00:00",
+      "text": "RT @CJRobins01: @HesterPeirce 3/ We met with the SEC Crypto Task Force yesterday to share our thoughts on these issues. We are excited to continue engaging and to be an active steward for both the @morpho protocol and the crypto industry.",
+      "summary": "RT @CJRobins01: @HesterPeirce 3/ We met with the SEC Crypto Task Force yesterday to share our thoughts on these issues. We are excited to continue…",
+      "url": "https://x.com/KhurramDara/status/2079984292935954577",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "13"
+      }
+    },
+    {
+      "id": "2079984283020603726",
+      "is_retweet": true,
+      "original_author": "CJRobins01",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T17:37:51+00:00",
+      "text": "RT @CJRobins01: @HesterPeirce 2/ Vaults represent a significant opportunity for crypto to update the financial systems with open, permissionless infrastructure. As Commissioner Peirce notes \"[v]aults are not uniform\", they operate on spectrum, which requires careful consideration of vault design and activity.",
+      "summary": "RT @CJRobins01: @HesterPeirce 2/ Vaults represent a significant opportunity for crypto to update the financial systems with open, permissionless…",
+      "url": "https://x.com/KhurramDara/status/2079984283020603726",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "11"
+      }
+    },
+    {
       "id": "2079984108651123087",
       "is_retweet": true,
       "original_author": "iampaulgrewal",
@@ -992,6 +1393,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "101"
+      }
+    },
+    {
+      "id": "2079983667326206351",
+      "is_retweet": true,
+      "original_author": "CJRobins01",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T17:35:25+00:00",
+      "text": "RT @CJRobins01: 1/We thank @HesterPeirce and the Crypto Task Force staff for continuing to lead with thoughtful, open dialogue on issues critical to American innovation and capital formation.",
+      "summary": "RT @CJRobins01: 1/We thank @HesterPeirce and the Crypto Task Force staff for continuing to lead with thoughtful, open dialogue on issues critical to…",
+      "url": "https://x.com/KhurramDara/status/2079983667326206351",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "11"
       }
     },
     {
@@ -1145,6 +1571,31 @@
       }
     },
     {
+      "id": "2079978889594483018",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T17:16:26+00:00",
+      "text": "Hey @RepThomasMassie: My Washington Clean Hands Act ends this nonsense. It calls for single issue bills only. Voter ID would be called the Voter ID Act. The banning of stock trading would be called the Stock Trading Ban Act. The Ukraine funding bill would be called the Ukraine Funding Bill. Each Bill would be 5-10 pages of plain text and be voted on regarding its own merits. No more 1,000 page omnibus bills that mix social security issues with foreign aid with infrastructure with education with welfare.",
+      "summary": "Hey @RepThomasMassie: My Washington Clean Hands Act ends this nonsense. It calls for single issue bills only. Voter ID would be called the Voter ID…",
+      "url": "https://x.com/JohnEDeaton1/status/2079978889594483018",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 264,
+        "retweets": 45,
+        "replies": 16,
+        "quotes": 3,
+        "views": "17144"
+      }
+    },
+    {
       "id": "2079978035454107872",
       "is_retweet": false,
       "original_author": null,
@@ -1167,6 +1618,31 @@
         "replies": 2,
         "quotes": 2,
         "views": "2828"
+      }
+    },
+    {
+      "id": "2079977446338691284",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T17:10:41+00:00",
+      "text": "The full text of the Clarity Act is out - the most comprehensive crypto market structure bill Congress has ever produced. Real consumer protections and the toughest illicit-finance tools crypto has ever had. Your voices got us here. But it's not law until it's signed. Keep pushing Congress to get it done. 👉 https://t.co/4gp0IRJmeU",
+      "summary": "The full text of the Clarity Act is out - the most comprehensive crypto market structure bill Congress has ever produced. Real consumer protections…",
+      "url": "https://x.com/CryptoLawUS/status/2079977446338691284",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 237,
+        "retweets": 74,
+        "replies": 6,
+        "quotes": 1,
+        "views": "11260"
       }
     },
     {
@@ -1445,6 +1921,56 @@
       }
     },
     {
+      "id": "2079963965640114313",
+      "is_retweet": true,
+      "original_author": "iampaulgrewal",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T16:17:07+00:00",
+      "text": "RT @iampaulgrewal: The SEC deleted a full year of Gary Gensler's communications at the peak of his campaign against crypto. The FDIC tried to secretly cut off an entire lawful industry from the banking system and buried the evidence. The US government doesn't get to operate like this. Unless the American people allow them to. So @Coinbase sued, won, and exposed the details, resulting in one of the largest FOIA awards in each agency's history. More details below.",
+      "summary": "RT @iampaulgrewal: The SEC deleted a full year of Gary Gensler's communications at the peak of his campaign against crypto. The FDIC tried to…",
+      "url": "https://x.com/theblockprof/status/2079963965640114313",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 563,
+        "replies": 0,
+        "quotes": 0,
+        "views": "83"
+      }
+    },
+    {
+      "id": "2079963401707487451",
+      "is_retweet": true,
+      "original_author": "HowieCarrShow",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T16:14:53+00:00",
+      "text": "RT @HowieCarrShow: BREAKING: The Friends of LaMar Cook. With @govhealey's ex-aide LaMar Cook back from his welfare vacation at Disney World and in court this morning on his drug trafficking charges (allegedly 8 kilos of coke to Healey's personal office in Springfield & 19 keys to UMass-Amherst), here's a list of the political Friends of Lamar Cook, from his Facebook account. With Sen. Ed Markey With, of all people, disgraced ex-US atty. (and now candidate for Suffolk DA) Rachael Rollins. With Hampden County Sheriff Nick Cocchi, who you may recall got a bad ice cube outside the local casino. Both LaMar & the Sheriff have both uttered the same words to a judge: \"Not guilty, Your Honor!\" Lamar with Springfield's own ancient hack Democrat Congressman, Richie Neal. 1/2",
+      "summary": "RT @HowieCarrShow: BREAKING: The Friends of LaMar Cook. With @govhealey's ex-aide LaMar Cook back from his welfare vacation at Disney World and in…",
+      "url": "https://x.com/JohnEDeaton1/status/2079963401707487451",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 240,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4015"
+      }
+    },
+    {
       "id": "2079963113370361953",
       "is_retweet": false,
       "original_author": null,
@@ -1467,6 +1993,31 @@
         "replies": 6,
         "quotes": 1,
         "views": "4549"
+      }
+    },
+    {
+      "id": "2079962898852442291",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T16:12:53+00:00",
+      "text": "The Clarity Act is market structure legislation. Clear rules. Consumer protection. No more regulation by enforcement. Maryland, tell Alsobrooks: pass Clarity. 📢 https://t.co/GzHabguvh1",
+      "summary": "The Clarity Act is market structure legislation. Clear rules. Consumer protection. No more regulation by enforcement. Maryland, tell Alsobrooks: pass…",
+      "url": "https://x.com/CryptoLawUS/status/2079962898852442291",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 82,
+        "retweets": 20,
+        "replies": 2,
+        "quotes": 0,
+        "views": "5190"
       }
     },
     {
@@ -1517,6 +2068,56 @@
         "replies": 123,
         "quotes": 75,
         "views": "172285"
+      }
+    },
+    {
+      "id": "2079961394036740571",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T16:06:54+00:00",
+      "text": "The new Coinbase General Counsel's first hire will be an AI software engineer. I repeat, @mollyisonchain's first hire will not be a lawyer, it will be a legal AI software engineer. Molly explains why in this clip. https://t.co/kqyjislaeG",
+      "summary": "The new Coinbase General Counsel's first hire will be an AI software engineer. I repeat, @mollyisonchain's first hire will not be a lawyer, it will…",
+      "url": "https://x.com/JacobRobinsonJD/status/2079961394036740571",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 28,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 2,
+        "views": "6671"
+      }
+    },
+    {
+      "id": "2079960948110930331",
+      "is_retweet": true,
+      "original_author": "dmweisberger",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T16:05:08+00:00",
+      "text": "RT @dmweisberger: The utter corruption of Senator Markey’s & Warren’s view that America should be LEFT BEHIND by blocking regulation is incredible. NO regulation emboldens criminals and scammers while stopping law abiding innovators. THAT is what your opponents stand for, in their zeal to protect the financial incumbents.",
+      "summary": "RT @dmweisberger: The utter corruption of Senator Markey’s & Warren’s view that America should be LEFT BEHIND by blocking regulation is incredible.…",
+      "url": "https://x.com/JohnEDeaton1/status/2079960948110930331",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4134"
       }
     }
   ]
