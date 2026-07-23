@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-07-23T15:00:05.716515+00:00",
-  "generated_at_unix": 1784818805,
+  "generated_at": "2026-07-23T18:00:05.454614+00:00",
+  "generated_at_unix": 1784829605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-22T16:00:00+00:00",
-  "window_end": "2026-07-23T15:00:05.716515+00:00",
-  "new_this_run": 26,
-  "total_recent": 84,
-  "errors": [],
+  "window_end": "2026-07-23T18:00:05.454614+00:00",
+  "new_this_run": 40,
+  "total_recent": 124,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,481 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2080350561699082286",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:53:19+00:00",
+      "text": "\"There's so much work to do just on the finance side, and when you look at where the product market fit is today, it's really in upgrading finance\" Jesse on why the social bet didn't work out and where the product market fit actually is \"Some of it was just the timing of it. If you look at where crypto is getting product market fit today, it's really in finance, stablecoins, tokenization, prediction markets, perps, these categories are growing incredibly quickly\" \"One of the theses I've always had is that the whole world is going to be consumed by crypto. We're basically going to go from the bare bones crypto of Bitcoin, up to having smart contracts, to building finance, to every single part of our society leveraging this new technology to make it more efficient, more fair, more free, and more global\" \"That of course includes social. But the thing that maybe went wrong there was there's so much work to do just on the finance side\"",
+      "summary": "\"There's so much work to do just on the finance side, and when you look at where the product market fit is today, it's really in upgrading finance\"…",
+      "url": "https://x.com/laurashin/status/2080350561699082286",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1401"
+      }
+    },
+    {
+      "id": "2080349610082705484",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:49:32+00:00",
+      "text": "\"There's always going to be oscillation in activity, particularly when you have new ecosystems cropping up and these kind of meadows emerging\" Jesse responds to Robinhood Chain passing Base on daily active users and fees \"When you look at Base today, we've been building for three years. We have the largest spot onchain markets in crypto, a ton of stablecoin volume, and an incredibly dense network of builders that have made Base their home\" \"What we're focused on is the long term. Making sure Base is fast, trusted, easy to use, the place where developers come to build, and expanding market types so people can trade spot, perps, predictions, borrow and lend, all in one place\" \"We look at folks coming into the ecosystem as positive validation of our strategy. The largest financial companies in the world are saying let's bring our products onchain, and that's just growing the pie\"",
+      "summary": "\"There's always going to be oscillation in activity, particularly when you have new ecosystems cropping up and these kind of meadows emerging\" Jesse…",
+      "url": "https://x.com/laurashin/status/2080349610082705484",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "1608"
+      }
+    },
+    {
+      "id": "2080346603018223650",
+      "is_retweet": true,
+      "original_author": "jessepollak",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:37:35+00:00",
+      "text": "RT @jessepollak: https://t.co/lb5ijv9cvk",
+      "summary": "RT @jessepollak: https://t.co/lb5ijv9cvk",
+      "url": "https://x.com/laurashin/status/2080346603018223650",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": "620"
+      }
+    },
+    {
+      "id": "2080346470671392950",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:37:04+00:00",
+      "text": "\"The big reflection for me over the last six months is that building Base into the blockchain for global finance ... is just a massive undertaking and having my full focus on that is required to achieve all that we want to achieve there,\" @jessepollak on why it was necessary to hand over control of Base app to Cobie https://t.co/QIidlPO3ts",
+      "summary": "\"The big reflection for me over the last six months is that building Base into the blockchain for global finance ... is just a massive undertaking…",
+      "url": "https://x.com/laurashin/status/2080346470671392950",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1117"
+      }
+    },
+    {
+      "id": "2080345461827731671",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:33:03+00:00",
+      "text": "\"It's a wide open game,\" @jessepollak on Base winning in the next phase of crypto adoption https://t.co/qFUIgrzQTf",
+      "summary": "\"It's a wide open game,\" @jessepollak on Base winning in the next phase of crypto adoption https://t.co/qFUIgrzQTf",
+      "url": "https://x.com/laurashin/status/2080345461827731671",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1319"
+      }
+    },
+    {
+      "id": "2080344878790193169",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:30:44+00:00",
+      "text": "\"We look at that as a really positive validation of our strategy,\" @jessepollak on competition from Robinhood Chain https://t.co/qFUIgrzQTf",
+      "summary": "\"We look at that as a really positive validation of our strategy,\" @jessepollak on competition from Robinhood Chain https://t.co/qFUIgrzQTf",
+      "url": "https://x.com/laurashin/status/2080344878790193169",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1132"
+      }
+    },
+    {
+      "id": "2080344341973696691",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:28:36+00:00",
+      "text": "\"There's always going to be oscillation in activity and oscillation in prices, particularly when you have new ecosystems cropping up ... What we’re focused on is the long term\" @jessepollak on competition from Robinhood Chain https://t.co/uWS4B7VfpG",
+      "summary": "\"There's always going to be oscillation in activity and oscillation in prices, particularly when you have new ecosystems cropping up ... What we’re…",
+      "url": "https://x.com/laurashin/status/2080344341973696691",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1301"
+      }
+    },
+    {
+      "id": "2080343187869094331",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:24:01+00:00",
+      "text": "\"Brian is not bull posting memes with changing his pfp. He's changing his pfp because he's excited about crypto punks, excited about Coinbase,\" @jessepollak on Brian Armstrong's recent memecoin drama https://t.co/qFUIgrzQTf",
+      "summary": "\"Brian is not bull posting memes with changing his pfp. He's changing his pfp because he's excited about crypto punks, excited about Coinbase,\"…",
+      "url": "https://x.com/laurashin/status/2080343187869094331",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1295"
+      }
+    },
+    {
+      "id": "2080342061065109968",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:19:32+00:00",
+      "text": "\"Some of it was the timing of it ... I think the thing that went wrong there is that there is so much work to do just on the finance side and if when you look at where the product market fit is today, it really is in upgrading finance,\" @jessepollak on why Base's social bet failed https://t.co/QIidlPNvDU",
+      "summary": "\"Some of it was the timing of it ... I think the thing that went wrong there is that there is so much work to do just on the finance side and if when…",
+      "url": "https://x.com/laurashin/status/2080342061065109968",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 1,
+        "views": "1454"
+      }
+    },
+    {
+      "id": "2080341104025575573",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:15:44+00:00",
+      "text": "\"Base chain had been behind the scenes cooking for the last two years,\" @jessepollak https://t.co/qFUIgrzQTf",
+      "summary": "\"Base chain had been behind the scenes cooking for the last two years,\" @jessepollak https://t.co/qFUIgrzQTf",
+      "url": "https://x.com/laurashin/status/2080341104025575573",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 1,
+        "views": "1323"
+      }
+    },
+    {
+      "id": "2080340756309348550",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:14:21+00:00",
+      "text": "\"When you have a bet that doesn't work out, putting it behind you and saying ok let's double on what is working ... is a huge opportunity,\" @jessepollak https://t.co/qFUIgrzQTf",
+      "summary": "\"When you have a bet that doesn't work out, putting it behind you and saying ok let's double on what is working ... is a huge opportunity,\"…",
+      "url": "https://x.com/laurashin/status/2080340756309348550",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1527"
+      }
+    },
+    {
+      "id": "2080337202605863012",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T17:00:14+00:00",
+      "text": "'If you don't think that's happening to PayPal, go look at their stock price.' 📉 That's @austincampbell on @bitsandbips, making the case PayPal chose the innovator's dilemma over disrupting itself. 🎧 https://t.co/BMbmcVxE0p",
+      "summary": "'If you don't think that's happening to PayPal, go look at their stock price.' 📉 That's @austincampbell on @bitsandbips, making the case PayPal chose…",
+      "url": "https://x.com/laurashin/status/2080337202605863012",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1624"
+      }
+    },
+    {
+      "id": "2080336682620957152",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T16:58:10+00:00",
+      "text": "Jesse Pollak built Base and bet that onchain social would onboard the next billion. He now calls that wager \"definitively wrong.\" I ask @jessepollak what he learned — and how he plans to face a competitor like Robinhood. Live today at 1 pm ET DON'T MISS IT! TUNE IN 🎧 https://t.co/EHr7WlY4uC",
+      "summary": "Jesse Pollak built Base and bet that onchain social would onboard the next billion. He now calls that wager \"definitively wrong.\" I ask @jessepollak…",
+      "url": "https://x.com/laurashin/status/2080336682620957152",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1424"
+      }
+    },
+    {
+      "id": "2080336202427760709",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T16:56:16+00:00",
+      "text": "https://t.co/i3NjsnzOri",
+      "summary": "https://t.co/i3NjsnzOri",
+      "url": "https://x.com/laurashin/status/2080336202427760709",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 1,
+        "views": "2345"
+      }
+    },
+    {
+      "id": "2080326242507673986",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T16:16:41+00:00",
+      "text": "RT @laurashin: How are traders actually pricing the CLARITY Act's uncertainty? @ColeGotTweets of Volmex Labs joins @BitsandBips to break down what options and volatility markets are signaling before the bill's fate is known. Tune in Today at 1:30pm ET Join us on: x - https://t.co/yQSzVwMRJ1 https://t.co/XIK3xe0VIa",
+      "summary": "RT @laurashin: How are traders actually pricing the CLARITY Act's uncertainty? @ColeGotTweets of Volmex Labs joins @BitsandBips to break down what…",
+      "url": "https://x.com/laurashin/status/2080326242507673986",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2080314326770946131",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T15:29:20+00:00",
+      "text": "RT @laurashin: 🚨Zilliqa just halted ALL native transactions after finding a bug in its app for Ledger signers that's been leaking private keys since 2019. Signed 5+ native txs? You may already be exposed. https://t.co/uU9OxZIg2s",
+      "summary": "RT @laurashin: 🚨Zilliqa just halted ALL native transactions after finding a bug in its app for Ledger signers that's been leaking private keys since…",
+      "url": "https://x.com/laurashin/status/2080314326770946131",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2080314270785400848",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T15:29:07+00:00",
+      "text": "RT @laurashin: 🚨 The Clarity Act finally has an ethics clause; Trump, Congress, and judges would be barred from crypto profits through 2029. Democrats say it's still not enough. Here's what's in the new draft: https://t.co/4kYRzeIpcp",
+      "summary": "RT @laurashin: 🚨 The Clarity Act finally has an ethics clause; Trump, Congress, and judges would be barred from crypto profits through 2029.…",
+      "url": "https://x.com/laurashin/status/2080314270785400848",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2080309871182852397",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T15:11:38+00:00",
+      "text": "RT @CryptoAmerica_: .@SummerMersinger CEO of @BlockchainAssn is confident Clarity will pass, and soon. She gives it a 8.5 to 9 out of 10 chance of it going through. https://t.co/ByX3vftajM",
+      "summary": "RT @CryptoAmerica_: .@SummerMersinger CEO of @BlockchainAssn is confident Clarity will pass, and soon. She gives it a 8.5 to 9 out of 10 chance of it…",
+      "url": "https://x.com/EleanorTerrett/status/2080309871182852397",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7390"
+      }
+    },
+    {
+      "id": "2080309796675154032",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T15:11:20+00:00",
+      "text": "RT @CryptoAmerica_: Chief Strategy Officer &amp; Head of Global Policy @Circle, @ddisparte, believes the bipartisan GENIUS Act not only advanced U.S. crypto policy, but also helped create greater regulatory harmonization around the world. “We must celebrate… how uniquely bipartisan this was.” https://t.co/TRgvLXknlP",
+      "summary": "RT @CryptoAmerica_: Chief Strategy Officer &amp; Head of Global Policy @Circle, @ddisparte, believes the bipartisan GENIUS Act not only advanced U.S.…",
+      "url": "https://x.com/EleanorTerrett/status/2080309796675154032",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6878"
+      }
+    },
     {
       "id": "2080304972323868753",
       "is_retweet": true,
@@ -171,6 +655,31 @@
       }
     },
     {
+      "id": "2080296512521646397",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-23T14:18:33+00:00",
+      "text": "🚨NEW: The @USHCC, which says it represents millions of Hispanic-owned businesses across the U.S., sent a letter to Senate leaders this week saying it shares community banks’ concerns that the Clarity Act could accelerate deposit flight. The group argues the bill would reduce lending to Hispanic-owned small businesses and weaken investment in underserved communities.",
+      "summary": "🚨NEW: The @USHCC, which says it represents millions of Hispanic-owned businesses across the U.S., sent a letter to Senate leaders this week saying it…",
+      "url": "https://x.com/EleanorTerrett/status/2080296512521646397",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 683,
+        "retweets": 91,
+        "replies": 244,
+        "quotes": 22,
+        "views": "88722"
+      }
+    },
+    {
       "id": "2080291025638006798",
       "is_retweet": true,
       "original_author": "0xYager",
@@ -193,6 +702,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "9"
+      }
+    },
+    {
+      "id": "2080284829745033296",
+      "is_retweet": true,
+      "original_author": "riccoja",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-23T13:32:07+00:00",
+      "text": "RT @riccoja: When Claude comes to me with a wall of text like “I smoke-verified the config-guarded ‘one authority per tibble‘ materialization core (clean), but the metadata-bearing patches (no-op) are spec-shaped—and that’s a call that’s genuinely yours.” https://t.co/xEWQSeLh6Y",
+      "summary": "RT @riccoja: When Claude comes to me with a wall of text like “I smoke-verified the config-guarded ‘one authority per tibble‘ materialization core…",
+      "url": "https://x.com/danrobinson/status/2080284829745033296",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 313,
+        "replies": 0,
+        "quotes": 0,
+        "views": "424"
       }
     },
     {
@@ -271,6 +805,56 @@
       }
     },
     {
+      "id": "2080167799893467421",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T05:47:05+00:00",
+      "text": "Miles is right. What Trump has done is unethical but unfortunately arguably legal under the current absence of a digital asset framework. If the Dems want to demonstrate how insane the current position is - suggest @AOC drops a memecoin.",
+      "summary": "Miles is right. What Trump has done is unethical but unfortunately arguably legal under the current absence of a digital asset framework. If the Dems…",
+      "url": "https://x.com/wassielawyer/status/2080167799893467421",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3042"
+      }
+    },
+    {
+      "id": "2080164595470323937",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T05:34:21+00:00",
+      "text": "If I were Kazakhstan I’d pass the CLARITY Act right now. Literally copy pasta, find-replace as appropriate and slam it through the Kazakh legislative process. Immediate statement of intent to become crypto capital.",
+      "summary": "If I were Kazakhstan I’d pass the CLARITY Act right now. Literally copy pasta, find-replace as appropriate and slam it through the Kazakh legislative…",
+      "url": "https://x.com/wassielawyer/status/2080164595470323937",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 58,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 0,
+        "views": "4091"
+      }
+    },
+    {
       "id": "2080164455472910732",
       "is_retweet": false,
       "original_author": null,
@@ -293,6 +877,56 @@
         "replies": 2,
         "quotes": 1,
         "views": "4369"
+      }
+    },
+    {
+      "id": "2080113266215526876",
+      "is_retweet": true,
+      "original_author": "jerallaire",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-23T02:10:23+00:00",
+      "text": "RT @jerallaire: Circle ❤️ Kakao Group",
+      "summary": "RT @jerallaire: Circle ❤️ Kakao Group",
+      "url": "https://x.com/ddisparte/status/2080113266215526876",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "67"
+      }
+    },
+    {
+      "id": "2080113223848890473",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-23T02:10:13+00:00",
+      "text": "RT @circle: Circle 🤝 @toss__official Circle is collaborating with Toss and Toss Bank to explore blockchain-based payment infrastructure and stablecoin technology in Korea. Together, we’ll assess stablecoin-based payment opportunities across one of Korea’s most widely used fintech platforms.",
+      "summary": "RT @circle: Circle 🤝 @toss__official Circle is collaborating with Toss and Toss Bank to explore blockchain-based payment infrastructure and…",
+      "url": "https://x.com/ddisparte/status/2080113223848890473",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 34,
+        "replies": 0,
+        "quotes": 0,
+        "views": "64"
       }
     },
     {
@@ -421,6 +1055,81 @@
       }
     },
     {
+      "id": "2080095044489609439",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-23T00:57:59+00:00",
+      "text": "RT @circle: Circle 🤝 Kakao Group Circle and Kakao Group have signed an MOU to explore blockchain-based payment infrastructure and digital asset technologies in Korea. Together, we’ll assess opportunities for USDC and Circle’s global payment rails across payments, settlement, and digital asset connectivity.",
+      "summary": "RT @circle: Circle 🤝 Kakao Group Circle and Kakao Group have signed an MOU to explore blockchain-based payment infrastructure and digital asset…",
+      "url": "https://x.com/ddisparte/status/2080095044489609439",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 74,
+        "replies": 0,
+        "quotes": 0,
+        "views": "69"
+      }
+    },
+    {
+      "id": "2080061124448546943",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T22:43:12+00:00",
+      "text": "RT @CryptoAmerica_: Chief Strategy Officer &amp; Head of Global Policy @Circle, @ddisparte, believes the bipartisan GENIUS Act not only advanced U.S. crypto policy, but also helped create greater regulatory harmonization around the world. “We must celebrate… how uniquely bipartisan this was.” https://t.co/TRgvLXknlP",
+      "summary": "RT @CryptoAmerica_: Chief Strategy Officer &amp; Head of Global Policy @Circle, @ddisparte, believes the bipartisan GENIUS Act not only advanced U.S.…",
+      "url": "https://x.com/ddisparte/status/2080061124448546943",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "118"
+      }
+    },
+    {
+      "id": "2080060977442365879",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T22:42:37+00:00",
+      "text": "The GENIUS Act showed what's possible when Congress leads with bipartisan purpose. The CLARITY Act is the logical next step for market certainty, consumer protection, and American innovation. We encourage the Senate to keep working towards a durable compromise so that CLARITY becomes law.",
+      "summary": "The GENIUS Act showed what's possible when Congress leads with bipartisan purpose. The CLARITY Act is the logical next step for market certainty,…",
+      "url": "https://x.com/ddisparte/status/2080060977442365879",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 75,
+        "retweets": 12,
+        "replies": 3,
+        "quotes": 0,
+        "views": "4268"
+      }
+    },
+    {
       "id": "2080060764262433160",
       "is_retweet": true,
       "original_author": "RepMikeCollins",
@@ -446,6 +1155,56 @@
       }
     },
     {
+      "id": "2080059096670032339",
+      "is_retweet": true,
+      "original_author": "fintechfrank",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T22:35:08+00:00",
+      "text": "RT @fintechfrank: Two of the best in the industry The inimitable @EleanorTerrett and @teddyfuse https://t.co/cApQc5t6ze",
+      "summary": "RT @fintechfrank: Two of the best in the industry The inimitable @EleanorTerrett and @teddyfuse https://t.co/cApQc5t6ze",
+      "url": "https://x.com/EleanorTerrett/status/2080059096670032339",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10283"
+      }
+    },
+    {
+      "id": "2080057131642880340",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T22:27:20+00:00",
+      "text": "🚨NEW: A group of pro-crypto Democrats say they’re unhappy not only with the Clarity Act’s ethics provisions as they currently stand, but also with several other areas of the bill, including its illicit finance and conflicts of interest provisions. The bill’s path to 60 votes remains challenging.",
+      "summary": "🚨NEW: A group of pro-crypto Democrats say they’re unhappy not only with the Clarity Act’s ethics provisions as they currently stand, but also with…",
+      "url": "https://x.com/EleanorTerrett/status/2080057131642880340",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1955,
+        "retweets": 345,
+        "replies": 598,
+        "quotes": 97,
+        "views": "269145"
+      }
+    },
+    {
       "id": "2080051657144983829",
       "is_retweet": true,
       "original_author": "willdepue",
@@ -468,6 +1227,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "334"
+      }
+    },
+    {
+      "id": "2080050057668407485",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T21:59:13+00:00",
+      "text": "🚨NEW: Former @CFTC Chairman @giancarloMKTS told me he thinks there’s a greater than 50% chance the Clarity Act does not pass and “that’s okay.” He says innovation will continue under the regulatory frameworks put in place at the SEC and CFTC, and that a future hostile administration won’t be able to undo the progress made over the next two years.",
+      "summary": "🚨NEW: Former @CFTC Chairman @giancarloMKTS told me he thinks there’s a greater than 50% chance the Clarity Act does not pass and “that’s okay.” He…",
+      "url": "https://x.com/EleanorTerrett/status/2080050057668407485",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1018,
+        "retweets": 150,
+        "replies": 104,
+        "quotes": 20,
+        "views": "85200"
       }
     },
     {
@@ -671,6 +1455,31 @@
       }
     },
     {
+      "id": "2080032105598484628",
+      "is_retweet": true,
+      "original_author": "Collin_McCune",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T20:47:53+00:00",
+      "text": "RT @Collin_McCune: It’s hard to understate how important this moment is for American consumers and builders in the crypto space. Critics will be loud, but it’s impossible to say that no rules is a better outcome for the United States. It’s time to close out the final issues and pass the bill to finally regulate crypto.",
+      "summary": "RT @Collin_McCune: It’s hard to understate how important this moment is for American consumers and builders in the crypto space. Critics will be…",
+      "url": "https://x.com/milesjennings/status/2080032105598484628",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "212"
+      }
+    },
+    {
       "id": "2080031758708330590",
       "is_retweet": true,
       "original_author": "SecWar",
@@ -743,6 +1552,31 @@
         "replies": 2,
         "quotes": 0,
         "views": "1904"
+      }
+    },
+    {
+      "id": "2080027307054375217",
+      "is_retweet": true,
+      "original_author": "Eleanor_Mueller",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-22T20:28:49+00:00",
+      "text": "RT @Eleanor_Mueller: News: Cornyn tells me & @Jasper_Goodman he shares some of law enforcement & banks’ concerns over the latest crypto bill text and is “diving in … to see if they can be addressed.” It’s “premature” to say whether he would vote against Clarity in its current form, he adds: “We’re just getting started.”",
+      "summary": "RT @Eleanor_Mueller: News: Cornyn tells me & @Jasper_Goodman he shares some of law enforcement & banks’ concerns over the latest crypto bill text and…",
+      "url": "https://x.com/EleanorTerrett/status/2080027307054375217",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10205"
       }
     },
     {
@@ -896,6 +1730,31 @@
       }
     },
     {
+      "id": "2080012702626570488",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T19:30:47+00:00",
+      "text": "Ethics restrictions matter. BUT regardless of their form, the options here are: (A) Block CLARITY and all digital asset activities will continue unabated and unregulated; or (B) Pass CLARITY and all digital activities will be regulated and subject to ethics requirements. https://t.co/0LMpjp9FYZ",
+      "summary": "Ethics restrictions matter. BUT regardless of their form, the options here are: (A) Block CLARITY and all digital asset activities will continue…",
+      "url": "https://x.com/milesjennings/status/2080012702626570488",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 136,
+        "retweets": 23,
+        "replies": 17,
+        "quotes": 4,
+        "views": "16246"
+      }
+    },
+    {
       "id": "2080011999702880341",
       "is_retweet": false,
       "original_author": null,
@@ -996,6 +1855,31 @@
       }
     },
     {
+      "id": "2080006351783145482",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T19:05:33+00:00",
+      "text": "The models are increasingly good at Erdos problems, but some experts like @Qiaoqiao2001 seem to have exceptional skill at prompting We sponsored him to see how far he could go He solved six this week, including one that had been studied by Terence Tao Here’s how he did it:",
+      "summary": "The models are increasingly good at Erdos problems, but some experts like @Qiaoqiao2001 seem to have exceptional skill at prompting We sponsored him…",
+      "url": "https://x.com/danrobinson/status/2080006351783145482",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1318,
+        "retweets": 73,
+        "replies": 27,
+        "quotes": 5,
+        "views": "147689"
+      }
+    },
+    {
       "id": "2080005141894250561",
       "is_retweet": false,
       "original_author": null,
@@ -1071,6 +1955,31 @@
       }
     },
     {
+      "id": "2080004086771167448",
+      "is_retweet": true,
+      "original_author": "brian_armstrong",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T18:56:33+00:00",
+      "text": "RT @brian_armstrong: The Clarity Act is ready for a full Senate floor vote. The bill represents a true bipartisan compromise with thousands of hours of work on both sides, and it couldn't come at a better time. The status quo in the U.S. isn't working. There's no federal framework, so bad actors like FTX can harm U.S. customers and much of the industry has gone offshore totally outside U.S. purview. This bill fixes that with strong consumer protections, real tools for law enforcement, and a path for America to lead in this industry. Crypto can't be uninvented at this point, so whether you love crypto or hate crypto, you should want clear federal laws. And it's also simply good politics: 70% of American voters say the U.S. should have already passed comprehensive crypto legislation. Let's finish this! Special thanks to the @standwithcrypto members who sent 950k contacts to their representatives in congress. Keep it up.",
+      "summary": "RT @brian_armstrong: The Clarity Act is ready for a full Senate floor vote. The bill represents a true bipartisan compromise with thousands of hours…",
+      "url": "https://x.com/milesjennings/status/2080004086771167448",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1257,
+        "replies": 0,
+        "quotes": 0,
+        "views": "143"
+      }
+    },
+    {
       "id": "2079999313866797302",
       "is_retweet": true,
       "original_author": "CryptoLawUS",
@@ -1118,6 +2027,106 @@
         "replies": 7,
         "quotes": 1,
         "views": "10285"
+      }
+    },
+    {
+      "id": "2079994426953453586",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T18:18:10+00:00",
+      "text": "RT @SenLummis: History will remember this as the moment a president chose a higher standard of ethics than the law required of him. This agreement bans ALL federal officials — including the President — from issuing or sponsoring a digital asset for profit, with real enforcement and real penalties. Thank you, @POTUS! Let's get the Clarity Act passed NOW.",
+      "summary": "RT @SenLummis: History will remember this as the moment a president chose a higher standard of ethics than the law required of him. This agreement…",
+      "url": "https://x.com/milesjennings/status/2079994426953453586",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2860,
+        "replies": 0,
+        "quotes": 0,
+        "views": "179"
+      }
+    },
+    {
+      "id": "2079994092696883589",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T18:16:50+00:00",
+      "text": "RT @a16zcrypto: https://t.co/Udmt9rCjYG",
+      "summary": "RT @a16zcrypto: https://t.co/Udmt9rCjYG",
+      "url": "https://x.com/milesjennings/status/2079994092696883589",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "142"
+      }
+    },
+    {
+      "id": "2079993581348213044",
+      "is_retweet": true,
+      "original_author": "patrickjwitt",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T18:14:48+00:00",
+      "text": "RT @patrickjwitt: For those wondering, here’s a comprehensive list of all U.S. Presidents in our nation’s 250-year history who have agreed to an ethics provision restricting their own conduct while in office: Donald J. Trump",
+      "summary": "RT @patrickjwitt: For those wondering, here’s a comprehensive list of all U.S. Presidents in our nation’s 250-year history who have agreed to an…",
+      "url": "https://x.com/milesjennings/status/2079993581348213044",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 420,
+        "replies": 0,
+        "quotes": 0,
+        "views": "191"
+      }
+    },
+    {
+      "id": "2079992313737347189",
+      "is_retweet": true,
+      "original_author": "crypto_council",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-22T18:09:46+00:00",
+      "text": "RT @crypto_council: CCI is in strong support of the bipartisan passage of the Clarity Act. It reflects a lot of work, compromises, and positions the US to lead the global digital asset economy. Congress now has a critical chance to pass a much needed framework for our country. Thank you to Senator @SenLummis, Chairman @JohnBoozman, Chairman @SenatorTimScott, and staff for their tireless work to advance this important legislation. A statement from our CEO @_jikim and link to text: https://t.co/lAaPzxgOKW",
+      "summary": "RT @crypto_council: CCI is in strong support of the bipartisan passage of the Clarity Act. It reflects a lot of work, compromises, and positions the…",
+      "url": "https://x.com/milesjennings/status/2079992313737347189",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "199"
       }
     },
     {
