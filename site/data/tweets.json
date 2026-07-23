@@ -1,18 +1,67 @@
 {
-  "generated_at": "2026-07-23T09:03:18.737454+00:00",
-  "generated_at_unix": 1784797398,
+  "generated_at": "2026-07-23T12:13:53.507141+00:00",
+  "generated_at_unix": 1784808833,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-22T16:00:00+00:00",
-  "window_end": "2026-07-23T09:03:18.737454+00:00",
-  "new_this_run": 25,
-  "total_recent": 56,
-  "errors": [],
+  "window_end": "2026-07-23T12:13:53.507141+00:00",
+  "new_this_run": 2,
+  "total_recent": 58,
+  "errors": [
+    {
+      "username": "SH_Brennan",
+      "error": "SH_Brennan: HTTP 502 - error code: 502\n"
+    },
+    {
+      "username": "TuongvyLe12",
+      "error": "TuongvyLe12: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "MTCoppel",
+      "error": "MTCoppel: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "NYcryptolawyer",
+      "error": "NYcryptolawyer: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "MinarikLaw",
+      "error": "MinarikLaw: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "jolieyang",
+      "error": "jolieyang: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "N0th1n3",
+      "error": "N0th1n3: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "lex_node",
+      "error": "lex_node: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "zackbshapiro",
+      "error": "zackbshapiro: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "jnnylng",
+      "error": "jnnylng: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "RSSH273",
+      "error": "RSSH273: HTTP 500 - Internal Server Error"
+    },
+    {
+      "username": "JamisonSites",
+      "error": "JamisonSites: HTTP 500 - Internal Server Error"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 30,
+    "attempted_this_run": 3,
+    "successful_this_run": 3,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -493,6 +542,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "7657"
+      }
+    },
+    {
+      "id": "2080013449048813586",
+      "is_retweet": true,
+      "original_author": "Bitwise",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T19:33:45+00:00",
+      "text": "RT @Bitwise: Europe, the UK, Japan, Hong Kong, Australia, and now Russia are all moving to put crypto industry rules in place. The CLARITY Act is the U.S.'s chance to catch up. \"We've seen what happens when the industry goes offshore. That's not good for consumers. Making sure this industry is here, in a regulated way that US consumers understand, is incredibly important.\" — @RebeccaRettig1, CLO @jito_labs",
+      "summary": "RT @Bitwise: Europe, the UK, Japan, Hong Kong, Australia, and now Russia are all moving to put crypto industry rules in place. The CLARITY Act is the…",
+      "url": "https://x.com/RebeccaRettig1/status/2080013449048813586",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "93"
       }
     },
     {
@@ -1043,6 +1117,31 @@
         "replies": 16,
         "quotes": 2,
         "views": "41893"
+      }
+    },
+    {
+      "id": "2079979110584004900",
+      "is_retweet": true,
+      "original_author": "fund_defi",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-22T17:17:18+00:00",
+      "text": "RT @fund_defi: The Senate Clarity Act text is out and the latest draft combines the Banking and Ag Committee titles passed out of the respective committees. We greatly appreciate the herculean bipartisan effort that went into getting us to this moment. As always, the DEF team reviews text with an eye toward how the bill will impact DeFi developers and users. Here are our thoughts so far: While no bill is perfect and significant compromises were made along the way to get here, the Clarity Act maintains important protections for DeFi developers. First, the BRCA is unchanged, as are developer protections under the Exchange Act (Sec. 10601) and the Commodity Exchange Act (Sec. 20209), and the self-custody provision (Sec. 10605, Keep Your Coins Act). While developer protections under the Exchange Act (Sec. 10601) reflect a hard fought compromise—with some protections for DeFi trading protocols, messaging systems, and self-custody hardware/software subject to rulemaking—protections under the CEA remain the same as the House-passed version of Clarity. Second, the bill includes 25 sections related to sanctions and AML, and as a result of law enforcement groups’ concerns, it now includes new Title IX, Law Enforcement Tools. At first glance, this title appears to be smart regulation that will provide law enforcement with appropriate tools without overregulating software developers. Title IX comes in addition to Title II, Protecting Against Illicit Finance, and Title III, Responsible Innovation in Decentralized Finance, which include tools for law enforcement and rulemakings that extend obligations under the Bank Secrecy Act to digital asset intermediaries. These titles were added in direct response to concerns that the bill needed to do more to address illicit finance and give law enforcement new tools and funding that would otherwise not exist. Next up? We head toward a few procedural motions before a final vote in the Senate. The DEF team will track amendments that affect DeFi and will share updates accordingly. To the Senators and staff who have dedicated countless hours drafting this bill, thank you. Your work is greatly appreciated, and we are excited to see this bill progress through Congress.",
+      "summary": "RT @fund_defi: The Senate Clarity Act text is out and the latest draft combines the Banking and Ag Committee titles passed out of the respective…",
+      "url": "https://x.com/RebeccaRettig1/status/2079979110584004900",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "96"
       }
     },
     {
