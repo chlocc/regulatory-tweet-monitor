@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-07-24T06:08:24.579242+00:00",
-  "generated_at_unix": 1784873304,
+  "generated_at": "2026-07-24T09:15:58.493167+00:00",
+  "generated_at_unix": 1784884558,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-23T16:00:00+00:00",
-  "window_end": "2026-07-24T06:08:24.579242+00:00",
-  "new_this_run": 14,
-  "total_recent": 20,
+  "window_end": "2026-07-24T09:15:58.493167+00:00",
+  "new_this_run": 11,
+  "total_recent": 31,
   "errors": [
     {
-      "username": "SenLummis",
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "valkenburgh",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +29,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2080492771765334489",
+      "is_retweet": true,
+      "original_author": "SenMcCormickPA",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T03:18:25+00:00",
+      "text": "RT @SenMcCormickPA: The stakes are real. If the U.S. fails to pass the CLARITY Act, we cede jobs, investment, economic competitiveness, and financial leadership to overseas competitors. Pass the CLARITY Act.",
+      "summary": "RT @SenMcCormickPA: The stakes are real. If the U.S. fails to pass the CLARITY Act, we cede jobs, investment, economic competitiveness, and financial…",
+      "url": "https://x.com/patrickjwitt/status/2080492771765334489",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 395,
+        "replies": 0,
+        "quotes": 0,
+        "views": "778"
+      }
+    },
     {
       "id": "2080465214084919452",
       "is_retweet": false,
@@ -101,6 +130,81 @@
       }
     },
     {
+      "id": "2080447773346877651",
+      "is_retweet": true,
+      "original_author": "injective",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T00:19:36+00:00",
+      "text": "RT @injective: The Senate has unified CLARITY Act text and a narrow window before the August recess. At the Injective Summit, @SummerMersinger made the choice clear. Put CLARITY on the floor or accept the status quo and watch activity move offshore. Finish the work, America needs it. 🇺🇸 https://t.co/24OCNtalc2",
+      "summary": "RT @injective: The Senate has unified CLARITY Act text and a narrow window before the August recess. At the Injective Summit, @SummerMersinger made…",
+      "url": "https://x.com/BlockchainAssn/status/2080447773346877651",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": "479"
+      }
+    },
+    {
+      "id": "2080446700800393493",
+      "is_retweet": true,
+      "original_author": "SenatorHagerty",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T00:15:20+00:00",
+      "text": "RT @SenatorHagerty: The time for CLARITY is now. America needs clear rules of the road for digital assets that protect consumers, support innovation, and keep jobs and investment here in America. Let’s get it across the finish line.",
+      "summary": "RT @SenatorHagerty: The time for CLARITY is now. America needs clear rules of the road for digital assets that protect consumers, support innovation,…",
+      "url": "https://x.com/patrickjwitt/status/2080446700800393493",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 482,
+        "replies": 0,
+        "quotes": 0,
+        "views": "817"
+      }
+    },
+    {
+      "id": "2080441268081996264",
+      "is_retweet": true,
+      "original_author": "AltcoinDaily",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-23T23:53:45+00:00",
+      "text": "RT @AltcoinDaily: JUST IN: 🇺🇸 Trump says the US needs to be #1 in crypto: \"The United States never settles for second...including crypto. We want to stay in front in crypto.\" https://t.co/Et9J9C2LHx",
+      "summary": "RT @AltcoinDaily: JUST IN: 🇺🇸 Trump says the US needs to be #1 in crypto: \"The United States never settles for second...including crypto. We want to…",
+      "url": "https://x.com/patrickjwitt/status/2080441268081996264",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 77,
+        "replies": 0,
+        "quotes": 0,
+        "views": "796"
+      }
+    },
+    {
       "id": "2080425770678178073",
       "is_retweet": false,
       "original_author": null,
@@ -123,6 +227,31 @@
         "replies": 148,
         "quotes": 21,
         "views": "98794"
+      }
+    },
+    {
+      "id": "2080397666588995910",
+      "is_retweet": true,
+      "original_author": "anthonynoto",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-23T21:00:30+00:00",
+      "text": "RT @anthonynoto: Thank you, @DavidSolomon. Glad to have Goldman Sachs adding its voice to this effort. We are both examples of Banks that do not see this the same way as \"other\" banks. @SoFi actively supports passing the CLARITY Act to set clear rules of the road. Durable regulation protects consumers and drives innovation.",
+      "summary": "RT @anthonynoto: Thank you, @DavidSolomon. Glad to have Goldman Sachs adding its voice to this effort. We are both examples of Banks that do not see…",
+      "url": "https://x.com/patrickjwitt/status/2080397666588995910",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 57,
+        "replies": 0,
+        "quotes": 0,
+        "views": "898"
       }
     },
     {
@@ -173,6 +302,81 @@
         "replies": 20,
         "quotes": 9,
         "views": "25878"
+      }
+    },
+    {
+      "id": "2080376940825866542",
+      "is_retweet": true,
+      "original_author": "TFTC21",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-23T19:38:08+00:00",
+      "text": "RT @TFTC21: President Trump: \"We're leading China and every other country by a lot in AI and just about every other category, including crypto. We want to stay in front in crypto.\" https://t.co/7o8QEjRnkb",
+      "summary": "RT @TFTC21: President Trump: \"We're leading China and every other country by a lot in AI and just about every other category, including crypto. We…",
+      "url": "https://x.com/patrickjwitt/status/2080376940825866542",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "887"
+      }
+    },
+    {
+      "id": "2080372771759009867",
+      "is_retweet": true,
+      "original_author": "SummerMersinger",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-23T19:21:34+00:00",
+      "text": "RT @SummerMersinger: 1/ The updated Clarity Act text is public, and years of bipartisan work have brought us to a consequential moment. I’ve seen what this community can accomplish when it is aligned, organized, and determined. Now is the time to help Congress finish the job. 🧵 https://t.co/HGESBur8vW",
+      "summary": "RT @SummerMersinger: 1/ The updated Clarity Act text is public, and years of bipartisan work have brought us to a consequential moment. I’ve seen…",
+      "url": "https://x.com/BlockchainAssn/status/2080372771759009867",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "546"
+      }
+    },
+    {
+      "id": "2080372716012470481",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-23T19:21:21+00:00",
+      "text": "RT @faryarshirzad: It’s time for CLARITY. The banks know it too. Thanks @DavidSolomon.",
+      "summary": "RT @faryarshirzad: It’s time for CLARITY. The banks know it too. Thanks @DavidSolomon.",
+      "url": "https://x.com/BlockchainAssn/status/2080372716012470481",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 95,
+        "replies": 0,
+        "quotes": 0,
+        "views": "496"
       }
     },
     {
@@ -251,6 +455,31 @@
       }
     },
     {
+      "id": "2080360144269881466",
+      "is_retweet": true,
+      "original_author": "ThinkCryptoPod",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-23T18:31:24+00:00",
+      "text": "RT @ThinkCryptoPod: I sat down with Summer Mersinger, CEO of the Blockchain Association, at the Injective Policy Summit to discuss the latest developments surrounding the CLARITY Act and what comes next for U.S. crypto regulation. Watch - https://t.co/iCjN6wqzOi #clarityact #crypto",
+      "summary": "RT @ThinkCryptoPod: I sat down with Summer Mersinger, CEO of the Blockchain Association, at the Injective Policy Summit to discuss the latest…",
+      "url": "https://x.com/BlockchainAssn/status/2080360144269881466",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "529"
+      }
+    },
+    {
       "id": "2080356722577723843",
       "is_retweet": true,
       "original_author": "PressSec",
@@ -273,6 +502,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "6415"
+      }
+    },
+    {
+      "id": "2080354111111786556",
+      "is_retweet": true,
+      "original_author": "megaulodon",
+      "username": "BillHughesDC",
+      "display_name": "Bill Hughes",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-23T18:07:25+00:00",
+      "text": "RT @megaulodon: The opportunity for passing CLARITY cannot be overstated. The United States must be THE leader in crypto and any financial and technological innovation - and if you don’t make the rules you don’t lead (or even have a seat at the table). Pass CLARITY!",
+      "summary": "RT @megaulodon: The opportunity for passing CLARITY cannot be overstated. The United States must be THE leader in crypto and any financial and…",
+      "url": "https://x.com/BillHughesDC/status/2080354111111786556",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "78"
       }
     },
     {
@@ -448,6 +702,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "1301"
+      }
+    },
+    {
+      "id": "2080343591478546759",
+      "is_retweet": true,
+      "original_author": "jump_",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-23T17:25:37+00:00",
+      "text": "RT @jump_: Clarity is needed to fully unlock and protect digital asset innovation, trading, and market participation in the United States. Today’s Senate product reflects months of hard work and bipartisan negotiations. The bill’s protections for software development are a critical step forward, as are its clear rules of the road for launching products, participating in networks, and trading digital assets.",
+      "summary": "RT @jump_: Clarity is needed to fully unlock and protect digital asset innovation, trading, and market participation in the United States. Today’s…",
+      "url": "https://x.com/patrickjwitt/status/2080343591478546759",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "954"
       }
     },
     {
