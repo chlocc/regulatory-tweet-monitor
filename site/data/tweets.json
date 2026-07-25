@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-07-25T06:12:09.099588+00:00",
-  "generated_at_unix": 1784959929,
+  "generated_at": "2026-07-25T09:00:22.431439+00:00",
+  "generated_at_unix": 1784970022,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-24T16:00:00+00:00",
-  "window_end": "2026-07-25T06:12:09.099588+00:00",
-  "new_this_run": 17,
-  "total_recent": 23,
-  "errors": [
-    {
-      "username": "SenRubenGallego",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-07-25T09:00:22.431439+00:00",
+  "new_this_run": 21,
+  "total_recent": 44,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 15,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2080878747348246925",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-25T04:52:08+00:00",
+      "text": "Law enforcement wants CLARITY passed. The question for the Senate now: do you stand with them or against them?",
+      "summary": "Law enforcement wants CLARITY passed. The question for the Senate now: do you stand with them or against them?",
+      "url": "https://x.com/iampaulgrewal/status/2080878747348246925",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 572,
+        "retweets": 70,
+        "replies": 14,
+        "quotes": 1,
+        "views": "13843"
+      }
+    },
+    {
+      "id": "2080846114421436645",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-25T02:42:28+00:00",
+      "text": "Respectfully, I have no idea who you are, but every top Jewish American elected in my district endorsed my campaign &amp; we won decisively in a district with a significant Israeli expat community. Many recognize the horrors of what took place in Gaza &amp; occupation in the West Bank.",
+      "summary": "Respectfully, I have no idea who you are, but every top Jewish American elected in my district endorsed my campaign &amp; we won decisively in a…",
+      "url": "https://x.com/RoKhanna/status/2080846114421436645",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2363,
+        "retweets": 157,
+        "replies": 126,
+        "quotes": 6,
+        "views": "78118"
+      }
+    },
     {
       "id": "2080840613612642409",
       "is_retweet": true,
@@ -48,6 +93,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "31270"
+      }
+    },
+    {
+      "id": "2080839166066069565",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-25T02:14:51+00:00",
+      "text": "The pro-crypto army showed up in such force that it crashed our site. https://t.co/CpN1VVHFdP is back up and running. Keep the letters coming — fire away! 🇺🇸",
+      "summary": "The pro-crypto army showed up in such force that it crashed our site. https://t.co/CpN1VVHFdP is back up and running. Keep the letters coming — fire…",
+      "url": "https://x.com/BlockchainAssn/status/2080839166066069565",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 111,
+        "retweets": 35,
+        "replies": 3,
+        "quotes": 2,
+        "views": "3118"
       }
     },
     {
@@ -151,6 +221,56 @@
       }
     },
     {
+      "id": "2080763167982907716",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T21:12:52+00:00",
+      "text": "RT @BlockchainAssn: 1/ Today, we're launching https://t.co/CpN1VVHFdP — a new website that helps companies, constituents, and crypto voters urge Senate leadership to bring the Clarity Act to the floor. Your voice. Your story. Your vote. 🧵 https://t.co/rBA3zAMrE0",
+      "summary": "RT @BlockchainAssn: 1/ Today, we're launching https://t.co/CpN1VVHFdP — a new website that helps companies, constituents, and crypto voters urge…",
+      "url": "https://x.com/patrickjwitt/status/2080763167982907716",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 159,
+        "replies": 0,
+        "quotes": 0,
+        "views": "911"
+      }
+    },
+    {
+      "id": "2080758588201423211",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T20:54:40+00:00",
+      "text": "RT @BlockchainAssn: 1/ Today, we're launching https://t.co/CpN1VVHFdP — a new website that helps companies, constituents, and crypto voters urge Senate leadership to bring the Clarity Act to the floor. Your voice. Your story. Your vote. 🧵 https://t.co/rBA3zAMrE0",
+      "summary": "RT @BlockchainAssn: 1/ Today, we're launching https://t.co/CpN1VVHFdP — a new website that helps companies, constituents, and crypto voters urge…",
+      "url": "https://x.com/standwithcrypto/status/2080758588201423211",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 159,
+        "replies": 0,
+        "quotes": 0,
+        "views": "966"
+      }
+    },
+    {
       "id": "2080754481709343172",
       "is_retweet": false,
       "original_author": null,
@@ -176,6 +296,56 @@
       }
     },
     {
+      "id": "2080749316189114436",
+      "is_retweet": true,
+      "original_author": "_jikim",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T20:17:50+00:00",
+      "text": "RT @_jikim: 1/ CLARITY is a major upgrade over the status quo on all fronts for consumer protection and law enforcement. How? Here’s a snippet. 🧵",
+      "summary": "RT @_jikim: 1/ CLARITY is a major upgrade over the status quo on all fronts for consumer protection and law enforcement. How? Here’s a snippet. 🧵",
+      "url": "https://x.com/patrickjwitt/status/2080749316189114436",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": "960"
+      }
+    },
+    {
+      "id": "2080746057491779950",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T20:04:53+00:00",
+      "text": "This is our moment. Getting the Clarity Act to the Senate floor will take all of us speaking up and making the case for why it matters. Visit https://t.co/hLGGeHB5da. Tell your story. Make your voice heard. Let’s finish the job before August recess. https://t.co/IOtxvbJaoc",
+      "summary": "This is our moment. Getting the Clarity Act to the Senate floor will take all of us speaking up and making the case for why it matters. Visit…",
+      "url": "https://x.com/KristinSmith/status/2080746057491779950",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 617,
+        "retweets": 120,
+        "replies": 22,
+        "quotes": 0,
+        "views": "23020"
+      }
+    },
+    {
       "id": "2080745051735380337",
       "is_retweet": true,
       "original_author": "SenatorHagerty",
@@ -198,6 +368,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "9772"
+      }
+    },
+    {
+      "id": "2080744986023227726",
+      "is_retweet": true,
+      "original_author": "SenatorHagerty",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T20:00:37+00:00",
+      "text": "RT @SenatorHagerty: Investors need certainty. Law enforcement needs rules it can enforce consistently. Markets work best when everyone knows the rules of the road. It’s time to pass digital asset market structure legislation. It’s time to deliver CLARITY.",
+      "summary": "RT @SenatorHagerty: Investors need certainty. Law enforcement needs rules it can enforce consistently. Markets work best when everyone knows the…",
+      "url": "https://x.com/patrickjwitt/status/2080744986023227726",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 148,
+        "replies": 0,
+        "quotes": 0,
+        "views": "830"
       }
     },
     {
@@ -251,6 +446,31 @@
       }
     },
     {
+      "id": "2080736176634486860",
+      "is_retweet": true,
+      "original_author": "NatCryptoAssoc",
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-24T19:25:37+00:00",
+      "text": "RT @NatCryptoAssoc: 🚨 NEWS: The National Cryptocurrency Association has submitted formal testimony to the House Financial Services Subcommittee on Digital Assets, regarding the Clarity Act and putting data of 67 million American crypto holders on the congressional record. NCA VP of External Affairs @OnChainAli put it plainly: Americans are not asking Washington to stop crypto. They are asking for guardrails so they can use it safely. 73% of Americans support stronger consumer protections for crypto holders. With 71% supporting comprehensive legislation to close the gaps in current law.",
+      "summary": "RT @NatCryptoAssoc: 🚨 NEWS: The National Cryptocurrency Association has submitted formal testimony to the House Financial Services Subcommittee on…",
+      "url": "https://x.com/s_alderoty/status/2080736176634486860",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 109,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5517"
+      }
+    },
+    {
       "id": "2080733424130609160",
       "is_retweet": true,
       "original_author": "SecMullinDHS",
@@ -301,6 +521,81 @@
       }
     },
     {
+      "id": "2080732306134769757",
+      "is_retweet": true,
+      "original_author": "WatcherGuru",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T19:10:14+00:00",
+      "text": "RT @WatcherGuru: JUST IN: 🇺🇸 $7 trillion asset manager Fidelity \"urges\" Senate to pass the crypto Clarity Act.",
+      "summary": "RT @WatcherGuru: JUST IN: 🇺🇸 $7 trillion asset manager Fidelity \"urges\" Senate to pass the crypto Clarity Act.",
+      "url": "https://x.com/patrickjwitt/status/2080732306134769757",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1037,
+        "replies": 0,
+        "quotes": 0,
+        "views": "605"
+      }
+    },
+    {
+      "id": "2080732282361397423",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T19:10:08+00:00",
+      "text": "1/ Today, we're launching https://t.co/CpN1VVHFdP — a new website that helps companies, constituents, and crypto voters urge Senate leadership to bring the Clarity Act to the floor. Your voice. Your story. Your vote. 🧵 https://t.co/rBA3zAMrE0",
+      "summary": "1/ Today, we're launching https://t.co/CpN1VVHFdP — a new website that helps companies, constituents, and crypto voters urge Senate leadership to…",
+      "url": "https://x.com/BlockchainAssn/status/2080732282361397423",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 361,
+        "retweets": 159,
+        "replies": 29,
+        "quotes": 31,
+        "views": "115511"
+      }
+    },
+    {
+      "id": "2080732009307967789",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T19:09:03+00:00",
+      "text": "The world’s largest police union and the world’s third-largest asset manager agree: pass the Clarity Act.",
+      "summary": "The world’s largest police union and the world’s third-largest asset manager agree: pass the Clarity Act.",
+      "url": "https://x.com/patrickjwitt/status/2080732009307967789",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2347,
+        "retweets": 371,
+        "replies": 43,
+        "quotes": 8,
+        "views": "55600"
+      }
+    },
+    {
       "id": "2080730825381785931",
       "is_retweet": true,
       "original_author": "_jikim",
@@ -326,6 +621,31 @@
       }
     },
     {
+      "id": "2080730013448507740",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T19:01:07+00:00",
+      "text": "Institutions want CLARITY. Investors want CLARITY. It is time to pass the CLARITY Act.",
+      "summary": "Institutions want CLARITY. Investors want CLARITY. It is time to pass the CLARITY Act.",
+      "url": "https://x.com/standwithcrypto/status/2080730013448507740",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1024,
+        "retweets": 137,
+        "replies": 10,
+        "quotes": 5,
+        "views": "15419"
+      }
+    },
+    {
       "id": "2080723389782642882",
       "is_retweet": true,
       "original_author": "patrickjwitt",
@@ -348,6 +668,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "10971"
+      }
+    },
+    {
+      "id": "2080723333528572177",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T18:34:35+00:00",
+      "text": "14 days left before August recess. ⏳ The updated CLARITY Act text is out. What happens next depends on what Senators hear from home. Your Senators need to hear from you while it matters most: right now 👇 https://t.co/CaZCdonNKR",
+      "summary": "14 days left before August recess. ⏳ The updated CLARITY Act text is out. What happens next depends on what Senators hear from home. Your Senators…",
+      "url": "https://x.com/standwithcrypto/status/2080723333528572177",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 140,
+        "retweets": 32,
+        "replies": 4,
+        "quotes": 1,
+        "views": "3312"
       }
     },
     {
@@ -451,6 +796,81 @@
       }
     },
     {
+      "id": "2080705043037110357",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T17:21:54+00:00",
+      "text": "GENIUS proved clear rules grow markets: crypto startup investment nearly doubled in the second half of 2025, after it was signed. The CLARITY Act applies that lesson to the blockchain networks underneath. Long past due. It is time to pass the CLARITY Act.",
+      "summary": "GENIUS proved clear rules grow markets: crypto startup investment nearly doubled in the second half of 2025, after it was signed. The CLARITY Act…",
+      "url": "https://x.com/standwithcrypto/status/2080705043037110357",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 145,
+        "retweets": 18,
+        "replies": 5,
+        "quotes": 1,
+        "views": "5106"
+      }
+    },
+    {
+      "id": "2080699655894008077",
+      "is_retweet": true,
+      "original_author": "Cointelegraph",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T17:00:30+00:00",
+      "text": "RT @Cointelegraph: 🇺🇸 JUST IN: The National Fraternal Order of Police officially endorses the amended CLARITY Act. https://t.co/ksjlWrEGTk",
+      "summary": "RT @Cointelegraph: 🇺🇸 JUST IN: The National Fraternal Order of Police officially endorses the amended CLARITY Act. https://t.co/ksjlWrEGTk",
+      "url": "https://x.com/patrickjwitt/status/2080699655894008077",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 512,
+        "replies": 0,
+        "quotes": 0,
+        "views": "717"
+      }
+    },
+    {
+      "id": "2080699123586490459",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T16:58:23+00:00",
+      "text": "RT @BlockchainAssn: The @NBCIBlackChurch, a coalition of 150,000 African American and Latino faith communities representing 27.7 million members, is urging the Senate to pass the Clarity Act. They support the legislation because it advances two critical priorities: stronger consumer protections and greater economic opportunity. https://t.co/DBLpvRBmNk",
+      "summary": "RT @BlockchainAssn: The @NBCIBlackChurch, a coalition of 150,000 African American and Latino faith communities representing 27.7 million members, is…",
+      "url": "https://x.com/patrickjwitt/status/2080699123586490459",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 34,
+        "replies": 0,
+        "quotes": 0,
+        "views": "819"
+      }
+    },
+    {
       "id": "2080697960271143143",
       "is_retweet": false,
       "original_author": null,
@@ -473,6 +893,56 @@
         "replies": 28,
         "quotes": 0,
         "views": "4968"
+      }
+    },
+    {
+      "id": "2080697020189213168",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T16:50:01+00:00",
+      "text": "When the world’s largest organization of sworn law enforcement officers speaks, people listen. Thank you @GLFOP for your leadership in endorsing the Clarity Act. https://t.co/epdnd1ZCrn",
+      "summary": "When the world’s largest organization of sworn law enforcement officers speaks, people listen. Thank you @GLFOP for your leadership in endorsing the…",
+      "url": "https://x.com/patrickjwitt/status/2080697020189213168",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1192,
+        "retweets": 210,
+        "replies": 34,
+        "quotes": 9,
+        "views": "22965"
+      }
+    },
+    {
+      "id": "2080695356178771997",
+      "is_retweet": true,
+      "original_author": "Scaramucci",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-24T16:43:25+00:00",
+      "text": "RT @Scaramucci: Look, I’m the last guy in America to carry water for Donald Trump on ethics. Everyone knows my record. But he agreed to restrictions here. Democrats won real concessions across the bill. And some people still want to pretend nothing counts unless they get 100%. That is not legislating. Pass CLARITY",
+      "summary": "RT @Scaramucci: Look, I’m the last guy in America to carry water for Donald Trump on ethics. Everyone knows my record. But he agreed to restrictions…",
+      "url": "https://x.com/patrickjwitt/status/2080695356178771997",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 313,
+        "replies": 0,
+        "quotes": 0,
+        "views": "916"
       }
     },
     {
@@ -573,6 +1043,56 @@
         "replies": 8,
         "quotes": 3,
         "views": "8567"
+      }
+    },
+    {
+      "id": "2080688661297873158",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-24T16:16:48+00:00",
+      "text": "The @NBCIBlackChurch, a coalition of 150,000 African American and Latino faith communities representing 27.7 million members, is urging the Senate to pass the Clarity Act. They support the legislation because it advances two critical priorities: stronger consumer protections and greater economic opportunity. https://t.co/DBLpvRBmNk",
+      "summary": "The @NBCIBlackChurch, a coalition of 150,000 African American and Latino faith communities representing 27.7 million members, is urging the Senate to…",
+      "url": "https://x.com/BlockchainAssn/status/2080688661297873158",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 148,
+        "retweets": 34,
+        "replies": 14,
+        "quotes": 4,
+        "views": "8622"
+      }
+    },
+    {
+      "id": "2080688229943066810",
+      "is_retweet": true,
+      "original_author": "itstaliad",
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-24T16:15:05+00:00",
+      "text": "RT @itstaliad: One year ago, I knew almost nothing about crypto. A year later, I've gained a much deeper appreciation for the intersection of innovation, consumer protection, and public policy. Here are a few thoughts on what I've learned and why I believe this conversation is about much more than digital assets. Why now is the time for Congress to pass The Clarity Act with essential protections for developers. Thank you to the incredible team at the @fund_defi for expanding my perspective and challenging me to think differently every day. https://t.co/RQpuse2B77",
+      "summary": "RT @itstaliad: One year ago, I knew almost nothing about crypto. A year later, I've gained a much deeper appreciation for the intersection of…",
+      "url": "https://x.com/amandatums/status/2080688229943066810",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "54"
       }
     },
     {
