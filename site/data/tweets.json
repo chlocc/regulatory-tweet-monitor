@@ -1,31 +1,39 @@
 {
-  "generated_at": "2026-07-26T15:06:09.282476+00:00",
-  "generated_at_unix": 1785078369,
+  "generated_at": "2026-07-26T18:00:00.189092+00:00",
+  "generated_at_unix": 1785088800,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-25T16:00:00+00:00",
-  "window_end": "2026-07-26T15:06:09.282476+00:00",
-  "new_this_run": 10,
-  "total_recent": 18,
+  "window_end": "2026-07-26T18:00:00.189092+00:00",
+  "new_this_run": 15,
+  "total_recent": 33,
   "errors": [
     {
-      "username": "KhurramDara",
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "sander_lutz",
       "error": "The read operation timed out"
     },
     {
-      "username": "NYCStein",
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "gabriel_weil",
       "error": "The read operation timed out"
     },
     {
-      "username": "JacobRobinsonJD",
+      "username": "angela_walch",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 60,
+    "attempted_this_run": 10,
+    "successful_this_run": 10,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +41,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2081452710566727834",
+      "is_retweet": true,
+      "original_author": "johnloeber",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-26T18:52:52+00:00",
+      "text": "RT @johnloeber: Reposting this because I think it's true &amp; important Crypto burned itself out on solutions in search of problems AI is now creating exactly the problems that crypto solves The entire crypto industry was ~15 years too early You should pay careful attention here",
+      "summary": "RT @johnloeber: Reposting this because I think it's true &amp; important Crypto burned itself out on solutions in search of problems AI is now…",
+      "url": "https://x.com/danrobinson/status/2081452710566727834",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "211"
+      }
+    },
+    {
+      "id": "2081440044536180848",
+      "is_retweet": true,
+      "original_author": "DKerr_Cowrie",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-26T18:02:32+00:00",
+      "text": "RT @DKerr_Cowrie: Troubling that the mechanics of double taxation appear completely foreign to both speakers for the entirety of this conversation... The answer is of course complicated but ultimately, a healthy corporation providing salaries and benefits within the US is a better outcome than an additional cost being passed onto consumers. The layers of taxation needs to be examined as a whole. What @SenWarren tends to be dishonest or simply obtuse about (likely a mix of both per her usual theatrics) is that to take her premise a step further, price fixing would be required to make her system of taxation not be directly borne by consumers. For an avid socialist - this lack of economic growth works great. She already has her bucks and is a party leader. Shrinking the pie for others is what empowers her. For the country though? Her plan works terribly and hurts the economy. And it's always the same playbook for her, which is on full display with her dishonest criticism of the CLARITY act. At this point, the question isn't her dishonesty or even the motivations behind it. The question is: given her repeated and long standing history of this behavior, why does anyone listen to her at all?",
+      "summary": "RT @DKerr_Cowrie: Troubling that the mechanics of double taxation appear completely foreign to both speakers for the entirety of this conversation...…",
+      "url": "https://x.com/milesjennings/status/2081440044536180848",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "133"
+      }
+    },
+    {
+      "id": "2081418044052832722",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T16:35:07+00:00",
+      "text": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a simple prediction market instead, he says. @bitsandbips https://t.co/Ws5XugzTUK",
+      "summary": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a…",
+      "url": "https://x.com/laurashin/status/2081418044052832722",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2260"
+      }
+    },
+    {
+      "id": "2081400903983112528",
+      "is_retweet": true,
+      "original_author": "MLeeJr",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T15:27:00+00:00",
+      "text": "RT @MLeeJr: this is alarming @elonmusk from the founder of bankr: “either two things are happening imo. 1) there's a critical security vulnerability in X backend systems that they haven't found or 2) its an inside job.” 20 hours and counting… pls investigate 🙏 https://t.co/XWi9kWh3XO",
+      "summary": "RT @MLeeJr: this is alarming @elonmusk from the founder of bankr: “either two things are happening imo. 1) there's a critical security vulnerability…",
+      "url": "https://x.com/laurashin/status/2081400903983112528",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1153"
+      }
+    },
+    {
+      "id": "2081384068852470169",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T14:20:06+00:00",
+      "text": "'It grows legs, climbs out the window, and steals a bunch of phones,' is how @kain described an AI model escaping its test environment to his six-year-old. I can't stop thinking about this analogy. 📱 https://t.co/z3ztXt8QoF",
+      "summary": "'It grows legs, climbs out the window, and steals a bunch of phones,' is how @kain described an AI model escaping its test environment to his…",
+      "url": "https://x.com/laurashin/status/2081384068852470169",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2870"
+      }
+    },
     {
       "id": "2081363058601914640",
       "is_retweet": true,
@@ -109,6 +242,106 @@
       }
     },
     {
+      "id": "2081334684059893859",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T11:03:52+00:00",
+      "text": "RT @laurashin: I agreed with @jessepollak that Brian Armstrong's PFP isn’t financial advice. Then we got into Robinhood Chain closing the gap on Base. 🏎️ https://t.co/AidXnST0BO",
+      "summary": "RT @laurashin: I agreed with @jessepollak that Brian Armstrong's PFP isn’t financial advice. Then we got into Robinhood Chain closing the gap on…",
+      "url": "https://x.com/laurashin/status/2081334684059893859",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2081334618473509140",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T11:03:37+00:00",
+      "text": "RT @laurashin: 📉@ColeGotTweets says Bitcoin's volatility index is already pricing in the Clarity Act, weeks before Congress even votes. BVIV's term structure shows a kink right around the 14-day mark, near the Senate's August recess. On @bitsandbips with @Steven_Ehrlich. 🎧 Timestamps: 🎙️ 03:54 Cole breaks down Volmex's BVIV, BVIV-US, and EVIV — the benchmarks bringing real volatility pricing to crypto 📉 07:14 The Clarity Act just showed up as a kink in BVIV's 14-day term structure — here's why 💙 13:06 Cape: get 33% off six months of privacy-first mobile service at https://t.co/sIOkmWurQM 🏦 14:41 Inside IBIT's $25B options market — and why BVIV and BVIV-US are starting to diverge ⚖️ 16:56 Ethereum and Solana have way more riding on Clarity than Bitcoin — here's the case why 🎲 22:29 Polymarket's big tie-up, and why Cole thinks prediction markets are basically perpetuals in disguise",
+      "summary": "RT @laurashin: 📉@ColeGotTweets says Bitcoin's volatility index is already pricing in the Clarity Act, weeks before Congress even votes. BVIV's term…",
+      "url": "https://x.com/laurashin/status/2081334618473509140",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2081334360339300430",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T11:02:35+00:00",
+      "text": "RT @laurashin: 🚀 @jessepollak told me: 'We're very early.' Less than 1% of the world uses crypto. I asked him about handing the Base App to Cobie, Robinhood Chain's rise, and Brian Armstrong's memecoin moment. 🎧 Timestamps: 🗞️ 01:48 Why Jesse Pollak feels 'fired up' despite Base App's social miss 🧭 03:58 Pollak on why the timing was wrong for Base App's social bet 💳 05:42 Cape: Get 33% off six months of privacy-first mobile service at https://t.co/2ZtLziY0xt 🖼️ 06:39 Pollak on Brian Armstrong's Coinbaseman meme coin controversy 🏎️ 10:43 How Pollak plans to compete as Robinhood Chain overtakes Base in DAUs 🤝 12:53 Why Coinbase's distribution edge matters for onboarding new users 🔀 15:37 Why Pollak handed the Base App to Cobie to focus on the chain 🌉 18:20 Why Base App is expanding beyond Base to Solana and Bitcoin ⚙️ 21:05 Base's Azul, Beryl and Cobalt upgrades and its new B20 standard 🔐 24:27 Base Ledgers, agentic payments and privacy in Pollak's roadmap",
+      "summary": "RT @laurashin: 🚀 @jessepollak told me: 'We're very early.' Less than 1% of the world uses crypto. I asked him about handing the Base App to Cobie,…",
+      "url": "https://x.com/laurashin/status/2081334360339300430",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2081199033645682823",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T02:04:51+00:00",
+      "text": "RT @laurashin: @lindaxie I didn't get health insurance this year. I would do functional medicine or a naturopath over any conventional doctor",
+      "summary": "RT @laurashin: @lindaxie I didn't get health insurance this year. I would do functional medicine or a naturopath over any conventional doctor",
+      "url": "https://x.com/laurashin/status/2081199033645682823",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2081197720203612464",
       "is_retweet": true,
       "original_author": "NetChoice",
@@ -134,6 +367,56 @@
       }
     },
     {
+      "id": "2081194794534178965",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-26T01:48:00+00:00",
+      "text": "I agreed with @jessepollak that Brian Armstrong's PFP isn’t financial advice. Then we got into Robinhood Chain closing the gap on Base. 🏎️ https://t.co/AidXnST0BO",
+      "summary": "I agreed with @jessepollak that Brian Armstrong's PFP isn’t financial advice. Then we got into Robinhood Chain closing the gap on Base. 🏎️…",
+      "url": "https://x.com/laurashin/status/2081194794534178965",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "12147"
+      }
+    },
+    {
+      "id": "2081161353277149517",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-25T23:35:07+00:00",
+      "text": "Base spent two years quietly becoming the biggest spot market onchain, according to @jessepollak. 📈 So despite this week's headlines, Jesse is “excited.” 🎧 https://t.co/dSYKcCEqHH",
+      "summary": "Base spent two years quietly becoming the biggest spot market onchain, according to @jessepollak. 📈 So despite this week's headlines, Jesse is…",
+      "url": "https://x.com/laurashin/status/2081161353277149517",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "7962"
+      }
+    },
+    {
       "id": "2081160011955212747",
       "is_retweet": true,
       "original_author": "LouisvilleGun",
@@ -156,6 +439,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "337"
+      }
+    },
+    {
+      "id": "2081153171229999139",
+      "is_retweet": true,
+      "original_author": "demirelo",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-25T23:02:36+00:00",
+      "text": "RT @demirelo: I might have just killed several divergences in solidity-lean and improved the Solidus compiler by over 5%. Collaborative autoresearch is cool.",
+      "summary": "RT @demirelo: I might have just killed several divergences in solidity-lean and improved the Solidus compiler by over 5%. Collaborative autoresearch…",
+      "url": "https://x.com/danrobinson/status/2081153171229999139",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "509"
+      }
+    },
+    {
+      "id": "2081130519081718020",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-25T21:32:35+00:00",
+      "text": "RT @CryptoAmerica_: Clarity aside, there’s a strong crypto policy focus surrounding taxes right now @SummerMersinger CEO of @BlockchainAssn breaks down the Illinois tax situation during the @Injective Summit. https://t.co/9eRHunKQug",
+      "summary": "RT @CryptoAmerica_: Clarity aside, there’s a strong crypto policy focus surrounding taxes right now @SummerMersinger CEO of @BlockchainAssn breaks…",
+      "url": "https://x.com/EleanorTerrett/status/2081130519081718020",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9843"
+      }
+    },
+    {
+      "id": "2081129111087730893",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-25T21:27:00+00:00",
+      "text": "🚀 @jessepollak told me: 'We're very early.' Less than 1% of the world uses crypto. I asked him about handing the Base App to Cobie, Robinhood Chain's rise, and Brian Armstrong's memecoin moment. 🎧 Timestamps: 🗞️ 01:48 Why Jesse Pollak feels 'fired up' despite Base App's social miss 🧭 03:58 Pollak on why the timing was wrong for Base App's social bet 💳 05:42 Cape: Get 33% off six months of privacy-first mobile service at https://t.co/2ZtLziY0xt 🖼️ 06:39 Pollak on Brian Armstrong's Coinbaseman meme coin controversy 🏎️ 10:43 How Pollak plans to compete as Robinhood Chain overtakes Base in DAUs 🤝 12:53 Why Coinbase's distribution edge matters for onboarding new users 🔀 15:37 Why Pollak handed the Base App to Cobie to focus on the chain 🌉 18:20 Why Base App is expanding beyond Base to Solana and Bitcoin ⚙️ 21:05 Base's Azul, Beryl and Cobalt upgrades and its new B20 standard 🔐 24:27 Base Ledgers, agentic payments and privacy in Pollak's roadmap",
+      "summary": "🚀 @jessepollak told me: 'We're very early.' Less than 1% of the world uses crypto. I asked him about handing the Base App to Cobie, Robinhood Chain's…",
+      "url": "https://x.com/laurashin/status/2081129111087730893",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 27,
+        "retweets": 6,
+        "replies": 5,
+        "quotes": 2,
+        "views": "9063"
       }
     },
     {
@@ -206,6 +564,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "289"
+      }
+    },
+    {
+      "id": "2081098912698650889",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-25T19:27:00+00:00",
+      "text": "🪙 @ColeGotTweets says Bitcoin has the least to gain from the Clarity Act, since it's already a settled CFTC commodity. Ethereum, Solana, and Hyperliquid are the real winners, he argues. 🏛️ @bitsandbips https://t.co/CTqt75xxBk",
+      "summary": "🪙 @ColeGotTweets says Bitcoin has the least to gain from the Clarity Act, since it's already a settled CFTC commodity. Ethereum, Solana, and…",
+      "url": "https://x.com/laurashin/status/2081098912698650889",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 1,
+        "views": "10233"
       }
     },
     {
