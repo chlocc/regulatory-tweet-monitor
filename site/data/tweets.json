@@ -1,31 +1,27 @@
 {
-  "generated_at": "2026-07-27T09:00:51.192077+00:00",
-  "generated_at_unix": 1785142851,
+  "generated_at": "2026-07-27T12:12:00.220430+00:00",
+  "generated_at_unix": 1785154320,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-26T16:00:00+00:00",
-  "window_end": "2026-07-27T09:00:51.192077+00:00",
-  "new_this_run": 3,
-  "total_recent": 6,
+  "window_end": "2026-07-27T12:12:00.220430+00:00",
+  "new_this_run": 7,
+  "total_recent": 15,
   "errors": [
     {
-      "username": "RoKhanna",
+      "username": "SH_Brennan",
       "error": "The read operation timed out"
     },
     {
-      "username": "KristinSmith",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "katiebiber",
+      "username": "jolieyang",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 30,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,80 +30,106 @@
   },
   "tweets": [
     {
-      "id": "2081716776572768421",
-      "is_retweet": true,
-      "original_author": "BradBourque",
-      "username": "jchervinsky",
-      "display_name": "Jake Chervinsky",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-27T12:22:10+00:00",
-      "text": "RT @BradBourque: The most contested question for prediction markets is who regulates them. More than a dozen states argue in court that these markets belong under state gaming laws. But gambling laws police a house that profits when you lose. A derivatives exchange has no house; it matches buyers and sellers and earns the same fee either way. Congress saw the difference and gave the CFTC exclusive authority over event contracts, with one federal rulebook in place of a state-by-state patchwork. Today, @HyperliquidPC and @multicoin filed a joint comment in support of the CFTC's proposal, with two refinements to make it even stronger. ⬇️",
-      "summary": "Hyperliquid and Multicoin file joint CFTC comment backing federal event-contract authority over state gaming law patchwork.",
-      "url": "https://x.com/jchervinsky/status/2081716776572768421",
-      "type": "retweet",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "814"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2081716615213719872",
-      "is_retweet": true,
-      "original_author": "HyperliquidPC",
-      "username": "jchervinsky",
-      "display_name": "Jake Chervinsky",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-27T12:21:32+00:00",
-      "text": "RT @HyperliquidPC: Prediction markets topped $50 billion in trading volume last month, and the biggest names in traditional finance are moving in. Today, with @multicoin, we filed a joint comment supporting the @CFTC 's proposed prediction markets framework. These markets have grown up. The proposed framework gives them what they deserve: durable standards, known in advance, under one federal rulebook. Our comment expresses support for the Commission’s approach and offers two recommendations to make an already strong rulebook even more targeted. Read it here:",
-      "summary": "Hyperliquid and Multicoin file joint comment supporting CFTC's proposed prediction markets framework with two refinements.",
-      "url": "https://x.com/jchervinsky/status/2081716615213719872",
-      "type": "retweet",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 17,
-        "replies": 0,
-        "quotes": 0,
-        "views": "731"
-      },
-      "enriched_by": "claude_code"
-    },
-    {
-      "id": "2081495450428006867",
+      "id": "2081679951397372121",
       "is_retweet": false,
       "original_author": null,
-      "username": "iampaulgrewal",
-      "display_name": "Paul Grewal",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
       "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-26T21:42:42+00:00",
-      "text": "Go ahead and try to tell me that prediction markets don’t work as a hedging instrument. https://t.co/8qTxYYQmNb",
-      "summary": "Coinbase's Grewal argues prediction markets function as legitimate hedging instruments, relevant to CFTC oversight debate.",
-      "url": "https://x.com/iampaulgrewal/status/2081495450428006867",
+      "created_at": "2026-07-27T09:55:50+00:00",
+      "text": ".@renato_mariotti &amp; I agree: pass CLARITY. Not b/c it's a \"gimme\" for industry - news flash: it's not (😬). But b/c its better for consumers, for the economy. The crypto genie is out of the bottle; we can't put it back. We need serious laws &amp; guardrails for the future of finance https://t.co/iI8K0cfNJw",
+      "summary": "Rettig and Mariotti urge passing the CLARITY Act, arguing it provides needed consumer guardrails for crypto markets.",
+      "url": "https://x.com/RebeccaRettig1/status/2081679951397372121",
       "type": "original",
       "categories": [
-        "prediction_markets"
+        "legislation"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 70,
-        "retweets": 4,
-        "replies": 12,
+        "likes": 17,
+        "retweets": 2,
+        "replies": 2,
         "quotes": 0,
-        "views": "10543"
+        "views": "904"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081531652040167463",
+      "is_retweet": true,
+      "original_author": "Scaramucci",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-27T00:06:33+00:00",
+      "text": "RT @Scaramucci: Here's what drives me crazy about Washington. Everybody demands compromise. Then when compromise actually happens, everybody pretends it doesn't count. Is CLARITY perfect? No. Could the ethics language do more? Yes. Is it ten times better than the Wild West status quo? Obviously. Democrats improved this bill in meaningful ways. Republicans moved. The President moved. The crypto industry moved. Bank the win.",
+      "summary": "Scaramucci defends the bipartisan CLARITY Act compromise as far better than the current unregulated crypto status quo.",
+      "url": "https://x.com/NYcryptolawyer/status/2081531652040167463",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 167,
+        "replies": 0,
+        "quotes": 0,
+        "views": "106"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081463313045815759",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-26T19:35:00+00:00",
+      "text": "North Korea's Lazarus Group and other bad actors thrive on gaps in our financial rules. The Clarity Act gives Treasury new sanctions authority and a safe harbor for companies to freeze suspicious transactions before the money moves.",
+      "summary": "Lummis says the Clarity Act grants Treasury new sanctions authority and a safe harbor to freeze suspicious crypto transactions.",
+      "url": "https://x.com/SenLummis/status/2081463313045815759",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3216,
+        "retweets": 406,
+        "replies": 129,
+        "quotes": 19,
+        "views": "73827"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081458398613135759",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-26T19:15:28+00:00",
+      "text": "RT @laurashin: If Clarity doesn't pass, I'm going to be very upset. And it's not because of crypto necessarily It's because the geopolitcal balance is precarious, and finance and tech are some of the most important industries that determine the global powers So if the US is not the leader, then who? There are no good options, which means if the US is not the leader, then things get bad I don't want to live in that world So Congresspeople, get your heads out of your asses and think about the world order and think about how important it is that the world leader big a capitalist democracy and not any of the other systems Please",
+      "summary": "Commentary urging Congress to pass the crypto market-structure Clarity Act to preserve US leadership in finance and tech.",
+      "url": "https://x.com/MinarikLaw/status/2081458398613135759",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 133,
+        "replies": 0,
+        "quotes": 0,
+        "views": "12"
       },
       "enriched_by": "claude_code"
     },
@@ -120,7 +142,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-26T16:35:07+00:00",
       "text": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a simple prediction market instead, he says. @bitsandbips https://t.co/Ws5XugzTUK",
-      "summary": "Polymarket offers VIX volatility exposure via prediction markets as a simpler retail alternative to VIX options.",
+      "summary": "Polymarket offers a prediction market on market volatility (VIX) as a simpler retail alternative to VIX options.",
       "url": "https://x.com/laurashin/status/2081418044052832722",
       "type": "original",
       "categories": [
