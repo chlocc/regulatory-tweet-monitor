@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-07-27T12:12:00.220430+00:00",
-  "generated_at_unix": 1785154320,
+  "generated_at": "2026-07-27T15:05:27.321416+00:00",
+  "generated_at_unix": 1785164727,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-26T16:00:00+00:00",
-  "window_end": "2026-07-27T12:12:00.220430+00:00",
-  "new_this_run": 7,
-  "total_recent": 15,
-  "errors": [
-    {
-      "username": "SH_Brennan",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "jolieyang",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-07-27T15:05:27.321416+00:00",
+  "new_this_run": 12,
+  "total_recent": 17,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 45,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,58 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2081753353701245330",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-27T14:47:31+00:00",
+      "text": "Every consumer speaking up proves the fear-mongers and crypto skeptics wrong - and shows why we need Clarity for clear rules and consumer protection. Join the movement to get this done. 👉 https://t.co/GzHabguvh1",
+      "summary": "Advocacy urging passage of the crypto CLARITY Act for clear market rules and consumer protection.",
+      "url": "https://x.com/CryptoLawUS/status/2081753353701245330",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 35,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2951"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081712603730935893",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-27T12:05:35+00:00",
+      "text": "RT @CoinDesk: UPDATE: A new CLARITY Act draft has been released, merging the Senate Banking and Agriculture Committee versions and adding an ethics provision for the first time. A motion to proceed is expected Monday or Tuesday, with a possible floor vote the week of August 3. https://t.co/A7FwNTg9Wk",
+      "summary": "New CLARITY Act draft merges Senate Banking and Agriculture versions, adds ethics provision; floor vote possible week of Aug 3.",
+      "url": "https://x.com/HaileyLennonBTC/status/2081712603730935893",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 887,
+        "replies": 0,
+        "quotes": 0,
+        "views": "193"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2081679951397372121",
       "is_retweet": false,
@@ -38,7 +81,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T09:55:50+00:00",
       "text": ".@renato_mariotti &amp; I agree: pass CLARITY. Not b/c it's a \"gimme\" for industry - news flash: it's not (😬). But b/c its better for consumers, for the economy. The crypto genie is out of the bottle; we can't put it back. We need serious laws &amp; guardrails for the future of finance https://t.co/iI8K0cfNJw",
-      "summary": "Rettig and Mariotti urge passing the CLARITY Act, arguing it provides needed consumer guardrails for crypto markets.",
+      "summary": "Legal counsel advocates passing the CLARITY Act as consumer/economic guardrails for the future of crypto finance.",
       "url": "https://x.com/RebeccaRettig1/status/2081679951397372121",
       "type": "original",
       "categories": [
@@ -64,7 +107,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T00:06:33+00:00",
       "text": "RT @Scaramucci: Here's what drives me crazy about Washington. Everybody demands compromise. Then when compromise actually happens, everybody pretends it doesn't count. Is CLARITY perfect? No. Could the ethics language do more? Yes. Is it ten times better than the Wild West status quo? Obviously. Democrats improved this bill in meaningful ways. Republicans moved. The President moved. The crypto industry moved. Bank the win.",
-      "summary": "Scaramucci defends the bipartisan CLARITY Act compromise as far better than the current unregulated crypto status quo.",
+      "summary": "Scaramucci argues the CLARITY Act, though imperfect, is a major bipartisan improvement over the unregulated crypto status quo.",
       "url": "https://x.com/NYcryptolawyer/status/2081531652040167463",
       "type": "retweet",
       "categories": [
@@ -90,7 +133,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-26T19:35:00+00:00",
       "text": "North Korea's Lazarus Group and other bad actors thrive on gaps in our financial rules. The Clarity Act gives Treasury new sanctions authority and a safe harbor for companies to freeze suspicious transactions before the money moves.",
-      "summary": "Lummis says the Clarity Act grants Treasury new sanctions authority and a safe harbor to freeze suspicious crypto transactions.",
+      "summary": "Sen. Lummis says the Clarity Act grants Treasury new sanctions authority and a safe harbor to freeze suspicious crypto transactions.",
       "url": "https://x.com/SenLummis/status/2081463313045815759",
       "type": "original",
       "categories": [
@@ -116,7 +159,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-26T19:15:28+00:00",
       "text": "RT @laurashin: If Clarity doesn't pass, I'm going to be very upset. And it's not because of crypto necessarily It's because the geopolitcal balance is precarious, and finance and tech are some of the most important industries that determine the global powers So if the US is not the leader, then who? There are no good options, which means if the US is not the leader, then things get bad I don't want to live in that world So Congresspeople, get your heads out of your asses and think about the world order and think about how important it is that the world leader big a capitalist democracy and not any of the other systems Please",
-      "summary": "Commentary urging Congress to pass the crypto market-structure Clarity Act to preserve US leadership in finance and tech.",
+      "summary": "Commentary urging Congress to pass the Clarity Act crypto market structure bill to preserve US financial-tech leadership.",
       "url": "https://x.com/MinarikLaw/status/2081458398613135759",
       "type": "retweet",
       "categories": [
@@ -134,6 +177,58 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2081437109592691147",
+      "is_retweet": true,
+      "original_author": "dmweisberger",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-26T17:50:52+00:00",
+      "text": "RT @dmweisberger: Democrats voting to KEEP CRYPTO UNREGULATED shows their utter disregard for their voters, who will continue to be subject to unfettered scammers and manipulators. Ironically, that INCLUDES the President, whose $TRUMP and $MELANIA meme coins were made LEGAL by the Gensler / Warren SEC while tokens that had actual value were blocked.",
+      "summary": "Post criticizes Democrats for voting to keep crypto unregulated and cites the SEC's approach to meme coins vs. utility tokens.",
+      "url": "https://x.com/JohnEDeaton1/status/2081437109592691147",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 52,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4386"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081423064667976171",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnReedStark",
+      "display_name": "John Reed Stark",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-26T16:55:04+00:00",
+      "text": "Tomorrow I Testify Before the Senate Permanent Subcommittee on Investigations and Committee on Banking, Housing & Urban Affairs An excerpt from my 26,700-word testimony: Imagine a Surgeon General who spends weekends filming cigarette commercials. Or a fire marshal who tours the US selling kerosene and space heaters to families living in wooden houses. Or a lifeguard who charges swimmers admission to the riptide. That is precisely what has happened at the SEC. Paul Atkins, the Chair of the agency created amid the wreckage of the Crash of 1929 to defend the investing public from engineered euphoria, has become the loudest promoter of the most dangerous, most demonstrably worthless and most crime-enabling asset class in the history of finance. When the head of the agency built to police Ponzi schemes personally tours conferences, television studios and social media promoting a so-called asset class whose returns depend entirely on recruiting later buyers, while gleefully abdicating his investor protection mission, there is only one title that fits: \"Chief Ponzi Officer.\" Just ask the question every analyst asks of every asset, including the mathematical blather of crypto: what am I buying? Crypto tokens have no cash flow/no yield/no earnings/no employees/no products/no balance sheet/no claim on anything, a boundless data vacuum making valuation impossible, leaving only one price support: the arrival of the next buyer. The mechanism that fills the valuation vacuum is FOMO and social proof, courtesy of SEC Chair Atkins, the first hype-man in history with subpoena power. Where the hobnail boots of yesteryear once stood, there is now an invisibility cloak. Atkins has silenced the SEC's enforcement program under the auspices of \"innovation.\" That is Atkins's signature ruse and it's absurd. Atkins has bet the entire SEC on blockchain and tokenization. But who is not making that bet? Amazon/Apple/Google/Meta/Microsoft/Oracle. Their blockchain spending: zero. The innovation Atkins is selling is a technology America's actual innovators examined, tested and buried. Meanwhile, the CLARITY Act Atkins champions would be the first major financial legislation in US history enacted to answer darkness with less light, enabling a post-apocalyptic Walking Dead-like cesspool of greed, chicanery and grift. Crypto's dire externalities are not abstractions, the carnage is not theoretical. Every retiree's savings drained through a crypto ATM is an externality. Every ransomware payment is an externality: the hospital diverted, the school district shut down. And get this — Every sanctioned drone and missile program topped up in stablecoins is an externality. We’re sanctioning Iran while deregulating the crypto they use to buy the drones and weapons that kill American soldiers. That’s like stepping into the UFC octagon and handing your opponent brass knuckles between rounds. The Stark Reality: Paul Atkins tours the US like a raving Big Crypto sycophant, force-feeding investors his Atkins Diet of crypto laissez-faire, all while reveling in his role as America's first Chief Ponzi Officer. It's time to stop the hustle. Written testimony: https://t.co/H8sq9yzzHU",
+      "summary": "SEC critic testifies to Senate against Chair Atkins' crypto-friendly stance and the CLARITY Act's deregulatory framework.",
+      "url": "https://x.com/JohnReedStark/status/2081423064667976171",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 3,
+        "replies": 5,
+        "quotes": 0,
+        "views": "46293"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2081418044052832722",
       "is_retweet": false,
       "original_author": null,
@@ -142,7 +237,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-26T16:35:07+00:00",
       "text": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a simple prediction market instead, he says. @bitsandbips https://t.co/Ws5XugzTUK",
-      "summary": "Polymarket offers a prediction market on market volatility (VIX) as a simpler retail alternative to VIX options.",
+      "summary": "Polymarket offers a prediction-market alternative to complex VIX volatility options for retail investors.",
       "url": "https://x.com/laurashin/status/2081418044052832722",
       "type": "original",
       "categories": [
