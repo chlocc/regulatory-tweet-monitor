@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-27T06:07:57.300698+00:00",
-  "generated_at_unix": 1785132477,
+  "generated_at": "2026-07-27T09:00:51.192077+00:00",
+  "generated_at_unix": 1785142851,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-26T16:00:00+00:00",
-  "window_end": "2026-07-27T06:07:57.300698+00:00",
-  "new_this_run": 5,
-  "total_recent": 8,
+  "window_end": "2026-07-27T09:00:51.192077+00:00",
+  "new_this_run": 3,
+  "total_recent": 6,
   "errors": [
     {
-      "username": "howardlutnick",
+      "username": "RoKhanna",
       "error": "The read operation timed out"
     },
     {
-      "username": "RepFrenchHill",
+      "username": "KristinSmith",
       "error": "The read operation timed out"
     },
     {
-      "username": "FinancialCmte",
+      "username": "katiebiber",
       "error": "The read operation timed out"
     }
   ],
@@ -25,7 +25,7 @@
     "total_accounts": 76,
     "attempted_this_run": 12,
     "successful_this_run": 12,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,179 +34,82 @@
   },
   "tweets": [
     {
-      "id": "2081507354558746637",
+      "id": "2081716776572768421",
+      "is_retweet": true,
+      "original_author": "BradBourque",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-27T12:22:10+00:00",
+      "text": "RT @BradBourque: The most contested question for prediction markets is who regulates them. More than a dozen states argue in court that these markets belong under state gaming laws. But gambling laws police a house that profits when you lose. A derivatives exchange has no house; it matches buyers and sellers and earns the same fee either way. Congress saw the difference and gave the CFTC exclusive authority over event contracts, with one federal rulebook in place of a state-by-state patchwork. Today, @HyperliquidPC and @multicoin filed a joint comment in support of the CFTC's proposal, with two refinements to make it even stronger. ⬇️",
+      "summary": "Hyperliquid and Multicoin file joint CFTC comment backing federal event-contract authority over state gaming law patchwork.",
+      "url": "https://x.com/jchervinsky/status/2081716776572768421",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "814"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081716615213719872",
+      "is_retweet": true,
+      "original_author": "HyperliquidPC",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-27T12:21:32+00:00",
+      "text": "RT @HyperliquidPC: Prediction markets topped $50 billion in trading volume last month, and the biggest names in traditional finance are moving in. Today, with @multicoin, we filed a joint comment supporting the @CFTC 's proposed prediction markets framework. These markets have grown up. The proposed framework gives them what they deserve: durable standards, known in advance, under one federal rulebook. Our comment expresses support for the Commission’s approach and offers two recommendations to make an already strong rulebook even more targeted. Read it here:",
+      "summary": "Hyperliquid and Multicoin file joint comment supporting CFTC's proposed prediction markets framework with two refinements.",
+      "url": "https://x.com/jchervinsky/status/2081716615213719872",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "731"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081495450428006867",
       "is_retweet": false,
       "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-26T22:30:00+00:00",
-      "text": "It's such a treat every year to see so many friends and constituents converge on Cheyenne for @CheFrontierDays. Nothing quite like the Daddy of 'em All. Great to see @DAGToddBlanche, @SecretaryBurgum, and Under Sec. of the @usairforce Matthew Lohmeier out at CFD too! https://t.co/Gb4WyQwSBb",
-      "summary": "It's such a treat every year to see so many friends and constituents converge on Cheyenne for @CheFrontierDays. Nothing quite like the Daddy of 'em…",
-      "url": "https://x.com/SenLummis/status/2081507354558746637",
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-26T21:42:42+00:00",
+      "text": "Go ahead and try to tell me that prediction markets don’t work as a hedging instrument. https://t.co/8qTxYYQmNb",
+      "summary": "Coinbase's Grewal argues prediction markets function as legitimate hedging instruments, relevant to CFTC oversight debate.",
+      "url": "https://x.com/iampaulgrewal/status/2081495450428006867",
       "type": "original",
       "categories": [
-        "other"
+        "prediction_markets"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 293,
-        "retweets": 13,
-        "replies": 16,
+        "likes": 70,
+        "retweets": 4,
+        "replies": 12,
         "quotes": 0,
-        "views": "27267"
-      }
-    },
-    {
-      "id": "2081487696019460282",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-26T21:11:53+00:00",
-      "text": "RT @SecretaryBurgum: 🚨 ICYMI: @USGS uncovered enough Beautiful Clean Coal to power the U.S. for 600 YEARS! Under @POTUS, we are working at Trump Speed to unleash secure, reliable and affordable American energy. https://t.co/AVvqKuTJk3",
-      "summary": "RT @SecretaryBurgum: 🚨 ICYMI: @USGS uncovered enough Beautiful Clean Coal to power the U.S. for 600 YEARS! Under @POTUS, we are working at Trump…",
-      "url": "https://x.com/WhiteHouse/status/2081487696019460282",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 497,
-        "replies": 0,
-        "quotes": 0,
-        "views": "41168"
-      }
-    },
-    {
-      "id": "2081487659000611148",
-      "is_retweet": true,
-      "original_author": "StateDept",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-26T21:11:44+00:00",
-      "text": "RT @StateDept: “Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward to traveling the entire length of this Great Highway someday, hopefully soon! President DONALD J. TRUMP” https://t.co/WSYZoGFxzB",
-      "summary": "RT @StateDept: “Thank you to Highly Respected Mohammed VI, the King of Morocco — Such a Great Honor! I look forward to traveling the entire length of…",
-      "url": "https://x.com/WhiteHouse/status/2081487659000611148",
-      "type": "retweet",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1087,
-        "replies": 0,
-        "quotes": 0,
-        "views": "41705"
-      }
-    },
-    {
-      "id": "2081474216738558163",
-      "is_retweet": true,
-      "original_author": "DHSgov",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-26T20:18:19+00:00",
-      "text": "RT @DHSgov: Happy Birthday, @SecMullinDHS! https://t.co/wX5Q75GOJQ",
-      "summary": "RT @DHSgov: Happy Birthday, @SecMullinDHS! https://t.co/wX5Q75GOJQ",
-      "url": "https://x.com/WhiteHouse/status/2081474216738558163",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 317,
-        "replies": 0,
-        "quotes": 0,
-        "views": "49278"
-      }
-    },
-    {
-      "id": "2081463313045815759",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-26T19:35:00+00:00",
-      "text": "North Korea's Lazarus Group and other bad actors thrive on gaps in our financial rules. The Clarity Act gives Treasury new sanctions authority and a safe harbor for companies to freeze suspicious transactions before the money moves.",
-      "summary": "North Korea's Lazarus Group and other bad actors thrive on gaps in our financial rules. The Clarity Act gives Treasury new sanctions authority and a…",
-      "url": "https://x.com/SenLummis/status/2081463313045815759",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 3216,
-        "retweets": 406,
-        "replies": 129,
-        "quotes": 19,
-        "views": "73827"
-      }
-    },
-    {
-      "id": "2081452710566727834",
-      "is_retweet": true,
-      "original_author": "johnloeber",
-      "username": "danrobinson",
-      "display_name": "Dan Robinson",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-26T18:52:52+00:00",
-      "text": "RT @johnloeber: Reposting this because I think it's true &amp; important Crypto burned itself out on solutions in search of problems AI is now creating exactly the problems that crypto solves The entire crypto industry was ~15 years too early You should pay careful attention here",
-      "summary": "RT @johnloeber: Reposting this because I think it's true &amp; important Crypto burned itself out on solutions in search of problems AI is now…",
-      "url": "https://x.com/danrobinson/status/2081452710566727834",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "211"
-      }
-    },
-    {
-      "id": "2081440044536180848",
-      "is_retweet": true,
-      "original_author": "DKerr_Cowrie",
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-07-26T18:02:32+00:00",
-      "text": "RT @DKerr_Cowrie: Troubling that the mechanics of double taxation appear completely foreign to both speakers for the entirety of this conversation... The answer is of course complicated but ultimately, a healthy corporation providing salaries and benefits within the US is a better outcome than an additional cost being passed onto consumers. The layers of taxation needs to be examined as a whole. What @SenWarren tends to be dishonest or simply obtuse about (likely a mix of both per her usual theatrics) is that to take her premise a step further, price fixing would be required to make her system of taxation not be directly borne by consumers. For an avid socialist - this lack of economic growth works great. She already has her bucks and is a party leader. Shrinking the pie for others is what empowers her. For the country though? Her plan works terribly and hurts the economy. And it's always the same playbook for her, which is on full display with her dishonest criticism of the CLARITY act. At this point, the question isn't her dishonesty or even the motivations behind it. The question is: given her repeated and long standing history of this behavior, why does anyone listen to her at all?",
-      "summary": "RT @DKerr_Cowrie: Troubling that the mechanics of double taxation appear completely foreign to both speakers for the entirety of this conversation...…",
-      "url": "https://x.com/milesjennings/status/2081440044536180848",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "133"
-      }
+        "views": "10543"
+      },
+      "enriched_by": "claude_code"
     },
     {
       "id": "2081418044052832722",
@@ -217,7 +120,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-26T16:35:07+00:00",
       "text": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a simple prediction market instead, he says. @bitsandbips https://t.co/Ws5XugzTUK",
-      "summary": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a…",
+      "summary": "Polymarket offers VIX volatility exposure via prediction markets as a simpler retail alternative to VIX options.",
       "url": "https://x.com/laurashin/status/2081418044052832722",
       "type": "original",
       "categories": [
@@ -231,7 +134,8 @@
         "replies": 5,
         "quotes": 0,
         "views": "2260"
-      }
+      },
+      "enriched_by": "claude_code"
     }
   ]
 }
