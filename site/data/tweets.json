@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-07-27T15:05:27.321416+00:00",
-  "generated_at_unix": 1785164727,
+  "generated_at": "2026-07-27T18:00:05.529032+00:00",
+  "generated_at_unix": 1785175205,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-26T16:00:00+00:00",
-  "window_end": "2026-07-27T15:05:27.321416+00:00",
-  "new_this_run": 12,
-  "total_recent": 17,
-  "errors": [],
+  "window_end": "2026-07-27T18:00:05.529032+00:00",
+  "new_this_run": 24,
+  "total_recent": 33,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,110 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2081794450771353616",
+      "is_retweet": true,
+      "original_author": "crypto_council",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-27T17:30:49+00:00",
+      "text": "RT @crypto_council: 1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 https://t.co/ncGkYHZdTf",
+      "summary": "Crypto Council for Innovation lobbies the Hill to counter myths ahead of a key week for the CLARITY Act market structure bill.",
+      "url": "https://x.com/milesjennings/status/2081794450771353616",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 77,
+        "replies": 0,
+        "quotes": 0,
+        "views": "86"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081772666546258353",
+      "is_retweet": true,
+      "original_author": "standwithcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-27T16:04:15+00:00",
+      "text": "RT @standwithcrypto: On behalf of 3 million U.S advocates, @standwithcrypto is providing notice that we will be scoring votes on the CLARITY Act. SWC strongly urges Senators to vote “Yes” to advance the bill, and lawmaker scorecards will be updated based on voting records. The CLARITY Act has galvanized millions of crypto owners, as they eagerly await market structure legislation that will deliver certainty about the technology they rely on. Crypto voters across the country are paying attention to which lawmakers stand with them in this critical moment.",
+      "summary": "Stand With Crypto notifies Senators it will score votes on the CLARITY Act market structure bill and update lawmaker scorecards.",
+      "url": "https://x.com/milesjennings/status/2081772666546258353",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 238,
+        "replies": 0,
+        "quotes": 0,
+        "views": "145"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081770137535775062",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T15:54:12+00:00",
+      "text": "🚨🗞️NEW: Senate Prepares for Clarity Floor Push as GOP Seeks Democratic Support The crypto industry is hoping Senate Republicans can get the ball rolling this week on a floor vote for the Clarity Act. What would that look like? Read on. https://t.co/7GitOdgGPV",
+      "summary": "Senate GOP prepares a floor push for the CLARITY Act, seeking Democratic support to advance crypto market structure legislation.",
+      "url": "https://x.com/EleanorTerrett/status/2081770137535775062",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1357,
+        "retweets": 230,
+        "replies": 65,
+        "quotes": 19,
+        "views": "68160"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081759400294002819",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-27T15:11:32+00:00",
+      "text": "It's decision time for Democrats: Support CLARITY or support the status quo. Regulate crypto or leave it unregulated. Advance innovation or promote grift. Protect people or play politics. https://t.co/qMSYiDe11p",
+      "summary": "Advocacy push urging Democrats to back the CLARITY Act to regulate crypto rather than leave the market unregulated.",
+      "url": "https://x.com/milesjennings/status/2081759400294002819",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 111,
+        "retweets": 23,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3122"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2081753353701245330",
       "is_retweet": false,
@@ -29,7 +142,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T14:47:31+00:00",
       "text": "Every consumer speaking up proves the fear-mongers and crypto skeptics wrong - and shows why we need Clarity for clear rules and consumer protection. Join the movement to get this done. 👉 https://t.co/GzHabguvh1",
-      "summary": "Advocacy urging passage of the crypto CLARITY Act for clear market rules and consumer protection.",
+      "summary": "Advocacy push for the CLARITY Act, framing it as crypto market-structure legislation for clear rules and consumer protection.",
       "url": "https://x.com/CryptoLawUS/status/2081753353701245330",
       "type": "quote",
       "categories": [
@@ -47,6 +160,188 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2081741680949309671",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T14:01:08+00:00",
+      "text": "AI capex is starting to look like a bubble, and China just banned open-weight models. @LorenzoARK of ARK Invest joins Bits + Bips to unpack it, plus RWAs overtaking crypto and the BitMEX/BitMart shutdowns. Live Mon 4:30pm ET. https://t.co/yQSzVwMRJ1 https://t.co/tlqEHtjHEp",
+      "summary": "Podcast segment covering RWAs overtaking crypto and the BitMEX/BitMart exchange shutdowns as industry developments.",
+      "url": "https://x.com/laurashin/status/2081741680949309671",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2399"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081734099249824244",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T13:31:00+00:00",
+      "text": "🏛️ The CFTC is warning exchanges to stop filing broad, template-style self-certifications that bundle multiple event contract variations into one submission. https://t.co/zE4epvdauK",
+      "summary": "CFTC warns exchanges to stop filing broad template self-certifications bundling multiple event contract variations.",
+      "url": "https://x.com/laurashin/status/2081734099249824244",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3040"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081727057021878447",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T13:03:01+00:00",
+      "text": "🤝 Robinhood is in talks with Crypto(.)com to add its prediction market contracts to the Robinhood app, per WSJ. https://t.co/s8ZSCWcvmr",
+      "summary": "Robinhood reportedly in talks with Crypto.com to add its prediction market contracts to the Robinhood app.",
+      "url": "https://x.com/laurashin/status/2081727057021878447",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3558"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081720760113287661",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T12:38:00+00:00",
+      "text": "⚠️ BitMart is winding down. New registrations, deposits and orders are suspended, with a full trading halt set for Aug. 26. https://t.co/tk0OB3f25O",
+      "summary": "Crypto exchange BitMart winding down, suspending registrations/deposits/orders with full trading halt Aug. 26.",
+      "url": "https://x.com/laurashin/status/2081720760113287661",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3508"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081715728231862288",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T12:18:00+00:00",
+      "text": "🇪🇺 The EU has named crypto exchange HTX in its 21st Russia sanctions package. EU/EEA/Swiss users must stop transacting with the platform starting Aug. 23. https://t.co/8EDILRbLvA",
+      "summary": "EU names crypto exchange HTX in 21st Russia sanctions package; EU/EEA/Swiss users must cease transacting Aug. 23.",
+      "url": "https://x.com/laurashin/status/2081715728231862288",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3646"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081713940376006824",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T12:10:54+00:00",
+      "text": "RT @laurashin: 🚀 @jessepollak told me: 'We're very early.' Less than 1% of the world uses crypto. I asked him about handing the Base App to Cobie, Robinhood Chain's rise, and Brian Armstrong's memecoin moment. 🎧 Timestamps: 🗞️ 01:48 Why Jesse Pollak feels 'fired up' despite Base App's social miss 🧭 03:58 Pollak on why the timing was wrong for Base App's social bet 💳 05:42 Cape: Get 33% off six months of privacy-first mobile service at https://t.co/2ZtLziY0xt 🖼️ 06:39 Pollak on Brian Armstrong's Coinbaseman meme coin controversy 🏎️ 10:43 How Pollak plans to compete as Robinhood Chain overtakes Base in DAUs 🤝 12:53 Why Coinbase's distribution edge matters for onboarding new users 🔀 15:37 Why Pollak handed the Base App to Cobie to focus on the chain 🌉 18:20 Why Base App is expanding beyond Base to Solana and Bitcoin ⚙️ 21:05 Base's Azul, Beryl and Cobalt upgrades and its new B20 standard 🔐 24:27 Base Ledgers, agentic payments and privacy in Pollak's roadmap",
+      "summary": "Coinbase's Jesse Pollak on Base App handoff to Cobie, Robinhood Chain competition, and Base chain infrastructure upgrades.",
+      "url": "https://x.com/laurashin/status/2081713940376006824",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081713716735750510",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T12:10:01+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 EU names HTX among the crypto platforms banned from EU transactions 🏦 BitMart is winding down, and its global CEO says he was never consulted. 📈 Robinhood is reportedly in talks to add Crypto(dot)com event contracts. ⚖️ CFTC tells exchanges to stop filing broad, template-style event contract certifications. 🎯 Read it now… and make sure you never miss one. Subscribe! https://t.co/HcD3OKTZng",
+      "summary": "EU bans HTX and other platforms; CFTC tells exchanges to stop filing template event-contract certifications.",
+      "url": "https://x.com/laurashin/status/2081713716735750510",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3263"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2081712603730935893",
       "is_retweet": true,
       "original_author": "CoinDesk",
@@ -55,7 +350,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T12:05:35+00:00",
       "text": "RT @CoinDesk: UPDATE: A new CLARITY Act draft has been released, merging the Senate Banking and Agriculture Committee versions and adding an ethics provision for the first time. A motion to proceed is expected Monday or Tuesday, with a possible floor vote the week of August 3. https://t.co/A7FwNTg9Wk",
-      "summary": "New CLARITY Act draft merges Senate Banking and Agriculture versions, adds ethics provision; floor vote possible week of Aug 3.",
+      "summary": "New merged CLARITY Act draft adds ethics provision; motion to proceed expected next week with possible floor vote week of Aug 3.",
       "url": "https://x.com/HaileyLennonBTC/status/2081712603730935893",
       "type": "retweet",
       "categories": [
@@ -81,7 +376,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T09:55:50+00:00",
       "text": ".@renato_mariotti &amp; I agree: pass CLARITY. Not b/c it's a \"gimme\" for industry - news flash: it's not (😬). But b/c its better for consumers, for the economy. The crypto genie is out of the bottle; we can't put it back. We need serious laws &amp; guardrails for the future of finance https://t.co/iI8K0cfNJw",
-      "summary": "Legal counsel advocates passing the CLARITY Act as consumer/economic guardrails for the future of crypto finance.",
+      "summary": "Crypto lawyers argue for passing the CLARITY Act as consumer and economic guardrails for the future of finance.",
       "url": "https://x.com/RebeccaRettig1/status/2081679951397372121",
       "type": "original",
       "categories": [
@@ -107,7 +402,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T00:06:33+00:00",
       "text": "RT @Scaramucci: Here's what drives me crazy about Washington. Everybody demands compromise. Then when compromise actually happens, everybody pretends it doesn't count. Is CLARITY perfect? No. Could the ethics language do more? Yes. Is it ten times better than the Wild West status quo? Obviously. Democrats improved this bill in meaningful ways. Republicans moved. The President moved. The crypto industry moved. Bank the win.",
-      "summary": "Scaramucci argues the CLARITY Act, though imperfect, is a major bipartisan improvement over the unregulated crypto status quo.",
+      "summary": "Defends the CLARITY Act crypto market structure bill as a meaningful bipartisan compromise despite imperfect ethics language.",
       "url": "https://x.com/NYcryptolawyer/status/2081531652040167463",
       "type": "retweet",
       "categories": [
@@ -151,16 +446,16 @@
       "enriched_by": "claude_code"
     },
     {
-      "id": "2081458398613135759",
+      "id": "2081440044536180848",
       "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "MinarikLaw",
-      "display_name": "Katherine Minarik",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-26T19:15:28+00:00",
-      "text": "RT @laurashin: If Clarity doesn't pass, I'm going to be very upset. And it's not because of crypto necessarily It's because the geopolitcal balance is precarious, and finance and tech are some of the most important industries that determine the global powers So if the US is not the leader, then who? There are no good options, which means if the US is not the leader, then things get bad I don't want to live in that world So Congresspeople, get your heads out of your asses and think about the world order and think about how important it is that the world leader big a capitalist democracy and not any of the other systems Please",
-      "summary": "Commentary urging Congress to pass the Clarity Act crypto market structure bill to preserve US financial-tech leadership.",
-      "url": "https://x.com/MinarikLaw/status/2081458398613135759",
+      "original_author": "DKerr_Cowrie",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-26T18:02:32+00:00",
+      "text": "RT @DKerr_Cowrie: Troubling that the mechanics of double taxation appear completely foreign to both speakers for the entirety of this conversation... The answer is of course complicated but ultimately, a healthy corporation providing salaries and benefits within the US is a better outcome than an additional cost being passed onto consumers. The layers of taxation needs to be examined as a whole. What @SenWarren tends to be dishonest or simply obtuse about (likely a mix of both per her usual theatrics) is that to take her premise a step further, price fixing would be required to make her system of taxation not be directly borne by consumers. For an avid socialist - this lack of economic growth works great. She already has her bucks and is a party leader. Shrinking the pie for others is what empowers her. For the country though? Her plan works terribly and hurts the economy. And it's always the same playbook for her, which is on full display with her dishonest criticism of the CLARITY act. At this point, the question isn't her dishonesty or even the motivations behind it. The question is: given her repeated and long standing history of this behavior, why does anyone listen to her at all?",
+      "summary": "Commentary criticizing Warren's stance on crypto double taxation and business structure in the context of the CLARITY Act debate.",
+      "url": "https://x.com/milesjennings/status/2081440044536180848",
       "type": "retweet",
       "categories": [
         "legislation"
@@ -169,10 +464,10 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 133,
+        "retweets": 1,
         "replies": 0,
         "quotes": 0,
-        "views": "12"
+        "views": "205"
       },
       "enriched_by": "claude_code"
     },
@@ -185,7 +480,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-26T17:50:52+00:00",
       "text": "RT @dmweisberger: Democrats voting to KEEP CRYPTO UNREGULATED shows their utter disregard for their voters, who will continue to be subject to unfettered scammers and manipulators. Ironically, that INCLUDES the President, whose $TRUMP and $MELANIA meme coins were made LEGAL by the Gensler / Warren SEC while tokens that had actual value were blocked.",
-      "summary": "Post criticizes Democrats for voting to keep crypto unregulated and cites the SEC's approach to meme coins vs. utility tokens.",
+      "summary": "Commentary on Democrats voting to keep crypto unregulated and SEC treatment of meme coins vs other tokens.",
       "url": "https://x.com/JohnEDeaton1/status/2081437109592691147",
       "type": "retweet",
       "categories": [
@@ -211,7 +506,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-26T16:55:04+00:00",
       "text": "Tomorrow I Testify Before the Senate Permanent Subcommittee on Investigations and Committee on Banking, Housing & Urban Affairs An excerpt from my 26,700-word testimony: Imagine a Surgeon General who spends weekends filming cigarette commercials. Or a fire marshal who tours the US selling kerosene and space heaters to families living in wooden houses. Or a lifeguard who charges swimmers admission to the riptide. That is precisely what has happened at the SEC. Paul Atkins, the Chair of the agency created amid the wreckage of the Crash of 1929 to defend the investing public from engineered euphoria, has become the loudest promoter of the most dangerous, most demonstrably worthless and most crime-enabling asset class in the history of finance. When the head of the agency built to police Ponzi schemes personally tours conferences, television studios and social media promoting a so-called asset class whose returns depend entirely on recruiting later buyers, while gleefully abdicating his investor protection mission, there is only one title that fits: \"Chief Ponzi Officer.\" Just ask the question every analyst asks of every asset, including the mathematical blather of crypto: what am I buying? Crypto tokens have no cash flow/no yield/no earnings/no employees/no products/no balance sheet/no claim on anything, a boundless data vacuum making valuation impossible, leaving only one price support: the arrival of the next buyer. The mechanism that fills the valuation vacuum is FOMO and social proof, courtesy of SEC Chair Atkins, the first hype-man in history with subpoena power. Where the hobnail boots of yesteryear once stood, there is now an invisibility cloak. Atkins has silenced the SEC's enforcement program under the auspices of \"innovation.\" That is Atkins's signature ruse and it's absurd. Atkins has bet the entire SEC on blockchain and tokenization. But who is not making that bet? Amazon/Apple/Google/Meta/Microsoft/Oracle. Their blockchain spending: zero. The innovation Atkins is selling is a technology America's actual innovators examined, tested and buried. Meanwhile, the CLARITY Act Atkins champions would be the first major financial legislation in US history enacted to answer darkness with less light, enabling a post-apocalyptic Walking Dead-like cesspool of greed, chicanery and grift. Crypto's dire externalities are not abstractions, the carnage is not theoretical. Every retiree's savings drained through a crypto ATM is an externality. Every ransomware payment is an externality: the hospital diverted, the school district shut down. And get this — Every sanctioned drone and missile program topped up in stablecoins is an externality. We’re sanctioning Iran while deregulating the crypto they use to buy the drones and weapons that kill American soldiers. That’s like stepping into the UFC octagon and handing your opponent brass knuckles between rounds. The Stark Reality: Paul Atkins tours the US like a raving Big Crypto sycophant, force-feeding investors his Atkins Diet of crypto laissez-faire, all while reveling in his role as America's first Chief Ponzi Officer. It's time to stop the hustle. Written testimony: https://t.co/H8sq9yzzHU",
-      "summary": "SEC critic testifies to Senate against Chair Atkins' crypto-friendly stance and the CLARITY Act's deregulatory framework.",
+      "summary": "John Reed Stark's Senate testimony attacking SEC Chair Atkins and the CLARITY Act's crypto deregulation approach.",
       "url": "https://x.com/JohnReedStark/status/2081423064667976171",
       "type": "original",
       "categories": [
@@ -237,7 +532,7 @@
       "group": "Journalists & Media",
       "created_at": "2026-07-26T16:35:07+00:00",
       "text": "🎲 @ColeGotTweets says trading the VIX means trading VIX options, a complicated product for most retail investors. Polymarket wraps volatility into a simple prediction market instead, he says. @bitsandbips https://t.co/Ws5XugzTUK",
-      "summary": "Polymarket offers a prediction-market alternative to complex VIX volatility options for retail investors.",
+      "summary": "Polymarket offers a simplified volatility prediction market as an alternative to complex retail VIX options trading.",
       "url": "https://x.com/laurashin/status/2081418044052832722",
       "type": "original",
       "categories": [
