@@ -1,35 +1,27 @@
 {
-  "generated_at": "2026-07-28T06:02:31.744638+00:00",
-  "generated_at_unix": 1785218551,
+  "generated_at": "2026-07-28T09:00:47.310396+00:00",
+  "generated_at_unix": 1785229247,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-27T16:00:00+00:00",
-  "window_end": "2026-07-28T06:02:31.744638+00:00",
-  "new_this_run": 18,
-  "total_recent": 20,
+  "window_end": "2026-07-28T09:00:47.310396+00:00",
+  "new_this_run": 15,
+  "total_recent": 17,
   "errors": [
     {
-      "username": "davidsacks47",
+      "username": "NeerajKA",
       "error": "The read operation timed out"
     },
     {
-      "username": "howardlutnick",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "FinancialCmte",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "SenatorHagerty",
+      "username": "amandatums",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 11,
-    "successful_this_run": 11,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -38,16 +30,16 @@
   },
   "tweets": [
     {
-      "id": "2081942341246652626",
+      "id": "2081931231864770880",
       "is_retweet": true,
-      "original_author": "NAR_Advocacy",
-      "username": "RepFrenchHill",
-      "display_name": "French Hill",
+      "original_author": "standwithcrypto",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
       "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-28T03:18:29+00:00",
-      "text": "RT @NAR_Advocacy: Members of Congress, congressional staff, coalition partners, &amp; housing leaders joined NAR Chief Advocacy Officer and Executive Vice President Shannon McGahn and the NAR Advocacy team to celebrate this achievement and recommit to expanding housing opportunity across the country. https://t.co/yG4e7T7iJ0",
-      "summary": "RT @NAR_Advocacy: Members of Congress, congressional staff, coalition partners, &amp; housing leaders joined NAR Chief Advocacy Officer and Executive…",
-      "url": "https://x.com/RepFrenchHill/status/2081942341246652626",
+      "created_at": "2026-07-28T02:34:20+00:00",
+      "text": "RT @standwithcrypto: On behalf of 3 million U.S advocates, @standwithcrypto is providing notice that we will be scoring votes on the CLARITY Act. SWC strongly urges Senators to vote “Yes” to advance the bill, and lawmaker scorecards will be updated based on voting records. The CLARITY Act has galvanized millions of crypto owners, as they eagerly await market structure legislation that will deliver certainty about the technology they rely on. Crypto voters across the country are paying attention to which lawmakers stand with them in this critical moment.",
+      "summary": "Stand With Crypto will score Senate votes on the CLARITY Act, pressing lawmakers to advance crypto market structure legislation.",
+      "url": "https://x.com/patrickjwitt/status/2081931231864770880",
       "type": "retweet",
       "categories": [
         "legislation"
@@ -56,173 +48,24 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 1,
+        "retweets": 331,
         "replies": 0,
         "quotes": 0,
-        "views": "200"
-      }
+        "views": "778"
+      },
+      "enriched_by": "claude_code"
     },
     {
-      "id": "2081908311637545053",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-28T01:03:16+00:00",
-      "text": "For decades, globalists sold out Michigan autoworkers, shipping jobs overseas &amp; gutting factories. Every president before promised to stop it. None did. Now, thanks to @POTUS, Michigan has a President who fights for workers &amp; puts America FIRST. American manufacturing is BACK! https://t.co/KNMvPkc4NP",
-      "summary": "For decades, globalists sold out Michigan autoworkers, shipping jobs overseas &amp; gutting factories. Every president before promised to stop it.…",
-      "url": "https://x.com/WhiteHouse/status/2081908311637545053",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 4469,
-        "retweets": 1098,
-        "replies": 676,
-        "quotes": 34,
-        "views": "141535"
-      }
-    },
-    {
-      "id": "2081865253994872887",
+      "id": "2081918209490407924",
       "is_retweet": true,
-      "original_author": "SecDuffy",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T22:12:10+00:00",
-      "text": "RT @SecDuffy: Proud of my lumberjack roots and proud to serve @POTUS!🪵🪓",
-      "summary": "RT @SecDuffy: Proud of my lumberjack roots and proud to serve @POTUS!🪵🪓",
-      "url": "https://x.com/WhiteHouse/status/2081865253994872887",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1208,
-        "replies": 0,
-        "quotes": 0,
-        "views": "44979"
-      }
-    },
-    {
-      "id": "2081865231827918900",
-      "is_retweet": true,
-      "original_author": "SecMullinDHS",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T22:12:05+00:00",
-      "text": "RT @SecMullinDHS: Americans spent the weekend with family and friends. Meanwhile, the brave men and women of @ICEgov were working 24/7 to get the worst of the worst off our streets. Their mission never stops.",
-      "summary": "RT @SecMullinDHS: Americans spent the weekend with family and friends. Meanwhile, the brave men and women of @ICEgov were working 24/7 to get the…",
-      "url": "https://x.com/WhiteHouse/status/2081865231827918900",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 207,
-        "replies": 0,
-        "quotes": 0,
-        "views": "38270"
-      }
-    },
-    {
-      "id": "2081865189008281913",
-      "is_retweet": true,
-      "original_author": "USDOL",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T22:11:54+00:00",
-      "text": "RT @USDOL: For decades, workers and manufacturers were sold out by globalists who let other countries steal American jobs. That era is over. America finally has a president who stands up for workers and puts AMERICA FIRST! https://t.co/Oki9gkmasA",
-      "summary": "RT @USDOL: For decades, workers and manufacturers were sold out by globalists who let other countries steal American jobs. That era is over. America…",
-      "url": "https://x.com/WhiteHouse/status/2081865189008281913",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 227,
-        "replies": 0,
-        "quotes": 0,
-        "views": "38690"
-      }
-    },
-    {
-      "id": "2081865160130461980",
-      "is_retweet": true,
-      "original_author": "Sonderling47",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T22:11:48+00:00",
-      "text": "RT @Sonderling47: 7 MILLION of America’s children have already enrolled in @TrumpAccounts and thanks to the leadership of @POTUS and @USTreasury—our future generations now have a tremendous start to their American Dream. At today’s Financial Literacy and Education Commission meeting, I shared how @USDOL is doing our part to support young Americans in their career aspirations—training and skilling the next generation for good-paying jobs to compliment this great program.",
-      "summary": "RT @Sonderling47: 7 MILLION of America’s children have already enrolled in @TrumpAccounts and thanks to the leadership of @POTUS and @USTreasury—our…",
-      "url": "https://x.com/WhiteHouse/status/2081865160130461980",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 81,
-        "replies": 0,
-        "quotes": 0,
-        "views": "41750"
-      }
-    },
-    {
-      "id": "2081852368178528676",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "ChairmanSelig",
-      "display_name": "Mike Selig",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T21:20:58+00:00",
-      "text": "Today, a Minnesota federal court put a halt to aggressive state overreach seeking to ban federally regulated derivatives markets. This is the second time a court has granted an injunction in favor of the agency in defense of its jurisdiction over prediction markets. The @CFTC appreciates the court’s careful consideration of the issues.",
-      "summary": "Today, a Minnesota federal court put a halt to aggressive state overreach seeking to ban federally regulated derivatives markets. This is the second…",
-      "url": "https://x.com/ChairmanSelig/status/2081852368178528676",
-      "type": "original",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 92,
-        "retweets": 16,
-        "replies": 4,
-        "quotes": 2,
-        "views": "5919"
-      }
-    },
-    {
-      "id": "2081846279978500576",
-      "is_retweet": true,
-      "original_author": "FranklnTempletn",
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
+      "original_author": "NateGeraci",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
       "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T20:56:46+00:00",
-      "text": "RT @FranklnTempletn: Franklin Templeton supports passage of the CLARITY Act. The bill would make clear how crypto is regulated. Investors would know what protections apply. Firms would know which regulators they answer to. It’s time to provide the industry the clarity it needs.",
-      "summary": "RT @FranklnTempletn: Franklin Templeton supports passage of the CLARITY Act. The bill would make clear how crypto is regulated. Investors would know…",
-      "url": "https://x.com/SenLummis/status/2081846279978500576",
+      "created_at": "2026-07-28T01:42:35+00:00",
+      "text": "RT @NateGeraci: Quick look at some of the major asset managers now supporting the Clarity Act… -BlackRock -Fidelity -Charles Schwab -Goldman Sachs -Franklin Templeton I still remember when people told me crypto was a scam. Some of them still actually believe that.",
+      "summary": "Major asset managers including BlackRock, Fidelity, and Goldman Sachs now back the Clarity Act, signaling institutional support.",
+      "url": "https://x.com/patrickjwitt/status/2081918209490407924",
       "type": "retweet",
       "categories": [
         "legislation"
@@ -231,98 +74,50 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 1144,
+        "retweets": 30,
         "replies": 0,
         "quotes": 0,
-        "views": "10520"
-      }
+        "views": "736"
+      },
+      "enriched_by": "claude_code"
     },
     {
-      "id": "2081837519566479464",
+      "id": "2081837818330984714",
       "is_retweet": false,
       "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T20:21:57+00:00",
-      "text": "🎶I’m the Clarity bill, on Capitol Hill🎶 https://t.co/M52dSxjghj",
-      "summary": "🎶I’m the Clarity bill, on Capitol Hill🎶 https://t.co/M52dSxjghj",
-      "url": "https://x.com/SenLummis/status/2081837519566479464",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-27T20:23:09+00:00",
+      "text": "Tell the Senate to bring the Clarity Act to the floor. Crypto voters want clear rules that protect consumers, support American innovation, and keep the future of digital assets in the United States. Make your voice heard at https://t.co/CpN1VVHFdP",
+      "summary": "Blockchain Association urges the Senate to bring the Clarity Act to the floor for clear digital asset rules.",
+      "url": "https://x.com/BlockchainAssn/status/2081837818330984714",
       "type": "original",
       "categories": [
-        "other"
+        "legislation"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 7616,
-        "retweets": 1132,
-        "replies": 392,
-        "quotes": 123,
-        "views": "204172"
-      }
-    },
-    {
-      "id": "2081836974009201099",
-      "is_retweet": true,
-      "original_author": "DOJFraudDiv",
-      "username": "VP",
-      "display_name": "Vice President JD Vance",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T20:19:47+00:00",
-      "text": "RT @DOJFraudDiv: A Michigan woman pleaded GUILTY today to billing Medicare for psychotherapy services that were never provided to residents of her adult day care center. She was charged as part of the 2026 National Health Care Fraud Takedown. The Fraud Division remains laser-focused on investigating and prosecuting those who commit fraud against the American people. Read more: https://t.co/SNeoRK7Lky",
-      "summary": "RT @DOJFraudDiv: A Michigan woman pleaded GUILTY today to billing Medicare for psychotherapy services that were never provided to residents of her…",
-      "url": "https://x.com/VP/status/2081836974009201099",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 320,
+        "likes": 41,
+        "retweets": 9,
         "replies": 0,
         "quotes": 0,
-        "views": "7694"
-      }
+        "views": "1552"
+      },
+      "enriched_by": "claude_code"
     },
     {
-      "id": "2081833139601625231",
+      "id": "2081827658954870955",
       "is_retweet": true,
-      "original_author": "SecDuffy",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T20:04:33+00:00",
-      "text": "RT @SecDuffy: NOBODY FIGHTS HARDER FOR AMERICAN WORKERS THAN @POTUS President Trump: \"We're building more auto factories and more plants than at any time in the history of our country” 🇺🇸 https://t.co/IGGIOChxtG",
-      "summary": "RT @SecDuffy: NOBODY FIGHTS HARDER FOR AMERICAN WORKERS THAN @POTUS President Trump: \"We're building more auto factories and more plants than at any…",
-      "url": "https://x.com/WhiteHouse/status/2081833139601625231",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 220,
-        "replies": 0,
-        "quotes": 0,
-        "views": "47843"
-      }
-    },
-    {
-      "id": "2081829725396217950",
-      "is_retweet": true,
-      "original_author": "SenJonHusted",
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
+      "original_author": "crypto_council",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
       "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T19:50:59+00:00",
-      "text": "RT @SenJonHusted: If the U.S. is going to lead in digital assets, we need a framework that is clear, practical, and supports innovation and job creation here at home. That’s why I support the CLARITY Act and will work to get it passed as soon as possible.",
-      "summary": "RT @SenJonHusted: If the U.S. is going to lead in digital assets, we need a framework that is clear, practical, and supports innovation and job…",
-      "url": "https://x.com/SenLummis/status/2081829725396217950",
+      "created_at": "2026-07-27T19:42:47+00:00",
+      "text": "RT @crypto_council: CEO @_Jikim makes the case in @dcexaminer: America has a habit worth breaking - invent a transformative tech, then let it drift overseas. We're watching it happen w/ digital assets, but have a rare window to rewrite the end. The time is now for Clarity. https://t.co/2npgLkHI0v",
+      "summary": "Crypto Council CEO argues for passing the Clarity Act to keep digital asset innovation onshore in the US.",
+      "url": "https://x.com/patrickjwitt/status/2081827658954870955",
       "type": "retweet",
       "categories": [
         "legislation"
@@ -331,111 +126,90 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 325,
+        "retweets": 11,
         "replies": 0,
         "quotes": 0,
-        "views": "11296"
-      }
+        "views": "923"
+      },
+      "enriched_by": "claude_code"
     },
     {
-      "id": "2081826984233963560",
+      "id": "2081816590769647856",
       "is_retweet": false,
       "original_author": null,
-      "username": "ChairmanSelig",
-      "display_name": "Mike Selig",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-07-27T19:40:06+00:00",
-      "text": "Thank you to @SecScottBessent and @USTreasury for hosting another impactful Financial Literacy and Education Commission meeting today. I appreciate the opportunity to work with you to help break down the information barriers standing between countless Americans and financial security.",
-      "summary": "Thank you to @SecScottBessent and @USTreasury for hosting another impactful Financial Literacy and Education Commission meeting today. I appreciate…",
-      "url": "https://x.com/ChairmanSelig/status/2081826984233963560",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-27T18:58:48+00:00",
+      "text": "The largest asset manager in the world just endorsed the Clarity Act, and you’re blackpilling? @BlackRock",
+      "summary": "BlackRock, world's largest asset manager, endorses the Clarity Act crypto market structure legislation.",
+      "url": "https://x.com/patrickjwitt/status/2081816590769647856",
       "type": "quote",
       "categories": [
-        "other"
+        "legislation"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 42,
-        "retweets": 4,
-        "replies": 3,
-        "quotes": 0,
-        "views": "3887"
-      }
+        "likes": 2588,
+        "retweets": 457,
+        "replies": 96,
+        "quotes": 20,
+        "views": "132187"
+      },
+      "enriched_by": "claude_code"
     },
     {
-      "id": "2081805197538390304",
-      "is_retweet": true,
-      "original_author": "DennisCShea_",
-      "username": "RepFrenchHill",
-      "display_name": "French Hill",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T18:13:31+00:00",
-      "text": "RT @DennisCShea_: Congratulations to Rep. @RepFrenchHill on receiving BPC's Terwilliger Bipartisanship in Housing Award, recognized for his efforts to bring both sides together to expand access to safe, affordable housing. Stay tuned as we present the rest of this year's awards.",
-      "summary": "RT @DennisCShea_: Congratulations to Rep. @RepFrenchHill on receiving BPC's Terwilliger Bipartisanship in Housing Award, recognized for his efforts…",
-      "url": "https://x.com/RepFrenchHill/status/2081805197538390304",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "quotes": 0,
-        "views": "234"
-      }
-    },
-    {
-      "id": "2081804997692428632",
-      "is_retweet": true,
-      "original_author": "NAR_Advocacy",
-      "username": "RepFrenchHill",
-      "display_name": "French Hill",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T18:12:44+00:00",
-      "text": "RT @NAR_Advocacy: Last week, NAR and several other industry organizations brought together leaders from across Washington's housing policy community to celebrate the bipartisan 21st Century ROAD to Housing Act. @RepFrenchHill @RepMaxineWaters @repcleaver @USRepMikeFlood https://t.co/547OuoOAkT",
-      "summary": "RT @NAR_Advocacy: Last week, NAR and several other industry organizations brought together leaders from across Washington's housing policy community…",
-      "url": "https://x.com/RepFrenchHill/status/2081804997692428632",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "216"
-      }
-    },
-    {
-      "id": "2081804917287608727",
+      "id": "2081807375103574458",
       "is_retweet": false,
       "original_author": null,
-      "username": "RepFrenchHill",
-      "display_name": "French Hill",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T18:12:25+00:00",
-      "text": "On July 27, 1953, the guns fell silent on the Korean Peninsula after three years of brutal fighting. The Korean War is often called the Forgotten War, but the men who fought will always be remembered for their courage and sacrifice. They held the line in bitter cold and impossible terrain, often outnumbered, often overlooked back home. Their service secured freedom for millions of South Koreans who still live in it today. On this National Korean War Veterans Armistice Day, we honor all who served, especially the more than 36,000 Americans who never came home. We remember the Chosin Few and tell the story of those who fought so no generation forgets the men of the Forgotten War.",
-      "summary": "On July 27, 1953, the guns fell silent on the Korean Peninsula after three years of brutal fighting. The Korean War is often called the Forgotten…",
-      "url": "https://x.com/RepFrenchHill/status/2081804917287608727",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-27T18:22:10+00:00",
+      "text": "1/ Last week, we filed comments with @USOCC on its proposed rule implementing the GENIUS Act’s anti-money laundering and sanctions requirements for payment stablecoin issuers. 🧵 https://t.co/P2aqxoYSfA https://t.co/8lvQzxTnjB",
+      "summary": "Blockchain Association filed comments on OCC's rule implementing GENIUS Act AML and sanctions requirements for stablecoin issuers.",
+      "url": "https://x.com/BlockchainAssn/status/2081807375103574458",
       "type": "original",
       "categories": [
-        "other"
+        "stablecoins"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 8,
-        "retweets": 0,
+        "likes": 49,
+        "retweets": 8,
         "replies": 1,
-        "quotes": 1,
-        "views": "658"
-      }
+        "quotes": 0,
+        "views": "2421"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081800633099620672",
+      "is_retweet": true,
+      "original_author": "CJRobins01",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-27T17:55:23+00:00",
+      "text": "RT @CJRobins01: Over the last week, our small but mighty @Morpho team met with nearly a dozen Senate offices to talk about the Clarity Act. The message we heard in every meeting was \"we're trying to get to yes.\" That's encouraging, because the Clarity Act is a massive opportunity for the US to lead on the regulation of digital asset markets, and its a massive improvement over the status quo. Here's what the status quo actually looks like: 1️⃣ The industry lacks oversight. A lack of regulatory clarity favors bad actors, who take advantage of the uncertainty to exploit consumers. If we don't move now, we're leaving the door open to more bad actors. 2️⃣ The industry lacks transparency. Without mandated disclosures and listing standards, consumers are regularly exposed to scams and frauds. 3️⃣ The industry lacks standards. Without standards around decentralization and control, consumers are exposed to unknown risks when using blockchain networks. Is the bill perfect? No. But no bill is perfect, and we can't let perfection be the enemy of progress. The @BlockchainAssn launched https://t.co/nz8glv3BGl, which is a website that helps companies, constituents, and voters urge Senate leadership to bring the Clarity Act to the floor. Let's get this across the line!",
+      "summary": "Morpho/Blockchain Assn lobby Senate on Clarity Act, citing lack of oversight, disclosures, and decentralization standards as status quo risks.",
+      "url": "https://x.com/BlockchainAssn/status/2081800633099620672",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "593"
+      },
+      "enriched_by": "claude_code"
     },
     {
       "id": "2081794450771353616",
@@ -446,7 +220,7 @@
       "group": "Other / Policy Adjacent",
       "created_at": "2026-07-27T17:30:49+00:00",
       "text": "RT @crypto_council: 1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 https://t.co/ncGkYHZdTf",
-      "summary": "RT @crypto_council: 1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity…",
+      "summary": "Crypto Council for Innovation returns to Capitol Hill to counter myths about the Clarity Act digital asset market bill.",
       "url": "https://x.com/milesjennings/status/2081794450771353616",
       "type": "retweet",
       "categories": [
@@ -460,44 +234,20 @@
         "replies": 0,
         "quotes": 0,
         "views": "86"
-      }
+      },
+      "enriched_by": "claude_code"
     },
     {
-      "id": "2081792519570956434",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T17:23:09+00:00",
-      "text": "Wanna know the truth about what's actually in the Clarity Act and what's not? Take a took at the thread below from @crypto_council. Let's get the Clarity Act passed NOW!.",
-      "summary": "Wanna know the truth about what's actually in the Clarity Act and what's not? Take a took at the thread below from @crypto_council. Let's get the…",
-      "url": "https://x.com/SenLummis/status/2081792519570956434",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 5077,
-        "retweets": 1083,
-        "replies": 192,
-        "quotes": 28,
-        "views": "194782"
-      }
-    },
-    {
-      "id": "2081774767367991352",
+      "id": "2081793907822612814",
       "is_retweet": true,
-      "original_author": "SenMcCormickPA",
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-27T16:12:36+00:00",
-      "text": "RT @SenMcCormickPA: The time for delay is over. Bring the CLARITY Act to the Senate Floor for a vote and let every senator go on the record. America needs clear rules that protect consumers and keep digital asset innovation and jobs here at home. https://t.co/3HtTAbGQL8",
-      "summary": "RT @SenMcCormickPA: The time for delay is over. Bring the CLARITY Act to the Senate Floor for a vote and let every senator go on the record. America…",
-      "url": "https://x.com/SenLummis/status/2081774767367991352",
+      "original_author": "BlockchainAssn",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-27T17:28:40+00:00",
+      "text": "RT @BlockchainAssn: Clarity is within sight. Now the Senate needs to hear directly from the companies and voters who want Congress to finish the job. Send a personalized letter urging the Senate to bring the Clarity Act to the floor: https://t.co/CpN1VVHFdP",
+      "summary": "Blockchain Association urges companies and voters to send letters pushing the Senate to bring the Clarity Act to the floor.",
+      "url": "https://x.com/BlockchainAssn/status/2081793907822612814",
       "type": "retweet",
       "categories": [
         "legislation"
@@ -506,11 +256,64 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 316,
+        "retweets": 74,
         "replies": 0,
         "quotes": 0,
-        "views": "12235"
-      }
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081790707010867673",
+      "is_retweet": true,
+      "original_author": "BitcoinNews",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-27T17:15:57+00:00",
+      "text": "RT @BitcoinNews: JUST IN: 🇺🇸 Stand With Crypto announces it will score every senator's CLARITY Act vote on public lawmaker scorecards, giving 3 million U.S. advocates a permanent record ahead of November midterms. Read the full story 👉 https://t.co/Kqpq0n1tFP https://t.co/rJMBq3XHpn",
+      "summary": "Stand With Crypto will score every senator's CLARITY Act vote on public scorecards ahead of the November midterms.",
+      "url": "https://x.com/standwithcrypto/status/2081790707010867673",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 187,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1045"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2081783685871788056",
+      "is_retweet": true,
+      "original_author": "SenMcCormickPA",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-27T16:48:03+00:00",
+      "text": "RT @SenMcCormickPA: The time for delay is over. Bring the CLARITY Act to the Senate Floor for a vote and let every senator go on the record. America needs clear rules that protect consumers and keep digital asset innovation and jobs here at home. https://t.co/3HtTAbGQL8",
+      "summary": "Sen. McCormick presses Senate leadership to bring the CLARITY Act to a floor vote for clear digital asset rules.",
+      "url": "https://x.com/patrickjwitt/status/2081783685871788056",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 313,
+        "replies": 0,
+        "quotes": 0,
+        "views": "950"
+      },
+      "enriched_by": "claude_code"
     },
     {
       "id": "2081772666546258353",
@@ -521,7 +324,7 @@
       "group": "Other / Policy Adjacent",
       "created_at": "2026-07-27T16:04:15+00:00",
       "text": "RT @standwithcrypto: On behalf of 3 million U.S advocates, @standwithcrypto is providing notice that we will be scoring votes on the CLARITY Act. SWC strongly urges Senators to vote “Yes” to advance the bill, and lawmaker scorecards will be updated based on voting records. The CLARITY Act has galvanized millions of crypto owners, as they eagerly await market structure legislation that will deliver certainty about the technology they rely on. Crypto voters across the country are paying attention to which lawmakers stand with them in this critical moment.",
-      "summary": "RT @standwithcrypto: On behalf of 3 million U.S advocates, @standwithcrypto is providing notice that we will be scoring votes on the CLARITY Act. SWC…",
+      "summary": "Stand With Crypto to score Senate votes on the CLARITY Act, urging Yes to advance crypto market structure legislation.",
       "url": "https://x.com/milesjennings/status/2081772666546258353",
       "type": "retweet",
       "categories": [
@@ -535,7 +338,8 @@
         "replies": 0,
         "quotes": 0,
         "views": "145"
-      }
+      },
+      "enriched_by": "claude_code"
     }
   ]
 }
