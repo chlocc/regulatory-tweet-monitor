@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-28T15:16:13.831824+00:00",
-  "generated_at_unix": 1785251773,
+  "generated_at": "2026-07-28T18:00:05.837943+00:00",
+  "generated_at_unix": 1785261605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-27T16:00:00+00:00",
-  "window_end": "2026-07-28T15:16:13.831824+00:00",
-  "new_this_run": 20,
-  "total_recent": 32,
+  "window_end": "2026-07-28T18:00:05.837943+00:00",
+  "new_this_run": 26,
+  "total_recent": 46,
   "errors": [
     {
-      "username": "KhurramDara",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 60,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +25,240 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2082147489147232398",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T16:53:40+00:00",
+      "text": "One thread connects CLARITY, Hester Peirce's vaults statement, and the new FATF report on AML in DeFi, says @banamlas: control. Is there a discrete group that can change a protocol's core functions? If there is, in his read, some kind of regulation should attach. https://t.co/oxBy6o18kF",
+      "summary": "Ties CLARITY, Peirce's vaults statement, and FATF DeFi AML report to whether a controlling group triggers regulation.",
+      "url": "https://x.com/laurashin/status/2082147489147232398",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "1669"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082145374530089073",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T16:45:16+00:00",
+      "text": "Fresh CLARITY intel from @banamlas on @DEXintheCityPod: Sen. Ruben Gallego is promising ethics language with Sen. Thom Tillis within days — and Democrats' red line is state AG authority to enforce it, in case the DOJ won't. There's precedent: the CFPB statute. https://t.co/BhxdGUXSPf",
+      "summary": "Sen. Gallego and Tillis to add CLARITY Act ethics language; Democrats' red line is state AG authority to enforce.",
+      "url": "https://x.com/laurashin/status/2082145374530089073",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1580"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082134574767735052",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T16:02:21+00:00",
+      "text": "OpenAI vs. Hugging Face, Apple's AI privacy fight, a CLARITY update — and the SEC's warning shot at DeFi lending and vaults. Plume's top lawyer @banamlas joins @DEXintheCityPod at 12:30pm ET. DEX in the city is live now! https://t.co/Y6mpuzZF2n",
+      "summary": "SEC issues warning shot at DeFi lending and vaults; podcast also covers a CLARITY Act update with Plume's top lawyer.",
+      "url": "https://x.com/laurashin/status/2082134574767735052",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 2,
+        "views": "4679"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082127523249262881",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T15:34:20+00:00",
+      "text": "Hopes that Senate Majority Leader Thune will hold a cloture vote on the Clarity Act this week are fading. From a procedural standpoint, he would need to file cloture on the motion to proceed today to set up a Thursday vote under Senate rules, but those involved in the process expect the Russia/Iran sanctions bill to take precedence. Attention is instead shifting to next week, with industry stakeholders telling me it is “imperative” for leadership to at least begin the cloture process before the August recess.",
+      "summary": "Senate cloture vote on the crypto market-structure Clarity Act likely slips past August recess amid competing sanctions bill.",
+      "url": "https://x.com/EleanorTerrett/status/2082127523249262881",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1200,
+        "retweets": 202,
+        "replies": 162,
+        "quotes": 24,
+        "views": "72463"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082117796222107869",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T14:55:41+00:00",
+      "text": "RT @laurashin: 🔧 Circle has acquired nearly 1,000 blockchain patents from IBM, becoming the largest U.S. holder of blockchain IP. https://t.co/D2XM4tA9Wm",
+      "summary": "Stablecoin issuer Circle buys ~1,000 IBM blockchain patents, becoming the largest US holder of blockchain IP.",
+      "url": "https://x.com/laurashin/status/2082117796222107869",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082117787418268049",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T14:55:39+00:00",
+      "text": "RT @laurashin: 🪙 Strategy has gone five straight weeks without buying bitcoin, instead selling $544.5 million in MSTR shares to build cash. https://t.co/tInGARhgpi",
+      "summary": "Strategy pauses bitcoin buying for five weeks, selling $544.5M in MSTR shares to build cash.",
+      "url": "https://x.com/laurashin/status/2082117787418268049",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082117767109411081",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T14:55:34+00:00",
+      "text": "RT @laurashin: ⏳ Senate Majority Leader John Thune is prioritizing nominations, government funding and a Russia sanctions bill over the Clarity Act, pushing any potential vote to at least next week. https://t.co/OwjYGzyHFp",
+      "summary": "Senate leader Thune deprioritizes the crypto market-structure Clarity Act, delaying any vote to at least next week.",
+      "url": "https://x.com/laurashin/status/2082117767109411081",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082117758448210217",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T14:55:32+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 The Clarity Act falls behind in the Senate queue 📉 Bitcoin slides toward $63,000 as Asian stocks sink and the Fed looms ⏸️ Strategy skips bitcoin for a fifth week, sells $544.5 million in stock 📜 Circle buys nearly 1,000 IBM blockchain patents 🌎 Read today’s must-know crypto news… and subscribe! https://t.co/xfGQ1uV30g",
+      "summary": "Crypto news roundup: Clarity Act slips in Senate queue; Strategy pauses BTC buys; Circle buys ~1,000 IBM blockchain patents.",
+      "url": "https://x.com/laurashin/status/2082117758448210217",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      },
+      "enriched_by": "claude_code"
+    },
+    {
+      "id": "2082094193774673982",
+      "is_retweet": true,
+      "original_author": "EricBalchunas",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-28T13:21:53+00:00",
+      "text": "RT @EricBalchunas: Morgan Stanley Ether and Solana ETFs are launching today.. both charge 0.14% instantly making them the cheapest in each category. Their bitcoin ETF is up to $400m in 4mo despite launching in middle of winter. Good sign. https://t.co/HNm8EKVOoc",
+      "summary": "Morgan Stanley launches Ether and Solana ETFs at 0.14%, signaling deepening institutional crypto adoption.",
+      "url": "https://x.com/EleanorTerrett/status/2082094193774673982",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7999"
+      },
+      "enriched_by": "claude_code"
+    },
     {
       "id": "2082091754799399253",
       "is_retweet": false,
@@ -34,7 +268,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-28T13:12:12+00:00",
       "text": "Oregon: your letter count is low, and your Senator says he will not back Clarity. As a crypto owner, you know the truth. Be loud. Tell him Clarity sets clear rules against corruption and protects consumers like you. 👇 Connect with Congress: https://t.co/GzHabguvh1",
-      "summary": "Advocacy urging Oregon's senator to back the Clarity Act, framing it as clear crypto rules and consumer protection.",
+      "summary": "Advocacy push urging Oregon's senator to back the Clarity Act, framing it as clear crypto rules and consumer protection.",
       "url": "https://x.com/CryptoLawUS/status/2082091754799399253",
       "type": "original",
       "categories": [
@@ -60,7 +294,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-28T12:18:03+00:00",
       "text": "whether you are pro crypto or hate it, whether you are a fan of the current President or not … the Clarity Act is a better solution than the status quo. (if you want to understand why, listen to this on your commute👇). Let's get this passed.",
-      "summary": "Commentary arguing the Clarity Act is a better regulatory framework than the status quo and urging its passage.",
+      "summary": "Advocate argues the CLARITY Act crypto market structure bill is better than the regulatory status quo and urges passage.",
       "url": "https://x.com/JacobRobinsonJD/status/2082078129774825683",
       "type": "quote",
       "categories": [
@@ -86,7 +320,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-28T02:34:20+00:00",
       "text": "RT @standwithcrypto: On behalf of 3 million U.S advocates, @standwithcrypto is providing notice that we will be scoring votes on the CLARITY Act. SWC strongly urges Senators to vote “Yes” to advance the bill, and lawmaker scorecards will be updated based on voting records. The CLARITY Act has galvanized millions of crypto owners, as they eagerly await market structure legislation that will deliver certainty about the technology they rely on. Crypto voters across the country are paying attention to which lawmakers stand with them in this critical moment.",
-      "summary": "Stand With Crypto will score Senate votes on the CLARITY Act, pressing lawmakers to advance crypto market structure legislation.",
+      "summary": "Stand With Crypto will score Senate votes on the CLARITY Act, pressuring lawmakers to advance crypto market structure legislation.",
       "url": "https://x.com/patrickjwitt/status/2081931231864770880",
       "type": "retweet",
       "categories": [
@@ -112,7 +346,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-28T01:55:49+00:00",
       "text": "Senator @JeffMerkley proves how stupid or dishonest Members of Congress are. He wants to block the Clarity Act to prevent Trump from abusing his power and profiting off crypto. The ENTIRE reason Trump’s made $1.4 billion is because there is NO CLARITY IN PLACE. Moreover, Trump will Continue profiting WITHOUT CLARITY. In the meantime, customer accounts and funds remain in jeopardy and businesses will move offshore. These people are insanely dumb.",
-      "summary": "Legal commentator argues blocking the CLARITY Act perpetuates regulatory uncertainty that endangers customer funds and pushes crypto offshore.",
+      "summary": "Commentary attacking a senator's move to block the CLARITY Act, arguing lack of crypto regulatory clarity endangers customer funds.",
       "url": "https://x.com/JohnEDeaton1/status/2081921535720538384",
       "type": "quote",
       "categories": [
@@ -138,7 +372,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-28T01:42:35+00:00",
       "text": "RT @NateGeraci: Quick look at some of the major asset managers now supporting the Clarity Act… -BlackRock -Fidelity -Charles Schwab -Goldman Sachs -Franklin Templeton I still remember when people told me crypto was a scam. Some of them still actually believe that.",
-      "summary": "Major asset managers—BlackRock, Fidelity, Schwab, Goldman, Franklin Templeton—now back the CLARITY Act, signaling institutional support for the crypto market structure bill.",
+      "summary": "Major asset managers (BlackRock, Fidelity, Goldman, etc.) now back the CLARITY Act, signaling institutional support for the bill.",
       "url": "https://x.com/patrickjwitt/status/2081918209490407924",
       "type": "retweet",
       "categories": [
@@ -156,6 +390,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2081881217222447235",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-27T23:15:36+00:00",
+      "text": "RT @a16zcrypto: “You can’t build a real industry on top of shifting sands.” @milesjennings on why regulatory frameworks designed for companies don’t always map neatly onto blockchains, and how the CLARITY Act creates a new framework. @MTSlive https://t.co/yR38dmMxYP",
+      "summary": "a16z's Miles Jennings argues the CLARITY Act creates a new regulatory framework fit for blockchains, not just companies.",
+      "url": "https://x.com/milesjennings/status/2081881217222447235",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "146"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2081871685779693718",
       "is_retweet": true,
       "original_author": "BitcoinArchive",
@@ -164,7 +424,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T22:37:43+00:00",
       "text": "RT @BitcoinArchive: BREAKING: BITCOIN CRITIC BEN MCKENZIE URGES CONGRESS TO BLOCK THE CLARITY ACT 👀 \"You can not be against Trump's crypto corruption and then vote for a bill that enables that corruption to continue.\" Seriously... a TV actor is the leading voice for the anti-crypto crowd? 🧐 https://t.co/yg2prYajgv",
-      "summary": "Bitcoin critic urges Congress to block the CLARITY Act, crypto market structure legislation.",
+      "summary": "Critic Ben McKenzie urges Congress to block the crypto market-structure CLARITY Act, fueling debate over its passage.",
       "url": "https://x.com/HaileyLennonBTC/status/2081871685779693718",
       "type": "retweet",
       "categories": [
@@ -182,6 +442,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2081867040126627917",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T22:19:16+00:00",
+      "text": "RT @StaniKulechov: Very interesting interview with SEC Commissioner Peirce on vaults, especially the distinction between vaults and onchain lending protocols. In lending protocols, smart contracts facilitate transactions without intermediaries (traditional DeFi pool model). Vaults, by contrast, allocate and invest third-party assets, acting as intermediaries, which prompted the discussion on vaults and regulation.",
+      "summary": "SEC Commissioner Peirce distinguishes DeFi lending protocols from asset-managing vaults, which act as intermediaries raising regulatory questions.",
+      "url": "https://x.com/EleanorTerrett/status/2081867040126627917",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10027"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2081858552696557867",
       "is_retweet": false,
       "original_author": null,
@@ -190,7 +476,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T21:45:32+00:00",
       "text": "WITHOUT CLARITY, if a crypto exchange goes bankrupt, customers’ assets (crypto, stocks, cash, etc) are at risk of being treated as the exchange’s property and used to pay off the company’s debts. Customers are treated as unsecured creditors. In sum, retail investors get screwed and remain without protection. CLARITY helps prevent that from happening. Quite possibly the best advertisement for passing Clarity is that @ewarren is against it at the federal level and Letitia James is against it at the state level. Must be worth passing.",
-      "summary": "Argues CLARITY Act would protect crypto exchange customers' assets in bankruptcy from being treated as company property.",
+      "summary": "Deaton argues the CLARITY Act protects crypto exchange customers from being treated as unsecured creditors in bankruptcy.",
       "url": "https://x.com/JohnEDeaton1/status/2081858552696557867",
       "type": "quote",
       "categories": [
@@ -216,7 +502,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T21:25:18+00:00",
       "text": "🎯 You've gotten us this close. But it's not over yet. Stay loud so they can't ignore us. Our voices matter and make a difference. Tell your Senator to pass the Clarity Act: https://t.co/GzHabguvh1",
-      "summary": "Advocacy urging senators to pass the crypto market structure CLARITY Act.",
+      "summary": "Advocacy urging senators to pass the Clarity Act, the crypto market structure bill.",
       "url": "https://x.com/CryptoLawUS/status/2081853458991255710",
       "type": "quote",
       "categories": [
@@ -242,7 +528,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T20:39:05+00:00",
       "text": "RT @BitcoinArchive: BREAKING: COINBASE EXPECTS CLARITY ACT VOTE BY MONDAY 🚨 “I talked to Sen. Thune’s office and we are hopeful that a vote will happen as early as next Monday.” “Let the Senate go into August recess with an important bipartisan win.” — Coinbase Chief Policy Officer Faryar Shirzad https://t.co/qJzK7ngSQc",
-      "summary": "Coinbase expects a Senate vote on the crypto market-structure Clarity Act as early as Monday.",
+      "summary": "Coinbase policy chief expects a Senate Clarity Act vote as early as Monday before August recess.",
       "url": "https://x.com/HaileyLennonBTC/status/2081841828047753503",
       "type": "retweet",
       "categories": [
@@ -260,6 +546,32 @@
       "enriched_by": "claude_code"
     },
     {
+      "id": "2081838708752273673",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-27T20:26:41+00:00",
+      "text": "A must-read on the Senate math behind the Clarity Act without the hype. I reported this morning that Senate leadership has discussed potentially keeping members in Washington beyond the scheduled recess if they have the votes to invoke cloture on the motion to proceed. But I’m told it’s all very much in flux, especially with growing demands from certain senators to cancel recess for votes on the SAVE America Act and the Russia/Iran sanctions bill.",
+      "summary": "Report on Senate vote math and possible recess delay to invoke cloture on the Clarity Act.",
+      "url": "https://x.com/EleanorTerrett/status/2081838708752273673",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1636,
+        "retweets": 276,
+        "replies": 93,
+        "quotes": 16,
+        "views": "214754"
+      },
+      "enriched_by": "claude_code"
+    },
+    {
       "id": "2081837818330984714",
       "is_retweet": false,
       "original_author": null,
@@ -268,7 +580,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-27T20:23:09+00:00",
       "text": "Tell the Senate to bring the Clarity Act to the floor. Crypto voters want clear rules that protect consumers, support American innovation, and keep the future of digital assets in the United States. Make your voice heard at https://t.co/CpN1VVHFdP",
-      "summary": "Blockchain Association campaigns for the Senate to bring the crypto Clarity Act to a floor vote.",
+      "summary": "Blockchain Association campaign pushing the Senate to floor the Clarity Act for clear crypto rules.",
       "url": "https://x.com/BlockchainAssn/status/2081837818330984714",
       "type": "original",
       "categories": [
@@ -294,7 +606,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-27T19:42:47+00:00",
       "text": "RT @crypto_council: CEO @_Jikim makes the case in @dcexaminer: America has a habit worth breaking - invent a transformative tech, then let it drift overseas. We're watching it happen w/ digital assets, but have a rare window to rewrite the end. The time is now for Clarity. https://t.co/2npgLkHI0v",
-      "summary": "Crypto Council CEO urges passage of the Clarity Act to keep digital-asset innovation in the US.",
+      "summary": "Crypto Council CEO argues in op-ed that passing Clarity now keeps digital asset innovation in the US.",
       "url": "https://x.com/patrickjwitt/status/2081827658954870955",
       "type": "retweet",
       "categories": [
@@ -320,7 +632,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-27T18:58:48+00:00",
       "text": "The largest asset manager in the world just endorsed the Clarity Act, and you’re blackpilling? @BlackRock",
-      "summary": "BlackRock, the world's largest asset manager, endorses the crypto market-structure Clarity Act.",
+      "summary": "BlackRock, world's largest asset manager, endorses the Clarity Act crypto market structure bill.",
       "url": "https://x.com/patrickjwitt/status/2081816590769647856",
       "type": "quote",
       "categories": [
@@ -346,7 +658,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-27T18:22:10+00:00",
       "text": "1/ Last week, we filed comments with @USOCC on its proposed rule implementing the GENIUS Act’s anti-money laundering and sanctions requirements for payment stablecoin issuers. 🧵 https://t.co/P2aqxoYSfA https://t.co/8lvQzxTnjB",
-      "summary": "Blockchain Association filed OCC comments on GENIUS Act AML/sanctions rules for payment stablecoin issuers.",
+      "summary": "Blockchain Assn filed OCC comments on GENIUS Act AML/sanctions rules for payment stablecoin issuers.",
       "url": "https://x.com/BlockchainAssn/status/2081807375103574458",
       "type": "original",
       "categories": [
@@ -372,7 +684,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-27T17:55:23+00:00",
       "text": "RT @CJRobins01: Over the last week, our small but mighty @Morpho team met with nearly a dozen Senate offices to talk about the Clarity Act. The message we heard in every meeting was \"we're trying to get to yes.\" That's encouraging, because the Clarity Act is a massive opportunity for the US to lead on the regulation of digital asset markets, and its a massive improvement over the status quo. Here's what the status quo actually looks like: 1️⃣ The industry lacks oversight. A lack of regulatory clarity favors bad actors, who take advantage of the uncertainty to exploit consumers. If we don't move now, we're leaving the door open to more bad actors. 2️⃣ The industry lacks transparency. Without mandated disclosures and listing standards, consumers are regularly exposed to scams and frauds. 3️⃣ The industry lacks standards. Without standards around decentralization and control, consumers are exposed to unknown risks when using blockchain networks. Is the bill perfect? No. But no bill is perfect, and we can't let perfection be the enemy of progress. The @BlockchainAssn launched https://t.co/nz8glv3BGl, which is a website that helps companies, constituents, and voters urge Senate leadership to bring the Clarity Act to the floor. Let's get this across the line!",
-      "summary": "Morpho lobbied Senate offices to pass the Clarity Act, framing it as a major upgrade to digital asset market regulation.",
+      "summary": "Morpho lobbied Senate offices to advance the Clarity Act for US digital asset market regulation.",
       "url": "https://x.com/BlockchainAssn/status/2081800633099620672",
       "type": "retweet",
       "categories": [
@@ -398,7 +710,7 @@
       "group": "Other / Policy Adjacent",
       "created_at": "2026-07-27T17:30:49+00:00",
       "text": "RT @crypto_council: 1/ It’s Monday and we have a big week ahead for the Clarity Act. As CCI goes back to the Hill, we are countering the Clarity myths and setting the record straight. 🧵 https://t.co/ncGkYHZdTf",
-      "summary": "Crypto Council for Innovation is lobbying the Hill to counter myths and advance the Clarity Act this week.",
+      "summary": "Crypto Council for Innovation lobbies the Hill to counter Clarity Act myths ahead of a key week.",
       "url": "https://x.com/milesjennings/status/2081794450771353616",
       "type": "retweet",
       "categories": [
@@ -424,7 +736,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-27T17:28:40+00:00",
       "text": "RT @BlockchainAssn: Clarity is within sight. Now the Senate needs to hear directly from the companies and voters who want Congress to finish the job. Send a personalized letter urging the Senate to bring the Clarity Act to the floor: https://t.co/CpN1VVHFdP",
-      "summary": "Blockchain Association is urging companies and voters to push the Senate to bring the Clarity Act to the floor.",
+      "summary": "Blockchain Association urges Senate to bring the crypto market-structure CLARITY Act to a floor vote.",
       "url": "https://x.com/BlockchainAssn/status/2081793907822612814",
       "type": "retweet",
       "categories": [
@@ -450,7 +762,7 @@
       "group": "Industry & Policy Orgs",
       "created_at": "2026-07-27T17:15:57+00:00",
       "text": "RT @BitcoinNews: JUST IN: 🇺🇸 Stand With Crypto announces it will score every senator's CLARITY Act vote on public lawmaker scorecards, giving 3 million U.S. advocates a permanent record ahead of November midterms. Read the full story 👉 https://t.co/Kqpq0n1tFP https://t.co/rJMBq3XHpn",
-      "summary": "Stand With Crypto to publish scorecards ranking senators' CLARITY Act votes ahead of midterms.",
+      "summary": "Stand With Crypto to score senators' CLARITY Act votes on public scorecards ahead of midterms.",
       "url": "https://x.com/standwithcrypto/status/2081790707010867673",
       "type": "retweet",
       "categories": [
@@ -476,7 +788,7 @@
       "group": "Legislators & Congressional Committees",
       "created_at": "2026-07-27T16:48:03+00:00",
       "text": "RT @SenMcCormickPA: The time for delay is over. Bring the CLARITY Act to the Senate Floor for a vote and let every senator go on the record. America needs clear rules that protect consumers and keep digital asset innovation and jobs here at home. https://t.co/3HtTAbGQL8",
-      "summary": "Sen. McCormick urges Senate floor vote on CLARITY Act to set digital asset rules.",
+      "summary": "Sen. McCormick presses Senate leadership to bring the crypto CLARITY Act to the floor for a vote.",
       "url": "https://x.com/patrickjwitt/status/2081783685871788056",
       "type": "retweet",
       "categories": [
@@ -502,7 +814,7 @@
       "group": "Lawyers & Legal Counsel",
       "created_at": "2026-07-27T16:41:10+00:00",
       "text": "Use Crypto-Law’s Connect-to-Congress App to contact your Senators to pass Clarity.",
-      "summary": "Advocacy push urging constituents to lobby senators to pass the crypto CLARITY Act.",
+      "summary": "JohnEDeaton promotes a tool to lobby senators to pass the crypto CLARITY Act.",
       "url": "https://x.com/JohnEDeaton1/status/2081781955217993937",
       "type": "quote",
       "categories": [
