@@ -1,31 +1,35 @@
 {
-  "generated_at": "2026-07-29T09:05:44.199241+00:00",
-  "generated_at_unix": 1785315944,
+  "generated_at": "2026-07-29T12:04:31.144243+00:00",
+  "generated_at_unix": 1785326671,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-28T16:00:00+00:00",
-  "window_end": "2026-07-29T09:05:44.199241+00:00",
-  "new_this_run": 19,
-  "total_recent": 32,
+  "window_end": "2026-07-29T12:04:31.144243+00:00",
+  "new_this_run": 2,
+  "total_recent": 15,
   "errors": [
     {
-      "username": "RoKhanna",
+      "username": "SH_Brennan",
       "error": "The read operation timed out"
     },
     {
-      "username": "katiebiber",
+      "username": "NYcryptolawyer",
       "error": "The read operation timed out"
     },
     {
-      "username": "jchervinsky",
+      "username": "MinarikLaw",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "lex_node",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 30,
+    "attempted_this_run": 11,
+    "successful_this_run": 11,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -34,66 +38,16 @@
   },
   "tweets": [
     {
-      "id": "2082289272246182219",
+      "id": "2082442062201303364",
       "is_retweet": false,
       "original_author": null,
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-29T02:17:04+00:00",
-      "text": "Is it appropriate for a public sector union to lobby against legislation that the department their members work for supports? Democracy or Deep State? @WeAreNAAUSA",
-      "summary": "Is it appropriate for a public sector union to lobby against legislation that the department their members work for supports? Democracy or Deep…",
-      "url": "https://x.com/patrickjwitt/status/2082289272246182219",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 271,
-        "retweets": 39,
-        "replies": 13,
-        "quotes": 3,
-        "views": "18912"
-      }
-    },
-    {
-      "id": "2082285331316175204",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "amandatums",
-      "display_name": "Amanda Tuminelli",
+      "username": "N0th1n3",
+      "display_name": "Brian",
       "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-29T02:01:24+00:00",
-      "text": "This is not a constructive or serious proposal from these groups, and it actually shows their hand: they want every software developer to be treated like a financial intermediary even when that isn’t what they are/ the technology is doing. Countless hours have been spent working with law enforcement groups to address their concerns and make it clear what Clarity Act does and does not do, and the response to that hard work appears to be an 11th hour DOA “offer” via press release. This is not what good faith looks like. We remain available to work productively with lawmakers and stakeholders who actually want to do so.",
-      "summary": "This is not a constructive or serious proposal from these groups, and it actually shows their hand: they want every software developer to be treated…",
-      "url": "https://x.com/amandatums/status/2082285331316175204",
-      "type": "quote",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 65,
-        "retweets": 13,
-        "replies": 0,
-        "quotes": 3,
-        "views": "6374"
-      }
-    },
-    {
-      "id": "2082276927725826444",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-29T01:28:01+00:00",
-      "text": "Calling this the “culmination of productive negotiations” with the White House and Treasury is like saying Maduro’s removal from Venezuela was the culmination of productive negotiations with the U.S. government. We have made our position abundantly clear to Senator Cortez-Masto for weeks. This is not even close.",
-      "summary": "Calling this the “culmination of productive negotiations” with the White House and Treasury is like saying Maduro’s removal from Venezuela was the…",
-      "url": "https://x.com/patrickjwitt/status/2082276927725826444",
+      "created_at": "2026-07-29T12:24:12+00:00",
+      "text": "the proposal is unserious and insulting unserious because it completely twists the protective nature of the BRCA into a weapon against devs insulting because, as @patrickjwitt noted, it is not representative of the negotiations the WH and Treasury have engaged in with LEOs these groups and CCM instead chose to leak this unworkable version to the press in an attempt to hinder progress for months, we, along with @fund_defi, @coincenter, @BlockchainAssn, @SolanaInstitute, @a16zcrypto, @paradigm and other allies have educated lawmakers, including CCM, on the need for dev protections in Clarity to ensure the success of this industry, especially as it relates to the competitiveness and national security of the United States we will continue to engage, in good faith, with those willing to work with us to resolution, but we will not entertain bad faith attempts to criminalize devs who publish and contribute to non-controlling, non-custodial software",
+      "summary": "the proposal is unserious and insulting unserious because it completely twists the protective nature of the BRCA into a weapon against devs insulting…",
+      "url": "https://x.com/N0th1n3/status/2082442062201303364",
       "type": "quote",
       "categories": [
         "other"
@@ -101,11 +55,36 @@
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 473,
-        "retweets": 62,
-        "replies": 25,
-        "quotes": 4,
-        "views": "40922"
+        "likes": 11,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "259"
+      }
+    },
+    {
+      "id": "2082391256236233090",
+      "is_retweet": true,
+      "original_author": "amandatums",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-29T09:02:19+00:00",
+      "text": "RT @amandatums: This is not a constructive or serious proposal from these groups, and it actually shows their hand: they want every software developer to be treated like a financial intermediary even when that isn’t what they are/ the technology is doing. Countless hours have been spent working with law enforcement groups to address their concerns and make it clear what Clarity Act does and does not do, and the response to that hard work appears to be an 11th hour DOA “offer” via press release. This is not what good faith looks like. We remain available to work productively with lawmakers and stakeholders who actually want to do so.",
+      "summary": "RT @amandatums: This is not a constructive or serious proposal from these groups, and it actually shows their hand: they want every software…",
+      "url": "https://x.com/RebeccaRettig1/status/2082391256236233090",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "89"
       }
     },
     {
@@ -134,31 +113,6 @@
       }
     },
     {
-      "id": "2082232313832767577",
-      "is_retweet": true,
-      "original_author": "BitcoinMagazine",
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-28T22:30:44+00:00",
-      "text": "RT @BitcoinMagazine: JUST IN: 🇺🇸 Consumer Technology Association supports the passage of the CLARITY ACT \"America should be competitive in blockchain and digital asset technologies. We respectfully urge you to prioritize Senate floor consideration of the CLARITY Act.\" 👏 https://t.co/j42MSLGBwJ",
-      "summary": "RT @BitcoinMagazine: JUST IN: 🇺🇸 Consumer Technology Association supports the passage of the CLARITY ACT \"America should be competitive in blockchain…",
-      "url": "https://x.com/patrickjwitt/status/2082232313832767577",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 330,
-        "replies": 0,
-        "quotes": 0,
-        "views": "823"
-      }
-    },
-    {
       "id": "2082224972290752557",
       "is_retweet": true,
       "original_author": "DHSgov",
@@ -181,31 +135,6 @@
         "replies": 0,
         "quotes": 0,
         "views": "45280"
-      }
-    },
-    {
-      "id": "2082213612504944773",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-28T21:16:25+00:00",
-      "text": "Let’s not kid ourselves. Chuck Schumer is doing the absolute bare minimum here to avoid Democrats being blamed if Clarity fails to pass. No one is fooled.",
-      "summary": "Let’s not kid ourselves. Chuck Schumer is doing the absolute bare minimum here to avoid Democrats being blamed if Clarity fails to pass. No one is…",
-      "url": "https://x.com/patrickjwitt/status/2082213612504944773",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 857,
-        "retweets": 111,
-        "replies": 49,
-        "quotes": 7,
-        "views": "47622"
       }
     },
     {
@@ -234,56 +163,6 @@
       }
     },
     {
-      "id": "2082209590330946048",
-      "is_retweet": true,
-      "original_author": "mpetricone",
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-28T21:00:26+00:00",
-      "text": "RT @mpetricone: The bipartisan work is done. The House has acted. Key stakeholders are on board. Now the Senate must decide: will the new generation of financial tech be built in America or somewhere else? It’s time to bring the CLARITY Act to the Senate floor. Read CTA’s letter below. https://t.co/wU1WeDKLS8",
-      "summary": "RT @mpetricone: The bipartisan work is done. The House has acted. Key stakeholders are on board. Now the Senate must decide: will the new generation…",
-      "url": "https://x.com/patrickjwitt/status/2082209590330946048",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 34,
-        "replies": 0,
-        "quotes": 0,
-        "views": "939"
-      }
-    },
-    {
-      "id": "2082207174143488153",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T20:50:50+00:00",
-      "text": "Support for the Clarity Act continues to grow. Thank you @mpetricone and @CTAtech, North America's largest tech trade association, whose members support more than 17 million American jobs, for adding your voice in support of clear rules for digital assets.",
-      "summary": "Support for the Clarity Act continues to grow. Thank you @mpetricone and @CTAtech, North America's largest tech trade association, whose members…",
-      "url": "https://x.com/BlockchainAssn/status/2082207174143488153",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 239,
-        "retweets": 53,
-        "replies": 6,
-        "quotes": 2,
-        "views": "7004"
-      }
-    },
-    {
       "id": "2082203981581877469",
       "is_retweet": true,
       "original_author": "SenTuberville",
@@ -306,56 +185,6 @@
         "replies": 0,
         "quotes": 0,
         "views": "10697"
-      }
-    },
-    {
-      "id": "2082201447773491533",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BillHughesDC",
-      "display_name": "Bill Hughes",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-28T20:28:05+00:00",
-      "text": "👀👀👀 National Security Determination on the Threat Posed by Foreign-Produced Advanced Robotic Devices July 27, 2026 \"The Trump Administration’s AI Action Plan identifies robotics as a next-generation technology essential to our defense and national security. Robotics technology is rapidly advancing, driven by enhancements in AI, sensing, and actuation technologies. Advanced robotic devices will be critical to creating efficiencies in our economy, dominating on the battlefield, and securing our homeland. To ensure the United States is able to take advantage of this generational technology, the United States must have an independent and resilient robotics supply chain and industrial base. As the 2025 National Security Strategy states, “The United States will reindustrialize its economy, ‘re-shore’ industrial production, and encourage and attract investment in our economy and our workforce, with a focus on the critical and emerging technology sectors that will define the future.” As the technology matures, advanced robotic devices have growing use cases in monitoring and securing critical infrastructure. Robots are often equipped with high-fidelity sensors, including Light Detection and Ranging (LiDAR), tactile, acoustic, and thermal sensors that collect and maintain sensitive data on their surroundings. Advanced robotic devices are inherently networked systems which creates broad attack surfaces and leaves them vulnerable to data exfiltration, remote disruption of the physical robot, and dependencies on unsecure over the air updates. The data collected by advanced robotic devices, especially those securing sensitive locations and critical infrastructure must be protected and maintained in the United States. In addition to securing critical infrastructure, advanced robotic devices also have applications in industrial manufacturing, from material handling to order fulfilment. Integrating these technologies into American manufacturing will lower production costs, increase output, and support America’s reindustrialization. In order for the American economy to rely on these technologies, we must have a secure domestic advanced robotics supply chain and industrial base.\" https://t.co/NdRM0L4Znp",
-      "summary": "👀👀👀 National Security Determination on the Threat Posed by Foreign-Produced Advanced Robotic Devices July 27, 2026 \"The Trump Administration’s AI…",
-      "url": "https://x.com/BillHughesDC/status/2082201447773491533",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 3,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "views": "758"
-      }
-    },
-    {
-      "id": "2082201222916747468",
-      "is_retweet": true,
-      "original_author": "WatcherGuru",
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-07-28T20:27:11+00:00",
-      "text": "RT @WatcherGuru: JUST IN: 🇺🇸 SEC Chair Paul Atkins calls for the US Senate to pass Crypto Clarity Act.",
-      "summary": "RT @WatcherGuru: JUST IN: 🇺🇸 SEC Chair Paul Atkins calls for the US Senate to pass Crypto Clarity Act.",
-      "url": "https://x.com/patrickjwitt/status/2082201222916747468",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 859,
-        "replies": 0,
-        "quotes": 0,
-        "views": "615"
       }
     },
     {
@@ -384,31 +213,6 @@
       }
     },
     {
-      "id": "2082199501536645237",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BillHughesDC",
-      "display_name": "Bill Hughes",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-28T20:20:21+00:00",
-      "text": "FCC Adds Foreign-Produced Power Inverters and Robots to Covered List https://t.co/jvE0kXA4vJ Public notice and fact sheet available at the link above. In brief: The FCC's Public Safety and Homeland Security Bureau added two new categories to the Covered List: foreign-produced power inverters and foreign-produced \"advanced robotic devices\" (defined as mobile robots, including humanoids and quadrupeds). This follows two National Security Determinations transmitted to the FCC on July 27 by a White House-convened Executive Branch interagency body. The FCC has no independent authority to make the underlying national security finding. Under the Secure and Trusted Communications Networks Act, the Commission is obligated to add equipment to the Covered List once it receives a qualifying determination from the Executive Branch interagency body; the Public Notice is explicit that PSHSB's role here is non-discretionary. The operative restriction is that covered equipment cannot receive FCC equipment authorization, and since most electronic devices need that authorization before import, marketing, or sale in the U.S., this functions as a de facto import/market-entry ban for new models going forward. Like the UAS (Dec. 2025) and router (Mar. 2026) additions, this covers anything \"produced in a foreign country,\" regardless of the producer's nationality — the same categorical approach rather than a company-specific blacklist (Huawei, ZTE, etc.). Previously authorized models can still be sold, imported, and used; existing owners are unaffected; and federal government purchase/use is entirely carved out. DHS or DoW can grant approval to a specific inverter or inverter class; DoW alone handles robotic device approvals. Applications go through a guidance-document process to conditional-approvals@fcc.gov, mirroring the UAS/router precedent. Both determinations lean on supply chain vulnerability and cybersecurity risk — remote connectivity enabling data exfiltration, remote shutdown, or \"commandeering\" by foreign actors. This is the first time the Covered List framework has been extended to humanoid/quadruped robots by direct executive action, ahead of the GUARD Act that would codify a similar process legislatively. This shows how the administration is willing to move on robotics-specific national security restrictions without waiting on Congress, and it will likely shape how the GUARD Act debate proceeds.",
-      "summary": "FCC Adds Foreign-Produced Power Inverters and Robots to Covered List https://t.co/jvE0kXA4vJ Public notice and fact sheet available at the link…",
-      "url": "https://x.com/BillHughesDC/status/2082199501536645237",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 2,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 1,
-        "views": "1236"
-      }
-    },
-    {
       "id": "2082199262532645025",
       "is_retweet": true,
       "original_author": "SecScottBessent",
@@ -431,56 +235,6 @@
         "replies": 0,
         "quotes": 0,
         "views": "47566"
-      }
-    },
-    {
-      "id": "2082189906177405366",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "valkenburgh",
-      "display_name": "Peter Van Valkenburgh",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T19:42:13+00:00",
-      "text": "Funniest timeline: Bitcoin upgrades to a post-quantum lattice signature scheme... ...and then frontier LLMs break the lattice math before quantum computers ever break ECDSA. Anthropic shows that AI advancing mathematics could equal the threat of quantum advancing computation. https://t.co/BfZMwLFGB2",
-      "summary": "Funniest timeline: Bitcoin upgrades to a post-quantum lattice signature scheme... ...and then frontier LLMs break the lattice math before quantum…",
-      "url": "https://x.com/valkenburgh/status/2082189906177405366",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 72,
-        "retweets": 3,
-        "replies": 8,
-        "quotes": 2,
-        "views": "96062"
-      }
-    },
-    {
-      "id": "2082182002095095976",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BillHughesDC",
-      "display_name": "Bill Hughes",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-28T19:10:49+00:00",
-      "text": "The @FCC 's Title III equipment certification power under the Communications Act gives them authority over devices that emit or use radio frequency—WiFi, cellular, proprietary wireless comms, spectrum-based sensors. If a humanoid robot contains any wireless capability, it falls under FCC jurisdiction as RF equipment. The FCC can refuse to certify non-compliant equipment, which effectively bans it from importation and domestic sale. The FCC has deployed this authority increasingly for national security purposes. The Huawei ban and more recent actions restricting Chinese telecom equipment used this framework: the FCC denied equipment certifications based on national security findings, invoking Section 309(j) of the Communications Act and emergency authority. They could theoretically do the same for Chinese robots with RF components—certifications denied on the grounds that the equipment poses risks of espionage, surveillance, or critical infrastructure vulnerability. If this news is true, it will be interesting to see whether the FCC follows this playbook.",
-      "summary": "The @FCC 's Title III equipment certification power under the Communications Act gives them authority over devices that emit or use radio…",
-      "url": "https://x.com/BillHughesDC/status/2082182002095095976",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 18,
-        "retweets": 3,
-        "replies": 1,
-        "quotes": 0,
-        "views": "11251"
       }
     },
     {
@@ -509,56 +263,6 @@
       }
     },
     {
-      "id": "2082179074546618701",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T18:59:11+00:00",
-      "text": "Crypto advocates: this is your moment to get loud for CLARITY. The Senate needs to hear your voice directly, so SWC built a tool for you to record personalized videos &amp; voice memos to share with your Senators. It takes 3 minutes to make a difference 👇 https://t.co/WcTFzyoGR6 https://t.co/xLh6GxWaLq",
-      "summary": "Crypto advocates: this is your moment to get loud for CLARITY. The Senate needs to hear your voice directly, so SWC built a tool for you to record…",
-      "url": "https://x.com/standwithcrypto/status/2082179074546618701",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 216,
-        "retweets": 59,
-        "replies": 14,
-        "quotes": 4,
-        "views": "49518"
-      }
-    },
-    {
-      "id": "2082175802146206071",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T18:46:10+00:00",
-      "text": "Today, our team was on Capitol Hill to provide congressional staff with an overview of the latest Clarity Act text. BA’s @lindsayfraser0 was joined by @SolanaInstitute’s @thecolinmclaren and @Coinbase’s @robinrcook to walk through the bill’s key provisions and their practical implications.",
-      "summary": "Today, our team was on Capitol Hill to provide congressional staff with an overview of the latest Clarity Act text. BA’s @lindsayfraser0 was joined…",
-      "url": "https://x.com/BlockchainAssn/status/2082175802146206071",
-      "type": "original",
-      "categories": [
-        "exchanges"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 39,
-        "retweets": 8,
-        "replies": 1,
-        "quotes": 0,
-        "views": "1069"
-      }
-    },
-    {
       "id": "2082171731532447943",
       "is_retweet": false,
       "original_author": null,
@@ -581,31 +285,6 @@
         "replies": 7,
         "quotes": 0,
         "views": "3509"
-      }
-    },
-    {
-      "id": "2082157439638462916",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T17:33:12+00:00",
-      "text": "It's time for Clarity. Email your senator at https://t.co/CpN1VVHFdP. Make your voice heard! https://t.co/rBA3zAMrE0",
-      "summary": "It's time for Clarity. Email your senator at https://t.co/CpN1VVHFdP. Make your voice heard! https://t.co/rBA3zAMrE0",
-      "url": "https://x.com/BlockchainAssn/status/2082157439638462916",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 172,
-        "retweets": 39,
-        "replies": 4,
-        "quotes": 0,
-        "views": "8744"
       }
     },
     {
@@ -634,31 +313,6 @@
       }
     },
     {
-      "id": "2082155003716808879",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BillHughesDC",
-      "display_name": "Bill Hughes",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-07-28T17:23:32+00:00",
-      "text": "Some thoughts on this important report on @standardbots published by @RoboStrategy . The big ticket item is the industrial policy question that SB calls: more state-sponsored financial support for manufacturers. Standard Bots has been advising the @WhiteHouse and Congress on a National Robotics Strategy, including testimony to the Joint Economic Committee and the Subcommittee on Research and Technology, and the recommendations include direct financial support for American manufacturers investing in robotics. It’s akin to the CHIPS Act model applied to robotics adoption rather than robotics manufacturing on its own. The open question is whether the intended beneficiary of such support should be domestic robot producers, the manufacturers who buy and deploy robots, or both. Second, SB recommends a ban on Chinese-made industrial robots and robotics components, which is obviously a bigger step than just instituting a tariff. But such a move would raise the familiar tension between supply chain security, on one hand, and cost or availability of inputs for domestic manufacturers, particularly small and midsize ones without alternative domestic suppliers at comparable price points. This parallels the semiconductor and EV battery decoupling debates, where the same tradeoff between resilience and near-term competitiveness was front and center. Moreover, any serious ban on Chinese robots eventually runs into the question of what is actually being restricted: the hardware, the compute stack underneath it, or both? And that is a harder line to draw than it is for pure semiconductors given how much of the value in AI-native robotics sits in software and training data rather than the physical unit. A third point is competitiveness benchmarking. US robot density stood at 295 units per 10,000 employees in 2023, well behind the world's leaders, according to the International Federation of Robotics. Data like this helps to anchor legislative and rulemaking. It matters which countries are seen as \"world leaders\" relative to the US, since the policy prescription differs depending on whether the benchmark is South Korea and Singapore or Germany and Japan, or whether the metrics show China in the lead. A fourth point is the labor market framing. Manufacturing (if you affiliated suppliers and services) still accounts for roughly a third of the US economy and a third of American jobs. Robotics advocates generally frame automation as backfilling labor shortages rather than displacing workers, which isn’t wrong! That framing helps reach the right policy prescriptions, and ones that are more likely to enjoy bipartisan support. One must concede, however, that more empirical analysis is, particularly at the small and midsize end of the market where adoption is newest. Fifth and final point pertains to safety and the implications \"no-code\" deployment. The “show, don't code” approach lowers the programming barrier. It does not lower the physical one, since fixturing, safety, end-of-arm tooling, and floor space remain real engineering projects. That distinction matters for @OSHA_DOL and ANSI and RIA robot safety standards, which were largely written assuming specialized integrators handle deployment. If demonstration-based programming genuinely puts arm deployment within reach of manufacturers without in-house robotics expertise, safety certification and liability regimes may need to update faster than the underlying statutes anticipate. This will be an interesting issue to watch going forward. Read the Standard Bots report for more 👇",
-      "summary": "Some thoughts on this important report on @standardbots published by @RoboStrategy . The big ticket item is the industrial policy question that SB…",
-      "url": "https://x.com/BillHughesDC/status/2082155003716808879",
-      "type": "quote",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "546"
-      }
-    },
-    {
       "id": "2082151311122784584",
       "is_retweet": false,
       "original_author": null,
@@ -681,56 +335,6 @@
         "replies": 2,
         "quotes": 0,
         "views": "2615"
-      }
-    },
-    {
-      "id": "2082149575528497331",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T17:01:57+00:00",
-      "text": "Crypto is a top priority for 3M Crypto Voters — and the CLARITY Act shouldn't be pushed to the back of the line. The Senate has 10 days before the August recess to give crypto owners clear rules. Tell your senators: pass CLARITY before recess 👇",
-      "summary": "Crypto is a top priority for 3M Crypto Voters — and the CLARITY Act shouldn't be pushed to the back of the line. The Senate has 10 days before the…",
-      "url": "https://x.com/standwithcrypto/status/2082149575528497331",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 411,
-        "retweets": 70,
-        "replies": 9,
-        "quotes": 3,
-        "views": "11497"
-      }
-    },
-    {
-      "id": "2082147724619620460",
-      "is_retweet": true,
-      "original_author": "callebtc",
-      "username": "valkenburgh",
-      "display_name": "Peter Van Valkenburgh",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T16:54:36+00:00",
-      "text": "RT @callebtc: bitchat can now send itself to another android phone with no internet required https://t.co/vCSwhNf2bP",
-      "summary": "RT @callebtc: bitchat can now send itself to another android phone with no internet required https://t.co/vCSwhNf2bP",
-      "url": "https://x.com/valkenburgh/status/2082147724619620460",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 321,
-        "replies": 0,
-        "quotes": 0,
-        "views": "251"
       }
     },
     {
@@ -781,31 +385,6 @@
         "replies": 4,
         "quotes": 0,
         "views": "1580"
-      }
-    },
-    {
-      "id": "2082134821296607291",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-07-28T16:03:20+00:00",
-      "text": "&gt; be me &gt; U.S crypto owner &gt; just want clear rules &gt; builders contacting their Senators &gt; BlackRock, Fidelity, Charles Schwab, Goldman Sachs: \"pass CLARITY\" &gt; law enforcement backs it &gt; innovation eyeing a flight overseas &gt; mfw the fix already exists &gt; Pass the CLARITY Act",
-      "summary": "&gt; be me &gt; U.S crypto owner &gt; just want clear rules &gt; builders contacting their Senators &gt; BlackRock, Fidelity, Charles Schwab, Goldman…",
-      "url": "https://x.com/standwithcrypto/status/2082134821296607291",
-      "type": "original",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 292,
-        "retweets": 61,
-        "replies": 11,
-        "quotes": 7,
-        "views": "8425"
       }
     },
     {
