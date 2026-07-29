@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-07-29T12:04:31.144243+00:00",
-  "generated_at_unix": 1785326671,
+  "generated_at": "2026-07-29T15:02:19.408820+00:00",
+  "generated_at_unix": 1785337339,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-28T16:00:00+00:00",
-  "window_end": "2026-07-29T12:04:31.144243+00:00",
-  "new_this_run": 2,
-  "total_recent": 15,
+  "window_end": "2026-07-29T15:02:19.408820+00:00",
+  "new_this_run": 8,
+  "total_recent": 23,
   "errors": [
     {
-      "username": "SH_Brennan",
+      "username": "NYCStein",
       "error": "The read operation timed out"
     },
     {
-      "username": "NYcryptolawyer",
+      "username": "theblockprof",
       "error": "The read operation timed out"
     },
     {
-      "username": "MinarikLaw",
+      "username": "JacobRobinsonJD",
       "error": "The read operation timed out"
     },
     {
-      "username": "lex_node",
+      "username": "prestonjbyrne",
       "error": "The read operation timed out"
     }
   ],
@@ -29,7 +29,7 @@
     "total_accounts": 76,
     "attempted_this_run": 11,
     "successful_this_run": 11,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -63,6 +63,31 @@
       }
     },
     {
+      "id": "2082435350362742928",
+      "is_retweet": true,
+      "original_author": "KhurramDara",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-29T11:57:31+00:00",
+      "text": "RT @KhurramDara: “Absolutely insane ideas are now being casually floated and finding legislative champions / vehicles, including: mandated “kill switches”, AI nationalization / “golden share” socialization schemes, open source restrictions / bans, “FDA for AI” … Defenders of freedom have nothing positive to rally around currently. NOTHING. A couple of states have “Right to Compute” laws, which are nice, but they do absolutely nothing to stop the onslaught of techno-statism happening at every level.” 🎯🎯🎯",
+      "summary": "RT @KhurramDara: “Absolutely insane ideas are now being casually floated and finding legislative champions / vehicles, including: mandated “kill…",
+      "url": "https://x.com/KhurramDara/status/2082435350362742928",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2082391256236233090",
       "is_retweet": true,
       "original_author": "amandatums",
@@ -88,6 +113,56 @@
       }
     },
     {
+      "id": "2082375012380492235",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-29T07:57:46+00:00",
+      "text": ".@sethmoulton exemplifies all that’s wrong in politics today. He sees public service as self-service. The truth: he wants to be the next @SenMarkey so bad he hurts at night while trying to sleep.",
+      "summary": ".@sethmoulton exemplifies all that’s wrong in politics today. He sees public service as self-service. The truth: he wants to be the next @SenMarkey…",
+      "url": "https://x.com/JohnEDeaton1/status/2082375012380492235",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": "10632"
+      }
+    },
+    {
+      "id": "2082366587164659888",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-29T07:24:17+00:00",
+      "text": "Let’s hope the White House agrees to whatever comes back from @ThomTillis and @RubenGallego. It should not be this difficult to provide Clarity and make sure America is the place to be when it comes to digital assets.",
+      "summary": "Let’s hope the White House agrees to whatever comes back from @ThomTillis and @RubenGallego. It should not be this difficult to provide Clarity and…",
+      "url": "https://x.com/JohnEDeaton1/status/2082366587164659888",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 552,
+        "retweets": 74,
+        "replies": 18,
+        "quotes": 5,
+        "views": "23322"
+      }
+    },
+    {
       "id": "2082251475988721682",
       "is_retweet": false,
       "original_author": null,
@@ -110,6 +185,31 @@
         "replies": 3,
         "quotes": 0,
         "views": "1085"
+      }
+    },
+    {
+      "id": "2082240911765827943",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-28T23:04:54+00:00",
+      "text": "Seth Moulton challenged @SpeakerPelosi for Speaker of the House. He lost big time. In fact, Seth, himself, ended up voting for Nancy Pelosi as Speaker. Afterwards, Nancy assigned Seth to an Armed Forces Subcommittee where Seth could learn which companies would be awarded defense contracts. Armed (pun intended) with that inside information, Seth could invest in those companies before Wall Street and the general public becomes aware of the defense contracts. Turns out Seth didn’t want to challenge Nancy Pelosi at all - he wanted to be more like her. And it worked! Check out @sethmoulton’s Political Integrity Score. The group that assigned it looks at insider trading, PAC money, and other conflicts of interest. NANCY MUST BE PROUD.",
+      "summary": "Seth Moulton challenged @SpeakerPelosi for Speaker of the House. He lost big time. In fact, Seth, himself, ended up voting for Nancy Pelosi as…",
+      "url": "https://x.com/JohnEDeaton1/status/2082240911765827943",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 119,
+        "retweets": 31,
+        "replies": 6,
+        "quotes": 0,
+        "views": "13962"
       }
     },
     {
@@ -213,6 +313,31 @@
       }
     },
     {
+      "id": "2082199999140503795",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-28T20:22:19+00:00",
+      "text": "🤝You're showing up, and it's being noticed. Sentiment is low, but this is not the time to back down. Finish strong. Keep the letters coming. Don't let the anti-crypto army win. Tell your Senator: pass Clarity. 👇 https://t.co/GzHabguvh1",
+      "summary": "🤝You're showing up, and it's being noticed. Sentiment is low, but this is not the time to back down. Finish strong. Keep the letters coming. Don't…",
+      "url": "https://x.com/CryptoLawUS/status/2082199999140503795",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 147,
+        "retweets": 46,
+        "replies": 6,
+        "quotes": 1,
+        "views": "7809"
+      }
+    },
+    {
       "id": "2082199262532645025",
       "is_retweet": true,
       "original_author": "SecScottBessent",
@@ -235,6 +360,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "47566"
+      }
+    },
+    {
+      "id": "2082189938326696313",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-28T19:42:21+00:00",
+      "text": ".@SenMarkey is telling his constituents to “take to the streets” and defy ICE. As a former Federal Prosecutor, let me be clear: Under 18 U.S.C. § 111, forcibly impeding or interfering with federal officers is a felony. Impeding doesn’t require actual force against an officer. Standing in the doorway or blocking an agent and refusing to move is enough. It’s a felony (up to 8 years) and it’s obviously, very dangerous. Recommending peaceful protests, calling for reforms, better training and accountability is one thing. Ed can also promise to file legislation abolishing ICE. But after witnessing the violence that’s occurred this year, a sitting senator egging on “civil disobedience” against federal law enforcement isn’t brave - it’s reckless. In addition to safety concerns, legal fees associated with defending a felony charge can bankrupt a family. Is Ed Markey going to pay for it? Massachusetts deserves better than a senator who dares his own constituents into federal felony charges.",
+      "summary": ".@SenMarkey is telling his constituents to “take to the streets” and defy ICE. As a former Federal Prosecutor, let me be clear: Under 18 U.S.C. §…",
+      "url": "https://x.com/JohnEDeaton1/status/2082189938326696313",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 198,
+        "retweets": 52,
+        "replies": 10,
+        "quotes": 1,
+        "views": "14681"
       }
     },
     {
@@ -388,6 +538,31 @@
       }
     },
     {
+      "id": "2082138111383937341",
+      "is_retweet": true,
+      "original_author": "CJRobins01",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-28T16:16:24+00:00",
+      "text": "RT @CJRobins01: Opposing the Clarity Act because digital assets have been used for fraud is shortsighted and intellectually dishonest. Every medium of exchange (e.g. cash, checks, wires, ACH, and credit cards) has been used for fraud. What stops fraud is giving law enforcement the tools, resources, and legal clarity to go after criminals. I say this as someone who has worked directly with local law enforcement, Secret Service, FBI, and DOJ to go after criminals. The Clarity Act contains explicit mandates designed to combat financial crime, strengthen anti-money laundering enforcement, and enhance law enforcement collaboration. Section 201 — BSA & Sanctions Compliance for Digital Commodity Entities: Formally brings digital commodity brokers, dealers, and exchanges under the Bank Secrecy Act (BSA) and OFAC sanctions rules. Entities must build formal AML/CFT programs, designate compliance officers, conduct independent audits, and file Suspicious Activity Reports (SARs) with FinCEN. Section 202 — Risk-Based Examination Standards: Mandates that Treasury and federal regulators establish tailored, risk-based examination standards to audit the adequacy of reporting obligations, customer verification, and AML/CFT programs across registered entities. Section 203 — Public-Private Information Sharing Pilot (Preventing Illicit Finance Through Partnership Act): Authorizes a formal 5-year pilot program for federal agencies (DOJ, FBI, DEA, Treasury, FinCEN, IRS-CI, OFAC, Secret Service, and DHS) to share live threat intelligence directly with designated private sector entities. This creates explicit safe harbor protections for platforms assisting law enforcement in freezing and seizing illicit funds in real time. Section 204 — Independent Financial Technology Working Group to Combat Terrorism & Illicit Finance: Establishes an interagency working group (Treasury, DOJ, FBI, Secret Service, DHS, ODNI, and blockchain intelligence firms) to track, analyze, and report annually on illicit usage by foreign terrorist organizations, state sponsors of terrorism, and transnational criminal syndicates. Section 205 — Crypto Kiosk / ATM Regulation: Directly targets kiosk-based scams and consumer fraud by mandating operational registration, transaction limits, and a dedicated, rapid-response contact point specifically for law enforcement investigations. Section 305 — Temporary Holds Safe Harbor: Explicitly allows exchanges and digital asset service providers to place short temporary holds on suspicious transactions, including upon receipt of a formal written request from law enforcement, without fear of private civil liability. Section 302 & Section 401 — SEC & CFTC Anti-Fraud Enforcement: Explicitly grants/preserves market manipulation and anti-fraud enforcement powers for both the CFTC (over digital commodity spot markets) and the SEC (over registered digital asset platforms and permitted payment stablecoins). Section 308 — Preservation of State Anti-Fraud Authority: Clarifies that nothing in the federal market structure preempts or limits state securities regulators or attorneys general from prosecuting fraud within their jurisdictions.",
+      "summary": "RT @CJRobins01: Opposing the Clarity Act because digital assets have been used for fraud is shortsighted and intellectually dishonest. Every medium…",
+      "url": "https://x.com/KhurramDara/status/2082138111383937341",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "17"
+      }
+    },
+    {
       "id": "2082134574767735052",
       "is_retweet": false,
       "original_author": null,
@@ -410,6 +585,31 @@
         "replies": 5,
         "quotes": 2,
         "views": "4679"
+      }
+    },
+    {
+      "id": "2082134385025753595",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-28T16:01:36+00:00",
+      "text": "Age alone is not enough of a reason for voters to vote for @sethmoulton or against @SenMarkey. I’m looking forward to providing voters with multiple reasons to vote for me and for real change.",
+      "summary": "Age alone is not enough of a reason for voters to vote for @sethmoulton or against @SenMarkey. I’m looking forward to providing voters with multiple…",
+      "url": "https://x.com/JohnEDeaton1/status/2082134385025753595",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 44,
+        "retweets": 6,
+        "replies": 4,
+        "quotes": 0,
+        "views": "13028"
       }
     }
   ]
