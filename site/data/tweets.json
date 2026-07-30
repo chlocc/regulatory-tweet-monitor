@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-07-30T15:38:14.666499+00:00",
-  "generated_at_unix": 1785425894,
+  "generated_at": "2026-07-30T18:00:05.177129+00:00",
+  "generated_at_unix": 1785434405,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-29T16:00:00+00:00",
-  "window_end": "2026-07-30T15:38:14.666499+00:00",
-  "new_this_run": 18,
-  "total_recent": 21,
-  "errors": [],
+  "window_end": "2026-07-30T18:00:05.177129+00:00",
+  "new_this_run": 30,
+  "total_recent": 51,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,456 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2082888877161807917",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:59:41+00:00",
+      "text": "\"I don't think it's a winner takes all,\" @mert on whether Zcash can eclipse Bitcoin https://t.co/r56Mg5IMhs",
+      "summary": "\"I don't think it's a winner takes all,\" @mert on whether Zcash can eclipse Bitcoin https://t.co/r56Mg5IMhs",
+      "url": "https://x.com/laurashin/status/2082888877161807917",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1"
+      }
+    },
+    {
+      "id": "2082888800922202620",
+      "is_retweet": true,
+      "original_author": "crypto_council",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-30T17:59:22+00:00",
+      "text": "RT @crypto_council: 1/ The time to pass digital asset market structure legislation, the Clarity Act, is now. Data in our new report shows a stark picture: the center of gravity of the global crypto industry has already moved offshore, and without legislative action, it isn't coming back. 🧵 https://t.co/I0qpV4gkkp",
+      "summary": "RT @crypto_council: 1/ The time to pass digital asset market structure legislation, the Clarity Act, is now. Data in our new report shows a stark…",
+      "url": "https://x.com/milesjennings/status/2082888800922202620",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "45"
+      }
+    },
+    {
+      "id": "2082888706080575755",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:59:00+00:00",
+      "text": "\"We're really on the knife's edge as to whether we can get 10.\" 🗳️ @banamlas's read on Clarity's cloture math, from Ruben Gallego's ethics language to Adam Schiff's potential deciding vote. @DEXintheCityPod https://t.co/g58P65JW6J",
+      "summary": "\"We're really on the knife's edge as to whether we can get 10.\" 🗳️ @banamlas's read on Clarity's cloture math, from Ruben Gallego's ethics language…",
+      "url": "https://x.com/laurashin/status/2082888706080575755",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "472"
+      }
+    },
+    {
+      "id": "2082888403696181549",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:57:48+00:00",
+      "text": "\"It is one of the things left in finance that is still player versus environment, rather than player versus player,\" @mert on Zcash https://t.co/M7tBzJ36u6",
+      "summary": "\"It is one of the things left in finance that is still player versus environment, rather than player versus player,\" @mert on Zcash…",
+      "url": "https://x.com/laurashin/status/2082888403696181549",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "387"
+      }
+    },
+    {
+      "id": "2082887755034677564",
+      "is_retweet": true,
+      "original_author": "ketanrama",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-30T17:55:13+00:00",
+      "text": "RT @ketanrama: This great new post from @gabriel_weil is well-worth reading if you're thinking about frontier AI regulatory design. Gabe nicely argues that, under an optimally designed regulatory regime, AI companies will not get to choose their own independent auditors (even with various forms of government oversight). I think his particular solution (mandating liability insurance and empowering *insurers* to select auditors) may not be as promising or viable as Gabe thinks, but it's definitely worth careful consideration; Gabe and @CristianTrout have done great work on this. Whether or not I'm right, the problems with companies selecting their own auditors (incentives to race to the bottom, etc.) are sufficiently serious, in my opinion, that an alternative approach needs to be found. I'll have some thoughts to share on that soon. In the meantime, I hope you read this piece.",
+      "summary": "RT @ketanrama: This great new post from @gabriel_weil is well-worth reading if you're thinking about frontier AI regulatory design. Gabe nicely…",
+      "url": "https://x.com/gabriel_weil/status/2082887755034677564",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1"
+      }
+    },
+    {
+      "id": "2082886967038021642",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:52:05+00:00",
+      "text": "\"We are having block relays self censoring at like 43.7% as of today, that's a huge threat to everything that happens onchain,\" @jarradhope_ https://t.co/M7tBzJ36u6",
+      "summary": "\"We are having block relays self censoring at like 43.7% as of today, that's a huge threat to everything that happens onchain,\" @jarradhope_…",
+      "url": "https://x.com/laurashin/status/2082886967038021642",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "853"
+      }
+    },
+    {
+      "id": "2082885144273125830",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:44:51+00:00",
+      "text": "\"I am pretty excited about ... formal verification applied to ZK circuits,\" @mert on the privacy application he is most excited by https://t.co/M7tBzJ36u6",
+      "summary": "\"I am pretty excited about ... formal verification applied to ZK circuits,\" @mert on the privacy application he is most excited by…",
+      "url": "https://x.com/laurashin/status/2082885144273125830",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "990"
+      }
+    },
+    {
+      "id": "2082882453132165316",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:34:09+00:00",
+      "text": "\"There is basically no benefit to be gained by not having the option [of privacy],\" @mert https://t.co/M7tBzJ36u6",
+      "summary": "\"There is basically no benefit to be gained by not having the option [of privacy],\" @mert https://t.co/M7tBzJ36u6",
+      "url": "https://x.com/laurashin/status/2082882453132165316",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1183"
+      }
+    },
+    {
+      "id": "2082881821168075126",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:31:38+00:00",
+      "text": "\"That's not a very good kind form of privacy,\" Aztec's Joe Andrews on permissioned chains https://t.co/r56Mg5IMhs",
+      "summary": "\"That's not a very good kind form of privacy,\" Aztec's Joe Andrews on permissioned chains https://t.co/r56Mg5IMhs",
+      "url": "https://x.com/laurashin/status/2082881821168075126",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1217"
+      }
+    },
+    {
+      "id": "2082880292411289658",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:25:34+00:00",
+      "text": "\"If you look at the current public blockchains, I think we have a moral obligation to not let people use those, because it's a worse form of money than most people ... use in their daily lives,\" Aztec's Joe Andrews https://t.co/M7tBzJ36u6",
+      "summary": "\"If you look at the current public blockchains, I think we have a moral obligation to not let people use those, because it's a worse form of money…",
+      "url": "https://x.com/laurashin/status/2082880292411289658",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1249"
+      }
+    },
+    {
+      "id": "2082879593510559842",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:22:47+00:00",
+      "text": "\"12 months out from every major conflict since 1929, the S&P is up 11% on average with a 76% hit rate of positive returns\" Franklin Templeton strategist Chris Galipeau on why investors shouldn't react to geopolitical shocks \"The playbook for any conflict generally goes as follows. I've mapped out every major geopolitical event globally going back to 1929, all of them. I got in business in 1991, I've seen a lot of them, the World War II data, the Great Depression, all that sort of thing\" \"You pick the conflict, wars, acts of terrorism, bubbles, black swans like COVID, you pick the start date and then you measure equity returns three months out, six months, 12 months. 12 months out from every major conflict since 1929, the S&P is up 11% on average with a 76% hit rate of positive returns\" \"That data set alone tells you investors should not react to some political or geopolitical event. Now that's really easy to say, and in practice that is not easy to do\"",
+      "summary": "\"12 months out from every major conflict since 1929, the S&P is up 11% on average with a 76% hit rate of positive returns\" Franklin Templeton…",
+      "url": "https://x.com/laurashin/status/2082879593510559842",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2221"
+      }
+    },
+    {
+      "id": "2082878567004643646",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:18:43+00:00",
+      "text": "\"[Privacy] is sort of a prerequisite for being able to do finance at scale,\" @mert says, calling privacy a scaling technology https://t.co/M7tBzJ36u6",
+      "summary": "\"[Privacy] is sort of a prerequisite for being able to do finance at scale,\" @mert says, calling privacy a scaling technology https://t.co/M7tBzJ36u6",
+      "url": "https://x.com/laurashin/status/2082878567004643646",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1269"
+      }
+    },
+    {
+      "id": "2082878032268902833",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:16:35+00:00",
+      "text": "\"Measure the correlation between S&P price movement and S&P 500 reported earnings going back to 1950, that correlation is 0.98\" Franklin Templeton strategist Chris Galipeau on the one variable that really drives the stock market \"Over time the stock market focuses primarily on one variable, and that is corporate profitability, corporate earnings, that is what matters\" \"If you measure the relationship going back to 1950 to right now, and you measure the correlation between S&P price movement and S&P 500 reported earnings, that correlation is 0.98. You want me to shorten the time frames, I can, you want me to pick different indices, I have them, the correlations are all above 0.85\" \"That is the variable that matters\"",
+      "summary": "\"Measure the correlation between S&P price movement and S&P 500 reported earnings going back to 1950, that correlation is 0.98\" Franklin Templeton…",
+      "url": "https://x.com/laurashin/status/2082878032268902833",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2482"
+      }
+    },
+    {
+      "id": "2082877970666942825",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:16:20+00:00",
+      "text": "\"There's a lot of unfinished paths that Bitcoin sort of left in my view,\" @mert on his interest in privacy and Zcash https://t.co/M7tBzJ36u6",
+      "summary": "\"There's a lot of unfinished paths that Bitcoin sort of left in my view,\" @mert on his interest in privacy and Zcash https://t.co/M7tBzJ36u6",
+      "url": "https://x.com/laurashin/status/2082877970666942825",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1217"
+      }
+    },
+    {
+      "id": "2082877664868901147",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:15:07+00:00",
+      "text": "⏳ I loved this analogy. @KristinSmith compares Congress's legislative calendar to Bitcoin's supply: scarce, finite, and running out fast for the Clarity Act. https://t.co/iLMtXLiMc0",
+      "summary": "⏳ I loved this analogy. @KristinSmith compares Congress's legislative calendar to Bitcoin's supply: scarce, finite, and running out fast for the…",
+      "url": "https://x.com/laurashin/status/2082877664868901147",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1337"
+      }
+    },
+    {
+      "id": "2082876540308570501",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:10:39+00:00",
+      "text": "\"If we can reduce information down to zero, then the capacity for influencing a transaction also drops\" @jarradhope_ on why privacy matters in blockchain systems https://t.co/M7tBzJ36u6",
+      "summary": "\"If we can reduce information down to zero, then the capacity for influencing a transaction also drops\" @jarradhope_ on why privacy matters in…",
+      "url": "https://x.com/laurashin/status/2082876540308570501",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1375"
+      }
+    },
+    {
+      "id": "2082875094288978338",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T17:04:55+00:00",
+      "text": "\"It's usually the Fed that breaks it, that causes earnings degradation and puts us into a recession\" Franklin Templeton strategist Chris Galipeau on why the market signals recessions before the data \"The only thing that really puts earnings under pressure is the Fed raising rates and breaking it and putting us into a recession. That's the tech bubble, that's the GFC. A little different with COVID but same concept, it's usually the Fed that breaks it, that causes earnings degradation and puts us into a recession\" \"And you know what, the stock market moves before that. It knows the earnings degradation is coming, and the stock market rallies six months prior, before the end of the actual recession as dated by the NBER\" \"These are all examples of why I don't rely too much on economists or economic data or what the Fed says. The stock market tells you if you're paying attention and know where to look\"",
+      "summary": "\"It's usually the Fed that breaks it, that causes earnings degradation and puts us into a recession\" Franklin Templeton strategist Chris Galipeau on…",
+      "url": "https://x.com/laurashin/status/2082875094288978338",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2215"
+      }
+    },
+    {
+      "id": "2082871305280385329",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T16:49:51+00:00",
+      "text": "Zcash and Monero face delisting. Roman Storm's retrial looms. Yet banks keep funding privacy rails to go onchain. So who gets privacy? Joe Andrews (@AztecLabs_ ), Jarrad Hope (@jarradhope_ ) (@Logos_network ) and Mert Mumtaz (@mert ) (@Helius ) debate live . 🚨Today at 1pm ET here on Unchained.🚨 DON'T MISS IT! TUNE IN 🎧 https://t.co/bLCYl1UQie",
+      "summary": "Zcash and Monero face delisting. Roman Storm's retrial looms. Yet banks keep funding privacy rails to go onchain. So who gets privacy? Joe Andrews…",
+      "url": "https://x.com/laurashin/status/2082871305280385329",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 4,
+        "replies": 4,
+        "quotes": 2,
+        "views": "1741"
+      }
+    },
     {
       "id": "2082851776290570306",
       "is_retweet": false,
@@ -46,6 +501,31 @@
       }
     },
     {
+      "id": "2082843120052666633",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T14:57:51+00:00",
+      "text": "RT @CryptoAmerica_: 🚨NEW: It’s the last week before the senate August recess and @SenLummis is done waiting on Democrats. We sit down with her to discuss where the Clarity Act stands and whether it’s still possible to get a highly anticipated vote on the books before lawmakers leave for recess. Links below.",
+      "summary": "RT @CryptoAmerica_: 🚨NEW: It’s the last week before the senate August recess and @SenLummis is done waiting on Democrats. We sit down with her to…",
+      "url": "https://x.com/EleanorTerrett/status/2082843120052666633",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 37,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7527"
+      }
+    },
+    {
       "id": "2082842837872218478",
       "is_retweet": true,
       "original_author": "USDOL",
@@ -68,6 +548,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "33759"
+      }
+    },
+    {
+      "id": "2082837561035420062",
+      "is_retweet": true,
+      "original_author": "Eleanor_Mueller",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-30T14:35:46+00:00",
+      "text": "RT @Eleanor_Mueller: News: Another law enforcement group is putting its weight behind the latest draft of the Senate’s crypto bill amid a tussle over illicit finance bogging down efforts to bring the measure to the floor. @MjrCitiesChiefs will send this letter this AM, I’m told: https://t.co/MZCki5s7Vg",
+      "summary": "RT @Eleanor_Mueller: News: Another law enforcement group is putting its weight behind the latest draft of the Senate’s crypto bill amid a tussle over…",
+      "url": "https://x.com/milesjennings/status/2082837561035420062",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 65,
+        "replies": 0,
+        "quotes": 0,
+        "views": "147"
       }
     },
     {
@@ -193,6 +698,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "42098"
+      }
+    },
+    {
+      "id": "2082773347533004971",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T10:20:36+00:00",
+      "text": "EA ideology requires that you hypergamble every time. Wasn't this literally in Caroline's blog/journal or something? Where bc you are aiming for maximum impact you must always take the coin flip?",
+      "summary": "EA ideology requires that you hypergamble every time. Wasn't this literally in Caroline's blog/journal or something? Where bc you are aiming for…",
+      "url": "https://x.com/wassielawyer/status/2082773347533004971",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3281"
+      }
+    },
+    {
+      "id": "2082749807878373624",
+      "is_retweet": true,
+      "original_author": "AxisFDN",
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T08:47:04+00:00",
+      "text": "RT @AxisFDN: The Origin Vault is open. $50M cap. Deposit USDT or USDC on Ethereum L1. Accrue 2x Coordinates. Verifiable 10-20% base APY. Get on the Grid. https://t.co/aBwtruqy3A https://t.co/TUhRyigqUo",
+      "summary": "RT @AxisFDN: The Origin Vault is open. $50M cap. Deposit USDT or USDC on Ethereum L1. Accrue 2x Coordinates. Verifiable 10-20% base APY. Get on the…",
+      "url": "https://x.com/wassielawyer/status/2082749807878373624",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": "515"
+      }
+    },
+    {
+      "id": "2082685485659627857",
+      "is_retweet": true,
+      "original_author": "joshua_saxe",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-30T04:31:28+00:00",
+      "text": "RT @joshua_saxe: I'd have to think a lot harder about the proposed solution but this post does a really eloquent job at calling out the broken incentive structure in frontier model safety evaluation / system card culture, in which internal teams at the labs, plus external firms the labs pay, plus govt agencies that usually have only advisory power and usually depend on the labs for participation and checkpoint access, are what stand in the way of the labs releasing models with terrible intrinsic safety propensities Everyone participating in this world is well meaning and exceptionally dedicated, in my experience, and *also* would probably readily admit this is a bad setup, and that in the wake of recent events really needs creative reconsideration that sets up incentives properly, which is what this article offers",
+      "summary": "RT @joshua_saxe: I'd have to think a lot harder about the proposed solution but this post does a really eloquent job at calling out the broken…",
+      "url": "https://x.com/gabriel_weil/status/2082685485659627857",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2"
+      }
+    },
+    {
+      "id": "2082658864890355746",
+      "is_retweet": true,
+      "original_author": "MackenZ_arnold",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-30T02:45:41+00:00",
+      "text": "RT @MackenZ_arnold: Gabe has a way of poking policy proposals right where they hurt. He’s right—the success of IVOs lives and dies by their incentives. Having companies pick their own monitors is a recipe for failure. I expect we’ll have the same conversation about “FINRA for AI” soon—a whole lot of discussion leaves out how entwined FINRA and the SEC are. I’m not certain if insurance is the solution for IVOs, but I appreciate how clearly Gabe lays it out. It may well be, but I haven’t given it enough thought myself. I’d love to see more work on this and other options.",
+      "summary": "RT @MackenZ_arnold: Gabe has a way of poking policy proposals right where they hurt. He’s right—the success of IVOs lives and dies by their…",
+      "url": "https://x.com/gabriel_weil/status/2082658864890355746",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2"
       }
     },
     {
@@ -418,6 +1023,156 @@
         "replies": 0,
         "quotes": 0,
         "views": "51347"
+      }
+    },
+    {
+      "id": "2082581789781225752",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-29T21:39:25+00:00",
+      "text": "RT @a16zcrypto: The CLARITY Act could establish the first comprehensive regulatory framework for crypto market structure in the United States. So why has it taken Congress so long to pass it? @milesjennings, Head of Policy and General Counsel at a16z crypto, joined @MTSlive to explain what the bill would do, why existing securities laws are poorly suited to decentralized networks, and how the legislation would divide oversight between the SEC and CFTC. 0:00 Intro: Why hasn’t the CLARITY Act passed? 01:02 What the CLARITY Act would do 02:52 Why legislation has taken so long 03:59 Networks versus companies 05:39 How digital assets are classified 05:51 How the GENIUS Act regulates stablecoins 06:44 What is a network token? 07:23 Digital commodities versus securities 08:20 The four major digital-asset categories 09:20 Who is liable in decentralized finance? 10:45 Why oversight is split between the SEC and CFTC 12:25 Protecting consumers without requiring control 13:14 Will the CLARITY Act pass?",
+      "summary": "RT @a16zcrypto: The CLARITY Act could establish the first comprehensive regulatory framework for crypto market structure in the United States. So why…",
+      "url": "https://x.com/milesjennings/status/2082581789781225752",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 47,
+        "replies": 0,
+        "quotes": 0,
+        "views": "140"
+      }
+    },
+    {
+      "id": "2082581434271961326",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-29T21:38:01+00:00",
+      "text": "RT @BlockchainAssn: The choice before the Senate is simple: the Clarity Act or the status quo. Congress has an opportunity to replace years of regulatory uncertainty with a clear, durable framework for digital asset markets. It's time for Clarity. 👇 https://t.co/5KwPv9MCIz",
+      "summary": "RT @BlockchainAssn: The choice before the Senate is simple: the Clarity Act or the status quo. Congress has an opportunity to replace years of…",
+      "url": "https://x.com/milesjennings/status/2082581434271961326",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": "167"
+      }
+    },
+    {
+      "id": "2082580377793970365",
+      "is_retweet": true,
+      "original_author": "RepBillFoster",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-29T21:33:49+00:00",
+      "text": "RT @RepBillFoster: Over 1,100 employees from leading AI companies—among them top staff—signed a letter asking the U.S. government to develop ways to “deliberately pace\" AI advancement so safety measures can catch up. When business leaders get together and ask to be regulated, Congress should pay attention. https://t.co/7cz0jgMX8h",
+      "summary": "RT @RepBillFoster: Over 1,100 employees from leading AI companies—among them top staff—signed a letter asking the U.S. government to develop ways to…",
+      "url": "https://x.com/gabriel_weil/status/2082580377793970365",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4"
+      }
+    },
+    {
+      "id": "2082578681575481728",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-29T21:27:04+00:00",
+      "text": "RT @circle: A year after the GENIUS Act was signed into law on July 18, 2025, the U.S. is already seeing new banking and payments innovation take shape. @ddisparte on what’s been unlocked so far, and what the new U.K.-U.S. task force could signal for the next chapter. https://t.co/CVG94SthYG",
+      "summary": "RT @circle: A year after the GENIUS Act was signed into law on July 18, 2025, the U.S. is already seeing new banking and payments innovation take…",
+      "url": "https://x.com/ddisparte/status/2082578681575481728",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": "81"
+      }
+    },
+    {
+      "id": "2082561795450159403",
+      "is_retweet": true,
+      "original_author": "JustinMiller_NV",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-29T20:19:58+00:00",
+      "text": "RT @JustinMiller_NV: Great article as always. Whether or not you believe an insurance based audit system is the best solution, the identified failure mode of current proposals is real. As written, the FRONTIER Act lets developers pick their auditor, and as history has shown, this results in structural conflicts of interest.",
+      "summary": "RT @JustinMiller_NV: Great article as always. Whether or not you believe an insurance based audit system is the best solution, the identified failure…",
+      "url": "https://x.com/gabriel_weil/status/2082561795450159403",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3"
+      }
+    },
+    {
+      "id": "2082552199440454021",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-29T19:41:50+00:00",
+      "text": "🚨SCOOP: @BinanceUS plans to apply to the @CFTC for a Designated Contract Market (DCM) next month with the goal of offering prediction markets to customers, CEO @Stevie_Satoshi just told me on stage at @RareEvo Conference. The move is part of the exchange’s broader comeback strategy, which centers on lower trading fees and expanding beyond spot trading with products such as prediction markets and perpetuals.",
+      "summary": "🚨SCOOP: @BinanceUS plans to apply to the @CFTC for a Designated Contract Market (DCM) next month with the goal of offering prediction markets to…",
+      "url": "https://x.com/EleanorTerrett/status/2082552199440454021",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 618,
+        "retweets": 89,
+        "replies": 30,
+        "quotes": 8,
+        "views": "74901"
       }
     },
     {
