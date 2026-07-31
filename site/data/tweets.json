@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-07-31T12:00:31.139514+00:00",
-  "generated_at_unix": 1785499231,
+  "generated_at": "2026-07-31T15:01:37.377073+00:00",
+  "generated_at_unix": 1785510097,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-30T16:00:00+00:00",
-  "window_end": "2026-07-31T12:00:31.139514+00:00",
-  "new_this_run": 12,
-  "total_recent": 85,
+  "window_end": "2026-07-31T15:01:37.377073+00:00",
+  "new_this_run": 28,
+  "total_recent": 113,
   "errors": [
     {
-      "username": "RebeccaRettig1",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "zackbshapiro",
+      "username": "NYCStein",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 45,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +25,356 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083210041138581674",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T15:15:52+00:00",
+      "text": "I feel really sad thinking of everyone who lost funds because of this coldcard situation But I’m also seeing rediculous takes that this is worse than FTX. As someone who represented the unsecured creditors of BlockFi (many of whom lost their entire life savings) that damage was catastrophic and so far, much larger in scale. Billions v millions.",
+      "summary": "I feel really sad thinking of everyone who lost funds because of this coldcard situation But I’m also seeing rediculous takes that this is worse than…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083210041138581674",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "173"
+      }
+    },
+    {
+      "id": "2083206422611755300",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T15:01:29+00:00",
+      "text": "Diversify your portfolio &lt; diversify your Bitcoin storage methodology",
+      "summary": "Diversify your portfolio &lt; diversify your Bitcoin storage methodology",
+      "url": "https://x.com/HaileyLennonBTC/status/2083206422611755300",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "429"
+      }
+    },
+    {
+      "id": "2083206016036917366",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T14:59:52+00:00",
+      "text": "Do you know how insane we are going to sound to bankers and regulators when we’re talking about rolling dice to protect Bitcoin and self custody?",
+      "summary": "Do you know how insane we are going to sound to bankers and regulators when we’re talking about rolling dice to protect Bitcoin and self custody?",
+      "url": "https://x.com/HaileyLennonBTC/status/2083206016036917366",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "481"
+      }
+    },
+    {
+      "id": "2083205751800029603",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T14:58:49+00:00",
+      "text": "JUST IN: Jim Cramer says it's a good time to self custody using a Coldcard",
+      "summary": "JUST IN: Jim Cramer says it's a good time to self custody using a Coldcard",
+      "url": "https://x.com/HaileyLennonBTC/status/2083205751800029603",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 1,
+        "views": "521"
+      }
+    },
+    {
+      "id": "2083201263856910532",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T14:40:59+00:00",
+      "text": "🫵 South Dakota, Utah, Texas, Oklahoma - you know what to do. Tell your Senators to pass the Clarity Act. We're close. Now's not the time to give up any ground. Connect to Congress: https://t.co/GzHabguvh1",
+      "summary": "🫵 South Dakota, Utah, Texas, Oklahoma - you know what to do. Tell your Senators to pass the Clarity Act. We're close. Now's not the time to give up…",
+      "url": "https://x.com/CryptoLawUS/status/2083201263856910532",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 58,
+        "retweets": 17,
+        "replies": 2,
+        "quotes": 0,
+        "views": "5001"
+      }
+    },
+    {
+      "id": "2083197872757969206",
+      "is_retweet": true,
+      "original_author": "BenJustman",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T14:27:31+00:00",
+      "text": "RT @BenJustman: I'm sorry guys we're not gonna get the world onboarded to self custody if the lesson you took from this is \"you shoulda rolled dice\"",
+      "summary": "RT @BenJustman: I'm sorry guys we're not gonna get the world onboarded to self custody if the lesson you took from this is \"you shoulda rolled dice\"",
+      "url": "https://x.com/HaileyLennonBTC/status/2083197872757969206",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 58,
+        "replies": 0,
+        "quotes": 0,
+        "views": "176"
+      }
+    },
+    {
+      "id": "2083192031879237830",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T14:04:18+00:00",
+      "text": "From a legal perspective, today's COLDCARD news is a reminder that product security claims are judged by what a company actually delivers, not by what it claims. For self-custody products, transparency, reproducibility, and clear disclosures reduce legal and user risk, while overpromising can create it. The legal question isn't whether a product is \"unhackable\"; it's whether users are accurately informed about capabilities, limits and risk mitigation users should take.",
+      "summary": "From a legal perspective, today's COLDCARD news is a reminder that product security claims are judged by what a company actually delivers, not by…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083192031879237830",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 40,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2379"
+      }
+    },
+    {
+      "id": "2083177062806765950",
+      "is_retweet": true,
+      "original_author": "zherbert",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T13:04:49+00:00",
+      "text": "RT @zherbert: Regarding the Coldcard entropy bug – many folks are explaining what happened but I wanted to take a minute to explain why it may have happened. It's a disastrous situation and our heart goes out to all the Bitcoiners affected. Here's a timeline of events: On July 28 2020: @FoundationHQ announced our first Passport hardware wallet and noted that we were building on Coldcard firmware which at the time was GPLv3 licensed (FOSS license). On July 30 2020: NVK publicly said he regretted choosing GPL because Coldcard now had a “clone” and that they would change things in future updates. https://t.co/iH4LxH1i3i On November 18 2020: Coldcard added its MIT + Commons Clause license, prohibiting commercial products substantially derived from the software. https://t.co/OtBGLdeFTH On January 8, 2021: Coldcard firmware 3.2.1 formally announced, “License changed from GPL to MIT+CC on files for which the GPL doesn’t apply.” CC is the \"Commons Clause\" license addendum which is \"source available\" instead of FOSS. On March 1, 2021: The “First pass w/ libNgU” commit removed the GPL @Trezor-derived crypto libraries and replaced them with libNgU. That same 120-file commit changed seed generation code. libNgU was licensed with a novel “Licensed for Bitcoin Only” license. On March 17, 2021: Version 4.0.0 announced that all crypto and BIP39 code had been replaced and that the “last remaining GPL code” was removed. https://t.co/40xchCMOMx https://t.co/UBdezpgvDC Our best understanding right now is that the entropy bug was collateral damage from this major overhaul of the codebase. To be clear, this overhaul was not solely about licensing. Coldcard also cited technical goals including adopting Bitcoin Core’s libsecp256k1, faster AES and SHA implementations, and reproducible builds. But the timeline establishes two things: (1) Foundation’s launch was the obvious impetus for Coldcard’s licensing change, and (2) removing the remaining GPL code was an explicit goal of the subsequent v4 rewrite. We don't know by how much the licensing pressure affected the scope or timeline of the rewrite. All we can determine is that the entropy bug was introduced inside the same 120-file commit that removed the old GPL code dependencies.",
+      "summary": "RT @zherbert: Regarding the Coldcard entropy bug – many folks are explaining what happened but I wanted to take a minute to explain why it may have…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083177062806765950",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 133,
+        "replies": 0,
+        "quotes": 0,
+        "views": "215"
+      }
+    },
+    {
+      "id": "2083176669393674568",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T13:03:16+00:00",
+      "text": "The Adam Smith Institute’s Freedom of Speech Bill is designed to get the state out of the business of policing the peaceful, non-violent expression of opinions - regardless of the opinion. When will the Greens adopt? https://t.co/bVVyqk3BK0",
+      "summary": "The Adam Smith Institute’s Freedom of Speech Bill is designed to get the state out of the business of policing the peaceful, non-violent expression…",
+      "url": "https://x.com/prestonjbyrne/status/2083176669393674568",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 40,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1490"
+      }
+    },
+    {
+      "id": "2083173983248150828",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:52:35+00:00",
+      "text": "How can we promote self custody to people new to Bitcoin when they have to have an insane level of paranoia to set up a cold card to even try prevent a financial catastrophe https://t.co/fla0s3H1ZK",
+      "summary": "How can we promote self custody to people new to Bitcoin when they have to have an insane level of paranoia to set up a cold card to even try prevent…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083173983248150828",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 58,
+        "retweets": 3,
+        "replies": 18,
+        "quotes": 1,
+        "views": "3108"
+      }
+    },
+    {
+      "id": "2083172071786283420",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:45:00+00:00",
+      "text": "Sad morning in bitcoin",
+      "summary": "Sad morning in bitcoin",
+      "url": "https://x.com/HaileyLennonBTC/status/2083172071786283420",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2254"
+      }
+    },
+    {
+      "id": "2083170768867741793",
+      "is_retweet": true,
+      "original_author": "COLDCARDwallet",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:39:49+00:00",
+      "text": "RT @COLDCARDwallet: The first post was the advisory and what users should do. This second post has the technical details: what actually went wrong, why our reviews missed it, the impact across Mk3/Mk4/Q/Mk5, and what we changed. https://t.co/HshUxevCl3 ( current evaluating Mk3 firmware release )",
+      "summary": "RT @COLDCARDwallet: The first post was the advisory and what users should do. This second post has the technical details: what actually went wrong,…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083170768867741793",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 156,
+        "replies": 0,
+        "quotes": 0,
+        "views": "229"
+      }
+    },
+    {
+      "id": "2083170421172527339",
+      "is_retweet": true,
+      "original_author": "privacymatter21",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:38:26+00:00",
+      "text": "RT @privacymatter21: This Coldcard hack cuts deeper than anything I have seen since MtGox. This isn't shitcoiners or yield chasers getting rekt on Celsius, BlockFi or FTX . This is bitcoin maxis following the rules and losing everything. This will go down as one of the worst days in Bitcoins history",
+      "summary": "RT @privacymatter21: This Coldcard hack cuts deeper than anything I have seen since MtGox. This isn't shitcoiners or yield chasers getting rekt on…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083170421172527339",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 54,
+        "replies": 0,
+        "quotes": 0,
+        "views": "245"
+      }
+    },
+    {
+      "id": "2083170339551379708",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:38:07+00:00",
+      "text": "The Adam Smith Institute’s Freedom of Speech Bill fixes this. https://t.co/b7R4rUqBa9",
+      "summary": "The Adam Smith Institute’s Freedom of Speech Bill fixes this. https://t.co/b7R4rUqBa9",
+      "url": "https://x.com/prestonjbyrne/status/2083170339551379708",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 36,
+        "retweets": 6,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1543"
+      }
+    },
     {
       "id": "2083168608771858895",
       "is_retweet": false,
@@ -77,6 +423,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "299"
+      }
+    },
+    {
+      "id": "2083165670561173867",
+      "is_retweet": true,
+      "original_author": "callebtc",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:19:33+00:00",
+      "text": "RT @callebtc: ⚠️ ONGOING ATTACK ON COLDCARD - ACT NOW ⚠️ If you're a COLDCARD Mk3 user (your coldcard has no USB-C yet) you must MOVE FUNDS off the device RIGHT NOW. Seed phrases generated on the COLDCARD Mk3 are insecure. Move all funds to a secure hardware wallet. Call your trusted Bitcoiner if you need help. This is not a drill. I know people affected by this. Share widely.",
+      "summary": "RT @callebtc: ⚠️ ONGOING ATTACK ON COLDCARD - ACT NOW ⚠️ If you're a COLDCARD Mk3 user (your coldcard has no USB-C yet) you must MOVE FUNDS off the…",
+      "url": "https://x.com/prestonjbyrne/status/2083165670561173867",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 103,
+        "replies": 0,
+        "quotes": 0,
+        "views": "252"
       }
     },
     {
@@ -155,6 +526,56 @@
       }
     },
     {
+      "id": "2083010825778803166",
+      "is_retweet": true,
+      "original_author": "jamesob",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T02:04:15+00:00",
+      "text": "RT @jamesob: If you have bitcoin residing under a single key that was generated on a Coldcard Mk3 between 2021-2023, and you - did not incorporate dice rolls - do not use a passphrase - do not use multi-sig I would advise moving funds as soon as possible.",
+      "summary": "RT @jamesob: If you have bitcoin residing under a single key that was generated on a Coldcard Mk3 between 2021-2023, and you - did not incorporate…",
+      "url": "https://x.com/prestonjbyrne/status/2083010825778803166",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 387,
+        "replies": 0,
+        "quotes": 0,
+        "views": "333"
+      }
+    },
+    {
+      "id": "2083008490927255742",
+      "is_retweet": true,
+      "original_author": "amandatums",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T01:54:59+00:00",
+      "text": "RT @amandatums: From the Treasury Secretary himself: \"The Blockchain Regulatory Certainty Act — which Washington lobbyists have spun up as a boogeyman for certain groups of prosecutors and law enforcement — does nothing other than codify longstanding Treasury Department policy that’s remained consistent across Administrations: non-custodial builders and developers are not, and have never been, subject to registration obligations under the Bank Secrecy Act.\"",
+      "summary": "RT @amandatums: From the Treasury Secretary himself: \"The Blockchain Regulatory Certainty Act — which Washington lobbyists have spun up as a…",
+      "url": "https://x.com/theblockprof/status/2083008490927255742",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "98"
+      }
+    },
+    {
       "id": "2083002271411868110",
       "is_retweet": true,
       "original_author": "RapidResponse47",
@@ -177,6 +598,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "662"
+      }
+    },
+    {
+      "id": "2082996216510505204",
+      "is_retweet": true,
+      "original_author": "brian_armstrong",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T01:06:12+00:00",
+      "text": "RT @brian_armstrong: The biggest financial shift of our lifetime is starting, and Coinbase was built for this moment. Every asset on earth (stocks, bonds, commodities, real estate, etc) is going to move onchain. The hundred-trillion-dollar financial system is being updated, faster than the incumbents can react. A handful of companies will own the rails for this new system. Coinbase is uniquely positioned to capitalize on this generational transformation. We just released our latest earnings where we talk about our progress here. It was a tough market in Q2. Despite this, we continued to execute on the things in our control and build through the noise. Some highlights: - We store the most crypto in the world, and are the leading stablecoin platform - 90%+ of agentic stablecoin transaction volume was on Base - New ATH in our crypto trading volume market share (10.3%) - Revenue has significantly diversified beyond trading - Prediction markets revenue more than doubled, +106% QoQ",
+      "summary": "RT @brian_armstrong: The biggest financial shift of our lifetime is starting, and Coinbase was built for this moment. Every asset on earth (stocks,…",
+      "url": "https://x.com/theblockprof/status/2082996216510505204",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 619,
+        "replies": 0,
+        "quotes": 0,
+        "views": "85"
       }
     },
     {
@@ -380,6 +826,31 @@
       }
     },
     {
+      "id": "2082966964540985833",
+      "is_retweet": true,
+      "original_author": "daily_cowboy",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T23:09:58+00:00",
+      "text": "RT @daily_cowboy: Struggling for funding, UCLA researchers launched an account on the racy OnlyFans website called OnlyMarms to raise money. Instead of erotica, the site features cute marmot videos. A Wyoming wildlife biologist describes the effort as \"innovative.\" https://t.co/Yq21p86ZAR",
+      "summary": "RT @daily_cowboy: Struggling for funding, UCLA researchers launched an account on the racy OnlyFans website called OnlyMarms to raise money. Instead…",
+      "url": "https://x.com/prestonjbyrne/status/2082966964540985833",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "328"
+      }
+    },
+    {
       "id": "2082965313449062729",
       "is_retweet": true,
       "original_author": "SeanParnellASW",
@@ -477,6 +948,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "738"
+      }
+    },
+    {
+      "id": "2082944696318394869",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T21:41:29+00:00",
+      "text": "One of those circle-the-calendar events, can’t wait @NYcryptolawyer!",
+      "summary": "One of those circle-the-calendar events, can’t wait @NYcryptolawyer!",
+      "url": "https://x.com/JacobRobinsonJD/status/2082944696318394869",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "634"
       }
     },
     {
@@ -580,6 +1076,31 @@
       }
     },
     {
+      "id": "2082935666363478218",
+      "is_retweet": true,
+      "original_author": "BitcoinArchive",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T21:05:36+00:00",
+      "text": "RT @BitcoinArchive: 🇺🇸 Sen. Lummis says \"I've incorporated hundreds of pages of Democrat priorities.\" Claims Dems are using it \"just an excuse not to legislate.\" \"We have to pass the Clarity Act NOW.\"",
+      "summary": "RT @BitcoinArchive: 🇺🇸 Sen. Lummis says \"I've incorporated hundreds of pages of Democrat priorities.\" Claims Dems are using it \"just an excuse not to…",
+      "url": "https://x.com/HaileyLennonBTC/status/2082935666363478218",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 32,
+        "replies": 0,
+        "quotes": 0,
+        "views": "231"
+      }
+    },
+    {
       "id": "2082935394153161176",
       "is_retweet": false,
       "original_author": null,
@@ -677,6 +1198,31 @@
         "replies": 115,
         "quotes": 19,
         "views": "87097"
+      }
+    },
+    {
+      "id": "2082932518207070295",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T20:53:06+00:00",
+      "text": "👀 A Senate vote is still in play. If you want a YES, you need to be loud. Tell your Senator to pass Clarity. Your voice matters most right now. Let's do this. 👇 Connect to Congress: https://t.co/4gp0IRJmeU 📞(202) 224-3121 & don't forget to repost, tag your Senator, and tag CryptoLaw.",
+      "summary": "👀 A Senate vote is still in play. If you want a YES, you need to be loud. Tell your Senator to pass Clarity. Your voice matters most right now. Let's…",
+      "url": "https://x.com/CryptoLawUS/status/2082932518207070295",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 353,
+        "retweets": 92,
+        "replies": 10,
+        "quotes": 6,
+        "views": "14958"
       }
     },
     {
@@ -955,6 +1501,31 @@
       }
     },
     {
+      "id": "2082909578325303724",
+      "is_retweet": true,
+      "original_author": "jswihart",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T19:21:56+00:00",
+      "text": "RT @jswihart: So good! @Gemini is the only exchange to support shielded withdrawals, Ironwood. All other exchanges leak the value of your withdrawals, and thus the aggregate value of all the money you've offramped and self-custodied. @Gemini -&gt; 🛡️@Zcash -&gt; @zodl_app 💪",
+      "summary": "RT @jswihart: So good! @Gemini is the only exchange to support shielded withdrawals, Ironwood. All other exchanges leak the value of your…",
+      "url": "https://x.com/theblockprof/status/2082909578325303724",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": "101"
+      }
+    },
+    {
       "id": "2082905613378417005",
       "is_retweet": false,
       "original_author": null,
@@ -977,6 +1548,31 @@
         "replies": 199,
         "quotes": 18,
         "views": "166361"
+      }
+    },
+    {
+      "id": "2082905327834386752",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T19:05:03+00:00",
+      "text": "UPDATE: Our sources were right. Big movement on Clarity, with bipartisan ethics provisions on its way to the White House. 👇 There's hope - and we need to keep going. The anti-crypto army thought they were ahead. Don't let them catch up. Keep contacting your Senator. Repost and tag them. Connect to Congress: https://t.co/4gp0IRJmeU Call your Senator: (202) 224-3121",
+      "summary": "UPDATE: Our sources were right. Big movement on Clarity, with bipartisan ethics provisions on its way to the White House. 👇 There's hope - and we…",
+      "url": "https://x.com/CryptoLawUS/status/2082905327834386752",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 688,
+        "retweets": 167,
+        "replies": 17,
+        "quotes": 6,
+        "views": "48325"
       }
     },
     {
@@ -1127,6 +1723,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "910"
+      }
+    },
+    {
+      "id": "2082889408647139571",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T18:01:47+00:00",
+      "text": "RT @ReclaimTheNetHQ: Every law like this ends the same way. It doesn't work, so it gets bigger. The Online Safety Act keeps failing upward. Each thing it can't do becomes a reason to give it more to do. When people route around a bad law, you can take that as feedback or you can take it as a gap in enforcement. Britain has picked. Nothing about the Online Safety Act has gone to plan, and not one person responsible has treated that as information.",
+      "summary": "RT @ReclaimTheNetHQ: Every law like this ends the same way. It doesn't work, so it gets bigger. The Online Safety Act keeps failing upward. Each…",
+      "url": "https://x.com/prestonjbyrne/status/2082889408647139571",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 150,
+        "replies": 0,
+        "quotes": 0,
+        "views": "272"
       }
     },
     {
@@ -1855,6 +2476,56 @@
       }
     },
     {
+      "id": "2082876841887490372",
+      "is_retweet": true,
+      "original_author": "erichdylus",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T17:11:51+00:00",
+      "text": "RT @erichdylus: This was an awesome episode of @LawofCodeFM and it was a pleasure to join. Jacob does an incredible job putting this show together!",
+      "summary": "RT @erichdylus: This was an awesome episode of @LawofCodeFM and it was a pleasure to join. Jacob does an incredible job putting this show together!",
+      "url": "https://x.com/JacobRobinsonJD/status/2082876841887490372",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "51"
+      }
+    },
+    {
+      "id": "2082876806697222408",
+      "is_retweet": true,
+      "original_author": "NYcryptolawyer",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T17:11:43+00:00",
+      "text": "RT @NYcryptolawyer: Great stuff!!",
+      "summary": "RT @NYcryptolawyer: Great stuff!!",
+      "url": "https://x.com/JacobRobinsonJD/status/2082876806697222408",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "43"
+      }
+    },
+    {
       "id": "2082876540308570501",
       "is_retweet": false,
       "original_author": null,
@@ -1902,6 +2573,31 @@
         "replies": 3,
         "quotes": 0,
         "views": "2215"
+      }
+    },
+    {
+      "id": "2082873297046327682",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T16:57:46+00:00",
+      "text": "The @CFTC just proposed new rules for the relationship between prediction markets and market makers. A few key pieces after a quick read: 1) Restrictions on the affiliate market maker’s access to the DCM’s non-public info (order flow, positions, upcoming rule changes) 2) Prohibitions on the affiliate market maker receiving preferential treatment (fee structures, matching priority, access) 3) Separation of personnel, technology and office space between the exchange and the affiliate Proposed Regulation 38.852(b) is also notable: you can own a market maker on your exchange, but you can’t own a prop trading firm on your exchange.",
+      "summary": "The @CFTC just proposed new rules for the relationship between prediction markets and market makers. A few key pieces after a quick read: 1)…",
+      "url": "https://x.com/JacobRobinsonJD/status/2082873297046327682",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 39,
+        "retweets": 3,
+        "replies": 5,
+        "quotes": 1,
+        "views": "17265"
       }
     },
     {
