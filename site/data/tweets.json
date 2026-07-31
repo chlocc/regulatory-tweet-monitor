@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-31T15:01:37.377073+00:00",
-  "generated_at_unix": 1785510097,
+  "generated_at": "2026-07-31T18:00:05.162325+00:00",
+  "generated_at_unix": 1785520805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-30T16:00:00+00:00",
-  "window_end": "2026-07-31T15:01:37.377073+00:00",
-  "new_this_run": 28,
-  "total_recent": 113,
+  "window_end": "2026-07-31T18:00:05.162325+00:00",
+  "new_this_run": 30,
+  "total_recent": 143,
   "errors": [
     {
-      "username": "NYCStein",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 60,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +25,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083241894222450879",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T17:22:27+00:00",
+      "text": "RT @CryptoAmerica_: The Federal Reserve may be further ahead on AI than many realize. Former Fed Chief Innovation Officer @sunayna says that this year, every employee at the @federalreserve had AI in their performance goals. https://t.co/x6g3NfAkCT",
+      "summary": "RT @CryptoAmerica_: The Federal Reserve may be further ahead on AI than many realize. Former Fed Chief Innovation Officer @sunayna says that this…",
+      "url": "https://x.com/EleanorTerrett/status/2083241894222450879",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5478"
+      }
+    },
+    {
+      "id": "2083226570907672907",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-31T16:21:33+00:00",
+      "text": "RT @lex_node: what I can't figure it is why Cayman, BVI or Panama haven't just copypasted DUNA yet? the main reason people don't do them as much as they could/should is because they don't want the tax tradeoff of accepting U.S. jurisdiction my personal back of envelope calculus is that the ideal legal wrapper for a DAO is a U.S. DUNA plus a non-U.S. DUNA and some kind of barebones-Foundation to aggregate their results, a bit like blocker entities navigating U.S. vs. non-U.S. fund issues",
+      "summary": "RT @lex_node: what I can't figure it is why Cayman, BVI or Panama haven't just copypasted DUNA yet? the main reason people don't do them as much as…",
+      "url": "https://x.com/milesjennings/status/2083226570907672907",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "107"
+      }
+    },
     {
       "id": "2083210041138581674",
       "is_retweet": false,
@@ -48,6 +98,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "173"
+      }
+    },
+    {
+      "id": "2083209532008960022",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-31T15:13:51+00:00",
+      "text": "RT @SenLummis: This bill literally requires President Trump to divest his digital asset holdings or put them in a blind trust. It's becoming painfully clear some of my Democrat colleagues would rather let consumers lose everything if a crypto exchange fails and posture for the midterms than pass market structure legislation with unprecedented ethics standards covering the President, VP, Congress, and the Federal Judiciary.",
+      "summary": "RT @SenLummis: This bill literally requires President Trump to divest his digital asset holdings or put them in a blind trust. It's becoming…",
+      "url": "https://x.com/milesjennings/status/2083209532008960022",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 508,
+        "replies": 0,
+        "quotes": 0,
+        "views": "124"
+      }
+    },
+    {
+      "id": "2083206844932358630",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T15:03:10+00:00",
+      "text": "Everyone assumes open source models help bad actors most. 🔓 Jessi Brooks argues on @DEXintheCityPod it might be the only thing that catches them, pointing to how Hugging Face used an open model to catch the intrusion in the first place. https://t.co/MLwaGU9OHz",
+      "summary": "Everyone assumes open source models help bad actors most. 🔓 Jessi Brooks argues on @DEXintheCityPod it might be the only thing that catches them,…",
+      "url": "https://x.com/laurashin/status/2083206844932358630",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2241"
       }
     },
     {
@@ -176,6 +276,131 @@
       }
     },
     {
+      "id": "2083197668340138153",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T14:26:42+00:00",
+      "text": "RT @laurashin: Conventional wisdom says closed AI labs protect their edge by staying proprietary. @ramahluwalia says history disagrees: the Wright brothers didn't benefit when Boeing and Lockheed Martin distilled their patents either. ✈️ https://t.co/JOM6bGu85J",
+      "summary": "RT @laurashin: Conventional wisdom says closed AI labs protect their edge by staying proprietary. @ramahluwalia says history disagrees: the Wright…",
+      "url": "https://x.com/laurashin/status/2083197668340138153",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083197543337341024",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T14:26:12+00:00",
+      "text": "RT @laurashin: 🚨 The IRS Criminal Investigation division is warning that fraudsters are mailing fake letters pushing crypto holders to enroll in a nonexistent \"Digital Asset Compliance Portal.\" https://t.co/UVfbW1WVtH",
+      "summary": "RT @laurashin: 🚨 The IRS Criminal Investigation division is warning that fraudsters are mailing fake letters pushing crypto holders to enroll in a…",
+      "url": "https://x.com/laurashin/status/2083197543337341024",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083197522068083175",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T14:26:07+00:00",
+      "text": "RT @laurashin: 📉 Coinbase posted a $359.5M net loss in Q2, its third straight quarterly loss, as revenue fell 14% to $1.22B and missed analyst estimates. https://t.co/S5JbY8k4GD",
+      "summary": "RT @laurashin: 📉 Coinbase posted a $359.5M net loss in Q2, its third straight quarterly loss, as revenue fell 14% to $1.22B and missed analyst…",
+      "url": "https://x.com/laurashin/status/2083197522068083175",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083197492259082446",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T14:26:00+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 A Coldcard firmware flaw let an attacker drain 594 BTC from 500 wallets 📉 Coinbase posted a $359 million loss, its third straight quarterly miss 📬 IRS-CI warns of fake letters pushing crypto holders to a nonexistent portal 📈 Read the latest update… and get more daily! Subscribe. https://t.co/Y2CkIV1FUk",
+      "summary": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 A Coldcard firmware flaw let an attacker drain 594 BTC from 500 wallets 📉 Coinbase posted a…",
+      "url": "https://x.com/laurashin/status/2083197492259082446",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083197483186815135",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T14:25:58+00:00",
+      "text": "RT @laurashin: 🔓 An attacker drained 594 BTC (~$38M) from ~500 Coldcard wallets in a 25-minute window Thursday, after a 2021 firmware flaw replaced true randomness with predictable key generation. https://t.co/UvYLRPSL9s",
+      "summary": "RT @laurashin: 🔓 An attacker drained 594 BTC (~$38M) from ~500 Coldcard wallets in a 25-minute window Thursday, after a 2021 firmware flaw replaced…",
+      "url": "https://x.com/laurashin/status/2083197483186815135",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2083192031879237830",
       "is_retweet": false,
       "original_author": null,
@@ -198,6 +423,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "2379"
+      }
+    },
+    {
+      "id": "2083191803248029966",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T14:03:24+00:00",
+      "text": "According to @mhaas_eth, you no longer have to trust a hardware wallet's maker on faith. Point an AI model like Claude or ChatGPT at the open-source firmware and check the code yourself. 🤖 https://t.co/4Za4OUD6k5",
+      "summary": "According to @mhaas_eth, you no longer have to trust a hardware wallet's maker on faith. Point an AI model like Claude or ChatGPT at the open-source…",
+      "url": "https://x.com/laurashin/status/2083191803248029966",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 3,
+        "replies": 5,
+        "quotes": 1,
+        "views": "3601"
       }
     },
     {
@@ -426,6 +676,31 @@
       }
     },
     {
+      "id": "2083166100246684139",
+      "is_retweet": true,
+      "original_author": "Ryan_S_Gladwin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T12:21:16+00:00",
+      "text": "RT @Ryan_S_Gladwin: SCOOP: Pumpfun laid off employees just two months before token vesting was scheduled. For one employee, the dismissal meant missing out on seven figures worth of PUMP tokens. https://t.co/sxD5goFY4B",
+      "summary": "RT @Ryan_S_Gladwin: SCOOP: Pumpfun laid off employees just two months before token vesting was scheduled. For one employee, the dismissal meant…",
+      "url": "https://x.com/laurashin/status/2083166100246684139",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 40,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1253"
+      }
+    },
+    {
       "id": "2083165670561173867",
       "is_retweet": true,
       "original_author": "callebtc",
@@ -476,6 +751,156 @@
       }
     },
     {
+      "id": "2083163527813238818",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-31T12:11:02+00:00",
+      "text": "RT @circle: Circle has received a limited purpose trust charter from the New York Department of Financial Services for Circle New York Trust. A meaningful step in strengthening the regulatory foundation behind Circle and USDC. https://t.co/RXX8Hkg1Yu",
+      "summary": "RT @circle: Circle has received a limited purpose trust charter from the New York Department of Financial Services for Circle New York Trust. A…",
+      "url": "https://x.com/ddisparte/status/2083163527813238818",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 64,
+        "replies": 0,
+        "quotes": 0,
+        "views": "74"
+      }
+    },
+    {
+      "id": "2083160497495670965",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T11:59:00+00:00",
+      "text": "🚨 The IRS Criminal Investigation division is warning that fraudsters are mailing fake letters pushing crypto holders to enroll in a nonexistent \"Digital Asset Compliance Portal.\" https://t.co/UVfbW1WVtH",
+      "summary": "🚨 The IRS Criminal Investigation division is warning that fraudsters are mailing fake letters pushing crypto holders to enroll in a nonexistent…",
+      "url": "https://x.com/laurashin/status/2083160497495670965",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3765"
+      }
+    },
+    {
+      "id": "2083155464037208132",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T11:39:00+00:00",
+      "text": "📉 Coinbase posted a $359.5M net loss in Q2, its third straight quarterly loss, as revenue fell 14% to $1.22B and missed analyst estimates. https://t.co/S5JbY8k4GD",
+      "summary": "📉 Coinbase posted a $359.5M net loss in Q2, its third straight quarterly loss, as revenue fell 14% to $1.22B and missed analyst estimates.…",
+      "url": "https://x.com/laurashin/status/2083155464037208132",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 2,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3310"
+      }
+    },
+    {
+      "id": "2083153610766950522",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T11:31:38+00:00",
+      "text": "RT @laurashin: 🔐 Quantum computers that can break crypto's security might still be years away, but Freedom Factory says it already has a hardware wallet solution for Ethereum and EVM chains. CEO Markus Haas ( @mhaas_eth ) says he's shipping the new PQ1 hardware wallet protects Ethereum, its Layer 2s, and every other EVM chain using hash-based post-quantum cryptography, plus an eight-word check that lets you verify the firmware yourself. @laurashin gets the full walkthrough Subscribe to Unchained Premium to watch! https://t.co/2b5l1cXzpl",
+      "summary": "RT @laurashin: 🔐 Quantum computers that can break crypto's security might still be years away, but Freedom Factory says it already has a hardware…",
+      "url": "https://x.com/laurashin/status/2083153610766950522",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083151689239175292",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T11:24:00+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 A Coldcard firmware flaw let an attacker drain 594 BTC from 500 wallets 📉 Coinbase posted a $359 million loss, its third straight quarterly miss 📬 IRS-CI warns of fake letters pushing crypto holders to a nonexistent portal 📈 Read the latest update… and get more daily! Subscribe. https://t.co/Y2CkIV1FUk",
+      "summary": "In today's Unchained Daily newsletter: 🔥 A Coldcard firmware flaw let an attacker drain 594 BTC from 500 wallets 📉 Coinbase posted a $359 million…",
+      "url": "https://x.com/laurashin/status/2083151689239175292",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 2,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3563"
+      }
+    },
+    {
+      "id": "2083150431119896856",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T11:19:00+00:00",
+      "text": "🔓 An attacker drained 594 BTC (~$38M) from ~500 Coldcard wallets in a 25-minute window Thursday, after a 2021 firmware flaw replaced true randomness with predictable key generation. https://t.co/UvYLRPSL9s",
+      "summary": "🔓 An attacker drained 594 BTC (~$38M) from ~500 Coldcard wallets in a 25-minute window Thursday, after a 2021 firmware flaw replaced true randomness…",
+      "url": "https://x.com/laurashin/status/2083150431119896856",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 30,
+        "retweets": 8,
+        "replies": 9,
+        "quotes": 0,
+        "views": "5604"
+      }
+    },
+    {
       "id": "2083071672152698968",
       "is_retweet": true,
       "original_author": "austincampbell",
@@ -498,6 +923,156 @@
         "replies": 0,
         "quotes": 0,
         "views": "622"
+      }
+    },
+    {
+      "id": "2083060289688236269",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T05:20:49+00:00",
+      "text": "RT @laurashin: The thing that annoys me most about Clarity: History has shown repeatedly that successful civilizations fall when the powerful become more focused on fighting each other and less focused on external threats This is exactly what's playing out with the Clarity Act, and we Americans who understand this have to watch our leaders drive our country into the ground 🙄 It's giving Blockbuster",
+      "summary": "RT @laurashin: The thing that annoys me most about Clarity: History has shown repeatedly that successful civilizations fall when the powerful become…",
+      "url": "https://x.com/laurashin/status/2083060289688236269",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 39,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083060177691976045",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T05:20:22+00:00",
+      "text": "RT @laurashin: According to @perkinscr97, crypto isn't AI's rival, it's the thing that gets empowered once AI-era security gaps close. 🔐 A sharp reframe of the \"AI vs crypto\" debate everyone's been having on X. https://t.co/h087CzYBQB",
+      "summary": "RT @laurashin: According to @perkinscr97, crypto isn't AI's rival, it's the thing that gets empowered once AI-era security gaps close. 🔐 A sharp…",
+      "url": "https://x.com/laurashin/status/2083060177691976045",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 37,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083059002116911578",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T05:15:42+00:00",
+      "text": "🔐 Quantum computers that can break crypto's security might still be years away, but Freedom Factory says it already has a hardware wallet solution for Ethereum and EVM chains. CEO Markus Haas ( @mhaas_eth ) says he's shipping the new PQ1 hardware wallet protects Ethereum, its Layer 2s, and every other EVM chain using hash-based post-quantum cryptography, plus an eight-word check that lets you verify the firmware yourself. @laurashin gets the full walkthrough Subscribe to Unchained Premium to watch! https://t.co/2b5l1cXzpl",
+      "summary": "🔐 Quantum computers that can break crypto's security might still be years away, but Freedom Factory says it already has a hardware wallet solution…",
+      "url": "https://x.com/laurashin/status/2083059002116911578",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 8,
+        "replies": 9,
+        "quotes": 0,
+        "views": "5475"
+      }
+    },
+    {
+      "id": "2083027198751945043",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T03:09:19+00:00",
+      "text": "The thing that annoys me most about Clarity: History has shown repeatedly that successful civilizations fall when the powerful become more focused on fighting each other and less focused on external threats This is exactly what's playing out with the Clarity Act, and we Americans who understand this have to watch our leaders drive our country into the ground 🙄 It's giving Blockbuster",
+      "summary": "The thing that annoys me most about Clarity: History has shown repeatedly that successful civilizations fall when the powerful become more focused on…",
+      "url": "https://x.com/laurashin/status/2083027198751945043",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 300,
+        "retweets": 39,
+        "replies": 25,
+        "quotes": 4,
+        "views": "44598"
+      }
+    },
+    {
+      "id": "2083026168828076303",
+      "is_retweet": true,
+      "original_author": "bitsandbips",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T03:05:14+00:00",
+      "text": "RT @bitsandbips: If you build a proprietary AI model, someone eventually copies it. @ramahluwalia says that's not a flaw, it's capitalism, just like Boeing and Lockheed Martin did to the Wright brothers. ✈️ New @bitsandbips clip. https://t.co/NbGa0UL78P",
+      "summary": "RT @bitsandbips: If you build a proprietary AI model, someone eventually copies it. @ramahluwalia says that's not a flaw, it's capitalism, just like…",
+      "url": "https://x.com/laurashin/status/2083026168828076303",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1320"
+      }
+    },
+    {
+      "id": "2083024306548990208",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-31T02:57:50+00:00",
+      "text": "RT @a16zcrypto: Before the DUNA, crypto projects had to choose: - Decentralization without legal protection - Legal protection without decentralization - A convoluted offshore structure The DUNA offers another path: a U.S.-recognized legal entity built for decentralized control. https://t.co/G2dMHNCk0N",
+      "summary": "RT @a16zcrypto: Before the DUNA, crypto projects had to choose: - Decentralization without legal protection - Legal protection without…",
+      "url": "https://x.com/milesjennings/status/2083024306548990208",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "139"
       }
     },
     {
@@ -548,6 +1123,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "333"
+      }
+    },
+    {
+      "id": "2083008555972751748",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T01:55:14+00:00",
+      "text": "RT @CryptoAmerica_: The White House and President Trump have a “massive” role to play in getting the Clarity Act across the finish line, says @SolanaInstitute CEO Miller Whitehouse-Levine. https://t.co/NLZeGAEYlW",
+      "summary": "RT @CryptoAmerica_: The White House and President Trump have a “massive” role to play in getting the Clarity Act across the finish line, says…",
+      "url": "https://x.com/EleanorTerrett/status/2083008555972751748",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8161"
       }
     },
     {
@@ -623,6 +1223,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "85"
+      }
+    },
+    {
+      "id": "2082993677807567052",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T00:56:07+00:00",
+      "text": "Thanks @BrendanPedersen. Lummis told us Senator Hawley is “really resistant.” He didn’t vote for GENIUS and the expectation is that he also won’t vote for Clarity, although discussions with his office are said to be ongoing. Other GOP resistance appears to be driven by concerns from the banking sector over the bill’s stablecoin yield provisions, as Brendan has been reporting. One plugged in industry source told me yesterday that, given the pressure from bank lobby and some Republican concerns, they expect at least some changes to the yield section before the bill reaches the floor, although unclear if the tweaks would be enough to satisfy the banks.",
+      "summary": "Thanks @BrendanPedersen. Lummis told us Senator Hawley is “really resistant.” He didn’t vote for GENIUS and the expectation is that he also won’t…",
+      "url": "https://x.com/EleanorTerrett/status/2082993677807567052",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 939,
+        "retweets": 149,
+        "replies": 113,
+        "quotes": 19,
+        "views": "161021"
+      }
+    },
+    {
+      "id": "2082980784466723059",
+      "is_retweet": true,
+      "original_author": "AnthropicAI",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-31T00:04:53+00:00",
+      "text": "RT @AnthropicAI: In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://t.co/dKFCdpKd9v",
+      "summary": "RT @AnthropicAI: In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or…",
+      "url": "https://x.com/gabriel_weil/status/2082980784466723059",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1939,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2"
       }
     },
     {
@@ -951,6 +1601,31 @@
       }
     },
     {
+      "id": "2082944842855006267",
+      "is_retweet": true,
+      "original_author": "circle",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-30T21:42:04+00:00",
+      "text": "RT @circle: Circle Current Korea. 🇰🇷 In Seoul, builders, policymakers, and financial leaders came together to discuss stablecoins, digital dollars, and blockchain-based payment infrastructure. The conversation has moved beyond potential. It is about infrastructure, trust, and what comes next.",
+      "summary": "RT @circle: Circle Current Korea. 🇰🇷 In Seoul, builders, policymakers, and financial leaders came together to discuss stablecoins, digital dollars,…",
+      "url": "https://x.com/ddisparte/status/2082944842855006267",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 50,
+        "replies": 0,
+        "quotes": 0,
+        "views": "76"
+      }
+    },
+    {
       "id": "2082944696318394869",
       "is_retweet": false,
       "original_author": null,
@@ -1248,6 +1923,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "14316"
+      }
+    },
+    {
+      "id": "2082929391928307822",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-30T20:40:40+00:00",
+      "text": "🚨NEWS: I’m hearing from a couple of sources off the Hill that the latest ethics proposal brokered by @SenThomTillis and @SenRubenGallego includes a role for State attorneys general, although it’s still unclear what the full package looks like or what additional provisions have been added to address White House concerns. The White House is now reviewing the latest draft, which was sent over this morning. Separately, I’m told industry representatives spent much of yesterday making calls to the White House, making the case that reaching an ethics compromise is critical to getting the Clarity Act across the finish line. How the White House responds could go a long way toward determining whether the Senate moves forward with a vote on the bill next week.",
+      "summary": "🚨NEWS: I’m hearing from a couple of sources off the Hill that the latest ethics proposal brokered by @SenThomTillis and @SenRubenGallego includes a…",
+      "url": "https://x.com/EleanorTerrett/status/2082929391928307822",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2837,
+        "retweets": 472,
+        "replies": 122,
+        "quotes": 60,
+        "views": "279816"
+      }
+    },
+    {
+      "id": "2082928237211201729",
+      "is_retweet": true,
+      "original_author": "curl_justin",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-07-30T20:36:05+00:00",
+      "text": "RT @curl_justin: @gabriel_weil’s essay is the best thing I’ve read on AI governance recently. He explains why mandatory insurance solves the incentives problems with @demishassabis’s FINRA for AI proposal. Why independent verification organizations have poor incentives: “An IVO that depends on the developers it clears for repeat business has a significant incentive to grade gently, and a developer shopping among IVOs will find the one that does.” Why mandatory insurance solves: “An insurer that writes an AI developer’s coverage promises to pay for the harms the developer causes. If such insurers underprice, they pay in claims; if they overprice, they lose the client.” Overview: “In a regulatory approach based on mandatory insurance, the insurer would play a role similar to that of an IVO, but with a much stronger financial incentive to conduct competent risk assessment. Nothing would be lost in expertise, because the insurer could hire the same specialists an IVO would.”",
+      "summary": "RT @curl_justin: @gabriel_weil’s essay is the best thing I’ve read on AI governance recently. He explains why mandatory insurance solves the…",
+      "url": "https://x.com/gabriel_weil/status/2082928237211201729",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4"
       }
     },
     {
@@ -1573,6 +2298,31 @@
         "replies": 17,
         "quotes": 6,
         "views": "48325"
+      }
+    },
+    {
+      "id": "2082903606513320439",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-30T18:58:12+00:00",
+      "text": "RT @faryarshirzad: Thousands of hours of bipartisan negotiations have made this bill stronger across the board. Whether it's on illicit finance, conflicts of interest or consumer protections, input from Democratic Senators has made this a better product. The work has been done. It's time to bring the bill to the Senate floor and vote. America needs Clarity.",
+      "summary": "RT @faryarshirzad: Thousands of hours of bipartisan negotiations have made this bill stronger across the board. Whether it's on illicit finance,…",
+      "url": "https://x.com/milesjennings/status/2082903606513320439",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": "200"
       }
     },
     {
