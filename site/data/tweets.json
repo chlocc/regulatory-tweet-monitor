@@ -1,31 +1,27 @@
 {
-  "generated_at": "2026-07-31T09:06:51.517520+00:00",
-  "generated_at_unix": 1785488811,
+  "generated_at": "2026-07-31T12:00:31.139514+00:00",
+  "generated_at_unix": 1785499231,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-30T16:00:00+00:00",
-  "window_end": "2026-07-31T09:06:51.517520+00:00",
-  "new_this_run": 17,
-  "total_recent": 73,
+  "window_end": "2026-07-31T12:00:31.139514+00:00",
+  "new_this_run": 12,
+  "total_recent": 85,
   "errors": [
     {
-      "username": "amandatums",
+      "username": "RebeccaRettig1",
       "error": "The read operation timed out"
     },
     {
-      "username": "jchervinsky",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "s_alderoty",
+      "username": "zackbshapiro",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 30,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +29,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083168608771858895",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:31:14+00:00",
+      "text": "what I can't figure it is why Cayman, BVI or Panama haven't just copypasted DUNA yet? the main reason people don't do them as much as they could/should is because they don't want the tax tradeoff of accepting U.S. jurisdiction my personal back of envelope calculus is that the ideal legal wrapper for a DAO is a U.S. DUNA plus a non-U.S. DUNA and some kind of barebones-Foundation to aggregate their results, a bit like blocker entities navigating U.S. vs. non-U.S. fund issues",
+      "summary": "what I can't figure it is why Cayman, BVI or Panama haven't just copypasted DUNA yet? the main reason people don't do them as much as they…",
+      "url": "https://x.com/lex_node/status/2083168608771858895",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "296"
+      }
+    },
+    {
+      "id": "2083167685374791720",
+      "is_retweet": true,
+      "original_author": "basche42",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:27:34+00:00",
+      "text": "RT @basche42: @lex_node It’s the “smart, savvy, serious” position now to say that crypto is “growing up” and ideals need to be dispensed with in favor of UX, compliance, pragmatism Makes me feel like a TON of CorpoChainEnjoyers are gonna be bag holding “new rails” that are basically UPI/Pix but worse",
+      "summary": "RT @basche42: @lex_node It’s the “smart, savvy, serious” position now to say that crypto is “growing up” and ideals need to be dispensed with in…",
+      "url": "https://x.com/lex_node/status/2083167685374791720",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "299"
+      }
+    },
+    {
+      "id": "2083165570879381671",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T12:19:10+00:00",
+      "text": "the achilles heel of crypto: people are dumb, lazy, and getting dumber and lazier by the day \"derp I ain't rolling no dice...\" lol the solution is to wrap crypto in a bunch of quasi-custodial services but that makes the relative benefits of crypto much muddier... https://t.co/5D6vVxJDSZ",
+      "summary": "the achilles heel of crypto: people are dumb, lazy, and getting dumber and lazier by the day \"derp I ain't rolling no dice...\" lol the solution is to…",
+      "url": "https://x.com/lex_node/status/2083165570879381671",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "932"
+      }
+    },
     {
       "id": "2083071672152698968",
       "is_retweet": true,
@@ -106,6 +177,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "662"
+      }
+    },
+    {
+      "id": "2082974899946062191",
+      "is_retweet": true,
+      "original_author": "lfod_dintwoe",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T23:41:30+00:00",
+      "text": "RT @lfod_dintwoe: @lex_node We're on our way, but its not over until David has FOMO and bankless is an ETH podcast again🫡",
+      "summary": "RT @lfod_dintwoe: @lex_node We're on our way, but its not over until David has FOMO and bankless is an ETH podcast again🫡",
+      "url": "https://x.com/lex_node/status/2082974899946062191",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "710"
       }
     },
     {
@@ -259,6 +355,31 @@
       }
     },
     {
+      "id": "2082967299615556065",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T23:11:18+00:00",
+      "text": "tier-1 ETH hater Ansem is now bullish ETH we did it boys.",
+      "summary": "tier-1 ETH hater Ansem is now bullish ETH we did it boys.",
+      "url": "https://x.com/lex_node/status/2082967299615556065",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 57,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3827"
+      }
+    },
+    {
       "id": "2082965313449062729",
       "is_retweet": true,
       "original_author": "SeanParnellASW",
@@ -284,6 +405,31 @@
       }
     },
     {
+      "id": "2082958684661903394",
+      "is_retweet": true,
+      "original_author": "JacobRobinsonJD",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T22:37:04+00:00",
+      "text": "RT @JacobRobinsonJD: One of those circle-the-calendar events, can’t wait @NYcryptolawyer!",
+      "summary": "RT @JacobRobinsonJD: One of those circle-the-calendar events, can’t wait @NYcryptolawyer!",
+      "url": "https://x.com/NYcryptolawyer/status/2082958684661903394",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "97"
+      }
+    },
+    {
       "id": "2082953156422467968",
       "is_retweet": true,
       "original_author": "SenatorHagerty",
@@ -306,6 +452,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "9751"
+      }
+    },
+    {
+      "id": "2082946254292627493",
+      "is_retweet": true,
+      "original_author": "kantianum",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T21:47:40+00:00",
+      "text": "RT @kantianum: Since July 7, @LasoFinance has been systematically routing 100% of its revenue into the treasury. $25.8K has been sent in 3 weeks. The treasury is controlled by the DAO, and any extra spend outside the monthly allowance needs a proposal to pass. Laso shows perfectly why you can't look at ownership coins and price them the same way you would a token lost in some weird, ambiguous dual structure. MetaDAO is building sound tokens, and it will take some time for the market to understand the model, but eventually it will. note: revenue enforceability for any project can be a challenge, more so when some revenue is offchain, so you still need to underwrite risk here. source: @01Resolved",
+      "summary": "RT @kantianum: Since July 7, @LasoFinance has been systematically routing 100% of its revenue into the treasury. $25.8K has been sent in 3 weeks. The…",
+      "url": "https://x.com/lex_node/status/2082946254292627493",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "738"
       }
     },
     {
@@ -531,6 +702,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "14316"
+      }
+    },
+    {
+      "id": "2082927473725976848",
+      "is_retweet": true,
+      "original_author": "ec265",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T20:33:03+00:00",
+      "text": "RT @ec265: Two months ago your favourite KOL was having you believe that the EF was having a talent exodus Turns out the talent was forming new orgs and these orgs have specific mandates that focus on ETH as an asset ETH is stronger than ever and it’s time you wake up to the fact",
+      "summary": "RT @ec265: Two months ago your favourite KOL was having you believe that the EF was having a talent exodus Turns out the talent was forming new orgs…",
+      "url": "https://x.com/lex_node/status/2082927473725976848",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "705"
       }
     },
     {
@@ -784,6 +980,56 @@
       }
     },
     {
+      "id": "2082902309990781102",
+      "is_retweet": true,
+      "original_author": "Blockanalia",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T18:53:03+00:00",
+      "text": "RT @Blockanalia: Ken didn't even care about Leopold he just heard crypto bros were trading memory and pulled the ole hunting rifle off the mantlepiece (next to his constitution) Poor kid was basically collateral damage",
+      "summary": "RT @Blockanalia: Ken didn't even care about Leopold he just heard crypto bros were trading memory and pulled the ole hunting rifle off the…",
+      "url": "https://x.com/lex_node/status/2082902309990781102",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "721"
+      }
+    },
+    {
+      "id": "2082901265600622652",
+      "is_retweet": true,
+      "original_author": "RebeccaRettig1",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T18:48:54+00:00",
+      "text": "RT @RebeccaRettig1: TY @SecScottBessent: some may discount this statement as \"partisan,\" but those of us engaging w the *law* for years - incl w the dedicated staff @FinCENnews &amp; @USTreasury - understand that the BRCA codifies existing law &amp; policy. anyone \"editing\" it wants to *change* the law. https://t.co/slw61rIkji",
+      "summary": "RT @RebeccaRettig1: TY @SecScottBessent: some may discount this statement as \"partisan,\" but those of us engaging w the *law* for years - incl w the…",
+      "url": "https://x.com/N0th1n3/status/2082901265600622652",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9"
+      }
+    },
+    {
       "id": "2082898102839566845",
       "is_retweet": true,
       "original_author": "FinancialCmte",
@@ -956,6 +1202,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "472"
+      }
+    },
+    {
+      "id": "2082888621921579215",
+      "is_retweet": true,
+      "original_author": "rstormsf",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T17:58:40+00:00",
+      "text": "RT @rstormsf: Scott Bessent: “Non-custodial builders and developers are not, and have never been, subject to registration obligations under the Bank Secrecy Act.” 🎤✋ Meanwhile, Roman Storm, a non-custodial developer, was charged under 18 U.S.C. § 1960(b)(1)(B) and (C). After the Blanche Memo, the government dropped the § 1960(b)(1)(B) charge, but continued prosecuting the § 1960(b)(1)(C) theory.",
+      "summary": "RT @rstormsf: Scott Bessent: “Non-custodial builders and developers are not, and have never been, subject to registration obligations under the Bank…",
+      "url": "https://x.com/lex_node/status/2082888621921579215",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 52,
+        "replies": 0,
+        "quotes": 0,
+        "views": "729"
       }
     },
     {
@@ -1481,6 +1752,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1269"
+      }
+    },
+    {
+      "id": "2082878157669941694",
+      "is_retweet": true,
+      "original_author": "SecScottBessent",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-30T17:17:05+00:00",
+      "text": "RT @SecScottBessent: More than a year ago, the House passed the Clarity Act. There’s been progress since — thousands of hours of bipartisan negotiations took place at the staff and Member levels. The Senate Committees on Banking and Agriculture advanced their respective titles. And Senate Republicans produced a floor-ready product that, as I type this, is waiting for a vote. It’s disappointing — but not surprising — that Senate Democrats are choosing politics on the cusp of a major victory for American leadership. Find another instance in history where Congress, when given the choice, opted to push an industry out of the United States rather than smartly regulate it. American Exceptionalism was once a bipartisan goal; if Clarity fails, I have serious doubts. These same Democrats — many of whom have taken millions of dollars from the crypto industry — proclaim that Clarity lacks safeguards for consumers and falls short in countering illicit finance. Nothing could be further from the truth. Titles II and III materially uplift regulatory and compliance obligations for digital asset intermediaries, placing them on similar footing with traditional financial institutions. The Blockchain Regulatory Certainty Act — which Washington lobbyists have spun up as a boogeyman for certain groups of prosecutors and law enforcement — does nothing other than codify longstanding Treasury Department policy that’s remained consistent across Administrations: non-custodial builders and developers are not, and have never been, subject to registration obligations under the Bank Secrecy Act. And at this point, major law enforcement trades that once opposed the bill, including the Fraternal Order of Police, have now endorsed it. The Senate needs to vote NOW on this landmark legislation. The truth is that Senate Democrats are afraid to advance the Clarity Act as they fear Senator Warren and the “Anti-Crypto Army” she once promised to build. In the days ahead, Leader Thune will put this theory to the test. Will Senate Democrats be on the side of American Exceptionalism, or will they opt to cede American leadership of a global industry for fear of the bespectacled squirrel’s Left flank? America will lead or America won’t. It’s not more complicated than that. I believe Satoshi once said it best: “If you don’t believe me or don’t get it, I don’t have time to try to convince you, sorry.”",
+      "summary": "RT @SecScottBessent: More than a year ago, the House passed the Clarity Act. There’s been progress since — thousands of hours of bipartisan…",
+      "url": "https://x.com/lex_node/status/2082878157669941694",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3974,
+        "replies": 0,
+        "quotes": 0,
+        "views": "724"
       }
     },
     {
