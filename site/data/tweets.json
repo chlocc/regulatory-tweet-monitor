@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-01T12:00:47.014933+00:00",
-  "generated_at_unix": 1785585647,
+  "generated_at": "2026-08-01T15:00:05.318380+00:00",
+  "generated_at_unix": 1785596405,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-31T16:00:00+00:00",
-  "window_end": "2026-08-01T12:00:47.014933+00:00",
-  "new_this_run": 16,
-  "total_recent": 39,
+  "window_end": "2026-08-01T15:00:05.318380+00:00",
+  "new_this_run": 14,
+  "total_recent": 53,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083562415468286080",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T14:36:05+00:00",
+      "text": "Like I said during my debate against @sethmoulton - the problem with Seth is that he wants to become the next @EdMarkey.",
+      "summary": "Like I said during my debate against @sethmoulton - the problem with Seth is that he wants to become the next @EdMarkey.",
+      "url": "https://x.com/JohnEDeaton1/status/2083562415468286080",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4240"
+      }
+    },
+    {
+      "id": "2083557149003714867",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T14:15:09+00:00",
+      "text": "Open Society Foundations (OSF) was founded by George Soros in 1984, and he’s funded it with billions of dollars over the decades. His son, @AlexanderSoros, took over as chair in 2022. They claim to support and want to protect consumers. So, as someone who won the Defender of Freedom Award, Consumer Advocate of the Year Award and Lawyer of the Year Award for my pro-bono legal work representing small retail investors and fighting for smart Crypto & Digital Asset regulations - let me say - on behalf of those investors, customers, and consumers: 🖕 All the corruption involving Crypto has taken place because there is NO CLARITY. The truth is I think the Clarity Act favors the banks and incumbents way too much and should allow yield for the passive ownership of stablecoins - but it’s better than nothing at all.",
+      "summary": "Open Society Foundations (OSF) was founded by George Soros in 1984, and he’s funded it with billions of dollars over the decades. His son,…",
+      "url": "https://x.com/JohnEDeaton1/status/2083557149003714867",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 65,
+        "retweets": 17,
+        "replies": 9,
+        "quotes": 1,
+        "views": "7721"
+      }
+    },
     {
       "id": "2083499892404551905",
       "is_retweet": true,
@@ -93,6 +143,106 @@
         "replies": 8,
         "quotes": 1,
         "views": "25194"
+      }
+    },
+    {
+      "id": "2083394212028985397",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T03:27:42+00:00",
+      "text": "RT @intangiblecoins: the coins are still sitting in the 4 second-hop addresses this attacker’s onchain pattern has not yet reappeared yet (tho vuln remains real) attacker appears to have used paid account at data firm, may be identified there is still hope for recovery of these coins",
+      "summary": "RT @intangiblecoins: the coins are still sitting in the 4 second-hop addresses this attacker’s onchain pattern has not yet reappeared yet (tho vuln…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083394212028985397",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "318"
+      }
+    },
+    {
+      "id": "2083381304465260919",
+      "is_retweet": true,
+      "original_author": "CarloDAngelo",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T02:36:24+00:00",
+      "text": "RT @CarloDAngelo: Big Bank Beth. https://t.co/cCv20LnvQ8",
+      "summary": "RT @CarloDAngelo: Big Bank Beth. https://t.co/cCv20LnvQ8",
+      "url": "https://x.com/theblockprof/status/2083381304465260919",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "119"
+      }
+    },
+    {
+      "id": "2083381147736612966",
+      "is_retweet": true,
+      "original_author": "JamesLucasIT",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T02:35:47+00:00",
+      "text": "RT @JamesLucasIT: This is one of the most beloved paintings in America, and it puts its finger on something we all pass through, first as the child, and one day as the parent left behind... The painting is Breaking Home Ties, by Norman Rockwell, on the cover of the Saturday Evening Post in 1954. A father and his teenage son sit side by side on the running board of a battered farm truck, waiting at a railway stop. A single track runs along the bottom of the picture. A ticket pokes from the boy's pocket. His suitcase is stacked with schoolbooks and wears a \"State U\" pennant. The train is coming to carry him off to college, away from home, for the first time in his life. Everything is in the way they sit. The son sits upright, scrubbed and dressed in his best, eyes fixed on the horizon, on the track, on the future rushing toward him. He is already half gone. For him that train is the beginning of everything. His father sits beside him in worn work clothes and scuffed boots, looking the other way, down the line, as if he cannot bear to watch it arrive. The same train means the opposite thing to him. For the son it is the start of a life. For the father it is the day the house grows quieter, the chair at the table sits empty, and the person he built his world around walks out into a life that no longer has him at its centre. Look at his hands. He is holding two hats. His own battered one, and resting on top of it, his son's crisp new one, held carefully together, because it is the last small thing he can still do for the boy... And then the dog, its head laid in the son's lap, gazing up, refusing to look away. Rockwell knew exactly what that was for: \"The father couldn't show how he felt about the boy's leaving,\" he said. \"The dog did.\" It has moved people for 70 years because every leaving is a beginning for one person and an ending for another. The child steps out into the world, as they should. And someone stays behind, watching them go, and loving them enough to let them go anyway...",
+      "summary": "RT @JamesLucasIT: This is one of the most beloved paintings in America, and it puts its finger on something we all pass through, first as the child,…",
+      "url": "https://x.com/theblockprof/status/2083381147736612966",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3783,
+        "replies": 0,
+        "quotes": 0,
+        "views": "115"
+      }
+    },
+    {
+      "id": "2083380046450848202",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T02:31:25+00:00",
+      "text": "RT @theblockprof: Big Bank Beth! https://t.co/ceoy9eP1Ij",
+      "summary": "RT @theblockprof: Big Bank Beth! https://t.co/ceoy9eP1Ij",
+      "url": "https://x.com/theblockprof/status/2083380046450848202",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -218,6 +368,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "37515"
+      }
+    },
+    {
+      "id": "2083333783600722122",
+      "is_retweet": true,
+      "original_author": "TimesDarkCapt",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T23:27:35+00:00",
+      "text": "RT @TimesDarkCapt: @JohnEDeaton1 @SenLummis @ewarren @SenLummis gave @SenWarren a nickname: \"Big Bank Beth\"!",
+      "summary": "RT @TimesDarkCapt: @JohnEDeaton1 @SenLummis @ewarren @SenLummis gave @SenWarren a nickname: \"Big Bank Beth\"!",
+      "url": "https://x.com/JohnEDeaton1/status/2083333783600722122",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3924"
+      }
+    },
+    {
+      "id": "2083326374891098427",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T22:58:08+00:00",
+      "text": "I would assume that being “relentlessly optimistic” is a prerequisite for the job when in Washington dealing with Prima Donna Members of Congress. I don’t think I have the temperament. Good job @johnjdagostino @brian_armstrong @RVanGrack @faryarshirzad @iampaulgrewal and entire Coinbase team.",
+      "summary": "I would assume that being “relentlessly optimistic” is a prerequisite for the job when in Washington dealing with Prima Donna Members of Congress. I…",
+      "url": "https://x.com/JohnEDeaton1/status/2083326374891098427",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 71,
+        "retweets": 9,
+        "replies": 4,
+        "quotes": 0,
+        "views": "11470"
       }
     },
     {
@@ -471,6 +671,31 @@
       }
     },
     {
+      "id": "2083295966417891422",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T20:57:18+00:00",
+      "text": "Big Bank Beth! https://t.co/ceoy9eP1Ij",
+      "summary": "Big Bank Beth! https://t.co/ceoy9eP1Ij",
+      "url": "https://x.com/theblockprof/status/2083295966417891422",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 1,
+        "views": "1149"
+      }
+    },
+    {
       "id": "2083287301539442975",
       "is_retweet": false,
       "original_author": null,
@@ -543,6 +768,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "765"
+      }
+    },
+    {
+      "id": "2083271602746147158",
+      "is_retweet": true,
+      "original_author": "clay_garrett",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T19:20:30+00:00",
+      "text": "RT @clay_garrett: 1/ During our investigation of the Coldcard drain yesterday, we identified an unusual pattern in the sweeps. That pattern led us to a hypothesis that has since been confirmed: the operator used a paid account at a well-known blockchain-services provider to query the source addresses and perform other related activity during the sweeps.",
+      "summary": "RT @clay_garrett: 1/ During our investigation of the Coldcard drain yesterday, we identified an unusual pattern in the sweeps. That pattern led us to…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083271602746147158",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 378,
+        "replies": 0,
+        "quotes": 0,
+        "views": "300"
+      }
+    },
+    {
+      "id": "2083270214888599879",
+      "is_retweet": true,
+      "original_author": "paradeevic",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T19:14:59+00:00",
+      "text": "RT @paradeevic: A BBC interviewer asked a Nobel physicist the simplest question in the world: why do two magnets push each other apart. He refused to answer it. What he did instead is the best seven minutes on thinking ever filmed. The man is Richard Feynman, at home in 1983, no blackboard, no notes, sitting in an armchair. He does not dodge because he cannot answer. He dodges because he wants you to see what the question is actually asking. So he takes an ordinary sentence, that a woman slipped on the ice and broke her hip, and starts asking why, and every answer opens another why, until the ground gives way. Then he turns it around on the interviewer with a question about ice that sounds trivial and is not. The point he arrives at is the uncomfortable one. Every explanation is only a translation into something you already accept without explanation. Magnets have no such translation. There is nothing more familiar than magnetism to reduce magnetism to, which is why every answer you were given at school was a picture, not a reason. It matters more now than it did in 1983. Any tool will hand you a fluent answer in a second. Knowing which questions actually have a bottom is the part that is still yours. One question. Seven minutes. It is in the video.",
+      "summary": "RT @paradeevic: A BBC interviewer asked a Nobel physicist the simplest question in the world: why do two magnets push each other apart. He refused to…",
+      "url": "https://x.com/theblockprof/status/2083270214888599879",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1706,
+        "replies": 0,
+        "quotes": 0,
+        "views": "106"
       }
     },
     {
@@ -693,6 +968,31 @@
         "replies": 11,
         "quotes": 0,
         "views": "3285"
+      }
+    },
+    {
+      "id": "2083259886532481051",
+      "is_retweet": true,
+      "original_author": "aubreystrobel",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T18:33:56+00:00",
+      "text": "RT @aubreystrobel: The companies that earn trust during moments like this aren't the ones taking victory laps. They're the ones helping users stay safe. If your product isn't affected: -state the facts -explain why -offer guidance -don't turn someone else's security incident into a marketing campaign",
+      "summary": "RT @aubreystrobel: The companies that earn trust during moments like this aren't the ones taking victory laps. They're the ones helping users stay…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083259886532481051",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "298"
       }
     },
     {
@@ -946,6 +1246,31 @@
       }
     },
     {
+      "id": "2083229246764245263",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T16:32:11+00:00",
+      "text": "There’s always something isn’t there",
+      "summary": "There’s always something isn’t there",
+      "url": "https://x.com/HaileyLennonBTC/status/2083229246764245263",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 21,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2973"
+      }
+    },
+    {
       "id": "2083226570907672907",
       "is_retweet": true,
       "original_author": "lex_node",
@@ -968,6 +1293,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "107"
+      }
+    },
+    {
+      "id": "2083223473560645638",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T16:09:15+00:00",
+      "text": "You mean to tell me you didn’t set up your self custody with an origami fortune teller?? https://t.co/kX00gzoEJr",
+      "summary": "You mean to tell me you didn’t set up your self custody with an origami fortune teller?? https://t.co/kX00gzoEJr",
+      "url": "https://x.com/HaileyLennonBTC/status/2083223473560645638",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 64,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2826"
       }
     },
     {
