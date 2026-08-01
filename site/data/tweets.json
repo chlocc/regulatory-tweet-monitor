@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-01T15:00:05.318380+00:00",
-  "generated_at_unix": 1785596405,
+  "generated_at": "2026-08-01T18:02:33.225908+00:00",
+  "generated_at_unix": 1785607353,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-31T16:00:00+00:00",
-  "window_end": "2026-08-01T15:00:05.318380+00:00",
-  "new_this_run": 14,
-  "total_recent": 53,
-  "errors": [],
+  "window_end": "2026-08-01T18:02:33.225908+00:00",
+  "new_this_run": 23,
+  "total_recent": 76,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083610131112288530",
+      "is_retweet": true,
+      "original_author": "gabriel_weil",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-01T17:45:41+00:00",
+      "text": "RT @gabriel_weil: @Hadas_Gold @ClementDelangue Hi @ClementDelangue. I'm a law professor who specializes in AI liability. I'm happy to offer a pro bono consultation on the legal theories available to hold @OpenAI liable for this hack of @huggingface. DMs are open. https://t.co/V04ZiSbK75",
+      "summary": "RT @gabriel_weil: @Hadas_Gold @ClementDelangue Hi @ClementDelangue. I'm a law professor who specializes in AI liability. I'm happy to offer a pro…",
+      "url": "https://x.com/gabriel_weil/status/2083610131112288530",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083608653291311287",
+      "is_retweet": true,
+      "original_author": "Hadas_Gold",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-01T17:39:49+00:00",
+      "text": "RT @Hadas_Gold: Hugging Face's @ClementDelangue asked on CNN whether they will take legal action against OpenAI if they don't get the $100M commitment: \"We don't want to ... obviously we're a tiny startup with like 200 people and we don't necessarily have the legal resources or the will to spend all of our time on legal avenues.\" \"I think we have to make sure that the legal frameworks, keep these events really illegal, keep the companies that are doing some mistakes leading to that accountable. Otherwise we're going to end up in a, in a very different world.\"",
+      "summary": "RT @Hadas_Gold: Hugging Face's @ClementDelangue asked on CNN whether they will take legal action against OpenAI if they don't get the $100M…",
+      "url": "https://x.com/gabriel_weil/status/2083608653291311287",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 28,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3"
+      }
+    },
+    {
+      "id": "2083579584553898073",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T15:44:18+00:00",
+      "text": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions physically cannot come onchain without it. 🔐 I asked him, @jaosef, and @jarradhope_ why now, and got three very different answers. Timestamps: 🔐 01:52 Why Joe, Jarrad, and Mert think privacy's crypto moment is now 💙 18:18 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt ⚖️ 19:14 Why Jarrad says the weak need privacy and the powerful need transparency 🔬 24:49 How zero knowledge proofs actually update encrypted state onchain 🕸️ 33:07 Why 43.7% of block relays now censor, and how Logos fixes it 🐛 36:32 The undetected Zcash bug that could have minted infinite fake coins 🔒 46:32 Mert explains how Zcash's Ironwood upgrade closes the counterfeit hole 🛤️ 51:44 Why Joe worries Ethereum's privacy roadmap might arrive too late 🏦 57:39 Why Mert calls Canton no more private than trusting JPMorgan",
+      "summary": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions…",
+      "url": "https://x.com/laurashin/status/2083579584553898073",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083564432333156853",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T14:44:06+00:00",
+      "text": "Crypto is social and governance tech. The moment we realise the use case of crypto has never been to run back the excesses of Wall Street, we will be early again. Study Satoshi’s vision.",
+      "summary": "Crypto is social and governance tech. The moment we realise the use case of crypto has never been to run back the excesses of Wall Street, we will be…",
+      "url": "https://x.com/wassielawyer/status/2083564432333156853",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1570"
+      }
+    },
     {
       "id": "2083562415468286080",
       "is_retweet": false,
@@ -43,6 +152,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "4240"
+      }
+    },
+    {
+      "id": "2083560066326655409",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T14:26:45+00:00",
+      "text": "Ben is prob the most important archetype of team member every startup needs but there’s no job description for - the multi-classed fixer. Guy does product, ops, BD, partnerships. Whatever the company needs, Ben is the Swiss Army knife that never fails. I’ve seen him navigate serious high stakes products like jUSD and Lend and more whimsical degen early stage products, all with the same capability and focus. In the chaos of large organisations - things can get lost but if Bens is on it, I know things will move. Above all, Ben is a man of high integrity and deals with all with the same sincerity and an open palm, regardless of their background or status. I’m proud to call him my friend. Honestly very very sad to see him go but happy for him that he’s finally getting a well deserved break. I look forward to working with him again one day.",
+      "summary": "Ben is prob the most important archetype of team member every startup needs but there’s no job description for - the multi-classed fixer. Guy does…",
+      "url": "https://x.com/wassielawyer/status/2083560066326655409",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 74,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 1,
+        "views": "9779"
       }
     },
     {
@@ -71,6 +205,81 @@
       }
     },
     {
+      "id": "2083538239252754461",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T13:00:01+00:00",
+      "text": "Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions physically cannot come onchain without it. 🔐 I asked him, @jaosef, and @jarradhope_ why now, and got three very different answers. Timestamps: 🔐 01:52 Why Joe, Jarrad, and Mert think privacy's crypto moment is now 💙 18:18 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt ⚖️ 19:14 Why Jarrad says the weak need privacy and the powerful need transparency 🔬 24:49 How zero knowledge proofs actually update encrypted state onchain 🕸️ 33:07 Why 43.7% of block relays now censor, and how Logos fixes it 🐛 36:32 The undetected Zcash bug that could have minted infinite fake coins 🔒 46:32 Mert explains how Zcash's Ironwood upgrade closes the counterfeit hole 🛤️ 51:44 Why Joe worries Ethereum's privacy roadmap might arrive too late 🏦 57:39 Why Mert calls Canton no more private than trusting JPMorgan",
+      "summary": "Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions physically cannot come…",
+      "url": "https://x.com/laurashin/status/2083538239252754461",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 0,
+        "views": "3787"
+      }
+    },
+    {
+      "id": "2083500065520300458",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T10:28:19+00:00",
+      "text": "RT @laurashin: 🔐 Quantum computers that can break crypto's security might still be years away, but Freedom Factory says it already has a hardware wallet solution for Ethereum and EVM chains. CEO Markus Haas ( @mhaas_eth ) says he's shipping the new PQ1 hardware wallet protects Ethereum, its Layer 2s, and every other EVM chain using hash-based post-quantum cryptography, plus an eight-word check that lets you verify the firmware yourself. @laurashin gets the full walkthrough Subscribe to Unchained Premium to watch! https://t.co/2b5l1cXzpl",
+      "summary": "RT @laurashin: 🔐 Quantum computers that can break crypto's security might still be years away, but Freedom Factory says it already has a hardware…",
+      "url": "https://x.com/laurashin/status/2083500065520300458",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083499937799540879",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T10:27:49+00:00",
+      "text": "RT @laurashin: 📊 For the first time, Hyperliquid traded more real-world assets than crypto in a single week, and individual stocks were 61% of it. @LorenzoARK on why owning BTC, ETH, and SOL volume may matter far less than picking the venue. @ramahluwalia isn't buying it. Full episode with @austincampbell and @perkinscr97: 🎧 Timestamps: 💙 00:41 Cape: Get 33% off your first six months of privacy first mobile service at https://t.co/2ZtLziXsHV 🏛️ 02:09 Why Chris says Clarity's Senate math still doesn't add up to 60 votes 🤖 10:46 Why Ram bought Google's post earnings sell off, calling it near the bottom 🔓 21:33 Jensen Huang's first ever X post reignites the open versus closed weight AI fight 💰 26:40 Lorenzo on why DeepSeek and Moonshot AI's reported raises expose open models' real costs 🌍 34:42 Why Ram and Chris think markets have already priced in the Ukraine-Iran escalation 📊 41:43 Lorenzo's stat: RWAs now out trade crypto on Hyperliquid 🥊 50:21 The Multicoin and Kyle Samani split, and Ram's line that crypto has no main character 🏦 54:13 Do all the real-world assets end up on one venue, or fragment like traditional markets?",
+      "summary": "RT @laurashin: 📊 For the first time, Hyperliquid traded more real-world assets than crypto in a single week, and individual stocks were 61% of it.…",
+      "url": "https://x.com/laurashin/status/2083499937799540879",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2083499892404551905",
       "is_retweet": true,
       "original_author": "mdudas",
@@ -93,6 +302,156 @@
         "replies": 0,
         "quotes": 0,
         "views": "552"
+      }
+    },
+    {
+      "id": "2083499728252133441",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T10:26:59+00:00",
+      "text": "RT @laurashin: 😬 It’s out of our hands now. @KristinSmith says the industry doesn't even have a seat at the table in the ethics negotiations holding up the Clarity Act. 🤔 She walked me through the vote math, the DOJ fight, and what happens next. 🎧 Timestamps: 🗳️ 00:41 Why Clarity's Senate timeline looks so tight before the August recess 📣 09:11 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV ⚖️ 10:10 Why Trump's ethics language deal became Clarity's toughest sticking point 🏛️ 18:21 Kristin Smith on the Clarity Act provisions that most excite the industry 🌍 23:18 What happens to crypto capital and global leadership if Clarity fails",
+      "summary": "RT @laurashin: 😬 It’s out of our hands now. @KristinSmith says the industry doesn't even have a seat at the table in the ethics negotiations holding…",
+      "url": "https://x.com/laurashin/status/2083499728252133441",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083499364014600614",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T10:25:32+00:00",
+      "text": "RT @laurashin: 🤖 An AI model was told to solve a problem inside a sandbox. It broke out and found the answer on Hugging Face instead. On @DEXintheCityPod, Jessi Brooks argues that's the same fight crypto has fought for years: punish the conduct, not the code. Loved this one. Timestamps: 🌐 04:36 Jessi on why treating Kimi K3's open weights as an export could hit crypto ✍️ 07:47 Why Jessi reads Nvidia's and Anthropic's letters as punish the conduct, not the code 🕳️ 11:41 How an OpenAI agent escaped its sandbox and found answers on Hugging Face 🍎 21:55 Apple sues OpenAI over trade secrets, and one text that could cost it 📣 28:55 Cape: Get 33% off six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🏛️ 30:57 Salman Banaei maps where Clarity's ethics language stands in the Senate 🗳️ 41:12 Why Banaei says Clarity's cloture vote is on a knife's edge 🔐 42:43 Peirce's vault statement, split into development, curation, administration 🌍 48:32 Why FATF and Clarity both make control the real test for DeFi regulation 🔮 54:36 What Banaei thinks happens to Clarity if it fails this Congress",
+      "summary": "RT @laurashin: 🤖 An AI model was told to solve a problem inside a sandbox. It broke out and found the answer on Hugging Face instead. On…",
+      "url": "https://x.com/laurashin/status/2083499364014600614",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083499104340951362",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T10:24:30+00:00",
+      "text": "RT @laurashin: 💀 BitMEX shut down with zero backlash. Token projects that fail get dragged for months. On Uneasy Money, @kaiynne and @tayvano_ ask Arbitrum's @sgoldfed why crypto only rages when there's a token to blame. Timestamps: 📣 00:47 Cape: Get 33% off six months at https://t.co/2ZtLziY0xt 🪦 01:47 Kain opens wondering whether crypto itself is quietly dying in 2026 📊 03:41 Steven on Arbitrum's project tracking and the 'massive consolidation' hitting L2s ⚔️ 10:03 The proxy war: Robinhood Chain and Base now fight instead of Arbitrum and Optimism 🪦 14:23 Why BitMEX's shutdown felt nostalgic while token deaths trigger real anger 🌉 26:21 Hacks of the week: the DPRK crew behind the AFX perp DEX bridge exploit 👽 32:51 Kain's take: bridges got safer until 'aliens landed' and started hacking again 🏛️ 40:32 Permissioned DeFi: Uniswap's compliance pools and Superstate's equity-like tokens 🎯 57:32 Would Steven trade Arbitrum's open token for a 5% investor-only model? 🥊 01:05:42 Kyle Samani's Multicoin tweet and Solana's VC fight over Hyperliquid",
+      "summary": "RT @laurashin: 💀 BitMEX shut down with zero backlash. Token projects that fail get dragged for months. On Uneasy Money, @kaiynne and @tayvano_ ask…",
+      "url": "https://x.com/laurashin/status/2083499104340951362",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083498911101075679",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T10:23:44+00:00",
+      "text": "RT @laurashin: According to @kain, a token turns a startup's community into its \"lifeblood\" right up until the project dies, and that is exactly when the anger arrives. 💀 Watch the full conversation on Uneasy Money with Offchain Labs' Steven Goldfeder ( @sgoldfed). https://t.co/kDEXXk63b1",
+      "summary": "RT @laurashin: According to @kain, a token turns a startup's community into its \"lifeblood\" right up until the project dies, and that is exactly when…",
+      "url": "https://x.com/laurashin/status/2083498911101075679",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083429968789602707",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T05:49:47+00:00",
+      "text": "Love seeing decks like this. &gt; 5 times founder &gt; Raised 30m+ &gt; 3x exits &gt; generated 100m ARR &gt; namedrop FAANG or Wall St background &gt; Hey we are raising 2m @ 20m seed want in? Motherfucker if you actually sold three companies why do you need my funding.",
+      "summary": "Love seeing decks like this. &gt; 5 times founder &gt; Raised 30m+ &gt; 3x exits &gt; generated 100m ARR &gt; namedrop FAANG or Wall St background…",
+      "url": "https://x.com/wassielawyer/status/2083429968789602707",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 386,
+        "retweets": 6,
+        "replies": 22,
+        "quotes": 1,
+        "views": "72756"
+      }
+    },
+    {
+      "id": "2083410953706865015",
+      "is_retweet": true,
+      "original_author": "hamandcheese",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-01T04:34:13+00:00",
+      "text": "RT @hamandcheese: Great write-up on the limitations of existing tort law for autonomous AI cyberattacks. Not sure I fully agree with every prescription, but I've definitely moved in Gabe's direction.",
+      "summary": "RT @hamandcheese: Great write-up on the limitations of existing tort law for autonomous AI cyberattacks. Not sure I fully agree with every…",
+      "url": "https://x.com/gabriel_weil/status/2083410953706865015",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2"
       }
     },
     {
@@ -246,6 +605,31 @@
       }
     },
     {
+      "id": "2083369753507438975",
+      "is_retweet": true,
+      "original_author": "rleshner",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-01T01:50:31+00:00",
+      "text": "RT @rleshner: The Clarity Act fills pre-existing regulatory gaps, and creates a framework for safely launching and operating crypto platforms. It also creates ethical guardrails that have never existed. A vote against Clarity is a vote to maintain the universally-reviled status quo",
+      "summary": "RT @rleshner: The Clarity Act fills pre-existing regulatory gaps, and creates a framework for safely launching and operating crypto platforms. It…",
+      "url": "https://x.com/milesjennings/status/2083369753507438975",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "188"
+      }
+    },
+    {
       "id": "2083368577093021854",
       "is_retweet": true,
       "original_author": "SummerMersinger",
@@ -346,6 +730,56 @@
       }
     },
     {
+      "id": "2083353719589192020",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-01T00:46:48+00:00",
+      "text": "One realization from the slopocalypse is that in the pre-AI era many kinds of writing or coding projects, including some I dedicated thousands of hours to, were primarily a form of proof-of-work Some types of project are obsolete now that they have no signaling component",
+      "summary": "One realization from the slopocalypse is that in the pre-AI era many kinds of writing or coding projects, including some I dedicated thousands of…",
+      "url": "https://x.com/danrobinson/status/2083353719589192020",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 185,
+        "retweets": 1,
+        "replies": 23,
+        "quotes": 4,
+        "views": "14692"
+      }
+    },
+    {
+      "id": "2083350811888009316",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T00:35:14+00:00",
+      "text": "According to @kain, a token turns a startup's community into its \"lifeblood\" right up until the project dies, and that is exactly when the anger arrives. 💀 Watch the full conversation on Uneasy Money with Offchain Labs' Steven Goldfeder ( @sgoldfed). https://t.co/kDEXXk63b1",
+      "summary": "According to @kain, a token turns a startup's community into its \"lifeblood\" right up until the project dies, and that is exactly when the anger…",
+      "url": "https://x.com/laurashin/status/2083350811888009316",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "6457"
+      }
+    },
+    {
       "id": "2083344676816347373",
       "is_retweet": true,
       "original_author": "SecRubio",
@@ -396,6 +830,31 @@
       }
     },
     {
+      "id": "2083331057865167349",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T23:16:45+00:00",
+      "text": "🚨🗞️NEW: President Trump Weighs Bipartisan Ethics Proposal as Clarity Hangs in the Balance This weekend will be a high-stakes waiting game for Clarity Act supporters as the White House considers an ethics counteroffer involving state attorneys general. https://t.co/KBqx4zyRZF",
+      "summary": "🚨🗞️NEW: President Trump Weighs Bipartisan Ethics Proposal as Clarity Hangs in the Balance This weekend will be a high-stakes waiting game for Clarity…",
+      "url": "https://x.com/EleanorTerrett/status/2083331057865167349",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2064,
+        "retweets": 327,
+        "replies": 86,
+        "quotes": 44,
+        "views": "399747"
+      }
+    },
+    {
       "id": "2083326374891098427",
       "is_retweet": false,
       "original_author": null,
@@ -418,6 +877,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "11470"
+      }
+    },
+    {
+      "id": "2083318035780427986",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T22:25:00+00:00",
+      "text": "Would you trade an open token for investor rights? @kain put that exact question to Arbitrum's @sgoldfed on the latest Uneasy Money. His answer traces back to VCs he says he turned down during Arbitrum's 2017 seed round. 🪙 https://t.co/PJnHjyCeYf",
+      "summary": "Would you trade an open token for investor rights? @kain put that exact question to Arbitrum's @sgoldfed on the latest Uneasy Money. His answer…",
+      "url": "https://x.com/laurashin/status/2083318035780427986",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "6567"
       }
     },
     {
@@ -596,6 +1080,31 @@
       }
     },
     {
+      "id": "2083300627971711178",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-31T21:15:50+00:00",
+      "text": "RT @SenLummis: Big Bank Beth @SenWarren hates President Trump so much that she’d rather have no rules of the road for the digital asset industry — leaving consumers vulnerable and law enforcement empty-handed — than take the win for consumers. Let’s get the facts straight on her “fact sheet”: 1. She claims the blind trust is a shell game. It’s not. By law (5 U.S.C. §13104(f)(3)(A) and 5 C.F.R. 2634.403), a trustee is barred from disclosing trust holdings back to the official. That’s not a loophole, it’s literally what makes a blind trust blind. Read the law for yourself below. 2. She claims $TRUMP proves the president would create new coins. But $TRUMP launched when President Trump was a private citizen. The ethics ban applies to conduct while serving. You can’t retroactively ban something that happened before the law — or the presidency — existed. That’s how the law in the Soviet Union worked, not America. 3. She acts like Trump’s adult children running WLF is some unprecedented dodge. It’s not. Federal ethics law has never imputed financial interests from adult, independent children — only spouses and minor children. That’s not new to this bill; it’s how conflict-of-interest law has worked for decades. The facts speak for themselves. Don’t fall for Liz’s lies. https://t.co/A4RjpyVPN9",
+      "summary": "RT @SenLummis: Big Bank Beth @SenWarren hates President Trump so much that she’d rather have no rules of the road for the digital asset industry —…",
+      "url": "https://x.com/milesjennings/status/2083300627971711178",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1639,
+        "replies": 0,
+        "quotes": 0,
+        "views": "176"
+      }
+    },
+    {
       "id": "2083300284327977455",
       "is_retweet": true,
       "original_author": "SenLummis",
@@ -693,6 +1202,56 @@
         "replies": 0,
         "quotes": 1,
         "views": "1149"
+      }
+    },
+    {
+      "id": "2083294672601153847",
+      "is_retweet": true,
+      "original_author": "CodyCarboneDC",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-07-31T20:52:10+00:00",
+      "text": "RT @CodyCarboneDC: Interesting to see Democrats are sharing a poll saying their base hates crypto. Last year, we found the exact opposite. Of 800 U.S. crypto investors, a majority of them leaned liberal and voted Democratic. Crypto is non-partisan. Every D and R should support clear rules.",
+      "summary": "RT @CodyCarboneDC: Interesting to see Democrats are sharing a poll saying their base hates crypto. Last year, we found the exact opposite. Of 800…",
+      "url": "https://x.com/milesjennings/status/2083294672601153847",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "199"
+      }
+    },
+    {
+      "id": "2083290144812265920",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T20:34:10+00:00",
+      "text": "💀 BitMEX shut down with zero backlash. Token projects that fail get dragged for months. On Uneasy Money, @kaiynne and @tayvano_ ask Arbitrum's @sgoldfed why crypto only rages when there's a token to blame. Timestamps: 📣 00:47 Cape: Get 33% off six months at https://t.co/2ZtLziY0xt 🪦 01:47 Kain opens wondering whether crypto itself is quietly dying in 2026 📊 03:41 Steven on Arbitrum's project tracking and the 'massive consolidation' hitting L2s ⚔️ 10:03 The proxy war: Robinhood Chain and Base now fight instead of Arbitrum and Optimism 🪦 14:23 Why BitMEX's shutdown felt nostalgic while token deaths trigger real anger 🌉 26:21 Hacks of the week: the DPRK crew behind the AFX perp DEX bridge exploit 👽 32:51 Kain's take: bridges got safer until 'aliens landed' and started hacking again 🏛️ 40:32 Permissioned DeFi: Uniswap's compliance pools and Superstate's equity-like tokens 🎯 57:32 Would Steven trade Arbitrum's open token for a 5% investor-only model? 🥊 01:05:42 Kyle Samani's Multicoin tweet and Solana's VC fight over Hyperliquid",
+      "summary": "💀 BitMEX shut down with zero backlash. Token projects that fail get dragged for months. On Uneasy Money, @kaiynne and @tayvano_ ask Arbitrum's…",
+      "url": "https://x.com/laurashin/status/2083290144812265920",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 3,
+        "replies": 9,
+        "quotes": 2,
+        "views": "8742"
       }
     },
     {
@@ -1018,6 +1577,31 @@
         "replies": 47,
         "quotes": 8,
         "views": "17130"
+      }
+    },
+    {
+      "id": "2083252136016797834",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-07-31T18:03:08+00:00",
+      "text": "Freedom Factory just released what it says is the first quantum-secure hardware wallet. But it only supports Ethereum and EVM chains. Why no Bitcoin? @mhaas_eth says a Bitcoin solution isn’t practical yet 👇 https://t.co/k98ruyHcNw",
+      "summary": "Freedom Factory just released what it says is the first quantum-secure hardware wallet. But it only supports Ethereum and EVM chains. Why no Bitcoin?…",
+      "url": "https://x.com/laurashin/status/2083252136016797834",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "6061"
       }
     },
     {
