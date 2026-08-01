@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-01T09:13:35.701434+00:00",
-  "generated_at_unix": 1785575615,
+  "generated_at": "2026-08-01T12:00:47.014933+00:00",
+  "generated_at_unix": 1785585647,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-31T16:00:00+00:00",
-  "window_end": "2026-08-01T09:13:35.701434+00:00",
-  "new_this_run": 9,
-  "total_recent": 23,
-  "errors": [
-    {
-      "username": "GOPMajorityWhip",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-01T12:00:47.014933+00:00",
+  "new_this_run": 16,
+  "total_recent": 39,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083499892404551905",
+      "is_retweet": true,
+      "original_author": "mdudas",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T10:27:38+00:00",
+      "text": "RT @mdudas: the majority of the most used experiences and products on the two types of chains simply aren't that different today... - most public blockchains users and use cases require connectivity to tradfi and/or centralized kyc for on and off ramping - large portion of the most used apps on \"public\" blockchains today have limited availability in the usa and other major countries due to their front ends being geo blocked - nearly all of the top stablecoins on public blockchains have freeze functions - many permissionless products and their developers have been sanctioned and/or prosecuted by governments worldwide - there are many permissioned rwa's on the public blockchains, and the trend seems to be increasing not decreasing - the most used permissionless apps are the most heavily criticized and dismissed by \"very serious people\" in crypto b/c they are very highly speculative",
+      "summary": "RT @mdudas: the majority of the most used experiences and products on the two types of chains simply aren't that different today... - most public…",
+      "url": "https://x.com/lex_node/status/2083499892404551905",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "552"
+      }
+    },
+    {
+      "id": "2083402643729182729",
+      "is_retweet": true,
+      "original_author": "KevinTFrazier",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T04:01:12+00:00",
+      "text": "RT @KevinTFrazier: Receiving a steady stream of emails from \"non-technical\" law students asking for guidance on how to get involved in AI policy - here's my **concise** list of recommendations. Please add to it...this will become an Appleseed AI post. Eager to hear from folks like @DoniBloomfield, @sayashk, @NeelGuha, @inspiredcat and others who have found a way to thrive at the intersection of AI & the law / policy. (1) we're all technical now. Write that on a sticky note and put it on your mirror. Stop selling yourself short. Fake it until you make it. You can and must dive into the technical weeds to truly add value to this space. Folks who can \"speak AI\" and \"speak law\" will be in high demand for the foreseeable future. (2) treat learning about AI like learning another language - immerse yourself. Take a @BlueDotImpact course, read through @Google's free materials on AI, subscribe to @natolambert & @rasbt and read everything they write. When you do not understand something, chase down whatever information you need to learn to grasp it. (3) use the tools. (4) use the tools. (5) use the tools. (6) talk about the tools with other people (professors, students, tech folks in your community) and learn what they are building. Then go build it for yourself. (7) repeat steps 3-5. (8) follow @hlntnr, @janet_e_egan, @anton_d_leicht, @deanwball, @hamandcheese, and anyone they retweet (9) read every blog post from @OpenAI, @AnthropicAI, @GoogleDeepMind (especially the really technical ones) (10) listen to @scaling_laws (what? I'm a shameless academic after all). (11) apply to join @GovAIOrg, @law_ai_, @CSETGeorgetown, @HorizonIPS, or any org in that universe. Get your foot in the door. (12) write about AI. (13) critically analyze AI policy. Then compare and contrast what @CharlieBull0ck & @AdamThierer had to say about it. (14) call me. Better yet, come to Austin and I'll buy you breakfast tacos. (15) join the AI Opportunity Inventory and help analyze AI tools intended to solve public policy problems (link in next tweet). (16) join an AI club or start one. (17) pat yourself on the back because you're asking the right questions! Stay relentlessly curious. Just start doing stuff. Consider this your invitation to join everyone trying to figure this all out.",
+      "summary": "RT @KevinTFrazier: Receiving a steady stream of emails from \"non-technical\" law students asking for guidance on how to get involved in AI policy -…",
+      "url": "https://x.com/NYcryptolawyer/status/2083402643729182729",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "106"
+      }
+    },
     {
       "id": "2083401744273310021",
       "is_retweet": false,
@@ -51,6 +96,56 @@
       }
     },
     {
+      "id": "2083368577093021854",
+      "is_retweet": true,
+      "original_author": "SummerMersinger",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T01:45:50+00:00",
+      "text": "RT @SummerMersinger: The committees have done their work. Americans are making their voices heard. What's left is a vote. My latest on why the Senate should bring the Clarity Act to the floor before August recess. https://t.co/jHfhqLlNkM",
+      "summary": "RT @SummerMersinger: The committees have done their work. Americans are making their voices heard. What's left is a vote. My latest on why the Senate…",
+      "url": "https://x.com/NYcryptolawyer/status/2083368577093021854",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "94"
+      }
+    },
+    {
+      "id": "2083367424749871378",
+      "is_retweet": true,
+      "original_author": "rleshner",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T01:41:15+00:00",
+      "text": "RT @rleshner: The Clarity Act fills pre-existing regulatory gaps, and creates a framework for safely launching and operating crypto platforms. It also creates ethical guardrails that have never existed. A vote against Clarity is a vote to maintain the universally-reviled status quo",
+      "summary": "RT @rleshner: The Clarity Act fills pre-existing regulatory gaps, and creates a framework for safely launching and operating crypto platforms. It…",
+      "url": "https://x.com/NYcryptolawyer/status/2083367424749871378",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "99"
+      }
+    },
+    {
       "id": "2083364501966225783",
       "is_retweet": false,
       "original_author": null,
@@ -73,6 +168,31 @@
         "replies": 2,
         "quotes": 0,
         "views": "604"
+      }
+    },
+    {
+      "id": "2083361028771901926",
+      "is_retweet": true,
+      "original_author": "rizzn",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T01:15:50+00:00",
+      "text": "RT @rizzn: This dope has been one of the most idiotic \"smart people\" content creators in history. He was a propagation channel for anti-NFT and anti-crypto BS to young progressives on tik tok and youtube. He was similarly an anti-LLM/anti-AI proponent as well, and then I guess had a conversion experience at some point where he decided to use them? Now he's \"addicted\" to LLMs. Expect a mea-culpa tour, and a stint in rehab, I guess.",
+      "summary": "RT @rizzn: This dope has been one of the most idiotic \"smart people\" content creators in history. He was a propagation channel for anti-NFT and…",
+      "url": "https://x.com/lex_node/status/2083361028771901926",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "637"
       }
     },
     {
@@ -123,6 +243,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "48144"
+      }
+    },
+    {
+      "id": "2083304141611270227",
+      "is_retweet": true,
+      "original_author": "goth600",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T21:29:47+00:00",
+      "text": "RT @goth600: Golden Dome. Space-Based Missile Interceptors. Space Superiority. The Orbital High Ground. Left-Of-Launch Orbital Access Denial. Whoever Controls Orbit, Controls Earth. Lunar Base. Lunar Mass Driver. Lunar High Ground. Mars Expedition. Solar System Expansion. Command And Control. Kardashev Type II. Command And Conquer.",
+      "summary": "RT @goth600: Golden Dome. Space-Based Missile Interceptors. Space Superiority. The Orbital High Ground. Left-Of-Launch Orbital Access Denial. Whoever…",
+      "url": "https://x.com/lex_node/status/2083304141611270227",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "708"
       }
     },
     {
@@ -276,6 +421,56 @@
       }
     },
     {
+      "id": "2083297628649840702",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T21:03:55+00:00",
+      "text": "RT @CoinDesk: 📽️ @Anchorage's Rachel Anderika says traditional stablecoin reserve models keep 10–15% of reserves in cash, creating \"huge yield drag\" and adding counterparty risk. Instead, her firm partnered with JPMorgan to hold reserves in tokenized money market funds, generating liquidity on demand rather than maintaining a static cash buffer.",
+      "summary": "RT @CoinDesk: 📽️ @Anchorage's Rachel Anderika says traditional stablecoin reserve models keep 10–15% of reserves in cash, creating \"huge yield drag\"…",
+      "url": "https://x.com/RebeccaRettig1/status/2083297628649840702",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "70"
+      }
+    },
+    {
+      "id": "2083297592608186437",
+      "is_retweet": true,
+      "original_author": "SolanaFloor",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T21:03:46+00:00",
+      "text": "RT @SolanaFloor: 📹 @RebeccaRettig1, Chief Legal Officer of @jito_labs, on why the crypto industry shouldn't wait around for CLARITY to pass👇 https://t.co/mIHzu8BX04",
+      "summary": "RT @SolanaFloor: 📹 @RebeccaRettig1, Chief Legal Officer of @jito_labs, on why the crypto industry shouldn't wait around for CLARITY to pass👇…",
+      "url": "https://x.com/RebeccaRettig1/status/2083297592608186437",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "81"
+      }
+    },
+    {
       "id": "2083287301539442975",
       "is_retweet": false,
       "original_author": null,
@@ -326,6 +521,131 @@
       }
     },
     {
+      "id": "2083285917465219556",
+      "is_retweet": true,
+      "original_author": "dntse",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T20:17:22+00:00",
+      "text": "RT @dntse: I'm a big believer in a principle from @danboneh: \"The best crypto is always developed in public.\" If you're building, make it public as soon as it's ready so the community can attack it. This is how you build security that holds up under real-world scrutiny.",
+      "summary": "RT @dntse: I'm a big believer in a principle from @danboneh: \"The best crypto is always developed in public.\" If you're building, make it public as…",
+      "url": "https://x.com/lex_node/status/2083285917465219556",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "765"
+      }
+    },
+    {
+      "id": "2083269563613909214",
+      "is_retweet": true,
+      "original_author": "renato_mariotti",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T19:12:23+00:00",
+      "text": "RT @renato_mariotti: Trade a Wisconsin election on a prediction market, and the state says you can’t vote in that election. @Kalshi says that’s unconstitutional. Wisconsin’s primary is August 11. @ARedbord and I break down what’s actually at stake on @CoinDesk’s The Policy Protocol: https://t.co/VqwwrL1G1v",
+      "summary": "RT @renato_mariotti: Trade a Wisconsin election on a prediction market, and the state says you can’t vote in that election. @Kalshi says that’s…",
+      "url": "https://x.com/RebeccaRettig1/status/2083269563613909214",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "109"
+      }
+    },
+    {
+      "id": "2083265997385895954",
+      "is_retweet": true,
+      "original_author": "RailgunIntern",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T18:58:13+00:00",
+      "text": "RT @RailgunIntern: Railgun TVL denominated in ETH is holding near ATH, and the capital sitting inside the system has grown YoY — even with the major assets trading lower. The protocol is processing more operations while the average size per transaction shrinks (in the segment it's down 44% YoY). That points to a shift toward more frequent, smaller usage. Fees per transaction have fallen accordingly. But the total volume of fees Railgun collects is still fairly high, only slightly below last spring's peaks.",
+      "summary": "RT @RailgunIntern: Railgun TVL denominated in ETH is holding near ATH, and the capital sitting inside the system has grown YoY — even with the major…",
+      "url": "https://x.com/lex_node/status/2083265997385895954",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "753"
+      }
+    },
+    {
+      "id": "2083263786782183553",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T18:49:26+00:00",
+      "text": "RT @SenLummis: This bill literally requires President Trump to divest his digital asset holdings or put them in a blind trust. It's becoming painfully clear some of my Democrat colleagues would rather let consumers lose everything if a crypto exchange fails and posture for the midterms than pass market structure legislation with unprecedented ethics standards covering the President, VP, Congress, and the Federal Judiciary.",
+      "summary": "RT @SenLummis: This bill literally requires President Trump to divest his digital asset holdings or put them in a blind trust. It's becoming…",
+      "url": "https://x.com/NYcryptolawyer/status/2083263786782183553",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 749,
+        "replies": 0,
+        "quotes": 0,
+        "views": "89"
+      }
+    },
+    {
+      "id": "2083262971870879882",
+      "is_retweet": true,
+      "original_author": "SolanaFloor",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T18:46:12+00:00",
+      "text": "RT @SolanaFloor: We are LIVE with Solana Weekly News - Is this CLARITY's final week? ⚖️ Regulatory Roundup with @jito CLO @RebeccaRettig1 📊 @MorganStanley launches MSOL ETF 🔼 @solana block capacity up 66% Plus, MetaDAO, perps ATH, MoonPay's AI wallet &amp; more Tune in👇 https://t.co/GyJJ00QnjR",
+      "summary": "RT @SolanaFloor: We are LIVE with Solana Weekly News - Is this CLARITY's final week? ⚖️ Regulatory Roundup with @jito CLO @RebeccaRettig1 📊…",
+      "url": "https://x.com/RebeccaRettig1/status/2083262971870879882",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "90"
+      }
+    },
+    {
       "id": "2083262283623313905",
       "is_retweet": true,
       "original_author": "Grayscale",
@@ -348,6 +668,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "861"
+      }
+    },
+    {
+      "id": "2083260931665019316",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T18:38:05+00:00",
+      "text": "the most in-depth coverage I've seen of @pcaversaccio 's appointment to the Ethereum Foundation board, covers his past work (including some with me!) in quite a bit of detail https://t.co/vuQ24vijjh",
+      "summary": "the most in-depth coverage I've seen of @pcaversaccio 's appointment to the Ethereum Foundation board, covers his past work (including some with me!)…",
+      "url": "https://x.com/lex_node/status/2083260931665019316",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 47,
+        "retweets": 5,
+        "replies": 11,
+        "quotes": 0,
+        "views": "3285"
       }
     },
     {
@@ -420,6 +765,31 @@
       "metrics": {
         "likes": 0,
         "retweets": 287,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083247866349318256",
+      "is_retweet": true,
+      "original_author": "julie_stitzel",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T17:46:10+00:00",
+      "text": "RT @julie_stitzel: 1/ Voters want Congress to establish clear rules for digital assets. DCG’s 2026 Harris Poll found that 81% of registered voters support a clear regulatory framework, and 60% want Congress to act now rather than wait for perfect legislation.",
+      "summary": "RT @julie_stitzel: 1/ Voters want Congress to establish clear rules for digital assets. DCG’s 2026 Harris Poll found that 81% of registered voters…",
+      "url": "https://x.com/RebeccaRettig1/status/2083247866349318256",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
         "replies": 0,
         "quotes": 0,
         "views": null
@@ -548,6 +918,31 @@
         "replies": 6,
         "quotes": 1,
         "views": "2862"
+      }
+    },
+    {
+      "id": "2083233956070150506",
+      "is_retweet": true,
+      "original_author": "Uniswap",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T16:50:54+00:00",
+      "text": "RT @Uniswap: @0xrivals @haydenzadams can't stop, won't stop 🦄",
+      "summary": "RT @Uniswap: @0xrivals @haydenzadams can't stop, won't stop 🦄",
+      "url": "https://x.com/N0th1n3/status/2083233956070150506",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4"
       }
     },
     {
