@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-08-01T06:02:49.090253+00:00",
-  "generated_at_unix": 1785564169,
+  "generated_at": "2026-08-01T09:13:35.701434+00:00",
+  "generated_at_unix": 1785575615,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-07-31T16:00:00+00:00",
-  "window_end": "2026-08-01T06:02:49.090253+00:00",
-  "new_this_run": 12,
-  "total_recent": 14,
+  "window_end": "2026-08-01T09:13:35.701434+00:00",
+  "new_this_run": 9,
+  "total_recent": 23,
   "errors": [
     {
-      "username": "BoHines",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "howardlutnick",
+      "username": "GOPMajorityWhip",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -130,6 +126,81 @@
       }
     },
     {
+      "id": "2083304130714472777",
+      "is_retweet": true,
+      "original_author": "Strategy",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-31T21:29:45+00:00",
+      "text": "RT @Strategy: We support the CLARITY Act and believe a clear, durable market structure framework would help advance the digital asset industry and encourage broader institutional adoption in the United States. $BTC",
+      "summary": "RT @Strategy: We support the CLARITY Act and believe a clear, durable market structure framework would help advance the digital asset industry and…",
+      "url": "https://x.com/patrickjwitt/status/2083304130714472777",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 196,
+        "replies": 0,
+        "quotes": 0,
+        "views": "839"
+      }
+    },
+    {
+      "id": "2083304069666402313",
+      "is_retweet": true,
+      "original_author": "saylor",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-31T21:29:30+00:00",
+      "text": "RT @saylor: I support advancing the CLARITY Act through bipartisan work to establish clear, durable rules, protect property rights, promote innovation, and strengthen American capital markets. Bitcoin will succeed with or without legislation, but America needs clarity for digital assets.",
+      "summary": "RT @saylor: I support advancing the CLARITY Act through bipartisan work to establish clear, durable rules, protect property rights, promote…",
+      "url": "https://x.com/patrickjwitt/status/2083304069666402313",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1034,
+        "replies": 0,
+        "quotes": 0,
+        "views": "588"
+      }
+    },
+    {
+      "id": "2083303437899268221",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-31T21:27:00+00:00",
+      "text": "The Fraternal Order of Police, the Federal Law Enforcement Officers Association, the National Organization of Black Law Enforcement Executives, and the Major Cities Chiefs Association have all endorsed the Clarity Act. The Major County Sheriffs of America also publicly walked back their prior opposition to the bill after improvements were made. It is not clear why NSA is so radically out of step with the broader law enforcement community.",
+      "summary": "The Fraternal Order of Police, the Federal Law Enforcement Officers Association, the National Organization of Black Law Enforcement Executives, and…",
+      "url": "https://x.com/patrickjwitt/status/2083303437899268221",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 809,
+        "retweets": 168,
+        "replies": 43,
+        "quotes": 3,
+        "views": "35420"
+      }
+    },
+    {
       "id": "2083303366424166824",
       "is_retweet": true,
       "original_author": "SecDuffy",
@@ -177,6 +248,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "42172"
+      }
+    },
+    {
+      "id": "2083300284327977455",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-31T21:14:28+00:00",
+      "text": "RT @SenLummis: Big Bank Beth @SenWarren hates President Trump so much that she’d rather have no rules of the road for the digital asset industry — leaving consumers vulnerable and law enforcement empty-handed — than take the win for consumers. Let’s get the facts straight on her “fact sheet”: 1. She claims the blind trust is a shell game. It’s not. By law (5 U.S.C. §13104(f)(3)(A) and 5 C.F.R. 2634.403), a trustee is barred from disclosing trust holdings back to the official. That’s not a loophole, it’s literally what makes a blind trust blind. Read the law for yourself below. 2. She claims $TRUMP proves the president would create new coins. But $TRUMP launched when President Trump was a private citizen. The ethics ban applies to conduct while serving. You can’t retroactively ban something that happened before the law — or the presidency — existed. That’s how the law in the Soviet Union worked, not America. 3. She acts like Trump’s adult children running WLF is some unprecedented dodge. It’s not. Federal ethics law has never imputed financial interests from adult, independent children — only spouses and minor children. That’s not new to this bill; it’s how conflict-of-interest law has worked for decades. The facts speak for themselves. Don’t fall for Liz’s lies. https://t.co/A4RjpyVPN9",
+      "summary": "RT @SenLummis: Big Bank Beth @SenWarren hates President Trump so much that she’d rather have no rules of the road for the digital asset industry —…",
+      "url": "https://x.com/patrickjwitt/status/2083300284327977455",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1452,
+        "replies": 0,
+        "quotes": 0,
+        "views": "604"
       }
     },
     {
@@ -230,6 +326,31 @@
       }
     },
     {
+      "id": "2083262283623313905",
+      "is_retweet": true,
+      "original_author": "Grayscale",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-07-31T18:43:28+00:00",
+      "text": "RT @Grayscale: Grayscale Investments, the world’s largest digital asset-focused investment platform¹, just sent a letter to the Senate requesting a floor vote on the CLARITY Act before the August recess. \"Senators and staff across the aisle have spent months addressing hard questions about jurisdiction, investor protections, and developer safeguards. The framework that emerged protects investors, shields legitimate developers from overreach, and provides the certainty Americans deserve.\" After months of bipartisan work, the industry is ready for CLARITY.",
+      "summary": "RT @Grayscale: Grayscale Investments, the world’s largest digital asset-focused investment platform¹, just sent a letter to the Senate requesting a…",
+      "url": "https://x.com/patrickjwitt/status/2083262283623313905",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 343,
+        "replies": 0,
+        "quotes": 0,
+        "views": "861"
+      }
+    },
+    {
       "id": "2083252971559600573",
       "is_retweet": false,
       "original_author": null,
@@ -255,6 +376,31 @@
       }
     },
     {
+      "id": "2083251376616849871",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-31T18:00:07+00:00",
+      "text": "The CLARITY Act creates a clear framework to protect consumers who use centralized exchanges and other 3rd-party custody solutions. Platforms would be required to keep your money separate from theirs, meet custody standards, disclose risks up front, and follow clear rules if a company fails. Real protections for American crypto owners. It is time to pass CLARITY 🛡️",
+      "summary": "The CLARITY Act creates a clear framework to protect consumers who use centralized exchanges and other 3rd-party custody solutions. Platforms would…",
+      "url": "https://x.com/standwithcrypto/status/2083251376616849871",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 321,
+        "retweets": 61,
+        "replies": 6,
+        "quotes": 4,
+        "views": "4512"
+      }
+    },
+    {
       "id": "2083248400070316260",
       "is_retweet": true,
       "original_author": "DrOzCMS",
@@ -274,6 +420,31 @@
       "metrics": {
         "likes": 0,
         "retweets": 287,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083247497732919461",
+      "is_retweet": true,
+      "original_author": "julie_stitzel",
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-31T17:44:42+00:00",
+      "text": "RT @julie_stitzel: 1/ Voters want Congress to establish clear rules for digital assets. DCG’s 2026 Harris Poll found that 81% of registered voters support a clear regulatory framework, and 60% want Congress to act now rather than wait for perfect legislation.",
+      "summary": "RT @julie_stitzel: 1/ Voters want Congress to establish clear rules for digital assets. DCG’s 2026 Harris Poll found that 81% of registered voters…",
+      "url": "https://x.com/KristinSmith/status/2083247497732919461",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
         "replies": 0,
         "quotes": 0,
         "views": null
@@ -330,6 +501,31 @@
       }
     },
     {
+      "id": "2083241599052423383",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BillHughesDC",
+      "display_name": "Bill Hughes",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-07-31T17:21:16+00:00",
+      "text": "What Congress is left with now that the FCC acted. The FCC added foreign-produced humanoid and quadruped robots to its Covered List this week, effective July 28. Most of the commentary focuses rightfully on what the designation does to the robots but its also interesting to consider what it does to the robotics bills proposed in Congress, given that there are overlaps on policy. First (and obvious) observation: if you like a policy, you always want it codified into federal statute, not just have it reflected in agency action. The current admin can always changes its mind, or the next guy could have a different policy altogether and rescind what the agency did. Statutes are far harder to repeal or amend. If you like the natsec finding and the FCC action, then you want to see it and things like it get enacted through Congress. Okay with that out of the way, let's start with the GUARD Act. Its central mechanism was to direct the national security agencies to review adversary-produced humanoids and quadrupeds and to place the ones presenting unacceptable risk on the Covered List, with automatic addition for anything not reviewed within a year. Big overlap with the FCC's actoin but the bill sets out procedure. It would supply a review standard, a timeline, and a default rule for a designation authority the agency has already shown it will exercise without any of those things. It also catalogues what can't hit the Covered List. Like the FCC action, it operates prospectively through equipment authorization, which means it constrains new models seeking clearance to enter the U.S. market. Hardware already authorized and already deployed sits outside it. It also operates at the level of the finished device, which leaves the component question unaddressed. A different bill addresses capital flowing to robotics. The Cassidy and Coons bill from last November would amend the Defense Production Act to treat any investment by a covered-nation entity in a U.S. business that designs, tests, develops, or manufactures humanoid robots as a covered transaction, expressly without regard to whether the investment results in control, and with a mandatory declaration attached. An interesting potential attachment to the FY2027 NDAA. We now have at least four different descriptions of the thing being regulated. The FCC has made a designation. The NDAA provision covers military procurement of certain humanoids. Cassidy and Coons proposed a four-part conjunctive test requiring, among other things, that the machine understand natural language commands. GUARD abandoned that approach in favor of counting articulated limbs. These do not describe the same population of machines, and the divergence would undoubtedly raise a number of difficult compliance questoins if all of these definitions became effective. Wheeled mobile manipulators with two arms fall inside some of these definitions and outside others. When agency action front-runs the statute, the statute often arrives to ratify what the agency did and to fill the gaps the agency could not reach, and definitional inconsistencies get cleaned up over the course of years, sometimes following the lead of the market which had to operate based on educated guesses.",
+      "summary": "What Congress is left with now that the FCC acted. The FCC added foreign-produced humanoid and quadruped robots to its Covered List this week,…",
+      "url": "https://x.com/BillHughesDC/status/2083241599052423383",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "364"
+      }
+    },
+    {
       "id": "2083237172514070552",
       "is_retweet": false,
       "original_author": null,
@@ -377,6 +573,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "107"
+      }
+    },
+    {
+      "id": "2083221288961855745",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-07-31T16:00:34+00:00",
+      "text": "We have 7 days left before the Senate leaves for August Recess. This is a critical moment for the CLARITY Act. We need to be louder than the anti-crypto army. Call your Senator NOW and tell them to pass the CLARITY Act: https://t.co/B30Nk7JcKR",
+      "summary": "We have 7 days left before the Senate leaves for August Recess. This is a critical moment for the CLARITY Act. We need to be louder than the…",
+      "url": "https://x.com/standwithcrypto/status/2083221288961855745",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 223,
+        "retweets": 62,
+        "replies": 13,
+        "quotes": 4,
+        "views": "10022"
       }
     }
   ]
