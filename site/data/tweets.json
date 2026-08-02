@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-02T12:01:10.414417+00:00",
-  "generated_at_unix": 1785672070,
+  "generated_at": "2026-08-02T15:01:52.629145+00:00",
+  "generated_at_unix": 1785682912,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-01T16:00:00+00:00",
-  "window_end": "2026-08-02T12:01:10.414417+00:00",
-  "new_this_run": 6,
-  "total_recent": 12,
-  "errors": [
-    {
-      "username": "JamisonSites",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-02T15:01:52.629145+00:00",
+  "new_this_run": 15,
+  "total_recent": 27,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083927978321306074",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T14:48:42+00:00",
+      "text": "RT @DeatonforSenate: In Lawrence and across the larger Latino community, I’ve met people who believe in faith, family, hard work, and opportunity, and like so many across Massachusetts, they're looking for real solutions, not politics as usual. https://t.co/u8F8Sj6Own",
+      "summary": "RT @DeatonforSenate: In Lawrence and across the larger Latino community, I’ve met people who believe in faith, family, hard work, and opportunity,…",
+      "url": "https://x.com/JohnEDeaton1/status/2083927978321306074",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1727"
+      }
+    },
+    {
+      "id": "2083894814227960275",
+      "is_retweet": true,
+      "original_author": "btcinsider__",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T12:36:55+00:00",
+      "text": "RT @btcinsider__: JUST IN: Dustin Dettmer (@dusty_daemon) digs into the COLDCARD firmware commit history to uncover what actually happened in the code to introduce one of the worst bugs for self-custody in recent bitcoin history https://t.co/PhaNZS23Lt",
+      "summary": "RT @btcinsider__: JUST IN: Dustin Dettmer (@dusty_daemon) digs into the COLDCARD firmware commit history to uncover what actually happened in the…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083894814227960275",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 298,
+        "replies": 0,
+        "quotes": 0,
+        "views": "224"
+      }
+    },
+    {
+      "id": "2083894506588446981",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T12:35:41+00:00",
+      "text": "This is absolutely wild if true and makes this whole situation all the more heartbreaking",
+      "summary": "This is absolutely wild if true and makes this whole situation all the more heartbreaking",
+      "url": "https://x.com/HaileyLennonBTC/status/2083894506588446981",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 27,
+        "retweets": 3,
+        "replies": 7,
+        "quotes": 0,
+        "views": "4466"
+      }
+    },
     {
       "id": "2083860901594071451",
       "is_retweet": true,
@@ -48,6 +118,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "7"
+      }
+    },
+    {
+      "id": "2083737947157745764",
+      "is_retweet": true,
+      "original_author": "DocumentingBTC",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T02:13:35+00:00",
+      "text": "RT @DocumentingBTC: On this day in history, 16 years ago, Wikipedia deleted the page about Bitcoin because they said there was a “Lack of significant third-party coverage to confer notability.” https://t.co/vq8pmzLeMR",
+      "summary": "RT @DocumentingBTC: On this day in history, 16 years ago, Wikipedia deleted the page about Bitcoin because they said there was a “Lack of significant…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083737947157745764",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "204"
       }
     },
     {
@@ -76,6 +171,31 @@
       }
     },
     {
+      "id": "2083729582612459652",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T01:40:20+00:00",
+      "text": "There isn’t a person running for elected office who can identify with poor migrants more than me. But we have tens of millions of poor American citizens who’ve yet to achieve the American 🇺🇸 Dream. The absolute truth is that if elected officials in MA like @sethmoulton and @EdMarkey cared for American citizens half as much as they do for illegals, MA would be much better off. And me saying that doesn’t make me xenophobic or racist. It’s simple: If you’re on a boat that’s sinking you don’t take on more passengers. You get the passengers you have to safety - repair the boat - then go back out to sea to secure additional passengers who can help the country move forward. Seth & Ed use immigration and election year slogans such as “Abolish Ice” to drive outrage and raise money. They vote against comprehensive immigration reform every time. “Defund the Police” was 2020’s election-year slogan. Did we defund the police? Of course not. They don’t have an immigration policy - just slogans.",
+      "summary": "There isn’t a person running for elected office who can identify with poor migrants more than me. But we have tens of millions of poor American…",
+      "url": "https://x.com/JohnEDeaton1/status/2083729582612459652",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 86,
+        "retweets": 16,
+        "replies": 7,
+        "quotes": 0,
+        "views": "12691"
+      }
+    },
+    {
       "id": "2083709810109722880",
       "is_retweet": true,
       "original_author": "CryptoCyberia",
@@ -101,6 +221,31 @@
       }
     },
     {
+      "id": "2083706838655062083",
+      "is_retweet": true,
+      "original_author": "hodlonaut",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T00:09:58+00:00",
+      "text": "RT @hodlonaut: I have issues with this apology post. It starts off with: \"securing the Bitcoin held by millions of individuals, businesses, and families, this is our core responsibility, and we fell short.\" and \"We take full accountability for the firmware bug and we offer our sincere apologies to those affected.\" This is natural and fine, accepting basic accountability and responsibility for what happened. But then, towards the end: \"we believe this is a sober reality of the new AI paradigm. AI-assisted code review can now find latent bugs at a speed that is outpacing even the industry’s most seasoned experts.\" This is what irks me, and I find quite unbelieavable. The taking responsibility part is now fully diluted, the incident is framed as a \"sober reality of the new AI paradigm\". Coinkite is now seemingly just a victim of this new reality, not someone who fucked up in an insane way and takes full responsibility for that. Coinkite had one job, build a product that provides sufficient entropy. They failed in such a spectacular way, and for such a long periode of time, that their users are now suffering the ultimate loss in Bitcoin. The \"new AI paradigm\" they describe as the culprit, cannot cannot overcome 128 bits of properly generated entropy. It's therefore extremely disappointing (but sadly expected) to see this kind of diversions in an apology post while the catastrophic losses of their users are still mounting.",
+      "summary": "RT @hodlonaut: I have issues with this apology post. It starts off with: \"securing the Bitcoin held by millions of individuals, businesses, and…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083706838655062083",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 133,
+        "replies": 0,
+        "quotes": 0,
+        "views": "279"
+      }
+    },
+    {
       "id": "2083704146964734196",
       "is_retweet": false,
       "original_author": null,
@@ -123,6 +268,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "3336"
+      }
+    },
+    {
+      "id": "2083683199679447493",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T22:36:02+00:00",
+      "text": "Everyone’s focus should be on finding out who is responsible and if victims are made whole. I truly hope and assume cold card is working around the clock with all potential law enforcement to figure this out The in-fighting and blaming (and eventual lawsuits) can come after",
+      "summary": "Everyone’s focus should be on finding out who is responsible and if victims are made whole. I truly hope and assume cold card is working around the…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083683199679447493",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 57,
+        "retweets": 1,
+        "replies": 14,
+        "quotes": 0,
+        "views": "3967"
+      }
+    },
+    {
+      "id": "2083682494835023925",
+      "is_retweet": true,
+      "original_author": "polynoamial",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T22:33:14+00:00",
+      "text": "RT @polynoamial: An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science. We believe it will be a major step for scientific reasoning. https://t.co/iP6cyheZ7i https://t.co/jHuulDwV46",
+      "summary": "RT @polynoamial: An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity,…",
+      "url": "https://x.com/prestonjbyrne/status/2083682494835023925",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2219,
+        "replies": 0,
+        "quotes": 0,
+        "views": "315"
+      }
+    },
+    {
+      "id": "2083678501014589906",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T22:17:22+00:00",
+      "text": "RT @DeatonforSenate: Every stop reminds me of the same thing: Massachusetts is ready for change. In Swansea, I heard it again and again: \"John, you have to win.\" This campaign is about real solutions, not pandering, chasing the hot-button issue of the month, or only showing up in Massachusetts every six years when it's election season. We’re building this campaign one conversation at a time.",
+      "summary": "RT @DeatonforSenate: Every stop reminds me of the same thing: Massachusetts is ready for change. In Swansea, I heard it again and again: \"John, you…",
+      "url": "https://x.com/JohnEDeaton1/status/2083678501014589906",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3779"
+      }
+    },
+    {
+      "id": "2083675837824410047",
+      "is_retweet": true,
+      "original_author": "FatManTerra",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T22:06:47+00:00",
+      "text": "RT @FatManTerra: Yeah, whoever did this definitely vibe coded it lmao. Using a paid API and risking doxing yourself; anyone who knew anything about Bitcoin would've queried it offline (with a fully indexed node). He probably just had the AI tell him how to do it without thinking through OPSEC etc",
+      "summary": "RT @FatManTerra: Yeah, whoever did this definitely vibe coded it lmao. Using a paid API and risking doxing yourself; anyone who knew anything about…",
+      "url": "https://x.com/prestonjbyrne/status/2083675837824410047",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "336"
       }
     },
     {
@@ -226,6 +471,81 @@
       }
     },
     {
+      "id": "2083632859634430001",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T19:16:00+00:00",
+      "text": "RT @intangiblecoins: the attack on coldcard-generated addresses is ONGOING if you or anyone you know has BTC in single-sig self-custody addresses generated by Coldcard hardware wallet devices, move the coins NOW to an exchange account or a fresh self-custody address not generated on a coldcard!",
+      "summary": "RT @intangiblecoins: the attack on coldcard-generated addresses is ONGOING if you or anyone you know has BTC in single-sig self-custody addresses…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083632859634430001",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 42,
+        "replies": 0,
+        "quotes": 0,
+        "views": "301"
+      }
+    },
+    {
+      "id": "2083626527028027674",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T18:50:50+00:00",
+      "text": "Washington logic: I refuse to support a bill that will prevent another FTX because I’m so upset FTX happened. 🤦‍♂️",
+      "summary": "Washington logic: I refuse to support a bill that will prevent another FTX because I’m so upset FTX happened. 🤦‍♂️",
+      "url": "https://x.com/JohnEDeaton1/status/2083626527028027674",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 449,
+        "retweets": 86,
+        "replies": 22,
+        "quotes": 1,
+        "views": "35146"
+      }
+    },
+    {
+      "id": "2083624655466659893",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T18:43:24+00:00",
+      "text": "Owning a home has never been more unaffordable and it’s not improving. MA ranks dead last in housing affordability. We desperately need new leadership. PEOPLE ARE NOT LOOKING FOR IDEOLOGY - THEY’RE LOOKING FOR SOLUTIONS TO THEIR PROBLEMS. Unlike @sethmoulton, I’m not running on a platform that @EdMarkey’s too old. I’m running on solutions to the problems people face in today’s world.",
+      "summary": "Owning a home has never been more unaffordable and it’s not improving. MA ranks dead last in housing affordability. We desperately need new…",
+      "url": "https://x.com/JohnEDeaton1/status/2083624655466659893",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 75,
+        "retweets": 9,
+        "replies": 4,
+        "quotes": 0,
+        "views": "13862"
+      }
+    },
+    {
       "id": "2083620211769430265",
       "is_retweet": true,
       "original_author": "banteg",
@@ -276,6 +596,31 @@
       }
     },
     {
+      "id": "2083610062346444981",
+      "is_retweet": true,
+      "original_author": "mikebelshe",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T17:45:25+00:00",
+      "text": "RT @mikebelshe: Moving to a custodian only helps if there's no single point of failure. That means multiple keys generated from independent sources via multisig or MPC. Many custodians (including some regulated ones) still run single-signature Bitcoin wallets. Crazy, but true. I hope they got their randomness right. BitGo was built on eliminating single points of failure from day one, and always will be.",
+      "summary": "RT @mikebelshe: Moving to a custodian only helps if there's no single point of failure. That means multiple keys generated from independent sources…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083610062346444981",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "304"
+      }
+    },
+    {
       "id": "2083608653291311287",
       "is_retweet": true,
       "original_author": "Hadas_Gold",
@@ -323,6 +668,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "52266"
+      }
+    },
+    {
+      "id": "2083592007117611195",
+      "is_retweet": true,
+      "original_author": "River",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T16:33:40+00:00",
+      "text": "RT @River: Our clients earned 9.7 BTC on their cash in July. That's 122 BTC since the product launched. Most financial institutions would've kept it. At River, that's more bitcoin in your pocket.",
+      "summary": "RT @River: Our clients earned 9.7 BTC on their cash in July. That's 122 BTC since the product launched. Most financial institutions would've kept it.…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083592007117611195",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": "271"
       }
     }
   ]
