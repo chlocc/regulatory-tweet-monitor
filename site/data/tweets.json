@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-02T06:10:22.997298+00:00",
-  "generated_at_unix": 1785651022,
+  "generated_at": "2026-08-02T09:05:39.082350+00:00",
+  "generated_at_unix": 1785661539,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-01T16:00:00+00:00",
-  "window_end": "2026-08-02T06:10:22.997298+00:00",
-  "new_this_run": 4,
-  "total_recent": 6,
-  "errors": [],
+  "window_end": "2026-08-02T09:05:39.082350+00:00",
+  "new_this_run": 3,
+  "total_recent": 9,
+  "errors": [
+    {
+      "username": "BlockchainAssn",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "valkenburgh",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -43,6 +52,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "32953"
+      }
+    },
+    {
+      "id": "2083681411148513289",
+      "is_retweet": true,
+      "original_author": "JohnDeBartola",
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-01T22:28:56+00:00",
+      "text": "RT @JohnDeBartola: US Congressman Ro Khanna visited Johnstown and spoke to Jason Lammertin of Solid Platforms Inc. about a Steel Mill in Johnstown. Solid Platforms Inc. operates a scaffolding manufacturing facility in a former Bethlehem Steel/Cambria Iron Works building in Johnstown’s West End. https://t.co/vgavTncj0B",
+      "summary": "RT @JohnDeBartola: US Congressman Ro Khanna visited Johnstown and spoke to Jason Lammertin of Solid Platforms Inc. about a Steel Mill in Johnstown.…",
+      "url": "https://x.com/RoKhanna/status/2083681411148513289",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1135"
+      }
+    },
+    {
+      "id": "2083656352883249409",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-01T20:49:21+00:00",
+      "text": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the decisions that could shape where the next generation of financial infrastructure is built, and whether the United States remains the global leader in crypto innovation: 00:00 Intro 05:31 From crypto subculture to financial infrastructure 08:37 Why crypto needs rules now 12:20 The regulatory war on crypto 15:41 How CLARITY could prevent another FTX 22:42 Why criminals using crypto may be easier to catch 26:20 Privacy, blockchains, and the invention of HTTPS 30:41 Government ethics and crypto 34:52 The banking lobby’s stablecoin fight 37:05 Why every major bank is building on blockchains 41:04 Developer liability as a killshot 45:23 How CLARITY provides oversight 49:30 What happens if CLARITY fails? 50:50 Regulation vs. innovation 54:12 Why America should lead 55:36 What CLARITY could unlock @pmarca @cdixon @rhackett",
+      "summary": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the…",
+      "url": "https://x.com/patrickjwitt/status/2083656352883249409",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 62,
+        "replies": 0,
+        "quotes": 0,
+        "views": "931"
       }
     },
     {
@@ -93,6 +152,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "46931"
+      }
+    },
+    {
+      "id": "2083613519757353168",
+      "is_retweet": true,
+      "original_author": "ChrisForPA",
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-01T17:59:09+00:00",
+      "text": "RT @ChrisForPA: Stopped by State College today to walk the picket line of Mount Nittany Hospital workers fighting for their pay, their safety, and their patients. It’s inspiring to see these union workers coming together for each other and their community. Solidarity forever 🇺🇸💪 https://t.co/VjAz0B9EAR",
+      "summary": "RT @ChrisForPA: Stopped by State College today to walk the picket line of Mount Nittany Hospital workers fighting for their pay, their safety, and…",
+      "url": "https://x.com/RoKhanna/status/2083613519757353168",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1207"
       }
     },
     {
