@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-02T15:01:52.629145+00:00",
-  "generated_at_unix": 1785682912,
+  "generated_at": "2026-08-02T18:01:18.112598+00:00",
+  "generated_at_unix": 1785693678,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-01T16:00:00+00:00",
-  "window_end": "2026-08-02T15:01:52.629145+00:00",
-  "new_this_run": 15,
-  "total_recent": 27,
-  "errors": [],
+  "window_end": "2026-08-02T18:01:18.112598+00:00",
+  "new_this_run": 19,
+  "total_recent": 46,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083948481203642600",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T16:10:10+00:00",
+      "text": "I asked @mert why people still think Bitcoin is anonymous cash. His answer: even Bitcoin's own Twitter bio just says \"digital gold,\" and it's actually more traceable than cash. 🕵️ https://t.co/Fa81GDIUVU",
+      "summary": "I asked @mert why people still think Bitcoin is anonymous cash. His answer: even Bitcoin's own Twitter bio just says \"digital gold,\" and it's…",
+      "url": "https://x.com/laurashin/status/2083948481203642600",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "views": "2278"
+      }
+    },
+    {
+      "id": "2083942761456402668",
+      "is_retweet": true,
+      "original_author": "hodlonaut",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T15:47:26+00:00",
+      "text": "RT @hodlonaut: The code wouldn't compile, so the Coldcard dev DISABLED THE HARDWARE RNG (Random Number Generation) to make the error go away. 🤯 \"From here, I assume in a bout of frustration, he set `MICROPY_HW_ENABLE_RNG` to 0, which would have resolved the compiler error. Sometimes when developers are flailing, they’ll try random things to see if it helps. Setting `MICROPY_HW_ENABLE_RNG to 0 would have made the compiler error go away ***for the wrong reason***.\" \"The compiler error was begging the programmer to reconsider his logic. Instead of that happening, the compiler error was just silenced. The compiler was giving the developer one last chance to reconsider what he was about to do, but the alarm was ignored and silenced. Now everything is lining up. It looks like the developer tried to override the variable, but ran into conflicting definitions. When confronted with a “duplicate symbol” error, tried changing random things to get the code to run. He discovered that changing `MICROPY_HW_ENABLE_RNG` to 0 made it compile. He probably had no idea why but came up with a theory.\" \"Simply put: the firmware change overwrites functions that aren’t used when creating a new wallet while, as a side effect of including the python method overrides, turns off the hardware RNG usage in every case, instead using a very weak random number generator. The final bit of evidence is the commit message itself. It was simply the message “runs.” Developers, if you are ever in this scenario, please stop. Whatever you’re getting paid is not worth the devastation you might potentially cause for others. Do not ship code you do not understand.\" https://t.co/frvSpMp4HL",
+      "summary": "RT @hodlonaut: The code wouldn't compile, so the Coldcard dev DISABLED THE HARDWARE RNG (Random Number Generation) to make the error go away. 🤯 \"From…",
+      "url": "https://x.com/laurashin/status/2083942761456402668",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 131,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1186"
+      }
+    },
     {
       "id": "2083927978321306074",
       "is_retweet": true,
@@ -43,6 +102,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "1727"
+      }
+    },
+    {
+      "id": "2083923014304010707",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T14:28:58+00:00",
+      "text": "I had the thought that potentially there could be a white hat rescue similar to the DAO and Parity wallet hacks but it’s not possible because Bitcoin is UTXO-based, not account based. Plus, as time goes on more and more people have the keys to that wallet, so there’s no way to prove the original owner. On top of that, Coldcard, being a hardware wallet, doesn’t have customer data. And now the cost of trying to rescue the funds would easily land in the 6 figures 🥺🥺🥺 credit to @tayvano_ for explaining this all to me just now",
+      "summary": "I had the thought that potentially there could be a white hat rescue similar to the DAO and Parity wallet hacks but it’s not possible because Bitcoin…",
+      "url": "https://x.com/laurashin/status/2083923014304010707",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 27,
+        "retweets": 2,
+        "replies": 15,
+        "quotes": 0,
+        "views": "6569"
+      }
+    },
+    {
+      "id": "2083920460744695876",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T14:18:49+00:00",
+      "text": "My two main thoughts reading the timeline: 1. My heart goes out to everyone affected by Coldcard 2. If this turns out to be North Korea, I’m going to be so pissed",
+      "summary": "My two main thoughts reading the timeline: 1. My heart goes out to everyone affected by Coldcard 2. If this turns out to be North Korea, I’m going to…",
+      "url": "https://x.com/laurashin/status/2083920460744695876",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 1,
+        "views": "8617"
+      }
+    },
+    {
+      "id": "2083915776201998676",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T14:00:12+00:00",
+      "text": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI capex is \"a bunch of BS.\" According to the Franklin Templeton strategist, the spend is real, just early. 🤖 https://t.co/rNn727trsi",
+      "summary": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI capex is \"a bunch of BS.\" According to the Franklin Templeton…",
+      "url": "https://x.com/laurashin/status/2083915776201998676",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2868"
       }
     },
     {
@@ -96,6 +230,81 @@
       }
     },
     {
+      "id": "2083888041459081474",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T12:10:00+00:00",
+      "text": "I pushed @mert and @jaosef on whether Canton counts as real privacy. Their answer: no, it's just a sequencer promising not to sell your data, no different from trusting a bank. @jarradhope_ has thoughts on where it goes from here. 🏦 https://t.co/cdBSpDPOu6",
+      "summary": "I pushed @mert and @jaosef on whether Canton counts as real privacy. Their answer: no, it's just a sequencer promising not to sell your data, no…",
+      "url": "https://x.com/laurashin/status/2083888041459081474",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 16,
+        "quotes": 0,
+        "views": "6095"
+      }
+    },
+    {
+      "id": "2083877277230838098",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T11:27:14+00:00",
+      "text": "The possibilities really open up when you untether yourself from the belief that crypto is simply a way to make more USD and realise that currency is simply a mechanism for human coordination. Crypto will win in our lifetimes. Will the world be ashes? Idk but it will win.",
+      "summary": "The possibilities really open up when you untether yourself from the belief that crypto is simply a way to make more USD and realise that currency is…",
+      "url": "https://x.com/wassielawyer/status/2083877277230838098",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 32,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 1,
+        "views": "6836"
+      }
+    },
+    {
+      "id": "2083876405922984024",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T11:23:46+00:00",
+      "text": "RT @intangiblecoins: outrageous behavior by some in this world a nearly 30 BTC coldcard victim had 17 BTC peeled and sent over @THORChain to ETH, then deposited into @Duelcomcasino both the victim and a research emailed all known addresses for @Duelcomcasino and asked for freeze, provided all info on the txs and deposits 229.72497255 ETH ($445k), downstream from the victim's ~30 BTC coldcard hack, was deposited by the hacker into their sketchy offshore casino duel's response to the victim was for him to have the police contact them, despite the fact that their AML policies claim they perform KYC and adhere to all relevant laws this is an outrageous response. it's well after midnight in most of the western world. no police report is coming until at least Monday. these shady people are refusing to freeze funds that have been forensically proven to emanate from a live cyber incident. if they do not freeze the funds, they are complicit in theft. they were notified minutes after deposits were made. if duel doesn't freeze this money, they will face substantial legal action duel's x account is suspended so I am tagging people we could find associated with them (team, dealers, others) let these people know that they need to do the right thing @korraflow @atrois7 @MiaMalkova",
+      "summary": "RT @intangiblecoins: outrageous behavior by some in this world a nearly 30 BTC coldcard victim had 17 BTC peeled and sent over @THORChain to ETH,…",
+      "url": "https://x.com/laurashin/status/2083876405922984024",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 96,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1449"
+      }
+    },
+    {
       "id": "2083860901594071451",
       "is_retweet": true,
       "original_author": "UniswapBuilders",
@@ -118,6 +327,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "7"
+      }
+    },
+    {
+      "id": "2083776760840138819",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T04:47:49+00:00",
+      "text": "RT @laurashin: \"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI capex boom, arguing the circular-spending fear is overblown. 📈 Timestamps: 🏦 02:10 Chris Galipeau on his role building Franklin Templeton's twelve-month house view 🏛️ 03:31 Why Kevin Warsh's second Fed presser rattled the bond market 📱 12:22 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🛢️ 13:40 Why the S&P averages 11% gains a year after major conflicts since 1929 🤖 23:44 Meta falls on CapEx guidance, Microsoft doesn't: reading the AI earnings split 🎲 34:13 Prediction markets, the 'Wisdom of Crowds,' and why belief moves prices 📊 42:49 The highest-conviction call: fading Mag Seven dominance",
+      "summary": "RT @laurashin: \"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich…",
+      "url": "https://x.com/laurashin/status/2083776760840138819",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083776642778869896",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T04:47:20+00:00",
+      "text": "RT @laurashin: I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
+      "summary": "RT @laurashin: I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
+      "url": "https://x.com/laurashin/status/2083776642778869896",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2083776490047521223",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T04:46:44+00:00",
+      "text": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions physically cannot come onchain without it. 🔐 I asked him, @jaosef, and @jarradhope_ why now, and got three very different answers. Timestamps: 🔐 01:52 Why Joe, Jarrad, and Mert think privacy's crypto moment is now 💙 18:18 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt ⚖️ 19:14 Why Jarrad says the weak need privacy and the powerful need transparency 🔬 24:49 How zero knowledge proofs actually update encrypted state onchain 🕸️ 33:07 Why 43.7% of block relays now censor, and how Logos fixes it 🐛 36:32 The undetected Zcash bug that could have minted infinite fake coins 🔒 46:32 Mert explains how Zcash's Ironwood upgrade closes the counterfeit hole 🛤️ 51:44 Why Joe worries Ethereum's privacy roadmap might arrive too late 🏦 57:39 Why Mert calls Canton no more private than trusting JPMorgan",
+      "summary": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions…",
+      "url": "https://x.com/laurashin/status/2083776490047521223",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -196,6 +480,56 @@
       }
     },
     {
+      "id": "2083725746170941546",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T01:25:06+00:00",
+      "text": "\"I've made every mistake you could ever wanna make in 30 years of managing money,\" Chris Galipeau tells @Steven_Ehrlich, and his fix is simple: always use a stop loss. 🛑 https://t.co/Eu5THYjBFV",
+      "summary": "\"I've made every mistake you could ever wanna make in 30 years of managing money,\" Chris Galipeau tells @Steven_Ehrlich, and his fix is simple:…",
+      "url": "https://x.com/laurashin/status/2083725746170941546",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 4,
+        "replies": 10,
+        "quotes": 0,
+        "views": "7787"
+      }
+    },
+    {
+      "id": "2083714188162334955",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T00:39:10+00:00",
+      "text": "I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
+      "summary": "I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
+      "url": "https://x.com/laurashin/status/2083714188162334955",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 46,
+        "retweets": 1,
+        "replies": 15,
+        "quotes": 0,
+        "views": "7888"
+      }
+    },
+    {
       "id": "2083709810109722880",
       "is_retweet": true,
       "original_author": "CryptoCyberia",
@@ -268,6 +602,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "3336"
+      }
+    },
+    {
+      "id": "2083693006281228326",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T23:15:00+00:00",
+      "text": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI CapEx is \"a bunch of BS.\" According to Franklin Templeton, the spend is real, just early. 🤖 https://t.co/v4ExjyN1ET",
+      "summary": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI CapEx is \"a bunch of BS.\" According to Franklin Templeton, the…",
+      "url": "https://x.com/laurashin/status/2083693006281228326",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "10244"
+      }
+    },
+    {
+      "id": "2083691622244696507",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T23:09:30+00:00",
+      "text": "This is so brazen: \"I'm about to move the market. If you pay me, I’ll make you one of the first people to know about my insider knowledge/market-making decisions so even though I will profit from you, you can profit off everyone who comes after you\" 🙄",
+      "summary": "This is so brazen: \"I'm about to move the market. If you pay me, I’ll make you one of the first people to know about my insider…",
+      "url": "https://x.com/laurashin/status/2083691622244696507",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 136,
+        "retweets": 6,
+        "replies": 18,
+        "quotes": 0,
+        "views": "17423"
       }
     },
     {
@@ -368,6 +752,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "336"
+      }
+    },
+    {
+      "id": "2083660289904377924",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-01T21:05:00+00:00",
+      "text": "\"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI capex boom, arguing the circular-spending fear is overblown. 📈 Timestamps: 🏦 02:10 Chris Galipeau on his role building Franklin Templeton's twelve-month house view 🏛️ 03:31 Why Kevin Warsh's second Fed presser rattled the bond market 📱 12:22 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🛢️ 13:40 Why the S&P averages 11% gains a year after major conflicts since 1929 🤖 23:44 Meta falls on CapEx guidance, Microsoft doesn't: reading the AI earnings split 🎲 34:13 Prediction markets, the 'Wisdom of Crowds,' and why belief moves prices 📊 42:49 The highest-conviction call: fading Mag Seven dominance",
+      "summary": "\"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI…",
+      "url": "https://x.com/laurashin/status/2083660289904377924",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 3,
+        "replies": 6,
+        "quotes": 2,
+        "views": "10251"
+      }
+    },
+    {
+      "id": "2083649551140028684",
+      "is_retweet": true,
+      "original_author": "CynthiaMLummis",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-01T20:22:19+00:00",
+      "text": "RT @CynthiaMLummis: To quote Sophie Cunningham, “I said what I said.”",
+      "summary": "RT @CynthiaMLummis: To quote Sophie Cunningham, “I said what I said.”",
+      "url": "https://x.com/milesjennings/status/2083649551140028684",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 237,
+        "replies": 0,
+        "quotes": 0,
+        "views": "208"
       }
     },
     {
@@ -496,6 +930,31 @@
       }
     },
     {
+      "id": "2083629220467708322",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-01T19:01:32+00:00",
+      "text": "Politics or policy? @pmarca and @cdixon cut through the noise on all things CLARITY, from ethics, to sanctions, to yield. Truth be told, CLARITY is the most bipartisan and sophisticated approach that’s ever been proposed for regulating crypto. Time to lock it in.",
+      "summary": "Politics or policy? @pmarca and @cdixon cut through the noise on all things CLARITY, from ethics, to sanctions, to yield. Truth be told, CLARITY is…",
+      "url": "https://x.com/milesjennings/status/2083629220467708322",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 74,
+        "retweets": 13,
+        "replies": 11,
+        "quotes": 0,
+        "views": "25611"
+      }
+    },
+    {
       "id": "2083626527028027674",
       "is_retweet": false,
       "original_author": null,
@@ -543,6 +1002,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "13862"
+      }
+    },
+    {
+      "id": "2083623220197163325",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-01T18:37:42+00:00",
+      "text": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the decisions that could shape where the next generation of financial infrastructure is built, and whether the United States remains the global leader in crypto innovation: 00:00 Intro 05:31 From crypto subculture to financial infrastructure 08:37 Why crypto needs rules now 12:20 The regulatory war on crypto 15:41 How CLARITY could prevent another FTX 22:42 Why criminals using crypto may be easier to catch 26:20 Privacy, blockchains, and the invention of HTTPS 30:41 Government ethics and crypto 34:52 The banking lobby’s stablecoin fight 37:05 Why every major bank is building on blockchains 41:04 Developer liability as a killshot 45:23 How CLARITY provides oversight 49:30 What happens if CLARITY fails? 50:50 Regulation vs. innovation 54:12 Why America should lead 55:36 What CLARITY could unlock @pmarca @cdixon @rhackett",
+      "summary": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the…",
+      "url": "https://x.com/milesjennings/status/2083623220197163325",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 75,
+        "replies": 0,
+        "quotes": 0,
+        "views": "157"
       }
     },
     {
