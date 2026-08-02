@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-08-02T09:05:39.082350+00:00",
-  "generated_at_unix": 1785661539,
+  "generated_at": "2026-08-02T12:01:10.414417+00:00",
+  "generated_at_unix": 1785672070,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-01T16:00:00+00:00",
-  "window_end": "2026-08-02T09:05:39.082350+00:00",
-  "new_this_run": 3,
-  "total_recent": 9,
+  "window_end": "2026-08-02T12:01:10.414417+00:00",
+  "new_this_run": 6,
+  "total_recent": 12,
   "errors": [
     {
-      "username": "BlockchainAssn",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "valkenburgh",
+      "username": "JamisonSites",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2083860901594071451",
+      "is_retweet": true,
+      "original_author": "UniswapBuilders",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T10:22:09+00:00",
+      "text": "RT @UniswapBuilders: Hearing the same Start building hooks at https://t.co/8SEVhZwbF7 https://t.co/gmuOSZpuG9",
+      "summary": "RT @UniswapBuilders: Hearing the same Start building hooks at https://t.co/8SEVhZwbF7 https://t.co/gmuOSZpuG9",
+      "url": "https://x.com/N0th1n3/status/2083860901594071451",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7"
+      }
+    },
     {
       "id": "2083736817359102460",
       "is_retweet": true,
@@ -55,19 +76,19 @@
       }
     },
     {
-      "id": "2083681411148513289",
+      "id": "2083709810109722880",
       "is_retweet": true,
-      "original_author": "JohnDeBartola",
-      "username": "RoKhanna",
-      "display_name": "Ro Khanna",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-01T22:28:56+00:00",
-      "text": "RT @JohnDeBartola: US Congressman Ro Khanna visited Johnstown and spoke to Jason Lammertin of Solid Platforms Inc. about a Steel Mill in Johnstown. Solid Platforms Inc. operates a scaffolding manufacturing facility in a former Bethlehem Steel/Cambria Iron Works building in Johnstown’s West End. https://t.co/vgavTncj0B",
-      "summary": "RT @JohnDeBartola: US Congressman Ro Khanna visited Johnstown and spoke to Jason Lammertin of Solid Platforms Inc. about a Steel Mill in Johnstown.…",
-      "url": "https://x.com/RoKhanna/status/2083681411148513289",
+      "original_author": "CryptoCyberia",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T00:21:46+00:00",
+      "text": "RT @CryptoCyberia: iPhones are, very obviously, gimped and poorly designed devices when compared to Android. The iToddlers won't believe you, but they literally have never tried anything else. The UI is borderline unusable. No universal back button, with back button sometimes in top left, is a joke",
+      "summary": "RT @CryptoCyberia: iPhones are, very obviously, gimped and poorly designed devices when compared to Android. The iToddlers won't believe you, but…",
+      "url": "https://x.com/lex_node/status/2083709810109722880",
       "type": "retweet",
       "categories": [
-        "defi"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
@@ -76,32 +97,57 @@
         "retweets": 6,
         "replies": 0,
         "quotes": 0,
-        "views": "1135"
+        "views": "668"
       }
     },
     {
-      "id": "2083656352883249409",
+      "id": "2083704146964734196",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "zackbshapiro",
+      "display_name": "Zack Shapiro",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T23:59:16+00:00",
+      "text": "Emergency PSA from your friends at @bitcoinpolicy Besides the personal toll on those affected (including myself), this week’s exploit raises difficult policy questions about open-source AI policy and the future of self-custody. @Rob1Ham joins us as the first-ever outside guest. Please give it a listen:",
+      "summary": "Emergency PSA from your friends at @bitcoinpolicy Besides the personal toll on those affected (including myself), this week’s exploit raises…",
+      "url": "https://x.com/zackbshapiro/status/2083704146964734196",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3336"
+      }
+    },
+    {
+      "id": "2083642258528645222",
       "is_retweet": true,
-      "original_author": "a16zcrypto",
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-01T20:49:21+00:00",
-      "text": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the decisions that could shape where the next generation of financial infrastructure is built, and whether the United States remains the global leader in crypto innovation: 00:00 Intro 05:31 From crypto subculture to financial infrastructure 08:37 Why crypto needs rules now 12:20 The regulatory war on crypto 15:41 How CLARITY could prevent another FTX 22:42 Why criminals using crypto may be easier to catch 26:20 Privacy, blockchains, and the invention of HTTPS 30:41 Government ethics and crypto 34:52 The banking lobby’s stablecoin fight 37:05 Why every major bank is building on blockchains 41:04 Developer liability as a killshot 45:23 How CLARITY provides oversight 49:30 What happens if CLARITY fails? 50:50 Regulation vs. innovation 54:12 Why America should lead 55:36 What CLARITY could unlock @pmarca @cdixon @rhackett",
-      "summary": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the…",
-      "url": "https://x.com/patrickjwitt/status/2083656352883249409",
+      "original_author": "mert",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T19:53:21+00:00",
+      "text": "RT @mert: self-custody is the entire point of crypto",
+      "summary": "RT @mert: self-custody is the entire point of crypto",
+      "url": "https://x.com/lex_node/status/2083642258528645222",
       "type": "retweet",
       "categories": [
-        "legislation"
+        "other"
       ],
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 62,
+        "retweets": 88,
         "replies": 0,
         "quotes": 0,
-        "views": "931"
+        "views": "525"
       }
     },
     {
@@ -155,16 +201,16 @@
       }
     },
     {
-      "id": "2083613519757353168",
+      "id": "2083635237267841377",
       "is_retweet": true,
-      "original_author": "ChrisForPA",
-      "username": "RoKhanna",
-      "display_name": "Ro Khanna",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-01T17:59:09+00:00",
-      "text": "RT @ChrisForPA: Stopped by State College today to walk the picket line of Mount Nittany Hospital workers fighting for their pay, their safety, and their patients. It’s inspiring to see these union workers coming together for each other and their community. Solidarity forever 🇺🇸💪 https://t.co/VjAz0B9EAR",
-      "summary": "RT @ChrisForPA: Stopped by State College today to walk the picket line of Mount Nittany Hospital workers fighting for their pay, their safety, and…",
-      "url": "https://x.com/RoKhanna/status/2083613519757353168",
+      "original_author": "starvs",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T19:25:27+00:00",
+      "text": "RT @starvs: @lex_node iOS people have mass psychosis, it's an absolute abomination. But...your text bubbles are green, or blue, or whatever the cool color is, I don't even know.",
+      "summary": "RT @starvs: @lex_node iOS people have mass psychosis, it's an absolute abomination. But...your text bubbles are green, or blue, or whatever the cool…",
+      "url": "https://x.com/lex_node/status/2083635237267841377",
       "type": "retweet",
       "categories": [
         "other"
@@ -173,10 +219,35 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 9,
+        "retweets": 2,
         "replies": 0,
         "quotes": 0,
-        "views": "1207"
+        "views": "739"
+      }
+    },
+    {
+      "id": "2083620211769430265",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-01T18:25:44+00:00",
+      "text": "RT @banteg: i don’t understand how normal people ever convert to paid llm subs. they just rotate between several free offers and get served instant mini braindead quantized toolless models that fall several generations behind from frontier. if you tell them about the actual capabilities, you’d be perceived as some shaman possessing unthinkable secret knowledge.",
+      "summary": "RT @banteg: i don’t understand how normal people ever convert to paid llm subs. they just rotate between several free offers and get served instant…",
+      "url": "https://x.com/lex_node/status/2083620211769430265",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "697"
       }
     },
     {
