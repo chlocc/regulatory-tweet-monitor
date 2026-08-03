@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-03T09:00:04.364424+00:00",
-  "generated_at_unix": 1785747604,
+  "generated_at": "2026-08-03T12:06:25.774004+00:00",
+  "generated_at_unix": 1785758785,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-02T16:00:00+00:00",
-  "window_end": "2026-08-03T09:00:04.364424+00:00",
-  "new_this_run": 1,
-  "total_recent": 11,
+  "window_end": "2026-08-03T12:06:25.774004+00:00",
+  "new_this_run": 3,
+  "total_recent": 14,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -146,6 +146,31 @@
       }
     },
     {
+      "id": "2084071852280848420",
+      "is_retweet": true,
+      "original_author": "hooeem",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T00:20:24+00:00",
+      "text": "RT @hooeem: the cold wallet hack is one of the saddest exploits I’ve witnessed in crypto. they did everything right. - no cex - self-custody - no third party trust - no gambling - invested correctly - held through multiple cycles - no smart contracts and they lost it all. the hackers should return the funds and charge a fee, they’ll never be able to use this money anyway so I pray they do the right thing.",
+      "summary": "RT @hooeem: the cold wallet hack is one of the saddest exploits I’ve witnessed in crypto. they did everything right. - no cex - self-custody - no…",
+      "url": "https://x.com/lex_node/status/2084071852280848420",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "661"
+      }
+    },
+    {
       "id": "2084054831640232161",
       "is_retweet": false,
       "original_author": null,
@@ -168,6 +193,56 @@
         "replies": 90,
         "quotes": 7,
         "views": "25862"
+      }
+    },
+    {
+      "id": "2084026166579511747",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T21:18:52+00:00",
+      "text": "Clarity is good for our national security but don’t take my word for it",
+      "summary": "Clarity is good for our national security but don’t take my word for it",
+      "url": "https://x.com/N0th1n3/status/2084026166579511747",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "580"
+      }
+    },
+    {
+      "id": "2084025155865506150",
+      "is_retweet": true,
+      "original_author": "MarkTEsper",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T21:14:51+00:00",
+      "text": "RT @MarkTEsper: Joined @TheWeekendMSNOW today to talk current events and discuss why the Clarity Act is a national security imperative. For years we’ve lacked clear federal rules for digital assets. Our financial system runs on American rails—that’s what keeps the dollar the world’s reserve currency. China is racing to rewrite those rails. We cannot let the Beijing decide who gets access, who dodges sanctions, or who sets the rules. This bill already passed the House with an overwhelming bipartisan majority. The stakes are clear: American leadership in technology that will shape our economic and strategic future. This week may be our last real window. Let’s get it done. #ClarityAct",
+      "summary": "RT @MarkTEsper: Joined @TheWeekendMSNOW today to talk current events and discuss why the Clarity Act is a national security imperative. For years…",
+      "url": "https://x.com/RebeccaRettig1/status/2084025155865506150",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 28,
+        "replies": 0,
+        "quotes": 0,
+        "views": "100"
       }
     },
     {
