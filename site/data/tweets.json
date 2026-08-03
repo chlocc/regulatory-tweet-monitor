@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-03T15:00:05.958915+00:00",
-  "generated_at_unix": 1785769205,
+  "generated_at": "2026-08-03T18:06:26.287461+00:00",
+  "generated_at_unix": 1785780386,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-02T16:00:00+00:00",
-  "window_end": "2026-08-03T15:00:05.958915+00:00",
-  "new_this_run": 17,
-  "total_recent": 31,
-  "errors": [],
+  "window_end": "2026-08-03T18:06:26.287461+00:00",
+  "new_this_run": 23,
+  "total_recent": 54,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,406 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084333163388805428",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:38:45+00:00",
+      "text": "🚨 @carlosdomingo says most tokenized stock today is unauthorized offshore paper, and some of it may already break insider-trading rules. He argues transfer agents, not platforms, should decide what gets tokenized. Live today on Unchained at 3.10pm ET Join us live on our platform: X - https://t.co/AohKSQ4sNg",
+      "summary": "🚨 @carlosdomingo says most tokenized stock today is unauthorized offshore paper, and some of it may already break insider-trading rules. He argues…",
+      "url": "https://x.com/laurashin/status/2084333163388805428",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 9,
+        "quotes": 0,
+        "views": "1417"
+      }
+    },
+    {
+      "id": "2084329588289671387",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:24:33+00:00",
+      "text": "RT @laurashin: \"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI capex boom, arguing the circular-spending fear is overblown. 📈 Timestamps: 🏦 02:10 Chris Galipeau on his role building Franklin Templeton's twelve-month house view 🏛️ 03:31 Why Kevin Warsh's second Fed presser rattled the bond market 📱 12:22 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🛢️ 13:40 Why the S&P averages 11% gains a year after major conflicts since 1929 🤖 23:44 Meta falls on CapEx guidance, Microsoft doesn't: reading the AI earnings split 🎲 34:13 Prediction markets, the 'Wisdom of Crowds,' and why belief moves prices 📊 42:49 The highest-conviction call: fading Mag Seven dominance",
+      "summary": "RT @laurashin: \"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich…",
+      "url": "https://x.com/laurashin/status/2084329588289671387",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084329571223044542",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:24:29+00:00",
+      "text": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions physically cannot come onchain without it. 🔐 I asked him, @jaosef, and @jarradhope_ why now, and got three very different answers. Timestamps: 🔐 01:52 Why Joe, Jarrad, and Mert think privacy's crypto moment is now 💙 18:18 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt ⚖️ 19:14 Why Jarrad says the weak need privacy and the powerful need transparency 🔬 24:49 How zero knowledge proofs actually update encrypted state onchain 🕸️ 33:07 Why 43.7% of block relays now censor, and how Logos fixes it 🐛 36:32 The undetected Zcash bug that could have minted infinite fake coins 🔒 46:32 Mert explains how Zcash's Ironwood upgrade closes the counterfeit hole 🛤️ 51:44 Why Joe worries Ethereum's privacy roadmap might arrive too late 🏦 57:39 Why Mert calls Canton no more private than trusting JPMorgan",
+      "summary": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions…",
+      "url": "https://x.com/laurashin/status/2084329571223044542",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084329550922518664",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:24:24+00:00",
+      "text": "RT @laurashin: 💀 BitMEX shut down with zero backlash. Token projects that fail get dragged for months. On Uneasy Money, @kaiynne and @tayvano_ ask Arbitrum's @sgoldfed why crypto only rages when there's a token to blame. Timestamps: 📣 00:47 Cape: Get 33% off six months at https://t.co/2ZtLziY0xt 🪦 01:47 Kain opens wondering whether crypto itself is quietly dying in 2026 📊 03:41 Steven on Arbitrum's project tracking and the 'massive consolidation' hitting L2s ⚔️ 10:03 The proxy war: Robinhood Chain and Base now fight instead of Arbitrum and Optimism 🪦 14:23 Why BitMEX's shutdown felt nostalgic while token deaths trigger real anger 🌉 26:21 Hacks of the week: the DPRK crew behind the AFX perp DEX bridge exploit 👽 32:51 Kain's take: bridges got safer until 'aliens landed' and started hacking again 🏛️ 40:32 Permissioned DeFi: Uniswap's compliance pools and Superstate's equity-like tokens 🎯 57:32 Would Steven trade Arbitrum's open token for a 5% investor-only model? 🥊 01:05:42 Kyle Samani's Multicoin tweet and Solana's VC fight over Hyperliquid",
+      "summary": "RT @laurashin: 💀 BitMEX shut down with zero backlash. Token projects that fail get dragged for months. On Uneasy Money, @kaiynne and @tayvano_ ask…",
+      "url": "https://x.com/laurashin/status/2084329550922518664",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084329525928661151",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:24:18+00:00",
+      "text": "RT @laurashin: 🤖 An AI model was told to solve a problem inside a sandbox. It broke out and found the answer on Hugging Face instead. On @DEXintheCityPod, Jessi Brooks argues that's the same fight crypto has fought for years: punish the conduct, not the code. Loved this one. Timestamps: 🌐 04:36 Jessi on why treating Kimi K3's open weights as an export could hit crypto ✍️ 07:47 Why Jessi reads Nvidia's and Anthropic's letters as punish the conduct, not the code 🕳️ 11:41 How an OpenAI agent escaped its sandbox and found answers on Hugging Face 🍎 21:55 Apple sues OpenAI over trade secrets, and one text that could cost it 📣 28:55 Cape: Get 33% off six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🏛️ 30:57 Salman Banaei maps where Clarity's ethics language stands in the Senate 🗳️ 41:12 Why Banaei says Clarity's cloture vote is on a knife's edge 🔐 42:43 Peirce's vault statement, split into development, curation, administration 🌍 48:32 Why FATF and Clarity both make control the real test for DeFi regulation 🔮 54:36 What Banaei thinks happens to Clarity if it fails this Congress",
+      "summary": "RT @laurashin: 🤖 An AI model was told to solve a problem inside a sandbox. It broke out and found the answer on Hugging Face instead. On…",
+      "url": "https://x.com/laurashin/status/2084329525928661151",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084329500871999521",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:24:12+00:00",
+      "text": "RT @laurashin: 😬 It’s out of our hands now. @KristinSmith says the industry doesn't even have a seat at the table in the ethics negotiations holding up the Clarity Act. 🤔 She walked me through the vote math, the DOJ fight, and what happens next. 🎧 Timestamps: 🗳️ 00:41 Why Clarity's Senate timeline looks so tight before the August recess 📣 09:11 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV ⚖️ 10:10 Why Trump's ethics language deal became Clarity's toughest sticking point 🏛️ 18:21 Kristin Smith on the Clarity Act provisions that most excite the industry 🌍 23:18 What happens to crypto capital and global leadership if Clarity fails",
+      "summary": "RT @laurashin: 😬 It’s out of our hands now. @KristinSmith says the industry doesn't even have a seat at the table in the ethics negotiations holding…",
+      "url": "https://x.com/laurashin/status/2084329500871999521",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084329466176684240",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:24:04+00:00",
+      "text": "RT @laurashin: 📊 For the first time, Hyperliquid traded more real-world assets than crypto in a single week, and individual stocks were 61% of it. @LorenzoARK on why owning BTC, ETH, and SOL volume may matter far less than picking the venue. @ramahluwalia isn't buying it. Full episode with @austincampbell and @perkinscr97: 🎧 Timestamps: 💙 00:41 Cape: Get 33% off your first six months of privacy first mobile service at https://t.co/2ZtLziXsHV 🏛️ 02:09 Why Chris says Clarity's Senate math still doesn't add up to 60 votes 🤖 10:46 Why Ram bought Google's post earnings sell off, calling it near the bottom 🔓 21:33 Jensen Huang's first ever X post reignites the open versus closed weight AI fight 💰 26:40 Lorenzo on why DeepSeek and Moonshot AI's reported raises expose open models' real costs 🌍 34:42 Why Ram and Chris think markets have already priced in the Ukraine-Iran escalation 📊 41:43 Lorenzo's stat: RWAs now out trade crypto on Hyperliquid 🥊 50:21 The Multicoin and Kyle Samani split, and Ram's line that crypto has no main character 🏦 54:13 Do all the real-world assets end up on one venue, or fragment like traditional markets?",
+      "summary": "RT @laurashin: 📊 For the first time, Hyperliquid traded more real-world assets than crypto in a single week, and individual stocks were 61% of it.…",
+      "url": "https://x.com/laurashin/status/2084329466176684240",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084327912661029021",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:17:53+00:00",
+      "text": "A $45B AI fund just got margin-called on 4x leverage and sold its entire book to Citadel near the lows. Was Ken Griffin ruthless, or just liquid? @austincampbell, @ramahluwalia and @perkinscr97 break down the Aschenbrenner blowup on Bits + Bips today at 4:30pm. Join us on: x - https://t.co/lEOTZqiqdN YouTube - https://t.co/XyVDgRUGWA",
+      "summary": "A $45B AI fund just got margin-called on 4x leverage and sold its entire book to Citadel near the lows. Was Ken Griffin ruthless, or just liquid?…",
+      "url": "https://x.com/laurashin/status/2084327912661029021",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1090"
+      }
+    },
+    {
+      "id": "2084326384353137002",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T17:11:49+00:00",
+      "text": "🚨NEW: The White House has not yet responded to the ethics counterproposal sent by Senators @SenThomTillis and @SenRubenGallego last Thursday, according to a source familiar with the matter. A deal on the Clarity Act’s biggest outstanding issue has yet to materialize heading into the week of a potential vote.",
+      "summary": "🚨NEW: The White House has not yet responded to the ethics counterproposal sent by Senators @SenThomTillis and @SenRubenGallego last Thursday,…",
+      "url": "https://x.com/EleanorTerrett/status/2084326384353137002",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 828,
+        "retweets": 120,
+        "replies": 98,
+        "quotes": 26,
+        "views": "72691"
+      }
+    },
+    {
+      "id": "2084323194044076302",
+      "is_retweet": true,
+      "original_author": "Katy_Faust",
+      "username": "eva_shang",
+      "display_name": "Eva Shang",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-03T16:59:08+00:00",
+      "text": "RT @Katy_Faust: This little girl is not in the video. She wasn't even born. But she is moved to tears watching her mother and father get married. Why? Marriage researcher and family therapist Pat Fagan once told me: \"When a child sees their mother loving their father they feel like their mother is loving them. When they see their father loving their mother they feel like their father is loving them. It is the only time in the human experience where you can be loved indirectly. No one's even looking at you or touching you or talking to you, but you feel loved.\" That is not the case with a step parent, he said. The child may tolerate the romantic expression. But they do not experience that same circuitous love. More often they feel competition or jealousy. If every child could order their own world, this is what they would say: \"I want my mom and dad to love me and I want my mom and dad to love each other.\" Sometimes that's not possible. Woe to a culture that intentionally denies that to children in the name of adult freedom.",
+      "summary": "RT @Katy_Faust: This little girl is not in the video. She wasn't even born. But she is moved to tears watching her mother and father get married.…",
+      "url": "https://x.com/eva_shang/status/2084323194044076302",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 912,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9"
+      }
+    },
+    {
+      "id": "2084319098708889827",
+      "is_retweet": true,
+      "original_author": "coinbase",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-03T16:42:52+00:00",
+      "text": "RT @coinbase: America needs CLARITY. https://t.co/YBgXAG9gxP",
+      "summary": "RT @coinbase: America needs CLARITY. https://t.co/YBgXAG9gxP",
+      "url": "https://x.com/milesjennings/status/2084319098708889827",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 322,
+        "replies": 0,
+        "quotes": 0,
+        "views": "109"
+      }
+    },
+    {
+      "id": "2084304706520957294",
+      "is_retweet": true,
+      "original_author": "cdixon",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-03T15:45:41+00:00",
+      "text": "RT @cdixon: This week is one of the most consequential for the CLARITY Act and the future of crypto in America. @pmarca, @rhackett, and I discuss what the bill does, why it matters, and some common misconceptions.",
+      "summary": "RT @cdixon: This week is one of the most consequential for the CLARITY Act and the future of crypto in America. @pmarca, @rhackett, and I discuss…",
+      "url": "https://x.com/milesjennings/status/2084304706520957294",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "107"
+      }
+    },
+    {
+      "id": "2084282146576064988",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T14:16:02+00:00",
+      "text": "🇮🇷 A Reuters investigation traced at least $4 billion through Shelbit, an unlicensed Dubai exchange that connected Iran's central bank, IRGC-linked wallets and a 2,000-site gambling network to global crypto markets. At least $676 million of it allegedly reached Binance. https://t.co/5wiFv4nW3A",
+      "summary": "🇮🇷 A Reuters investigation traced at least $4 billion through Shelbit, an unlicensed Dubai exchange that connected Iran's central bank, IRGC-linked…",
+      "url": "https://x.com/laurashin/status/2084282146576064988",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 0,
+        "views": "2859"
+      }
+    },
+    {
+      "id": "2084277107287556109",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T13:56:01+00:00",
+      "text": "🏦 The US just sanctioned the bitcoin-settled \"insurance\" scheme Iran built for the Strait of Hormuz. https://t.co/QxqiuaFaOE",
+      "summary": "🏦 The US just sanctioned the bitcoin-settled \"insurance\" scheme Iran built for the Strait of Hormuz. https://t.co/QxqiuaFaOE",
+      "url": "https://x.com/laurashin/status/2084277107287556109",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 2,
+        "replies": 11,
+        "quotes": 0,
+        "views": "2870"
+      }
+    },
+    {
+      "id": "2084272072398975133",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T13:36:00+00:00",
+      "text": "🏛️ New York is seeking at least $36 billion from Kalshi and asking a judge to shut its prediction market down in the state. Kalshi's response: \"political theater.\" https://t.co/wR0oFTwaob",
+      "summary": "🏛️ New York is seeking at least $36 billion from Kalshi and asking a judge to shut its prediction market down in the state. Kalshi's response:…",
+      "url": "https://x.com/laurashin/status/2084272072398975133",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2891"
+      }
+    },
+    {
+      "id": "2084270952154890516",
+      "is_retweet": true,
+      "original_author": "rapidlab309",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T13:31:33+00:00",
+      "text": "RT @rapidlab309: Confirmed #COLDCARD bricked 💀 A rushed firmware hotfix introduced a critical failure: a transient STM32 TRNG error could permanently fault the RNG. Since it’s used before the PIN screen, affected devices to become effectively bricked. https://t.co/qloYvCygAm",
+      "summary": "RT @rapidlab309: Confirmed #COLDCARD bricked 💀 A rushed firmware hotfix introduced a critical failure: a transient STM32 TRNG error could permanently…",
+      "url": "https://x.com/laurashin/status/2084270952154890516",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 112,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1270"
+      }
+    },
     {
       "id": "2084268468036087967",
       "is_retweet": false,
@@ -43,6 +452,81 @@
         "replies": 1,
         "quotes": 0,
         "views": "334"
+      }
+    },
+    {
+      "id": "2084267785149169884",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T13:18:58+00:00",
+      "text": "🚨 Tether earned $1.5 billion last quarter and ended it with roughly half the safety cushion it began with. Gold and bitcoin markdowns did the damage. The big four audit commissioned in March still has not landed. https://t.co/xxYf6QBWkC",
+      "summary": "🚨 Tether earned $1.5 billion last quarter and ended it with roughly half the safety cushion it began with. Gold and bitcoin markdowns did the damage.…",
+      "url": "https://x.com/laurashin/status/2084267785149169884",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 2,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3375"
+      }
+    },
+    {
+      "id": "2084266042810085611",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T13:12:03+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Reuters traced $676 million from an Iranian sanctions hub to Binance wallets. ⛴️ Treasury sanctioned Iran's bitcoin-paid \"insurance\" scheme for Strait of Hormuz shipping. ⚖️ New York sued Kalshi for at least $36 billion over illegal gambling. 🪙 Tether cleared $1.5 billion in Q2 profit as its reserve buffer halved. 🎯 Read it now… and make sure you never miss one. Subscribe! https://t.co/YoZUzHDnLj",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Reuters traced $676 million from an Iranian sanctions hub to Binance wallets. ⛴️ Treasury sanctioned Iran's…",
+      "url": "https://x.com/laurashin/status/2084266042810085611",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3037"
+      }
+    },
+    {
+      "id": "2084265771086344296",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T13:10:58+00:00",
+      "text": "Tfw I agree with Peter Schiff 😂",
+      "summary": "Tfw I agree with Peter Schiff 😂",
+      "url": "https://x.com/laurashin/status/2084265771086344296",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "7536"
       }
     },
     {
@@ -71,6 +555,31 @@
       }
     },
     {
+      "id": "2084233431203172690",
+      "is_retweet": true,
+      "original_author": "BTCsessions",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T11:02:27+00:00",
+      "text": "RT @BTCsessions: IMPORTANT UPDATE: We just had our first confirmed loss of a Mk3 + 2 Word Passphrase. Drained at 2pm Aug 2nd Australia Time - Roughly 17hrs ago.",
+      "summary": "RT @BTCsessions: IMPORTANT UPDATE: We just had our first confirmed loss of a Mk3 + 2 Word Passphrase. Drained at 2pm Aug 2nd Australia Time - Roughly…",
+      "url": "https://x.com/laurashin/status/2084233431203172690",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 388,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1437"
+      }
+    },
+    {
       "id": "2084228082714505237",
       "is_retweet": true,
       "original_author": "efenigson",
@@ -93,6 +602,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "277"
+      }
+    },
+    {
+      "id": "2084200688897360293",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T08:52:21+00:00",
+      "text": "Completely agree with this. You have god mode from 16-30 just by being not fat and if you don’t use it to compound returns into your 40-50s+ you’re retarded.",
+      "summary": "Completely agree with this. You have god mode from 16-30 just by being not fat and if you don’t use it to compound returns into your 40-50s+ you’re…",
+      "url": "https://x.com/wassielawyer/status/2084200688897360293",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 147,
+        "retweets": 2,
+        "replies": 5,
+        "quotes": 0,
+        "views": "27222"
       }
     },
     {
@@ -421,6 +955,31 @@
       }
     },
     {
+      "id": "2084018957040881779",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T20:50:13+00:00",
+      "text": "Loved this: @jarradhope_ tying the Cypherpunk motto, privacy for the weak, transparency for the powerful, straight to why KYC costs land on regular people, not banks. 🔑 https://t.co/8J3DArAICj",
+      "summary": "Loved this: @jarradhope_ tying the Cypherpunk motto, privacy for the weak, transparency for the powerful, straight to why KYC costs land on regular…",
+      "url": "https://x.com/laurashin/status/2084018957040881779",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 7,
+        "replies": 7,
+        "quotes": 0,
+        "views": "8101"
+      }
+    },
+    {
       "id": "2084018398242213940",
       "is_retweet": false,
       "original_author": null,
@@ -568,6 +1127,31 @@
         "replies": 11,
         "quotes": 0,
         "views": "130941"
+      }
+    },
+    {
+      "id": "2083981218492899497",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-02T18:20:15+00:00",
+      "text": "According to @tayvano_, the same DPRK-linked crew behind the Ronin and LayerZero hacks is now rotating through smaller bridges like perp DEX AFX. 🕵️ Full conversation on Uneasy Money with Offchain Labs' Steven Goldfeder ( @sgoldfed). https://t.co/DQyvTjZvsZ",
+      "summary": "According to @tayvano_, the same DPRK-linked crew behind the Ronin and LayerZero hacks is now rotating through smaller bridges like perp DEX AFX. 🕵️…",
+      "url": "https://x.com/laurashin/status/2083981218492899497",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 2,
+        "views": "8695"
       }
     },
     {
