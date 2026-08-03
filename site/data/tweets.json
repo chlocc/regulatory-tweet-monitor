@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-08-02T18:01:18.112598+00:00",
-  "generated_at_unix": 1785693678,
+  "generated_at": "2026-08-03T06:07:18.016839+00:00",
+  "generated_at_unix": 1785737238,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-08-01T16:00:00+00:00",
-  "window_end": "2026-08-02T18:01:18.112598+00:00",
-  "new_this_run": 19,
-  "total_recent": 46,
+  "window_start": "2026-08-02T16:00:00+00:00",
+  "window_end": "2026-08-03T06:07:18.016839+00:00",
+  "new_this_run": 9,
+  "total_recent": 10,
   "errors": [
     {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    },
-    {
-      "username": "RegulatoryJason",
-      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+      "username": "SECGov",
+      "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 75,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +25,231 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084090645266768127",
+      "is_retweet": true,
+      "original_author": "SecDuffy",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-03T01:35:05+00:00",
+      "text": "RT @SecDuffy: Through Freedom Haulers, we are SUPPORTING the brave men and women that fought for our freedom and giving AMERICANS safer roads 🤝",
+      "summary": "RT @SecDuffy: Through Freedom Haulers, we are SUPPORTING the brave men and women that fought for our freedom and giving AMERICANS safer roads 🤝",
+      "url": "https://x.com/WhiteHouse/status/2084090645266768127",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 296,
+        "replies": 0,
+        "quotes": 0,
+        "views": "39666"
+      }
+    },
+    {
+      "id": "2084090627336114528",
+      "is_retweet": true,
+      "original_author": "SecScottBessent",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-03T01:35:00+00:00",
+      "text": "RT @SecScottBessent: The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan alliance is built on both. Friday's coordinated foreign exchange actions countered disorderly yen movements. Treasury remains attentive and in close communication with our counterparts at MOF and BOJ. We will not hesitate to participate in further joint intervention. The FIMA Repo Facility is an important backstop. We would encourage it to be upsized in the coming months. We strongly support Japan's decisive market and monetary steps to correct the substantial undervaluation of the yen. The Takaichi government is moving into an exciting new phase of Abenomics, as nearly 15 years of powerful stimulus have created durable, robust underlying economic dynamics.",
+      "summary": "RT @SecScottBessent: The Trump Administration delivers for America's trusted partners. Economic security is national security. And the U.S.-Japan…",
+      "url": "https://x.com/WhiteHouse/status/2084090627336114528",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1819,
+        "replies": 0,
+        "quotes": 0,
+        "views": "31687"
+      }
+    },
+    {
+      "id": "2084090555881975869",
+      "is_retweet": true,
+      "original_author": "PeteHegseth",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-03T01:34:43+00:00",
+      "text": "RT @PeteHegseth: Fact. The @DeptofWar was ready to go — and remains ready — at levels not seen since World War 2. Locked and loaded.",
+      "summary": "RT @PeteHegseth: Fact. The @DeptofWar was ready to go — and remains ready — at levels not seen since World War 2. Locked and loaded.",
+      "url": "https://x.com/WhiteHouse/status/2084090555881975869",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1550,
+        "replies": 0,
+        "quotes": 0,
+        "views": "33369"
+      }
+    },
+    {
+      "id": "2084087812807155833",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenatorHagerty",
+      "display_name": "Senator Bill Hagerty",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-03T01:23:49+00:00",
+      "text": "The U.S.-Japan Alliance is one of America’s greatest strategic assets. I applaud @SecScottBessent and the U.S. Treasury for coordinating closely with Japan’s Ministry of Finance to promote stable, well-functioning markets. This close coordination reflects the strength of our alliance and helps advance peace, security, and stability across the region.",
+      "summary": "The U.S.-Japan Alliance is one of America’s greatest strategic assets. I applaud @SecScottBessent and the U.S. Treasury for coordinating closely with…",
+      "url": "https://x.com/SenatorHagerty/status/2084087812807155833",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 554,
+        "retweets": 124,
+        "replies": 34,
+        "quotes": 9,
+        "views": "24388"
+      }
+    },
+    {
+      "id": "2084076499330617611",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenatorHagerty",
+      "display_name": "Senator Bill Hagerty",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-03T00:38:52+00:00",
+      "text": "We need leadership, not political statements, @SenSchumer. After you orchestrated the two longest government shutdowns in history, including forcing every American traveler to experience chaos while you kept TSA unfunded and DHS unfunded while America deals with national security threats, color me skeptical. You can’t appease the Democratic Socialists of America with a government shutdown, so stop trying.",
+      "summary": "We need leadership, not political statements, @SenSchumer. After you orchestrated the two longest government shutdowns in history, including forcing…",
+      "url": "https://x.com/SenatorHagerty/status/2084076499330617611",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 109,
+        "retweets": 16,
+        "replies": 15,
+        "quotes": 0,
+        "views": "5434"
+      }
+    },
+    {
+      "id": "2084054831640232161",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "howardlutnick",
+      "display_name": "Howard Lutnick",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-02T23:12:46+00:00",
+      "text": "Happy Birthday, Vice President Vance. We met and became friends during our time together on the campaign trail and during the transition. Together with President Trump, we planned what we knew would become the most effective administration in history. I never imagined it would be this much fun working with such great people. It’s an honor to serve alongside you, and an even greater honor to call you my friend. Here’s to another great year.",
+      "summary": "Happy Birthday, Vice President Vance. We met and became friends during our time together on the campaign trail and during the transition. Together…",
+      "url": "https://x.com/howardlutnick/status/2084054831640232161",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1598,
+        "retweets": 136,
+        "replies": 90,
+        "quotes": 7,
+        "views": "25862"
+      }
+    },
+    {
+      "id": "2084018398242213940",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RepFrenchHill",
+      "display_name": "French Hill",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-02T20:47:59+00:00",
+      "text": "American Family Day is a good reminder that accomplishments don't mean as much without people to share them with and the family that stands beside us every step of the way. I am grateful every day for my bride Martha and our two wonderful kids, Liza and Payne. Wishing all Arkansas families a joyful day together. 🇺🇸",
+      "summary": "American Family Day is a good reminder that accomplishments don't mean as much without people to share them with and the family that stands beside us…",
+      "url": "https://x.com/RepFrenchHill/status/2084018398242213940",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "727"
+      }
+    },
+    {
+      "id": "2083993185206906989",
+      "is_retweet": true,
+      "original_author": "SecretaryTurner",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-02T19:07:48+00:00",
+      "text": "RT @SecretaryTurner: Happy birthday, @VP! Vice President Vance is a true champion for the American people and has been instrumental in rooting out fraud within our government. https://t.co/bGT9JyAIa3",
+      "summary": "RT @SecretaryTurner: Happy birthday, @VP! Vice President Vance is a true champion for the American people and has been instrumental in rooting out…",
+      "url": "https://x.com/WhiteHouse/status/2083993185206906989",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 152,
+        "replies": 0,
+        "quotes": 0,
+        "views": "50958"
+      }
+    },
+    {
+      "id": "2083993139035934756",
+      "is_retweet": true,
+      "original_author": "SecKennedy",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-02T19:07:37+00:00",
+      "text": "RT @SecKennedy: One of the biggest myths in America is that eating REAL food costs more. On #TheRealFoodShow, we're proving the opposite—showing families how to make healthy, delicious meals with real ingredients for under $5 per serving. Watch the first episode: https://t.co/jjDRHK7Qoe https://t.co/4585EJ9btC",
+      "summary": "RT @SecKennedy: One of the biggest myths in America is that eating REAL food costs more. On #TheRealFoodShow, we're proving the opposite—showing…",
+      "url": "https://x.com/WhiteHouse/status/2083993139035934756",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1695,
+        "replies": 0,
+        "quotes": 0,
+        "views": "42657"
+      }
+    },
     {
       "id": "2083948481203642600",
       "is_retweet": false,
@@ -52,1131 +273,6 @@
         "replies": 8,
         "quotes": 0,
         "views": "2278"
-      }
-    },
-    {
-      "id": "2083942761456402668",
-      "is_retweet": true,
-      "original_author": "hodlonaut",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T15:47:26+00:00",
-      "text": "RT @hodlonaut: The code wouldn't compile, so the Coldcard dev DISABLED THE HARDWARE RNG (Random Number Generation) to make the error go away. 🤯 \"From here, I assume in a bout of frustration, he set `MICROPY_HW_ENABLE_RNG` to 0, which would have resolved the compiler error. Sometimes when developers are flailing, they’ll try random things to see if it helps. Setting `MICROPY_HW_ENABLE_RNG to 0 would have made the compiler error go away ***for the wrong reason***.\" \"The compiler error was begging the programmer to reconsider his logic. Instead of that happening, the compiler error was just silenced. The compiler was giving the developer one last chance to reconsider what he was about to do, but the alarm was ignored and silenced. Now everything is lining up. It looks like the developer tried to override the variable, but ran into conflicting definitions. When confronted with a “duplicate symbol” error, tried changing random things to get the code to run. He discovered that changing `MICROPY_HW_ENABLE_RNG` to 0 made it compile. He probably had no idea why but came up with a theory.\" \"Simply put: the firmware change overwrites functions that aren’t used when creating a new wallet while, as a side effect of including the python method overrides, turns off the hardware RNG usage in every case, instead using a very weak random number generator. The final bit of evidence is the commit message itself. It was simply the message “runs.” Developers, if you are ever in this scenario, please stop. Whatever you’re getting paid is not worth the devastation you might potentially cause for others. Do not ship code you do not understand.\" https://t.co/frvSpMp4HL",
-      "summary": "RT @hodlonaut: The code wouldn't compile, so the Coldcard dev DISABLED THE HARDWARE RNG (Random Number Generation) to make the error go away. 🤯 \"From…",
-      "url": "https://x.com/laurashin/status/2083942761456402668",
-      "type": "retweet",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 131,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1186"
-      }
-    },
-    {
-      "id": "2083927978321306074",
-      "is_retweet": true,
-      "original_author": "DeatonforSenate",
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T14:48:42+00:00",
-      "text": "RT @DeatonforSenate: In Lawrence and across the larger Latino community, I’ve met people who believe in faith, family, hard work, and opportunity, and like so many across Massachusetts, they're looking for real solutions, not politics as usual. https://t.co/u8F8Sj6Own",
-      "summary": "RT @DeatonforSenate: In Lawrence and across the larger Latino community, I’ve met people who believe in faith, family, hard work, and opportunity,…",
-      "url": "https://x.com/JohnEDeaton1/status/2083927978321306074",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 7,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1727"
-      }
-    },
-    {
-      "id": "2083923014304010707",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T14:28:58+00:00",
-      "text": "I had the thought that potentially there could be a white hat rescue similar to the DAO and Parity wallet hacks but it’s not possible because Bitcoin is UTXO-based, not account based. Plus, as time goes on more and more people have the keys to that wallet, so there’s no way to prove the original owner. On top of that, Coldcard, being a hardware wallet, doesn’t have customer data. And now the cost of trying to rescue the funds would easily land in the 6 figures 🥺🥺🥺 credit to @tayvano_ for explaining this all to me just now",
-      "summary": "I had the thought that potentially there could be a white hat rescue similar to the DAO and Parity wallet hacks but it’s not possible because Bitcoin…",
-      "url": "https://x.com/laurashin/status/2083923014304010707",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 27,
-        "retweets": 2,
-        "replies": 15,
-        "quotes": 0,
-        "views": "6569"
-      }
-    },
-    {
-      "id": "2083920460744695876",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T14:18:49+00:00",
-      "text": "My two main thoughts reading the timeline: 1. My heart goes out to everyone affected by Coldcard 2. If this turns out to be North Korea, I’m going to be so pissed",
-      "summary": "My two main thoughts reading the timeline: 1. My heart goes out to everyone affected by Coldcard 2. If this turns out to be North Korea, I’m going to…",
-      "url": "https://x.com/laurashin/status/2083920460744695876",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 18,
-        "retweets": 0,
-        "replies": 6,
-        "quotes": 1,
-        "views": "8617"
-      }
-    },
-    {
-      "id": "2083915776201998676",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T14:00:12+00:00",
-      "text": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI capex is \"a bunch of BS.\" According to the Franklin Templeton strategist, the spend is real, just early. 🤖 https://t.co/rNn727trsi",
-      "summary": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI capex is \"a bunch of BS.\" According to the Franklin Templeton…",
-      "url": "https://x.com/laurashin/status/2083915776201998676",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 5,
-        "quotes": 0,
-        "views": "2868"
-      }
-    },
-    {
-      "id": "2083894814227960275",
-      "is_retweet": true,
-      "original_author": "btcinsider__",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T12:36:55+00:00",
-      "text": "RT @btcinsider__: JUST IN: Dustin Dettmer (@dusty_daemon) digs into the COLDCARD firmware commit history to uncover what actually happened in the code to introduce one of the worst bugs for self-custody in recent bitcoin history https://t.co/PhaNZS23Lt",
-      "summary": "RT @btcinsider__: JUST IN: Dustin Dettmer (@dusty_daemon) digs into the COLDCARD firmware commit history to uncover what actually happened in the…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083894814227960275",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 298,
-        "replies": 0,
-        "quotes": 0,
-        "views": "224"
-      }
-    },
-    {
-      "id": "2083894506588446981",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T12:35:41+00:00",
-      "text": "This is absolutely wild if true and makes this whole situation all the more heartbreaking",
-      "summary": "This is absolutely wild if true and makes this whole situation all the more heartbreaking",
-      "url": "https://x.com/HaileyLennonBTC/status/2083894506588446981",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 27,
-        "retweets": 3,
-        "replies": 7,
-        "quotes": 0,
-        "views": "4466"
-      }
-    },
-    {
-      "id": "2083888041459081474",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T12:10:00+00:00",
-      "text": "I pushed @mert and @jaosef on whether Canton counts as real privacy. Their answer: no, it's just a sequencer promising not to sell your data, no different from trusting a bank. @jarradhope_ has thoughts on where it goes from here. 🏦 https://t.co/cdBSpDPOu6",
-      "summary": "I pushed @mert and @jaosef on whether Canton counts as real privacy. Their answer: no, it's just a sequencer promising not to sell your data, no…",
-      "url": "https://x.com/laurashin/status/2083888041459081474",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 12,
-        "retweets": 1,
-        "replies": 16,
-        "quotes": 0,
-        "views": "6095"
-      }
-    },
-    {
-      "id": "2083877277230838098",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "wassielawyer",
-      "display_name": "wassieloyer",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T11:27:14+00:00",
-      "text": "The possibilities really open up when you untether yourself from the belief that crypto is simply a way to make more USD and realise that currency is simply a mechanism for human coordination. Crypto will win in our lifetimes. Will the world be ashes? Idk but it will win.",
-      "summary": "The possibilities really open up when you untether yourself from the belief that crypto is simply a way to make more USD and realise that currency is…",
-      "url": "https://x.com/wassielawyer/status/2083877277230838098",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 32,
-        "retweets": 2,
-        "replies": 7,
-        "quotes": 1,
-        "views": "6836"
-      }
-    },
-    {
-      "id": "2083876405922984024",
-      "is_retweet": true,
-      "original_author": "intangiblecoins",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T11:23:46+00:00",
-      "text": "RT @intangiblecoins: outrageous behavior by some in this world a nearly 30 BTC coldcard victim had 17 BTC peeled and sent over @THORChain to ETH, then deposited into @Duelcomcasino both the victim and a research emailed all known addresses for @Duelcomcasino and asked for freeze, provided all info on the txs and deposits 229.72497255 ETH ($445k), downstream from the victim's ~30 BTC coldcard hack, was deposited by the hacker into their sketchy offshore casino duel's response to the victim was for him to have the police contact them, despite the fact that their AML policies claim they perform KYC and adhere to all relevant laws this is an outrageous response. it's well after midnight in most of the western world. no police report is coming until at least Monday. these shady people are refusing to freeze funds that have been forensically proven to emanate from a live cyber incident. if they do not freeze the funds, they are complicit in theft. they were notified minutes after deposits were made. if duel doesn't freeze this money, they will face substantial legal action duel's x account is suspended so I am tagging people we could find associated with them (team, dealers, others) let these people know that they need to do the right thing @korraflow @atrois7 @MiaMalkova",
-      "summary": "RT @intangiblecoins: outrageous behavior by some in this world a nearly 30 BTC coldcard victim had 17 BTC peeled and sent over @THORChain to ETH,…",
-      "url": "https://x.com/laurashin/status/2083876405922984024",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 96,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1449"
-      }
-    },
-    {
-      "id": "2083860901594071451",
-      "is_retweet": true,
-      "original_author": "UniswapBuilders",
-      "username": "N0th1n3",
-      "display_name": "Brian",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T10:22:09+00:00",
-      "text": "RT @UniswapBuilders: Hearing the same Start building hooks at https://t.co/8SEVhZwbF7 https://t.co/gmuOSZpuG9",
-      "summary": "RT @UniswapBuilders: Hearing the same Start building hooks at https://t.co/8SEVhZwbF7 https://t.co/gmuOSZpuG9",
-      "url": "https://x.com/N0th1n3/status/2083860901594071451",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 14,
-        "replies": 0,
-        "quotes": 0,
-        "views": "7"
-      }
-    },
-    {
-      "id": "2083776760840138819",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T04:47:49+00:00",
-      "text": "RT @laurashin: \"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI capex boom, arguing the circular-spending fear is overblown. 📈 Timestamps: 🏦 02:10 Chris Galipeau on his role building Franklin Templeton's twelve-month house view 🏛️ 03:31 Why Kevin Warsh's second Fed presser rattled the bond market 📱 12:22 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🛢️ 13:40 Why the S&P averages 11% gains a year after major conflicts since 1929 🤖 23:44 Meta falls on CapEx guidance, Microsoft doesn't: reading the AI earnings split 🎲 34:13 Prediction markets, the 'Wisdom of Crowds,' and why belief moves prices 📊 42:49 The highest-conviction call: fading Mag Seven dominance",
-      "summary": "RT @laurashin: \"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich…",
-      "url": "https://x.com/laurashin/status/2083776760840138819",
-      "type": "retweet",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 3,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2083776642778869896",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T04:47:20+00:00",
-      "text": "RT @laurashin: I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
-      "summary": "RT @laurashin: I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
-      "url": "https://x.com/laurashin/status/2083776642778869896",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2083776490047521223",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T04:46:44+00:00",
-      "text": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions physically cannot come onchain without it. 🔐 I asked him, @jaosef, and @jarradhope_ why now, and got three very different answers. Timestamps: 🔐 01:52 Why Joe, Jarrad, and Mert think privacy's crypto moment is now 💙 18:18 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt ⚖️ 19:14 Why Jarrad says the weak need privacy and the powerful need transparency 🔬 24:49 How zero knowledge proofs actually update encrypted state onchain 🕸️ 33:07 Why 43.7% of block relays now censor, and how Logos fixes it 🐛 36:32 The undetected Zcash bug that could have minted infinite fake coins 🔒 46:32 Mert explains how Zcash's Ironwood upgrade closes the counterfeit hole 🛤️ 51:44 Why Joe worries Ethereum's privacy roadmap might arrive too late 🏦 57:39 Why Mert calls Canton no more private than trusting JPMorgan",
-      "summary": "RT @laurashin: Crypto privacy sounds like a decentralization story. It's not, argues @mert: it's a scaling technology, because institutions…",
-      "url": "https://x.com/laurashin/status/2083776490047521223",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 10,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2083737947157745764",
-      "is_retweet": true,
-      "original_author": "DocumentingBTC",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T02:13:35+00:00",
-      "text": "RT @DocumentingBTC: On this day in history, 16 years ago, Wikipedia deleted the page about Bitcoin because they said there was a “Lack of significant third-party coverage to confer notability.” https://t.co/vq8pmzLeMR",
-      "summary": "RT @DocumentingBTC: On this day in history, 16 years ago, Wikipedia deleted the page about Bitcoin because they said there was a “Lack of significant…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083737947157745764",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 22,
-        "replies": 0,
-        "quotes": 0,
-        "views": "204"
-      }
-    },
-    {
-      "id": "2083736817359102460",
-      "is_retweet": true,
-      "original_author": "RapidResponse47",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-02T02:09:05+00:00",
-      "text": "RT @RapidResponse47: .@SecRubio on the viral meme: \"What happened is, on that couch, if you don't have a pillow behind your back, you kind of sink... I don't really follow it very closely, but people have shown me pictures... It's funny.\" 🤣 https://t.co/vFNgMKBwPj",
-      "summary": "RT @RapidResponse47: .@SecRubio on the viral meme: \"What happened is, on that couch, if you don't have a pillow behind your back, you kind of sink...…",
-      "url": "https://x.com/WhiteHouse/status/2083736817359102460",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 602,
-        "replies": 0,
-        "quotes": 0,
-        "views": "32953"
-      }
-    },
-    {
-      "id": "2083729582612459652",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T01:40:20+00:00",
-      "text": "There isn’t a person running for elected office who can identify with poor migrants more than me. But we have tens of millions of poor American citizens who’ve yet to achieve the American 🇺🇸 Dream. The absolute truth is that if elected officials in MA like @sethmoulton and @EdMarkey cared for American citizens half as much as they do for illegals, MA would be much better off. And me saying that doesn’t make me xenophobic or racist. It’s simple: If you’re on a boat that’s sinking you don’t take on more passengers. You get the passengers you have to safety - repair the boat - then go back out to sea to secure additional passengers who can help the country move forward. Seth & Ed use immigration and election year slogans such as “Abolish Ice” to drive outrage and raise money. They vote against comprehensive immigration reform every time. “Defund the Police” was 2020’s election-year slogan. Did we defund the police? Of course not. They don’t have an immigration policy - just slogans.",
-      "summary": "There isn’t a person running for elected office who can identify with poor migrants more than me. But we have tens of millions of poor American…",
-      "url": "https://x.com/JohnEDeaton1/status/2083729582612459652",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 86,
-        "retweets": 16,
-        "replies": 7,
-        "quotes": 0,
-        "views": "12691"
-      }
-    },
-    {
-      "id": "2083725746170941546",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T01:25:06+00:00",
-      "text": "\"I've made every mistake you could ever wanna make in 30 years of managing money,\" Chris Galipeau tells @Steven_Ehrlich, and his fix is simple: always use a stop loss. 🛑 https://t.co/Eu5THYjBFV",
-      "summary": "\"I've made every mistake you could ever wanna make in 30 years of managing money,\" Chris Galipeau tells @Steven_Ehrlich, and his fix is simple:…",
-      "url": "https://x.com/laurashin/status/2083725746170941546",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 16,
-        "retweets": 4,
-        "replies": 10,
-        "quotes": 0,
-        "views": "7787"
-      }
-    },
-    {
-      "id": "2083714188162334955",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-02T00:39:10+00:00",
-      "text": "I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
-      "summary": "I am on a flight with a female pilot. We just landed, and I swear — this is the #1 smoothest landing I’ve ever experienced",
-      "url": "https://x.com/laurashin/status/2083714188162334955",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 46,
-        "retweets": 1,
-        "replies": 15,
-        "quotes": 0,
-        "views": "7888"
-      }
-    },
-    {
-      "id": "2083709810109722880",
-      "is_retweet": true,
-      "original_author": "CryptoCyberia",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T00:21:46+00:00",
-      "text": "RT @CryptoCyberia: iPhones are, very obviously, gimped and poorly designed devices when compared to Android. The iToddlers won't believe you, but they literally have never tried anything else. The UI is borderline unusable. No universal back button, with back button sometimes in top left, is a joke",
-      "summary": "RT @CryptoCyberia: iPhones are, very obviously, gimped and poorly designed devices when compared to Android. The iToddlers won't believe you, but…",
-      "url": "https://x.com/lex_node/status/2083709810109722880",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 6,
-        "replies": 0,
-        "quotes": 0,
-        "views": "668"
-      }
-    },
-    {
-      "id": "2083706838655062083",
-      "is_retweet": true,
-      "original_author": "hodlonaut",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-02T00:09:58+00:00",
-      "text": "RT @hodlonaut: I have issues with this apology post. It starts off with: \"securing the Bitcoin held by millions of individuals, businesses, and families, this is our core responsibility, and we fell short.\" and \"We take full accountability for the firmware bug and we offer our sincere apologies to those affected.\" This is natural and fine, accepting basic accountability and responsibility for what happened. But then, towards the end: \"we believe this is a sober reality of the new AI paradigm. AI-assisted code review can now find latent bugs at a speed that is outpacing even the industry’s most seasoned experts.\" This is what irks me, and I find quite unbelieavable. The taking responsibility part is now fully diluted, the incident is framed as a \"sober reality of the new AI paradigm\". Coinkite is now seemingly just a victim of this new reality, not someone who fucked up in an insane way and takes full responsibility for that. Coinkite had one job, build a product that provides sufficient entropy. They failed in such a spectacular way, and for such a long periode of time, that their users are now suffering the ultimate loss in Bitcoin. The \"new AI paradigm\" they describe as the culprit, cannot cannot overcome 128 bits of properly generated entropy. It's therefore extremely disappointing (but sadly expected) to see this kind of diversions in an apology post while the catastrophic losses of their users are still mounting.",
-      "summary": "RT @hodlonaut: I have issues with this apology post. It starts off with: \"securing the Bitcoin held by millions of individuals, businesses, and…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083706838655062083",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 133,
-        "replies": 0,
-        "quotes": 0,
-        "views": "279"
-      }
-    },
-    {
-      "id": "2083704146964734196",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "zackbshapiro",
-      "display_name": "Zack Shapiro",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T23:59:16+00:00",
-      "text": "Emergency PSA from your friends at @bitcoinpolicy Besides the personal toll on those affected (including myself), this week’s exploit raises difficult policy questions about open-source AI policy and the future of self-custody. @Rob1Ham joins us as the first-ever outside guest. Please give it a listen:",
-      "summary": "Emergency PSA from your friends at @bitcoinpolicy Besides the personal toll on those affected (including myself), this week’s exploit raises…",
-      "url": "https://x.com/zackbshapiro/status/2083704146964734196",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 8,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "3336"
-      }
-    },
-    {
-      "id": "2083693006281228326",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-01T23:15:00+00:00",
-      "text": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI CapEx is \"a bunch of BS.\" According to Franklin Templeton, the spend is real, just early. 🤖 https://t.co/v4ExjyN1ET",
-      "summary": "\"We do not believe that,\" Chris Galipeau tells @Steven_Ehrlich of the idea that AI CapEx is \"a bunch of BS.\" According to Franklin Templeton, the…",
-      "url": "https://x.com/laurashin/status/2083693006281228326",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 7,
-        "retweets": 1,
-        "replies": 2,
-        "quotes": 0,
-        "views": "10244"
-      }
-    },
-    {
-      "id": "2083691622244696507",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-01T23:09:30+00:00",
-      "text": "This is so brazen: \"I'm about to move the market. If you pay me, I’ll make you one of the first people to know about my insider knowledge/market-making decisions so even though I will profit from you, you can profit off everyone who comes after you\" 🙄",
-      "summary": "This is so brazen: \"I'm about to move the market. If you pay me, I’ll make you one of the first people to know about my insider…",
-      "url": "https://x.com/laurashin/status/2083691622244696507",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 136,
-        "retweets": 6,
-        "replies": 18,
-        "quotes": 0,
-        "views": "17423"
-      }
-    },
-    {
-      "id": "2083683199679447493",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T22:36:02+00:00",
-      "text": "Everyone’s focus should be on finding out who is responsible and if victims are made whole. I truly hope and assume cold card is working around the clock with all potential law enforcement to figure this out The in-fighting and blaming (and eventual lawsuits) can come after",
-      "summary": "Everyone’s focus should be on finding out who is responsible and if victims are made whole. I truly hope and assume cold card is working around the…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083683199679447493",
-      "type": "original",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 57,
-        "retweets": 1,
-        "replies": 14,
-        "quotes": 0,
-        "views": "3967"
-      }
-    },
-    {
-      "id": "2083682494835023925",
-      "is_retweet": true,
-      "original_author": "polynoamial",
-      "username": "prestonjbyrne",
-      "display_name": "Preston Byrne",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T22:33:14+00:00",
-      "text": "RT @polynoamial: An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science. We believe it will be a major step for scientific reasoning. https://t.co/iP6cyheZ7i https://t.co/jHuulDwV46",
-      "summary": "RT @polynoamial: An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity,…",
-      "url": "https://x.com/prestonjbyrne/status/2083682494835023925",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2219,
-        "replies": 0,
-        "quotes": 0,
-        "views": "315"
-      }
-    },
-    {
-      "id": "2083678501014589906",
-      "is_retweet": true,
-      "original_author": "DeatonforSenate",
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T22:17:22+00:00",
-      "text": "RT @DeatonforSenate: Every stop reminds me of the same thing: Massachusetts is ready for change. In Swansea, I heard it again and again: \"John, you have to win.\" This campaign is about real solutions, not pandering, chasing the hot-button issue of the month, or only showing up in Massachusetts every six years when it's election season. We’re building this campaign one conversation at a time.",
-      "summary": "RT @DeatonforSenate: Every stop reminds me of the same thing: Massachusetts is ready for change. In Swansea, I heard it again and again: \"John, you…",
-      "url": "https://x.com/JohnEDeaton1/status/2083678501014589906",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 15,
-        "replies": 0,
-        "quotes": 0,
-        "views": "3779"
-      }
-    },
-    {
-      "id": "2083675837824410047",
-      "is_retweet": true,
-      "original_author": "FatManTerra",
-      "username": "prestonjbyrne",
-      "display_name": "Preston Byrne",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T22:06:47+00:00",
-      "text": "RT @FatManTerra: Yeah, whoever did this definitely vibe coded it lmao. Using a paid API and risking doxing yourself; anyone who knew anything about Bitcoin would've queried it offline (with a fully indexed node). He probably just had the AI tell him how to do it without thinking through OPSEC etc",
-      "summary": "RT @FatManTerra: Yeah, whoever did this definitely vibe coded it lmao. Using a paid API and risking doxing yourself; anyone who knew anything about…",
-      "url": "https://x.com/prestonjbyrne/status/2083675837824410047",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 21,
-        "replies": 0,
-        "quotes": 0,
-        "views": "336"
-      }
-    },
-    {
-      "id": "2083660289904377924",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-01T21:05:00+00:00",
-      "text": "\"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI capex boom, arguing the circular-spending fear is overblown. 📈 Timestamps: 🏦 02:10 Chris Galipeau on his role building Franklin Templeton's twelve-month house view 🏛️ 03:31 Why Kevin Warsh's second Fed presser rattled the bond market 📱 12:22 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziXsHV 🛢️ 13:40 Why the S&P averages 11% gains a year after major conflicts since 1929 🤖 23:44 Meta falls on CapEx guidance, Microsoft doesn't: reading the AI earnings split 🎲 34:13 Prediction markets, the 'Wisdom of Crowds,' and why belief moves prices 📊 42:49 The highest-conviction call: fading Mag Seven dominance",
-      "summary": "\"We're probably in the second inning of a nine inning game,\" Chris Galipeau of the Franklin Templeton Institute tells @Steven_Ehrlich about the AI…",
-      "url": "https://x.com/laurashin/status/2083660289904377924",
-      "type": "original",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 10,
-        "retweets": 3,
-        "replies": 6,
-        "quotes": 2,
-        "views": "10251"
-      }
-    },
-    {
-      "id": "2083649551140028684",
-      "is_retweet": true,
-      "original_author": "CynthiaMLummis",
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-08-01T20:22:19+00:00",
-      "text": "RT @CynthiaMLummis: To quote Sophie Cunningham, “I said what I said.”",
-      "summary": "RT @CynthiaMLummis: To quote Sophie Cunningham, “I said what I said.”",
-      "url": "https://x.com/milesjennings/status/2083649551140028684",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 237,
-        "replies": 0,
-        "quotes": 0,
-        "views": "208"
-      }
-    },
-    {
-      "id": "2083642258528645222",
-      "is_retweet": true,
-      "original_author": "mert",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T19:53:21+00:00",
-      "text": "RT @mert: self-custody is the entire point of crypto",
-      "summary": "RT @mert: self-custody is the entire point of crypto",
-      "url": "https://x.com/lex_node/status/2083642258528645222",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 88,
-        "replies": 0,
-        "quotes": 0,
-        "views": "525"
-      }
-    },
-    {
-      "id": "2083640871908442398",
-      "is_retweet": true,
-      "original_author": "SecRollins",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-01T19:47:50+00:00",
-      "text": "RT @SecRollins: Thank you, @POTUS, for assembling this team. There is no Cabinet in American history quite like this one. The love, respect and joy is real. Another great, historic Cabinet meeting yesterday — this time at Camp David. God Bless this amazing country. 🇺🇸🇺🇸🇺🇸",
-      "summary": "RT @SecRollins: Thank you, @POTUS, for assembling this team. There is no Cabinet in American history quite like this one. The love, respect and joy…",
-      "url": "https://x.com/WhiteHouse/status/2083640871908442398",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 407,
-        "replies": 0,
-        "quotes": 0,
-        "views": "47896"
-      }
-    },
-    {
-      "id": "2083640627330257099",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-01T19:46:52+00:00",
-      "text": "RT @SecretaryBurgum: The evidence is clear, vandals have repeatedly caused damage to the Reflecting Pool. Some of these acts were even caught on camera. We also provided the U.S. Attorney's office expert and eyewitness testimony to the damage done by vandals and provided every piece of evidence they asked for in the requested time line detailing each area of damage at the pool. The Reflecting Pool is part of the Lincoln Memorial and dates back to 1922. @POTUS cares deeply about protecting our sacred national monuments and his leadership has led the restoration of our Nation's Capital by Making D.C. Safe and Beautiful Again. Intentional damage done to the Reflecting Pool is no different than defacing any one of our other national monuments. We won't back down to deranged people who want to destroy, deface, or degrade our monuments.",
-      "summary": "RT @SecretaryBurgum: The evidence is clear, vandals have repeatedly caused damage to the Reflecting Pool. Some of these acts were even caught on…",
-      "url": "https://x.com/WhiteHouse/status/2083640627330257099",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1721,
-        "replies": 0,
-        "quotes": 0,
-        "views": "46931"
-      }
-    },
-    {
-      "id": "2083635237267841377",
-      "is_retweet": true,
-      "original_author": "starvs",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T19:25:27+00:00",
-      "text": "RT @starvs: @lex_node iOS people have mass psychosis, it's an absolute abomination. But...your text bubbles are green, or blue, or whatever the cool color is, I don't even know.",
-      "summary": "RT @starvs: @lex_node iOS people have mass psychosis, it's an absolute abomination. But...your text bubbles are green, or blue, or whatever the cool…",
-      "url": "https://x.com/lex_node/status/2083635237267841377",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "739"
-      }
-    },
-    {
-      "id": "2083632859634430001",
-      "is_retweet": true,
-      "original_author": "intangiblecoins",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T19:16:00+00:00",
-      "text": "RT @intangiblecoins: the attack on coldcard-generated addresses is ONGOING if you or anyone you know has BTC in single-sig self-custody addresses generated by Coldcard hardware wallet devices, move the coins NOW to an exchange account or a fresh self-custody address not generated on a coldcard!",
-      "summary": "RT @intangiblecoins: the attack on coldcard-generated addresses is ONGOING if you or anyone you know has BTC in single-sig self-custody addresses…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083632859634430001",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 42,
-        "replies": 0,
-        "quotes": 0,
-        "views": "301"
-      }
-    },
-    {
-      "id": "2083629220467708322",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-08-01T19:01:32+00:00",
-      "text": "Politics or policy? @pmarca and @cdixon cut through the noise on all things CLARITY, from ethics, to sanctions, to yield. Truth be told, CLARITY is the most bipartisan and sophisticated approach that’s ever been proposed for regulating crypto. Time to lock it in.",
-      "summary": "Politics or policy? @pmarca and @cdixon cut through the noise on all things CLARITY, from ethics, to sanctions, to yield. Truth be told, CLARITY is…",
-      "url": "https://x.com/milesjennings/status/2083629220467708322",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 74,
-        "retweets": 13,
-        "replies": 11,
-        "quotes": 0,
-        "views": "25611"
-      }
-    },
-    {
-      "id": "2083626527028027674",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T18:50:50+00:00",
-      "text": "Washington logic: I refuse to support a bill that will prevent another FTX because I’m so upset FTX happened. 🤦‍♂️",
-      "summary": "Washington logic: I refuse to support a bill that will prevent another FTX because I’m so upset FTX happened. 🤦‍♂️",
-      "url": "https://x.com/JohnEDeaton1/status/2083626527028027674",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 449,
-        "retweets": 86,
-        "replies": 22,
-        "quotes": 1,
-        "views": "35146"
-      }
-    },
-    {
-      "id": "2083624655466659893",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T18:43:24+00:00",
-      "text": "Owning a home has never been more unaffordable and it’s not improving. MA ranks dead last in housing affordability. We desperately need new leadership. PEOPLE ARE NOT LOOKING FOR IDEOLOGY - THEY’RE LOOKING FOR SOLUTIONS TO THEIR PROBLEMS. Unlike @sethmoulton, I’m not running on a platform that @EdMarkey’s too old. I’m running on solutions to the problems people face in today’s world.",
-      "summary": "Owning a home has never been more unaffordable and it’s not improving. MA ranks dead last in housing affordability. We desperately need new…",
-      "url": "https://x.com/JohnEDeaton1/status/2083624655466659893",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 75,
-        "retweets": 9,
-        "replies": 4,
-        "quotes": 0,
-        "views": "13862"
-      }
-    },
-    {
-      "id": "2083623220197163325",
-      "is_retweet": true,
-      "original_author": "a16zcrypto",
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-08-01T18:37:42+00:00",
-      "text": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the decisions that could shape where the next generation of financial infrastructure is built, and whether the United States remains the global leader in crypto innovation: 00:00 Intro 05:31 From crypto subculture to financial infrastructure 08:37 Why crypto needs rules now 12:20 The regulatory war on crypto 15:41 How CLARITY could prevent another FTX 22:42 Why criminals using crypto may be easier to catch 26:20 Privacy, blockchains, and the invention of HTTPS 30:41 Government ethics and crypto 34:52 The banking lobby’s stablecoin fight 37:05 Why every major bank is building on blockchains 41:04 Developer liability as a killshot 45:23 How CLARITY provides oversight 49:30 What happens if CLARITY fails? 50:50 Regulation vs. innovation 54:12 Why America should lead 55:36 What CLARITY could unlock @pmarca @cdixon @rhackett",
-      "summary": "RT @a16zcrypto: Crypto is at a pivotal moment. As Congress debates landmark market structure legislation, Marc Andreessen and Chris Dixon discuss the…",
-      "url": "https://x.com/milesjennings/status/2083623220197163325",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 75,
-        "replies": 0,
-        "quotes": 0,
-        "views": "157"
-      }
-    },
-    {
-      "id": "2083620211769430265",
-      "is_retweet": true,
-      "original_author": "banteg",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T18:25:44+00:00",
-      "text": "RT @banteg: i don’t understand how normal people ever convert to paid llm subs. they just rotate between several free offers and get served instant mini braindead quantized toolless models that fall several generations behind from frontier. if you tell them about the actual capabilities, you’d be perceived as some shaman possessing unthinkable secret knowledge.",
-      "summary": "RT @banteg: i don’t understand how normal people ever convert to paid llm subs. they just rotate between several free offers and get served instant…",
-      "url": "https://x.com/lex_node/status/2083620211769430265",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 29,
-        "replies": 0,
-        "quotes": 0,
-        "views": "697"
-      }
-    },
-    {
-      "id": "2083610131112288530",
-      "is_retweet": true,
-      "original_author": "gabriel_weil",
-      "username": "gabriel_weil",
-      "display_name": "Gabriel Weil",
-      "group": "Academics & Researchers",
-      "created_at": "2026-08-01T17:45:41+00:00",
-      "text": "RT @gabriel_weil: @Hadas_Gold @ClementDelangue Hi @ClementDelangue. I'm a law professor who specializes in AI liability. I'm happy to offer a pro bono consultation on the legal theories available to hold @OpenAI liable for this hack of @huggingface. DMs are open. https://t.co/V04ZiSbK75",
-      "summary": "RT @gabriel_weil: @Hadas_Gold @ClementDelangue Hi @ClementDelangue. I'm a law professor who specializes in AI liability. I'm happy to offer a pro…",
-      "url": "https://x.com/gabriel_weil/status/2083610131112288530",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2083610062346444981",
-      "is_retweet": true,
-      "original_author": "mikebelshe",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T17:45:25+00:00",
-      "text": "RT @mikebelshe: Moving to a custodian only helps if there's no single point of failure. That means multiple keys generated from independent sources via multisig or MPC. Many custodians (including some regulated ones) still run single-signature Bitcoin wallets. Crazy, but true. I hope they got their randomness right. BitGo was built on eliminating single points of failure from day one, and always will be.",
-      "summary": "RT @mikebelshe: Moving to a custodian only helps if there's no single point of failure. That means multiple keys generated from independent sources…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083610062346444981",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 6,
-        "replies": 0,
-        "quotes": 0,
-        "views": "304"
-      }
-    },
-    {
-      "id": "2083608653291311287",
-      "is_retweet": true,
-      "original_author": "Hadas_Gold",
-      "username": "gabriel_weil",
-      "display_name": "Gabriel Weil",
-      "group": "Academics & Researchers",
-      "created_at": "2026-08-01T17:39:49+00:00",
-      "text": "RT @Hadas_Gold: Hugging Face's @ClementDelangue asked on CNN whether they will take legal action against OpenAI if they don't get the $100M commitment: \"We don't want to ... obviously we're a tiny startup with like 200 people and we don't necessarily have the legal resources or the will to spend all of our time on legal avenues.\" \"I think we have to make sure that the legal frameworks, keep these events really illegal, keep the companies that are doing some mistakes leading to that accountable. Otherwise we're going to end up in a, in a very different world.\"",
-      "summary": "RT @Hadas_Gold: Hugging Face's @ClementDelangue asked on CNN whether they will take legal action against OpenAI if they don't get the $100M…",
-      "url": "https://x.com/gabriel_weil/status/2083608653291311287",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 28,
-        "replies": 0,
-        "quotes": 0,
-        "views": "3"
-      }
-    },
-    {
-      "id": "2083604923258695831",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-01T17:24:59+00:00",
-      "text": "RT @SecretaryBurgum: 3 weeks away. Freedom Revs. @Interior @USDOT https://t.co/HeMFclnxCv",
-      "summary": "RT @SecretaryBurgum: 3 weeks away. Freedom Revs. @Interior @USDOT https://t.co/HeMFclnxCv",
-      "url": "https://x.com/WhiteHouse/status/2083604923258695831",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 157,
-        "replies": 0,
-        "quotes": 0,
-        "views": "52266"
-      }
-    },
-    {
-      "id": "2083592007117611195",
-      "is_retweet": true,
-      "original_author": "River",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-01T16:33:40+00:00",
-      "text": "RT @River: Our clients earned 9.7 BTC on their cash in July. That's 122 BTC since the product launched. Most financial institutions would've kept it. At River, that's more bitcoin in your pocket.",
-      "summary": "RT @River: Our clients earned 9.7 BTC on their cash in July. That's 122 BTC since the product launched. Most financial institutions would've kept it.…",
-      "url": "https://x.com/HaileyLennonBTC/status/2083592007117611195",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 25,
-        "replies": 0,
-        "quotes": 0,
-        "views": "271"
       }
     }
   ]
