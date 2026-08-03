@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-03T12:06:25.774004+00:00",
-  "generated_at_unix": 1785758785,
+  "generated_at": "2026-08-03T15:00:05.958915+00:00",
+  "generated_at_unix": 1785769205,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-02T16:00:00+00:00",
-  "window_end": "2026-08-03T12:06:25.774004+00:00",
-  "new_this_run": 3,
-  "total_recent": 14,
+  "window_end": "2026-08-03T15:00:05.958915+00:00",
+  "new_this_run": 17,
+  "total_recent": 31,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084268468036087967",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T13:21:41+00:00",
+      "text": "It’s hard to trust anything in crypto. I was lucky to get into the Zcash community. That’s crew you can trust. Zcash devs are absolute honey badgers. https://t.co/K36t3xwz1E",
+      "summary": "It’s hard to trust anything in crypto. I was lucky to get into the Zcash community. That’s crew you can trust. Zcash devs are absolute honey badgers.…",
+      "url": "https://x.com/theblockprof/status/2084268468036087967",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "334"
+      }
+    },
+    {
+      "id": "2084253395565543711",
+      "is_retweet": true,
+      "original_author": "JoeNakamoto",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T12:21:47+00:00",
+      "text": "RT @JoeNakamoto: in 2019, i locked myself out of a hardware wallet by using a silly long passphrase I lost 0.3 BTC and seriously considered giving up on bitcoin i was in my mid 20s, I'd just got out of debt and put my savings into bitcoin please know that things can and will get better",
+      "summary": "RT @JoeNakamoto: in 2019, i locked myself out of a hardware wallet by using a silly long passphrase I lost 0.3 BTC and seriously considered giving up…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084253395565543711",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "219"
+      }
+    },
+    {
+      "id": "2084228082714505237",
+      "is_retweet": true,
+      "original_author": "efenigson",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T10:41:12+00:00",
+      "text": "RT @efenigson: 👀 Put things in perspective, as Luke points out: 1300 coins swept away with Coldcard, vs. this: 📉FTX stole 100,000 Bitcoin in 2022 📉Voyager - 65,000 Bitcoin in 📉Blockfi - 75,000 Bitcoin in 2022 📉Celsius - 235,000 Bitcoin 📉Quadriga - 60,000 Bitcoin 📉Mt Gox - 700,000 Bitcoin in 2013 📉Genesis - 150,000 Bitcoin 📉3AC - 175,000 Bitcoin",
+      "summary": "RT @efenigson: 👀 Put things in perspective, as Luke points out: 1300 coins swept away with Coldcard, vs. this: 📉FTX stole 100,000 Bitcoin in 2022…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084228082714505237",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "277"
+      }
+    },
+    {
+      "id": "2084097940751044841",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T02:04:04+00:00",
+      "text": "Seth Moulton @sethmoulton is learning first hand: you can’t out-left @EdMarkey.",
+      "summary": "Seth Moulton @sethmoulton is learning first hand: you can’t out-left @EdMarkey.",
+      "url": "https://x.com/JohnEDeaton1/status/2084097940751044841",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 25,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "13679"
+      }
+    },
     {
       "id": "2084090645266768127",
       "is_retweet": true,
@@ -121,6 +221,31 @@
       }
     },
     {
+      "id": "2084087524100632993",
+      "is_retweet": true,
+      "original_author": "Gordiepiethecat",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T01:22:40+00:00",
+      "text": "RT @Gordiepiethecat: If the SCREEN act or KOSA or other online verification bills pass, the USA will be exactly like this. please call your senators to oppose these bills",
+      "summary": "RT @Gordiepiethecat: If the SCREEN act or KOSA or other online verification bills pass, the USA will be exactly like this. please call your senators…",
+      "url": "https://x.com/prestonjbyrne/status/2084087524100632993",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1447,
+        "replies": 0,
+        "quotes": 0,
+        "views": "334"
+      }
+    },
+    {
       "id": "2084076499330617611",
       "is_retweet": false,
       "original_author": null,
@@ -193,6 +318,31 @@
         "replies": 90,
         "quotes": 7,
         "views": "25862"
+      }
+    },
+    {
+      "id": "2084043901543878733",
+      "is_retweet": true,
+      "original_author": "ChrisMasterjohn",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T22:29:20+00:00",
+      "text": "RT @ChrisMasterjohn: The Cold Card security break was because the coder, working in python, disabled the built-in random number generator thinking it wasn’t needed because they were redirecting to a different random number generator, not realizing that the device itself, written in C, which the coder apparently didn’t understand, called in the disabled built-in random number generator. And evidently they innovated in their code purely to change it from the open-source when a competitor came out using their open-source. The level of total carelessness and total lack of due diligence driven by utter pettiness here is baffling. I have bought two Cold Cards but thankfully never used them. Will never touch the company again.",
+      "summary": "RT @ChrisMasterjohn: The Cold Card security break was because the coder, working in python, disabled the built-in random number generator thinking it…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084043901543878733",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 320,
+        "replies": 0,
+        "quotes": 0,
+        "views": "286"
       }
     },
     {
@@ -296,6 +446,56 @@
       }
     },
     {
+      "id": "2084011086269894954",
+      "is_retweet": true,
+      "original_author": "Rob1Ham",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T20:18:56+00:00",
+      "text": "RT @Rob1Ham: The most common question I am getting right now in the fall out of the news of COLD CARD MK3, MK4, MK5 and Q having compromised entropy, is: \"Rob, what would you do right now if you were in my shoes? Where would you send your bitcoin to be safe?\" I will share with you my list of what I would do, but first, there is AN URGENT SECURITY ADVISORY IN THE BITCOIN ECOSYSTEM. Below is my personal assessment of the situation. If you or someone you know: Uses an MK3, MK4, MK5, or Q in a single signature OR A multi signature wallet where the cold card devices can move the funds on their own (Example, 2 cold cards and a Ledger). Please continue reading. You may be in danger. If this does not apply to you, keep on reading if you like, but you are not impacted by this issue. If you are still here, there are three identified mitigations that protect you at the moment. They are all different forms in which you may have brought your own entropy. A: DICE - This is done by either rolling dice from the start, or adding dice rolls to the generated seed phrase. At least 50 dice rolls would be my threshold at 128 bits of entropy. OR B: PASSPHRASE - You used a passphrase of sufficient entropy (128 bits). 128 Bits of entropy pass phrase examples include RANDOM combinations of the following: - 12 BIP 39 seed words. - 10 common words in the english language - 25 mixed lower case letters and numbers - 20 if you use ASCII characters Note on pass phrases: This does not include the same word 12 times, 10 words in a sentence, etc. This combinations of characters/numbers OR words should never have been seen or spoken before in the total sum of all human knowledge and experiences. It needs to be RANDOM for it to be entropy. OR C: EXTERNAL ENTROPY - Your seed phrase was derived entirely outside of the cold card ecosystem. (It was imported into the cold card, not generated on it) Now, if you are still reading, and you do not have any of these mitigations in place, you need to move your funds. The urgency of circumstances are as follows: TIER 1: AS SOON AS POSSIBLE Scenario A: If you are in a signature wallet with an effected device, and did not use any of the mitigations listed above. You need to move funds right now. Find someone to help you, any moment your funds can be stolen. Scenario B: If you have an N of N (eg 2 of 2, 3 of 3, etc) multisig of just cold card devices that did not have mitigations listed above (dice and/or passphrase). Attackers will be grinding all of the combinations of compromised keys. They know all your seed phrases. You are compromised. It is just a matter of time for them to assemble the puzzle pieces together and steal your funds. If this scenario is you, I will have more below on how to mitigate risk when broadcasting your transaction. TIER 2: URGENTLY If you are in a single signature wallet with an effected device, and you used either less than 50 dice rolls OR a pass phrase less secure than what I shared above. The entire security of your bitcoin is reliant on how much of Dice AND Passphrases you applied to your wallet. Attackers know your seed phrase. Your entropy from dice or pass phrase is the only thing protecting you. Did you add a pass phrase of 'bitcoin'? You are basically in tier 1. Did you use 6 words? You are not at tier 1, but you aren't safe. You need to make plans to move funds quickly. TIER 3 SOON, BUT IMPORTANT CONTEXT: You have a multi signature wallet where the compromised devices have sufficient ability to move the funds. An example is a 2 of 3 multisig where you have 2 cold cards and another signer. The issue with Tier 3 is that an attacker may have already figured out your insecure seed phrases. This means when you broadcast your bitcoin transaction, an attacker in theory can then steal your funds. NOTE: IF YOU ARE IN THIS SITUATION, AND YOU HAVE REUSED ADDRESSES, ALL REUSED ADDRESSES PUT YOU RIGHT BACK AT THE TIER 1 MOVE RIGHT AWAY YOUR FUNDS ARE AT RISK AT THIS VERY MOMENT You should look into finding a way to use the @MARAFoundation_ slipstream service, which uses a private mempool. This means that by the time an attacker could see your attempted recovery, it is already in a block and not possible for them to steal funds. TIER 4: KEY ROTATION. This is where you have an insecure cold card(s) in your multisig quorum, and you know that the other keys in your quorum are not impacted by this bug. If there is a MK3,MK4,MK5 or Q in the quorum, BUT they either: 1. Rolled sufficient dice (50 min) 2. Have a strong pass phrase (as defined above). 3. Used entropy not sourced from the device, they are not impacted by this bug in the Cold Card (see notes earlier on mitigations). You are in a position where a minority of your keys are compromised. Funds are safe, but you are at reduced security. Make plans when you are able to remove the compromised device from your wallet. Now. With that security advisory out of the way, back to the question, what would I do in this situation? Below is just my opinion, but you should not rely on only my opinion, you will have to make your own choices based on what you feel is best for you. I want to be clear, if you are not on this list. It is not that I think your product/business is bad, insecure or at risk, I am directly answering the question of what I would do. This is my personal judgement given my decade of experience in bitcoin. First, a disclaimer: My bitcoin is at my company @AnchorWatch. I have full skin in the game in that if I'm offering a custody solution, there will never be another place I store large amounts of bitcoin long term for myself or my family, and it will be this way as long as I am here. I was the first bitcoin that went on our Trident Vault platform. If the day ever comes, I will be the last bitcoin to leave the platform. The years of what we built at AnchorWatch were for exactly moments like this. Avoiding catastrophic risk of ruin scenarios. We offer 2 products: 1. Our Flagship Product where you as the customer can hold 1 or 3 keys, and we act as a cosigner. We leverage bitcoin native smart contracts which allow for your bitcoin to have different ways it can be spent across time. 2. Multi Institution Custody, where we let you distribute your keys across 3 institutions of ourselves, @bitgo and @CoinCorner. 2 of the 3 institutions must sign off on the transaction, and you have to present a Yubikey signature before withdrawing to mitigate deepfake and compromised accounts. For both products as, since we are a cosigner, we are able to enforce rules like whitelisted addresses, and velocity controls (how much bitcoin can you send how often). You can even disable the send button on the platform if you so choose! We also offer 1:1 insurance backed by Lloyd's of London. If you want to learn more about what we do, hit up @_joerodgers or @BeccaAmilee to learn more, or check out our website. Now with that out of the way, places where I'd leave my bitcoin (besides @AnchorWatch) in no particular order: Custodian: I'd trust my life savings at @River under a duress situation. This is one of those times. @Leishman and the entire team at River are elite operators. It is my favorite bitcoin services business in the market today outside of my own. They own their own custody infrastructure, and at times like this, you want those who have extreme ownership and control over how their customer's money is being managed. @River does monthly proof of reserves, and you can turn on the force field feature which will freeze withdrawals of bitcoin. They have a world class custody team as well, and are making improvements regularly with a larger upgrade that has been planned for a long time, happening later this year. Collaborative Custody: 1. The @Bitkey is an incredible product with an elite team of engineers supported by the @BlockEng organization. They have exceptional bitcoin developers across @spiral_xyz and @CashApp teams who deeply understand Bitcoin. @jack has been a long time believer in bitcoin who has built an organization that has no peer in the resources they have not just understanding bitcoin, but building on bitcoin. You can pick it up a Bitkey at best buy today! I do want to add a disclaimer that all keys are managed within the Bitkey ecosystem. The Bitkey team has gone to great lengths to keep things secure, but in light of recent events, I want to call that out. At the moment, the Bitkey is my only exception to a purist ideal of multi vendor multisig (more below). 2. @CasaHODL - @Nneuman and @lopp have been on top of this incidence response, and have built a very clean user experience to let people be safe. You can either use a 2 of 3 or 3 of 5 multisig with a great mobile app. Casa is the best UX for soverign collaborative multisig that exists in the market today. 3. @uncahined - Unchained pioneered the collaborative custody model and the multi institution custody model. They have been working around the clock trying to support customers and have even been able to use slip stream going the extra mile on short notice to keep customers bitcoin safe. Self Custody: I have spent close to $5k on LLM tokens over the past 24 hours scanning over a hundred bitcoin related repositories. As of now, I have seen no vulnerability that has me concerned about any hardware device outside of the Cold Cards. Even so, you can't be sure. So I would follow the @mflaxman \"Bitcoin 10x security guide\". Its how I held my bitcoin before I founded @AnchorWatch, and even though the guide is 6 years old, the principles are timeless. I would remove his suggestion of using the cold card and replace it with any other hardware wallet. I would replace the cold card with a @Ledger at this time if it were my decision. You can pick up a Ledger up at Best Buy in the US. Michael pioneered multi vendor multisig as a concept, and if you want a fully sovereign solution, as of today there is no better mental model on how to think through this, he has advanced tabs to further increase the security. For his cold card guide he fairly calls out the added benefit of rolling dice, which would have saved you today. I think the future is combining the tech we use at @AnchorWatch to move beyond the single signature/ multi signature paradigm of custody, with the principles of @mflaxman's 10x security guide and the support of collaborative custody. More on that later, but I would check out @lianabitcoin from @Wizardsardine as well, they offer a fully open source wallet that enables these more advanced smart contracts and are security researchers in the bitcoin ecosystem. With that, I'm going to get back to work. I will post a followup reply if I have additional information or any corrections or clarifications to make.",
+      "summary": "RT @Rob1Ham: The most common question I am getting right now in the fall out of the news of COLD CARD MK3, MK4, MK5 and Q having compromised entropy,…",
+      "url": "https://x.com/prestonjbyrne/status/2084011086269894954",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 269,
+        "replies": 0,
+        "quotes": 0,
+        "views": "350"
+      }
+    },
+    {
+      "id": "2083998665891299617",
+      "is_retweet": true,
+      "original_author": "DocumentingBTC",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T19:29:35+00:00",
+      "text": "RT @DocumentingBTC: The last 24 hours of Bitcoin posts on 𝕏 discussing the hack of ColdCard wallets has been the largest open source technical support initiative ever undertaken by an organic community of educators, organizers, developers, and ordinary well-meaning people in history.",
+      "summary": "RT @DocumentingBTC: The last 24 hours of Bitcoin posts on 𝕏 discussing the hack of ColdCard wallets has been the largest open source technical…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083998665891299617",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 50,
+        "replies": 0,
+        "quotes": 0,
+        "views": "223"
+      }
+    },
+    {
       "id": "2083993185206906989",
       "is_retweet": true,
       "original_author": "SecretaryTurner",
@@ -343,6 +543,231 @@
         "replies": 0,
         "quotes": 0,
         "views": "42657"
+      }
+    },
+    {
+      "id": "2083982640395272197",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnReedStark",
+      "display_name": "John Reed Stark",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T18:25:54+00:00",
+      "text": "I testified about the Clarity Act last week before the Senate, calling it the worst piece of financial regulation in modern American history and calling SEC Chairman Paul Atkins a raving Big Crypto sycophant and carnival barker. Here are the highlights: https://t.co/rlR08rFHDu",
+      "summary": "I testified about the Clarity Act last week before the Senate, calling it the worst piece of financial regulation in modern American history and…",
+      "url": "https://x.com/JohnReedStark/status/2083982640395272197",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 53,
+        "retweets": 15,
+        "replies": 11,
+        "quotes": 0,
+        "views": "130941"
+      }
+    },
+    {
+      "id": "2083973516450255092",
+      "is_retweet": true,
+      "original_author": "BitcoinNewsCom",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T17:49:39+00:00",
+      "text": "RT @BitcoinNewsCom: WARNING: Users are reporting that the new COLDCARD firmware upgrade is bricking some devices. Before upgrading the firmware, be sure to safely move all funds off the wallet.",
+      "summary": "RT @BitcoinNewsCom: WARNING: Users are reporting that the new COLDCARD firmware upgrade is bricking some devices. Before upgrading the firmware, be…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083973516450255092",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 97,
+        "replies": 0,
+        "quotes": 0,
+        "views": "250"
+      }
+    },
+    {
+      "id": "2083973368777240790",
+      "is_retweet": true,
+      "original_author": "glxyresearch",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T17:49:04+00:00",
+      "text": "RT @glxyresearch: We are still monitoring and expanding our investigation into the Coldcard weak-entropy hacks. The pattern that identified Wave 1 was identified by engineers at @blocks, but we identified the patterns of Waves 2 and 3 thanks specifically to victims coming forward. While we know it’s hard, sharing your story, addresses, and TXIDs helps everyone, not just you. Please keep sharing your victim addresses and TXIDs with @intangiblecoins. We do not need your personal identifying information to assist you. We continue to share our findings with US authorities, SEAL, crypto exchanges, and cyber investigators. We will publish a substantive update about the state of our investigation in a few hours.",
+      "summary": "RT @glxyresearch: We are still monitoring and expanding our investigation into the Coldcard weak-entropy hacks. The pattern that identified Wave 1…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083973368777240790",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 53,
+        "replies": 0,
+        "quotes": 0,
+        "views": "276"
+      }
+    },
+    {
+      "id": "2083959902305677596",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T16:55:33+00:00",
+      "text": "It’s Sunday. It’s a good time to remember the things more important than bitcoin - God, the life he gave you, family, friends, community, doing right by others, living with integrity 🧡",
+      "summary": "It’s Sunday. It’s a good time to remember the things more important than bitcoin - God, the life he gave you, family, friends, community, doing right…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083959902305677596",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 64,
+        "retweets": 3,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3103"
+      }
+    },
+    {
+      "id": "2083956841801781520",
+      "is_retweet": true,
+      "original_author": "BitcoinRothbard",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T16:43:23+00:00",
+      "text": "RT @BitcoinRothbard: Good synopsis of the gross negligence of the coldcard team. I wouldn’t have done this sort of thing as an entry level analyst if an Excel formula didn’t work. They did this with hundreds of millions of people’s hard earned money on the line. https://t.co/YtWSoiVtSw",
+      "summary": "RT @BitcoinRothbard: Good synopsis of the gross negligence of the coldcard team. I wouldn’t have done this sort of thing as an entry level analyst if…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083956841801781520",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "263"
+      }
+    },
+    {
+      "id": "2083956709794423125",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T16:42:52+00:00",
+      "text": "Hey @JillianMichaels, welcome to the world of MA. Because MA ranks at the very bottom related to private sector job growth, maintains the highest electricity prices in the continental United States, has the highest childcare costs in the country, and ranks dead last in housing affordability, MA leads the nation in people leaving the state because they can’t afford to live here. But don’t worry about those things because the MA legislature is working on a Permanent Muslim Commission, a mileage tracking bill, all while exempting themselves from public records law. It’s a state wherein, after 72% of voters made it the law to audit the state legislature, the first thing the state legislature did was hire a lawyer and pay him to advise them on how NOT to comply with the newly voter-mandated audit-law. That’s right, the voters voted overwhelmingly to see how their taxpayer money is being spent - and the first thing the legislature did was use some of that taxpayer money to hire a lawyer to fight the taxpayers from learning that very thing. And these same people march and speak in No Kings Rallies! Almost two years after voters made it the law, NO AUDIT has occurred. The good news however: I think it’s one of the reasons I have a real chance at retiring 80 year-old Ed Markey, who’s only been in office since 1973 (yes, he was sworn in BEFORE Jimmy Carter). #mapoli #MASen #Deaton",
+      "summary": "Hey @JillianMichaels, welcome to the world of MA. Because MA ranks at the very bottom related to private sector job growth, maintains the highest…",
+      "url": "https://x.com/JohnEDeaton1/status/2083956709794423125",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 9,
+        "replies": 1,
+        "quotes": 0,
+        "views": "13062"
+      }
+    },
+    {
+      "id": "2083954299449553077",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T16:33:17+00:00",
+      "text": "This is just plain dumb. Instead of working on energy, housing, and healthcare, Congress will spend the next four years in endless investigations, subpoenas and congressional hearings.",
+      "summary": "This is just plain dumb. Instead of working on energy, housing, and healthcare, Congress will spend the next four years in endless investigations,…",
+      "url": "https://x.com/JohnEDeaton1/status/2083954299449553077",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 108,
+        "retweets": 21,
+        "replies": 17,
+        "quotes": 1,
+        "views": "15685"
+      }
+    },
+    {
+      "id": "2083953617082437761",
+      "is_retweet": true,
+      "original_author": "theretailbull",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T16:30:34+00:00",
+      "text": "RT @theretailbull: I’ve had all my bitcoin stolen while away on holiday. It was on a Coldcard MK3. I was led to believe this was really secure. It was recommended by experts including @saifedean. I also had the seed on a metal plate, hidden away. When I got news of the hack on Friday I didn’t know what to do, whether to fly home and leave the family holiday or not. Not until Saturday evening did I get the idea to ask my neighbour with the house key to find the seed for me. Sunday morning I led the neighbour on an expedition around the house, restored the wallet, and it said zero bitcoin. I asked another friend to check on my software in the house. Zero. It was all drained Saturday afternoon before I’d had the idea to get someone to find the seed. This 2 bitcoin was supposed to be to give to my 2 children to give them a good start in life. Makes me tear up to think of it. This comes as a terrible blow. The timing was so unlucky with being away, or I would have moved it in time. @Coinkite, if there was any fairness, you would have to pay us our money back. I just hope the US authorities find the culprits and the stolen bitcoin and return it to us. @americanhodl8 @ZynxBTC",
+      "summary": "RT @theretailbull: I’ve had all my bitcoin stolen while away on holiday. It was on a Coldcard MK3. I was led to believe this was really secure. It…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083953617082437761",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 253,
+        "replies": 0,
+        "quotes": 0,
+        "views": "312"
+      }
+    },
+    {
+      "id": "2083950322662175142",
+      "is_retweet": true,
+      "original_author": "JoeCarlasare",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-02T16:17:29+00:00",
+      "text": "RT @JoeCarlasare: So many realizing that broad self custody will never happen. They are finally accepting what @halfin figured out 16 years ago: “Bitcoin itself cannot scale to have every single financial transaction in the world… Bitcoin backed banks will solve these problems. They can work like banks did before nationalization of currency. []. Some would be fractional reserve while others may be 100% Bitcoin backed. Interest rates may vary. *** I believe this will be the ultimate fate of Bitcoin, to be the \"high-powered money\" that serves as a reserve currency for banks that issue their own digital cash. Most Bitcoin transactions will occur between banks, to settle net transfers. Bitcoin transactions by private individuals will be as rare as... well, as Bitcoin based purchases are today.”",
+      "summary": "RT @JoeCarlasare: So many realizing that broad self custody will never happen. They are finally accepting what @halfin figured out 16 years ago:…",
+      "url": "https://x.com/HaileyLennonBTC/status/2083950322662175142",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 81,
+        "replies": 0,
+        "quotes": 0,
+        "views": "330"
       }
     },
     {
