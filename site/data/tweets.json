@@ -1,67 +1,27 @@
 {
-  "generated_at": "2026-08-04T15:08:32.030708+00:00",
-  "generated_at_unix": 1785856112,
+  "generated_at": "2026-08-04T18:13:05.166200+00:00",
+  "generated_at_unix": 1785867185,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-03T16:00:00+00:00",
-  "window_end": "2026-08-04T15:08:32.030708+00:00",
-  "new_this_run": 7,
-  "total_recent": 23,
+  "window_end": "2026-08-04T18:13:05.166200+00:00",
+  "new_this_run": 21,
+  "total_recent": 44,
   "errors": [
     {
-      "username": "JohnReedStark",
-      "error": "JohnReedStark: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     },
     {
-      "username": "0xlawyoor",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "kakashiii111",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "NYCStein",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "CryptoLawUS",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "HaileyLennonBTC",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "stephendpalley",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "Drew_Morris",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "theblockprof",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JacobRobinsonJD",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "lawtoshi",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "prestonjbyrne",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 3,
-    "successful_this_run": 3,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -69,6 +29,356 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084697564130197941",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T17:46:45+00:00",
+      "text": "Katherine on how Polymarket bought its way back into the US for $112 million \"A DCM is a designated contract market, basically a derivatives exchange, and those DCMs are the place to trade perps, recently okayed by the CFTC, and prediction markets. The hot thing to do has been acquisition to date\" \"The other thing I was going to mention is, where is Polymarket in all of this? Polymarket is crypto, but as a reminder, it's fundamentally different from Kalshi in a million ways. They originally started offshore, they weren't in the US, they couldn't be because of a settlement with the CFTC in 2022\" \"But then they acquired a DCM, QCEX, and I think they acquired it for $112 million. So these DCMs, these licenses, are quite pricey, particularly now when there really aren't very many left to acquire\"",
+      "summary": "Katherine on how Polymarket bought its way back into the US for $112 million \"A DCM is a designated contract market, basically a derivatives…",
+      "url": "https://x.com/laurashin/status/2084697564130197941",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 1,
+        "views": "2057"
+      }
+    },
+    {
+      "id": "2084696617631043843",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T17:43:00+00:00",
+      "text": "\"You hit the border of the state, that's where their authority ends\" Katherine on why New York can't shut Kalshi down beyond its own borders \"New York does not have power to shut Kalshi down, full stop, in other states, because of state jurisdiction. The New York AG and the New York gambling regulators have authority over New York customers. Basically you hit the border of the state, that's where their authority ends\" \"Now arguably they could try to inflict collateral damage on Kalshi that could impact their ability to offer contracts beyond New York. But New York likes to be the most aggressive state, version of Team America World Police, and their jurisdiction is limited\" \"It's funny because the same argument that they're rejecting on the basis of the CFTC limits their own state jurisdiction. So yeah, it is what it is\"",
+      "summary": "\"You hit the border of the state, that's where their authority ends\" Katherine on why New York can't shut Kalshi down beyond its own borders \"New…",
+      "url": "https://x.com/laurashin/status/2084696617631043843",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1965"
+      }
+    },
+    {
+      "id": "2084695725154410790",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T17:39:27+00:00",
+      "text": "\"But part of me is a little sad when I see one of crypto's good ones leave for AI\" Katherine on Paul Grewal, Coinbase's former legal chief, joining an AI company \"Paul Grewal, the former CLO of Coinbase, just announced that he joined an AI company. Don't get me wrong, the three of us all love Paul\" \"Paul is brilliant. Paul unequivocally is brilliant. I don't really know anyone who has worked with him that says anything but incredibly good things. He was a huge asset to Coinbase, shepherding them through a lot of volatility\"",
+      "summary": "\"But part of me is a little sad when I see one of crypto's good ones leave for AI\" Katherine on Paul Grewal, Coinbase's former legal chief, joining…",
+      "url": "https://x.com/laurashin/status/2084695725154410790",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1953"
+      }
+    },
+    {
+      "id": "2084693580128649454",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T17:30:55+00:00",
+      "text": "Tuongvy Le on the legal gray area around hardware wallet exploits \"I find this incident really fascinating because I'm sure the three of us have been thinking about things like, what duty does a hardware wallet manufacturer owe to its users? If there's a defect in the firmware that makes users less secure than they were promised, what legal framework even applies here? Are we talking about negligence, product liability, consumer protection laws, breach of warranty, or something else? These naturally came to mind for me as a lawyer\" \"The other issue is disclosure. There are conflicting reports coming out, but if Coldcard had become aware of this flaw, does it have a duty to tell users? And how do you communicate that risk?\" \"Once the flaw exists, it might not be enough to just update the software. You might need to actually recall the devices and require users to migrate their assets to entirely new wallets\"",
+      "summary": "Tuongvy Le on the legal gray area around hardware wallet exploits \"I find this incident really fascinating because I'm sure the three of us have been…",
+      "url": "https://x.com/laurashin/status/2084693580128649454",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2195"
+      }
+    },
+    {
+      "id": "2084687728130843079",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T17:07:40+00:00",
+      "text": "\"Self custody doesn't completely eliminate trust, you're trusting the manufacturer of the device, the engineers, the auditors\" Tuongvy Le on why self custody doesn't remove trust, it just moves it \"For me it was a reminder that while self custody is still incredibly important and a right that should be protected, it doesn't completely eliminate trust, which is sort of how I always viewed it\" \"Sure, you're no longer trusting a centralized custodian, but you're trusting the manufacturer of the device. You're trusting the engineers who designed the hardware and the firmware that generated your keys. You're trusting the people who reviewed the code, the auditors\" \"So I think it does raise some hard questions about whether self custody is for everyone, or even whether cold wallet makers have to go through some sort of certification process. I don't know\"",
+      "summary": "\"Self custody doesn't completely eliminate trust, you're trusting the manufacturer of the device, the engineers, the auditors\" Tuongvy Le on why self…",
+      "url": "https://x.com/laurashin/status/2084687728130843079",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2998"
+      }
+    },
+    {
+      "id": "2084682202533552408",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T16:45:43+00:00",
+      "text": "AI agents broke out of their safety sandbox, and still didn't know they were out. Jessi Brooks on Anthropic's disclosure: Claude models in fake hacking drills got real internet access through a misconfiguration. \"The models got out. But... they still think they're in a simulation.\" https://t.co/yAOcQJf1NP",
+      "summary": "AI agents broke out of their safety sandbox, and still didn't know they were out. Jessi Brooks on Anthropic's disclosure: Claude models in fake…",
+      "url": "https://x.com/laurashin/status/2084682202533552408",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1681"
+      }
+    },
+    {
+      "id": "2084679454396121234",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T16:34:48+00:00",
+      "text": "Kalshi's core legal defense just failed in New York. \"State gambling regulation remains an area of traditional state authority. And the Commodity Exchange Act doesn't preempt New York's gambling laws.\" says @kkirkbos https://t.co/LtjUP971va",
+      "summary": "Kalshi's core legal defense just failed in New York. \"State gambling regulation remains an area of traditional state authority. And the Commodity…",
+      "url": "https://x.com/laurashin/status/2084679454396121234",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1554"
+      }
+    },
+    {
+      "id": "2084677171054879053",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T16:25:43+00:00",
+      "text": "If crypto wants institutions, it has to accept accountability. Katherine Kirkpatrick Bos on the Coldcard hack: \"So much of the industry wants institutional flows... if crypto wants to grow up, then there does need to be that accountability,\" says @kkirkbos https://t.co/yAOcQJf1NP",
+      "summary": "If crypto wants institutions, it has to accept accountability. Katherine Kirkpatrick Bos on the Coldcard hack: \"So much of the industry wants…",
+      "url": "https://x.com/laurashin/status/2084677171054879053",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1910"
+      }
+    },
+    {
+      "id": "2084675318598562034",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T16:18:22+00:00",
+      "text": "The Coldcard hack is now a legal problem. \"What duty does a hardware wallet manufacturer owe to its users?... Are we talking about negligence or product liability, consumer protection laws, breach of warranty?\" says @TuongvyLe12 https://t.co/LtjUP971va",
+      "summary": "The Coldcard hack is now a legal problem. \"What duty does a hardware wallet manufacturer owe to its users?... Are we talking about negligence or…",
+      "url": "https://x.com/laurashin/status/2084675318598562034",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "1706"
+      }
+    },
+    {
+      "id": "2084670914549944337",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T16:00:51+00:00",
+      "text": "🏙️ DEX in the City is live! Today: Coldcard's $89M self-custody disaster, Kalshi goes to court (again), and the AI escape room. @kkirkbos, Jessi Brooks, and @TuongvyLe12 on the law behind the week's biggest crypto stories: https://t.co/LtjUP971va",
+      "summary": "🏙️ DEX in the City is live! Today: Coldcard's $89M self-custody disaster, Kalshi goes to court (again), and the AI escape room. @kkirkbos, Jessi…",
+      "url": "https://x.com/laurashin/status/2084670914549944337",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1802"
+      }
+    },
+    {
+      "id": "2084669763398115405",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T15:56:17+00:00",
+      "text": "RT @laurashin: Can you sue a hardware wallet maker for a five-year-old bug? Is an AI agent that hacks a company a crime with no defendant? The DEX in the City panel takes on both, plus Kalshi's fight with New York. Live Tuesday 12pm ET: Join us live on our platform: X - https://t.co/AohKSQ4sNg",
+      "summary": "RT @laurashin: Can you sue a hardware wallet maker for a five-year-old bug? Is an AI agent that hacks a company a crime with no defendant? The DEX in…",
+      "url": "https://x.com/laurashin/status/2084669763398115405",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2084668694798700603",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T15:52:02+00:00",
+      "text": "Coldcard's $89M Flaw and the Limits of Self-Custody https://t.co/LtjUP97zkI",
+      "summary": "Coldcard's $89M Flaw and the Limits of Self-Custody https://t.co/LtjUP97zkI",
+      "url": "https://x.com/laurashin/status/2084668694798700603",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 1,
+        "views": "7213"
+      }
+    },
+    {
+      "id": "2084665210628137067",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T15:38:12+00:00",
+      "text": "Can you sue a hardware wallet maker for a five-year-old bug? Is an AI agent that hacks a company a crime with no defendant? The DEX in the City panel takes on both, plus Kalshi's fight with New York. Live Tuesday 12pm ET: Join us live on our platform: X - https://t.co/AohKSQ4sNg",
+      "summary": "Can you sue a hardware wallet maker for a five-year-old bug? Is an AI agent that hacks a company a crime with no defendant? The DEX in the City panel…",
+      "url": "https://x.com/laurashin/status/2084665210628137067",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "2470"
+      }
+    },
+    {
+      "id": "2084639019208503393",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T13:54:07+00:00",
+      "text": "🚨🗞️NEW: Thune Promised Cloture on Clarity. Does He Have the Votes? The White House’s silence on a bipartisan ethics compromise leaves uncertain whether the bill can secure the 60 votes needed to clear its first procedural hurdle. https://t.co/WcZk7otOsK",
+      "summary": "🚨🗞️NEW: Thune Promised Cloture on Clarity. Does He Have the Votes? The White House’s silence on a bipartisan ethics compromise leaves uncertain…",
+      "url": "https://x.com/EleanorTerrett/status/2084639019208503393",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1111,
+        "retweets": 188,
+        "replies": 100,
+        "quotes": 14,
+        "views": "62404"
+      }
+    },
     {
       "id": "2084638617431937492",
       "is_retweet": false,
@@ -92,6 +402,106 @@
         "replies": 1,
         "quotes": 0,
         "views": "5713"
+      }
+    },
+    {
+      "id": "2084625697189097936",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T13:01:11+00:00",
+      "text": "📊 Strategy sold 1,638 BTC for $104.7 million this week at an average price of $63,957 — about $11,462 below its cost basis. The proceeds funded preferred stock dividends and STRC buybacks. https://t.co/VYn9ESLTZZ",
+      "summary": "📊 Strategy sold 1,638 BTC for $104.7 million this week at an average price of $63,957 — about $11,462 below its cost basis. The proceeds funded…",
+      "url": "https://x.com/laurashin/status/2084625697189097936",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 1,
+        "replies": 10,
+        "quotes": 1,
+        "views": "3588"
+      }
+    },
+    {
+      "id": "2084617893996835099",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-04T12:30:10+00:00",
+      "text": "🏷️ POAP is shutting down after more than five years. The Proof of Attendance Protocol minted nearly 7.6 million onchain badges across over 46,210 issuers, used by Coinbase, Amex, Warner Music Group, and more. https://t.co/xGzM5GiWTo",
+      "summary": "🏷️ POAP is shutting down after more than five years. The Proof of Attendance Protocol minted nearly 7.6 million onchain badges across over 46,210…",
+      "url": "https://x.com/laurashin/status/2084617893996835099",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 1,
+        "views": "3650"
+      }
+    },
+    {
+      "id": "2084565370422374824",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T09:01:28+00:00",
+      "text": "career advice for people trying to break out of crypto: - stop going to events and get in the unemployment line, even if the \"top\" folks are at the events. toly is a genuinely open and helpful dude but he's not going to help you get a job at your local Wendy's. Instead find the 'assistant manager' at the local fast food restaurant, they might need someone to cover a shift and you might be able to add value to them. - commit visibly to one trade. cleaning floors is the easiest to pick up but even if you choose something else, double down. The industry is saturated (for better or worse) and reputation compounds when you stay put. - stop cold dming. mostly a waste of time. just fill in the part-time job application. if you can't find a path to a part-time job, consider working for free. - avoid crypto people in your city. run from the meetups, ghost the dinner, delete the group chat. thats how they pull you back in. this is the single greatest \"hack\" to getting out of crypto, but no one does it because its gratifying, addicting and has the potential for a 100x if a call plays out. - pick a lane. the workforce is specialised enough that you need to specialize in something. go deep on a sector (be the toilet cleaner guy) or a skill (be the burger flipper man). \"need job for money\" is not a lane. - delete all crypto products. most aspiring quitters refuse to delete the thing that keeps them hooked and it shows in the first five minutes. this should be obvious but for some reason it is not. - proof of social skills beats autism always. eye contact. an ironed shirt. a presentable haircut. a first impression does more than 100 rambles. - hunt open job applications and volunteer programmes. @McDonalds is the best employer in the real world, it pays you while you learn real life skills. - optimize for your family, not currency. every good family has a spare storeroom you can live in, and it works. - 1 hour a day learning a useful skill instead of being on Twitter. improving yourself is the best thing you will ever do. - avoid crypto especially when its quiet. it makes your addicted brain think its a good entry point but it can go down another 90%, and you with it. and obviously attend your therapy sessions.",
+      "summary": "career advice for people trying to break out of crypto: - stop going to events and get in the unemployment line, even if the \"top\" folks are at the…",
+      "url": "https://x.com/wassielawyer/status/2084565370422374824",
+      "type": "quote",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 167,
+        "retweets": 6,
+        "replies": 16,
+        "quotes": 0,
+        "views": "22308"
+      }
+    },
+    {
+      "id": "2084475305176289340",
+      "is_retweet": true,
+      "original_author": "arjunblj",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-04T03:03:35+00:00",
+      "text": "RT @arjunblj: The CPG business David describes is Samsara (https://t.co/gLLl2lErDE), an Indian-inspired protein bar made by my brilliant wife @sravanti. It’s been AI-native since day one, from o3 helping develop recipes to Hermes Agent running ops today. The age of the autonomous SMB is here.",
+      "summary": "RT @arjunblj: The CPG business David describes is Samsara (https://t.co/gLLl2lErDE), an Indian-inspired protein bar made by my brilliant wife…",
+      "url": "https://x.com/danrobinson/status/2084475305176289340",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "448"
       }
     },
     {
@@ -195,6 +605,31 @@
       }
     },
     {
+      "id": "2084429704770318426",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-04T00:02:23+00:00",
+      "text": "RT @BlockchainAssn: 1/ Today, we sent a letter to @LeaderJohnThune and @SenSchumer responding to the @NationalSheriff’s recent letter on the Clarity Act. Our response explains why their letter misunderstands the legislation and sets the record straight, point by point. Below is a walkthrough of the key issues. Our full letter is available below. https://t.co/kYgTRbJ7N6 🧵",
+      "summary": "RT @BlockchainAssn: 1/ Today, we sent a letter to @LeaderJohnThune and @SenSchumer responding to the @NationalSheriff’s recent letter on the Clarity…",
+      "url": "https://x.com/milesjennings/status/2084429704770318426",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 73,
+        "replies": 0,
+        "quotes": 0,
+        "views": "172"
+      }
+    },
+    {
       "id": "2084393600717095133",
       "is_retweet": true,
       "original_author": "faryarshirzad",
@@ -292,6 +727,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "10"
+      }
+    },
+    {
+      "id": "2084358299755966889",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-03T19:18:38+00:00",
+      "text": "Feels like crypto’s allies are leaving Washington en masse. @HesterPeirce, @HarryYJung, @SenLummis, Tyler Williams.",
+      "summary": "Feels like crypto’s allies are leaving Washington en masse. @HesterPeirce, @HarryYJung, @SenLummis, Tyler Williams.",
+      "url": "https://x.com/EleanorTerrett/status/2084358299755966889",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1125,
+        "retweets": 166,
+        "replies": 175,
+        "quotes": 28,
+        "views": "180117"
+      }
+    },
+    {
+      "id": "2084346910085976097",
+      "is_retweet": true,
+      "original_author": "a16z",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-03T18:33:23+00:00",
+      "text": "RT @a16z: .@cdixon on the ethics provisions in the CLARITY Act: \"I think there should be ethics rules for government officials. I don’t think those should be exclusive to crypto.\" \"This bill, as proposed right now, would be the first bill in US history that regulates an industry and also adds specific ethics provisions for government officials in it.\" \"Normally, government ethics rules are done separately, and an industry is regulated separately. This industry is being held to a completely different standard than other industries.\" @cdixon @pmarca @rhackett",
+      "summary": "RT @a16z: .@cdixon on the ethics provisions in the CLARITY Act: \"I think there should be ethics rules for government officials. I don’t think those…",
+      "url": "https://x.com/milesjennings/status/2084346910085976097",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "158"
       }
     },
     {
