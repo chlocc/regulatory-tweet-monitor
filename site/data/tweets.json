@@ -1,79 +1,27 @@
 {
-  "generated_at": "2026-08-04T06:01:51.416839+00:00",
-  "generated_at_unix": 1785823311,
+  "generated_at": "2026-08-04T09:09:58.959059+00:00",
+  "generated_at_unix": 1785834598,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-03T16:00:00+00:00",
-  "window_end": "2026-08-04T06:01:51.416839+00:00",
-  "new_this_run": 0,
-  "total_recent": 11,
+  "window_end": "2026-08-04T09:09:58.959059+00:00",
+  "new_this_run": 17,
+  "total_recent": 28,
   "errors": [
     {
-      "username": "ChairmanSelig",
-      "error": "ChairmanSelig: HTTP 500 - Internal Server Error"
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
     },
     {
-      "username": "SECGov",
-      "error": "SECGov: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "HesterPeirce",
-      "error": "HesterPeirce: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "BoHines",
-      "error": "BoHines: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "davidsacks47",
-      "error": "davidsacks47: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "WhiteHouse",
-      "error": "WhiteHouse: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "howardlutnick",
-      "error": "howardlutnick: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "VP",
-      "error": "VP: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "ADGlobalMarket",
-      "error": "ADGlobalMarket: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "RepFrenchHill",
-      "error": "RepFrenchHill: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "FinancialCmte",
-      "error": "FinancialCmte: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "USHouseFSC",
-      "error": "USHouseFSC: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "SenLummis",
-      "error": "SenLummis: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "SenatorHagerty",
-      "error": "SenatorHagerty: HTTP 500 - Internal Server Error"
-    },
-    {
-      "username": "SenRubenGallego",
-      "error": "SenRubenGallego: HTTP 500 - Internal Server Error"
+      "username": "amandatums",
+      "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 0,
-    "successful_this_run": 0,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -81,6 +29,356 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084562207736836261",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T08:48:54+00:00",
+      "text": "RT @BlockchainAssn: 1/ Today, we sent a letter to @LeaderJohnThune and @SenSchumer responding to the @NationalSheriff’s recent letter on the Clarity Act. Our response explains why their letter misunderstands the legislation and sets the record straight, point by point. Below is a walkthrough of the key issues. Our full letter is available below. https://t.co/kYgTRbJ7N6 🧵",
+      "summary": "RT @BlockchainAssn: 1/ Today, we sent a letter to @LeaderJohnThune and @SenSchumer responding to the @NationalSheriff’s recent letter on the Clarity…",
+      "url": "https://x.com/LindaJeng1/status/2084562207736836261",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 62,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2"
+      }
+    },
+    {
+      "id": "2084475714712023352",
+      "is_retweet": true,
+      "original_author": "TheBlockCo",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-04T03:05:12+00:00",
+      "text": "RT @TheBlockCo: EXCLUSIVE: Blockchain Association counters National Sheriffs' group claims as pivotal week for Clarity Act unfolds https://t.co/B31w163dSE",
+      "summary": "RT @TheBlockCo: EXCLUSIVE: Blockchain Association counters National Sheriffs' group claims as pivotal week for Clarity Act unfolds…",
+      "url": "https://x.com/BlockchainAssn/status/2084475714712023352",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "418"
+      }
+    },
+    {
+      "id": "2084390269768843402",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T21:25:41+00:00",
+      "text": "1/ Today, we sent a letter to @LeaderJohnThune and @SenSchumer responding to the @NationalSheriff’s recent letter on the Clarity Act. Our response explains why their letter misunderstands the legislation and sets the record straight, point by point. Below is a walkthrough of the key issues. Our full letter is available below. https://t.co/kYgTRbJ7N6 🧵",
+      "summary": "1/ Today, we sent a letter to @LeaderJohnThune and @SenSchumer responding to the @NationalSheriff’s recent letter on the Clarity Act. Our response…",
+      "url": "https://x.com/BlockchainAssn/status/2084390269768843402",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 198,
+        "retweets": 61,
+        "replies": 7,
+        "quotes": 3,
+        "views": "11815"
+      }
+    },
+    {
+      "id": "2084384548951843045",
+      "is_retweet": true,
+      "original_author": "LindaJeng1",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T21:02:57+00:00",
+      "text": "RT @LindaJeng1: I was a regulator during the 2008 financial crisis and later worked in the Senate on Congress' response - the Dodd-Frank Act. I believe deeply in consumer protection, financial stability and economic growth. But the gaps are real. According to the Federal Reserve, six percent of American adults are still unbanked. Black adults are unbanked at 13% and Hispanic adults at 12%, versus 3% of white adults, and 21% of adults earning under $25,000 have no bank account versus 1% of those earning over $100,000. Our financial system still isn't open, and it's definitely not equitable. Meanwhile community banks are falling behind, locked into multi-year contracts with core processors running decades-old technology. The incumbents are comfortable. Everyone else pays for it. Technology is moving ahead with or without the CLARITY Act. After a career spanning both sides of financial regulation, I'd rather we move ahead with clear rules for consumer protection and market integrity than pretend the status quo is working. Let's finish CLARITY. This is the LAST week before the Senate breaks for August recess. Submit a letter to your representative at https://t.co/HBQYj7qHnX today.",
+      "summary": "RT @LindaJeng1: I was a regulator during the 2008 financial crisis and later worked in the Senate on Congress' response - the Dodd-Frank Act. I…",
+      "url": "https://x.com/BlockchainAssn/status/2084384548951843045",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "610"
+      }
+    },
+    {
+      "id": "2084381426862956884",
+      "is_retweet": true,
+      "original_author": "awwstn",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T20:50:32+00:00",
+      "text": "RT @awwstn: i lost the lid to my coffee grinder and codex tracked down the part, found the dimensions, and made me a 3d print file that fit perfectly in one shot https://t.co/KIYYk0RDce",
+      "summary": "RT @awwstn: i lost the lid to my coffee grinder and codex tracked down the part, found the dimensions, and made me a 3d print file that fit perfectly…",
+      "url": "https://x.com/valkenburgh/status/2084381426862956884",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 152,
+        "replies": 0,
+        "quotes": 0,
+        "views": "256"
+      }
+    },
+    {
+      "id": "2084377473597256185",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T20:34:50+00:00",
+      "text": "RT @valkenburgh: FWIW If some crypto policy org announces a positive breakthrough on BRCA negotiations that involves only a civil safe harbor and no mention of 1960, then you will know who the Judas is.",
+      "summary": "RT @valkenburgh: FWIW If some crypto policy org announces a positive breakthrough on BRCA negotiations that involves only a civil safe harbor and no…",
+      "url": "https://x.com/NeerajKA/status/2084377473597256185",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "313"
+      }
+    },
+    {
+      "id": "2084374100366287211",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T20:21:25+00:00",
+      "text": "RT @StaniKulechov: The Senate should bring the Clarity Act to the floor and finish it. Regardless of the outcome, this industry will keep building, and the only question is whether it builds inside a clear framework or around one. Rules that strengthen consumer protection, market integrity, and financial stability serve everyone, and every week of delay is another week without them. Let’s get this done as soon as possible.",
+      "summary": "RT @StaniKulechov: The Senate should bring the Clarity Act to the floor and finish it. Regardless of the outcome, this industry will keep building,…",
+      "url": "https://x.com/LindaJeng1/status/2084374100366287211",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 38,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4"
+      }
+    },
+    {
+      "id": "2084373894979313782",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T20:20:37+00:00",
+      "text": "FWIW If some crypto policy org announces a positive breakthrough on BRCA negotiations that involves only a civil safe harbor and no mention of 1960, then you will know who the Judas is.",
+      "summary": "FWIW If some crypto policy org announces a positive breakthrough on BRCA negotiations that involves only a civil safe harbor and no mention of 1960,…",
+      "url": "https://x.com/valkenburgh/status/2084373894979313782",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 52,
+        "retweets": 4,
+        "replies": 3,
+        "quotes": 2,
+        "views": "8725"
+      }
+    },
+    {
+      "id": "2084371536946090207",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T20:11:14+00:00",
+      "text": "Tyler has been an invaluable advocate for good crypto policy in Treasury. I'm sorry to see him step away but he's earned it plus more. I also trust his colleagues to continue fighting for what's right as we get down to the wire with Clarity.",
+      "summary": "Tyler has been an invaluable advocate for good crypto policy in Treasury. I'm sorry to see him step away but he's earned it plus more. I also trust…",
+      "url": "https://x.com/valkenburgh/status/2084371536946090207",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 26,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 1,
+        "views": "4115"
+      }
+    },
+    {
+      "id": "2084355214891536397",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T19:06:23+00:00",
+      "text": "An FBI agent has been accused of stealing $1m in crypto. More interestingly, he asked chatgpt what he could do with $1m and that's being used in the case against him. https://t.co/O9lihC6pdR https://t.co/QzClT1Won4",
+      "summary": "An FBI agent has been accused of stealing $1m in crypto. More interestingly, he asked chatgpt what he could do with $1m and that's being used in the…",
+      "url": "https://x.com/NeerajKA/status/2084355214891536397",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 385,
+        "retweets": 42,
+        "replies": 32,
+        "quotes": 20,
+        "views": "114970"
+      }
+    },
+    {
+      "id": "2084350902127804703",
+      "is_retweet": true,
+      "original_author": "MarkTEsper",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T18:49:15+00:00",
+      "text": "RT @MarkTEsper: Joined @TheWeekendMSNOW today to talk current events and discuss why the Clarity Act is a national security imperative. For years we’ve lacked clear federal rules for digital assets. Our financial system runs on American rails—that’s what keeps the dollar the world’s reserve currency. China is racing to rewrite those rails. We cannot let the Beijing decide who gets access, who dodges sanctions, or who sets the rules. This bill already passed the House with an overwhelming bipartisan majority. The stakes are clear: American leadership in technology that will shape our economic and strategic future. This week may be our last real window. Let’s get it done. #ClarityAct",
+      "summary": "RT @MarkTEsper: Joined @TheWeekendMSNOW today to talk current events and discuss why the Clarity Act is a national security imperative. For years…",
+      "url": "https://x.com/BlockchainAssn/status/2084350902127804703",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 32,
+        "replies": 0,
+        "quotes": 0,
+        "views": "560"
+      }
+    },
+    {
+      "id": "2084350258948030819",
+      "is_retweet": true,
+      "original_author": "coinbase",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T18:46:41+00:00",
+      "text": "RT @coinbase: America needs CLARITY. https://t.co/YBgXAG9gxP",
+      "summary": "RT @coinbase: America needs CLARITY. https://t.co/YBgXAG9gxP",
+      "url": "https://x.com/BlockchainAssn/status/2084350258948030819",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 625,
+        "replies": 0,
+        "quotes": 0,
+        "views": "378"
+      }
+    },
+    {
+      "id": "2084345086997868619",
+      "is_retweet": true,
+      "original_author": "SolanaInstitute",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T18:26:08+00:00",
+      "text": "RT @SolanaInstitute: In this final week before recess, we urge the Senate to pass the Clarity Act and give Americans a clear, workable framework for digital assets. Read more about what's at stake in today's @WashingtonPost. https://t.co/M26EnrBJyn",
+      "summary": "RT @SolanaInstitute: In this final week before recess, we urge the Senate to pass the Clarity Act and give Americans a clear, workable framework for…",
+      "url": "https://x.com/BlockchainAssn/status/2084345086997868619",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": "586"
+      }
+    },
+    {
+      "id": "2084338239247102135",
+      "is_retweet": true,
+      "original_author": "KristinSmith",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-03T17:58:56+00:00",
+      "text": "RT @KristinSmith: 7/ Progress happens when our industry shows up and speaks up. More than 3,000 letters have gone to the Senate through https://t.co/aCxhXxwido, along with more than 1M through @StandWithCrypto. Keep them coming this week and through August.",
+      "summary": "RT @KristinSmith: 7/ Progress happens when our industry shows up and speaks up. More than 3,000 letters have gone to the Senate through…",
+      "url": "https://x.com/BlockchainAssn/status/2084338239247102135",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "487"
+      }
+    },
     {
       "id": "2084333163388805428",
       "is_retweet": false,
@@ -354,6 +652,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "109"
+      }
+    },
+    {
+      "id": "2084318016532099359",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T16:38:34+00:00",
+      "text": "I was a regulator during the 2008 financial crisis and later worked in the Senate on Congress' response - the Dodd-Frank Act. I believe deeply in consumer protection, financial stability and economic growth. But the gaps are real. According to the Federal Reserve, six percent of American adults are still unbanked. Black adults are unbanked at 13% and Hispanic adults at 12%, versus 3% of white adults, and 21% of adults earning under $25,000 have no bank account versus 1% of those earning over $100,000. Our financial system still isn't open, and it's definitely not equitable. Meanwhile community banks are falling behind, locked into multi-year contracts with core processors running decades-old technology. The incumbents are comfortable. Everyone else pays for it. Technology is moving ahead with or without the CLARITY Act. After a career spanning both sides of financial regulation, I'd rather we move ahead with clear rules for consumer protection and market integrity than pretend the status quo is working. Let's finish CLARITY. This is the LAST week before the Senate breaks for August recess. Submit a letter to your representative at https://t.co/HBQYj7qHnX today.",
+      "summary": "I was a regulator during the 2008 financial crisis and later worked in the Senate on Congress' response - the Dodd-Frank Act. I believe deeply in…",
+      "url": "https://x.com/LindaJeng1/status/2084318016532099359",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 37,
+        "retweets": 12,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2388"
+      }
+    },
+    {
+      "id": "2084314437846986953",
+      "is_retweet": true,
+      "original_author": "RepMaryMiller",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-03T16:24:21+00:00",
+      "text": "RT @RepMaryMiller: Secure Borders? Democrats voted NO. Historic Tax Relief? Democrats voted NO. Voter ID? Democrats voted NO. Protecting Women's Sports? Democrats voted NO. Proof of Citizenship? Democrats voted NO. Remember this the next time they claim to be fighting for Americans.",
+      "summary": "RT @RepMaryMiller: Secure Borders? Democrats voted NO. Historic Tax Relief? Democrats voted NO. Voter ID? Democrats voted NO. Protecting Women's…",
+      "url": "https://x.com/GOPMajorityWhip/status/2084314437846986953",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 615,
+        "replies": 0,
+        "quotes": 0,
+        "views": "814"
+      }
+    },
+    {
+      "id": "2084309608911499402",
+      "is_retweet": true,
+      "original_author": "nikogallogly",
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T16:05:10+00:00",
+      "text": "RT @nikogallogly: Scoop: Paul Grewal, the former chief legal officer at Coinbase, is joining Cognition AI as its first chief legal and global affairs officer. The move reflects the A.I. industry’s growing focus on Washington lobbying efforts.",
+      "summary": "RT @nikogallogly: Scoop: Paul Grewal, the former chief legal officer at Coinbase, is joining Cognition AI as its first chief legal and global affairs…",
+      "url": "https://x.com/iampaulgrewal/status/2084309608911499402",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1352"
       }
     }
   ]
