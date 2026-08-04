@@ -1,31 +1,67 @@
 {
-  "generated_at": "2026-08-04T12:09:45.966520+00:00",
-  "generated_at_unix": 1785845385,
+  "generated_at": "2026-08-04T15:08:32.030708+00:00",
+  "generated_at_unix": 1785856112,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-03T16:00:00+00:00",
-  "window_end": "2026-08-04T12:09:45.966520+00:00",
-  "new_this_run": 5,
-  "total_recent": 16,
+  "window_end": "2026-08-04T15:08:32.030708+00:00",
+  "new_this_run": 7,
+  "total_recent": 23,
   "errors": [
     {
-      "username": "kspaglia",
+      "username": "JohnReedStark",
+      "error": "JohnReedStark: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "0xlawyoor",
       "error": "The read operation timed out"
     },
     {
-      "username": "NYcryptolawyer",
-      "error": "The read operation timed out"
+      "username": "kakashiii111",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     },
     {
-      "username": "N0th1n3",
-      "error": "The read operation timed out"
+      "username": "NYCStein",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "CryptoLawUS",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "HaileyLennonBTC",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "stephendpalley",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "Drew_Morris",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "theblockprof",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "JacobRobinsonJD",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "lawtoshi",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "prestonjbyrne",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 45,
+    "attempted_this_run": 3,
+    "successful_this_run": 3,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +69,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084638617431937492",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T13:52:31+00:00",
+      "text": "It is time to do something about it - vote differently than you have in the past. Don’t get blinded by partisan politics and vote for the best candidate in each race. One-party rule is NOT working. #mapoli #MASen #Deaton",
+      "summary": "It is time to do something about it - vote differently than you have in the past. Don’t get blinded by partisan politics and vote for the best…",
+      "url": "https://x.com/JohnEDeaton1/status/2084638617431937492",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 26,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": "5713"
+      }
+    },
+    {
+      "id": "2084456505106124994",
+      "is_retweet": true,
+      "original_author": "DeatonforSenate",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T01:48:52+00:00",
+      "text": "RT @DeatonforSenate: Tonight's debate was unbelievable. We watched two career politicians spend an hour highlighting just how corrupt they believe the other is. Markey accused Moulton of profiting from defense stock investments while voting on defense spending. Moulton accused Markey of taking telecom money, hiding assets by not releasing his wife's tax returns, and raised questions about meetings connected to Jeffrey Epstein after his conviction. If this is what they're saying about each other, Massachusetts deserves better. After that debate, the Polymarket odds for John Deaton might need an emergency update. Watch the debate for yourself.",
+      "summary": "RT @DeatonforSenate: Tonight's debate was unbelievable. We watched two career politicians spend an hour highlighting just how corrupt they believe…",
+      "url": "https://x.com/JohnEDeaton1/status/2084456505106124994",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 23,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3662"
+      }
+    },
+    {
+      "id": "2084455605784519157",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T01:45:18+00:00",
+      "text": "My thoughts on the @sethmoulton 🆚 @EdMarkey debate that occurred tonight. https://t.co/agBDnPdLcT",
+      "summary": "My thoughts on the @sethmoulton 🆚 @EdMarkey debate that occurred tonight. https://t.co/agBDnPdLcT",
+      "url": "https://x.com/JohnEDeaton1/status/2084455605784519157",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 81,
+        "retweets": 12,
+        "replies": 1,
+        "quotes": 0,
+        "views": "10142"
+      }
+    },
     {
       "id": "2084453548650012865",
       "is_retweet": true,
@@ -106,6 +217,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "13"
+      }
+    },
+    {
+      "id": "2084379688336568683",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T20:43:38+00:00",
+      "text": "Let’s see if @EdMarkey or @sethmoulton can offer ANYTHING other than Orange Man Bad arguments tonight. Have you noticed not one time has Seth or Ed said: “John Deaton’s ideas on how to reform energy, housing or healthcare are bad?” Because they can’t. Their only argument is that people shouldn’t vote for me because I’m not a Democrat - like them. When you think about one-party rule and what voting for only Democrats has cost MA, they actually make the case for voting for me. All you will hear tonight are election-year SLOGANS - not solutions.",
+      "summary": "Let’s see if @EdMarkey or @sethmoulton can offer ANYTHING other than Orange Man Bad arguments tonight. Have you noticed not one time has Seth or Ed…",
+      "url": "https://x.com/JohnEDeaton1/status/2084379688336568683",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 110,
+        "retweets": 26,
+        "replies": 6,
+        "quotes": 0,
+        "views": "12489"
+      }
+    },
+    {
+      "id": "2084376122385432649",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T20:29:28+00:00",
+      "text": "25% of American adults own crypto. Pass the Clarity Act. The “But Trump is corrupt” objection to Clarity is just plain dumb. The reason President Trump was able to make $1.4B on Crypto is BECAUSE THERE WAS NO CLARITY. To not provide it now is nonsense.",
+      "summary": "25% of American adults own crypto. Pass the Clarity Act. The “But Trump is corrupt” objection to Clarity is just plain dumb. The reason President…",
+      "url": "https://x.com/JohnEDeaton1/status/2084376122385432649",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2244,
+        "retweets": 384,
+        "replies": 84,
+        "quotes": 17,
+        "views": "64220"
       }
     },
     {
@@ -409,6 +570,31 @@
       }
     },
     {
+      "id": "2084319611458105396",
+      "is_retweet": true,
+      "original_author": "CryptoLawUS",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T16:44:54+00:00",
+      "text": "RT @CryptoLawUS: ⌛️Organizations are calling on the Senate. So should you. One last push. Finish this week knowing you gave it everything. Tell your Senator: pass Clarity. Connect to Congress: https://t.co/GzHabguvh1",
+      "summary": "RT @CryptoLawUS: ⌛️Organizations are calling on the Senate. So should you. One last push. Finish this week knowing you gave it everything. Tell your…",
+      "url": "https://x.com/JohnEDeaton1/status/2084319611458105396",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 50,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3186"
+      }
+    },
+    {
       "id": "2084319098708889827",
       "is_retweet": true,
       "original_author": "coinbase",
@@ -431,6 +617,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "109"
+      }
+    },
+    {
+      "id": "2084311528069619814",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-03T16:12:47+00:00",
+      "text": "Ed Markey is good at one thing: writing press releases that sound like he’s done something when in reality - he’s down very little. Markey is mixing in projects for Suffolk, Middlesex, and Norfolk Counties, not Plymouth. Moreover, most of this is from federal automatic formula programs - not personal advocacy. It says from 1998 - that’s 15 years before he was even a senator (2013) and includes years he represented a Middlesex-area House district, NOT Plymouth County at all. Career politician speaks = lies.",
+      "summary": "Ed Markey is good at one thing: writing press releases that sound like he’s done something when in reality - he’s down very little. Markey is mixing…",
+      "url": "https://x.com/JohnEDeaton1/status/2084311528069619814",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 30,
+        "retweets": 8,
+        "replies": 1,
+        "quotes": 0,
+        "views": "13234"
       }
     }
   ]
