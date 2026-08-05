@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-05T12:14:40.048477+00:00",
-  "generated_at_unix": 1785932080,
+  "generated_at": "2026-08-05T15:00:05.496560+00:00",
+  "generated_at_unix": 1785942005,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-04T16:00:00+00:00",
-  "window_end": "2026-08-05T12:14:40.048477+00:00",
-  "new_this_run": 28,
-  "total_recent": 64,
+  "window_end": "2026-08-05T15:00:05.496560+00:00",
+  "new_this_run": 22,
+  "total_recent": 86,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2085015000666579264",
+      "is_retweet": true,
+      "original_author": "moflatley",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T14:48:08+00:00",
+      "text": "RT @moflatley: Not all \"kids safety advocates\" are fans of these bills. They do not protect children in any meaningful way. They ignore law enforcement funding while enriching lawyers. Vote NO. https://t.co/GC8fu3KEyW",
+      "summary": "RT @moflatley: Not all \"kids safety advocates\" are fans of these bills. They do not protect children in any meaningful way. They ignore law…",
+      "url": "https://x.com/prestonjbyrne/status/2085015000666579264",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "146"
+      }
+    },
+    {
+      "id": "2085014050027483210",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T14:44:21+00:00",
+      "text": "CORRUPT & CORRUPTER The law firm Nelson Mullins lobbied for the child rapist Jeffrey Epstein. @sethmoulton wants you to believe @EdMarkey is compromised by Nelson Mullins lobbyists. But Seth forgot to mention his own file: 🔹 Took $11,500+ in campaign cash from Nelson Mullins — the same firm on his “gotcha” list. 🔹 Accepted a Qatar-government junket to Doha — flights, hotel, meals, all comped. Seth’s travel buddy on this trip: none other than, @ericswalwell. 🤔 🔹 Sat in “informal meetings” with Nelson Mullins’ own Qatar lobbyists during that trip. 🔹 Was guest of honor at a Qatari embassy gala — arranged by, you guessed it, Nelson Mullins. Moulton stood on a debate stage and accused Markey of taking a meeting with a Nelson Mullins–connected lobbyist. He never disclosed his own Nelson Mullins money or his all-expenses-paid trip courtesy of a foreign government. COME NOVEMBER, MA WILL HAVE A CHANCE TO DO BETTER THAN THESE TWO BOUGHT & PAID FOR CAREER POLITICIANS",
+      "summary": "CORRUPT & CORRUPTER The law firm Nelson Mullins lobbied for the child rapist Jeffrey Epstein. @sethmoulton wants you to believe @EdMarkey is…",
+      "url": "https://x.com/JohnEDeaton1/status/2085014050027483210",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": "3160"
+      }
+    },
+    {
+      "id": "2085002309369471263",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T13:57:42+00:00",
+      "text": "⌛️We're down to the final seconds. One last push. Demand your Senator to pass Clarity NOW. Repost and tag them. Call. Send letters. This comes down to one thing: stay silent, or get loud. Connect to Congress: https://t.co/GzHabguvh1 📞(202) 224-3121",
+      "summary": "⌛️We're down to the final seconds. One last push. Demand your Senator to pass Clarity NOW. Repost and tag them. Call. Send letters. This comes down…",
+      "url": "https://x.com/CryptoLawUS/status/2085002309369471263",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 124,
+        "retweets": 44,
+        "replies": 3,
+        "quotes": 3,
+        "views": "6476"
+      }
+    },
+    {
+      "id": "2084989348680704346",
+      "is_retweet": true,
+      "original_author": "Scaramucci",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T13:06:12+00:00",
+      "text": "RT @Scaramucci: The bank lobby says the CLARITY Act threatens Main Street credit. Translation: it threatens the 0.01% they pay you on your deposits. Senators, learn the difference between consumer protection and competitor protection.",
+      "summary": "RT @Scaramucci: The bank lobby says the CLARITY Act threatens Main Street credit. Translation: it threatens the 0.01% they pay you on your deposits.…",
+      "url": "https://x.com/JohnEDeaton1/status/2084989348680704346",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 245,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2682"
+      }
+    },
     {
       "id": "2084975881500393575",
       "is_retweet": true,
@@ -118,6 +218,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "503"
+      }
+    },
+    {
+      "id": "2084957783665816061",
+      "is_retweet": true,
+      "original_author": "jimmysong",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T11:00:46+00:00",
+      "text": "RT @jimmysong: This is one of the more interesting reveals of the ColdCard saga. Pretty much every Bitcoin maximalist in Korea were not affected because they all used dice rolls. How can this be? The culture of the Korean Bitcoin community is very much about doing things the right way. To give you an idea, I've visited many times, seen the same people many times and I still don't know most of their names because they almost all use pseudonyms, which is considered a best practice in that community. I think there's something to learn here because the US Bitcoin Maximalist community was a little too trusting and not enough cypherpunk. Be like the Koreans, do things the right way, all the way.",
+      "summary": "RT @jimmysong: This is one of the more interesting reveals of the ColdCard saga. Pretty much every Bitcoin maximalist in Korea were not affected…",
+      "url": "https://x.com/prestonjbyrne/status/2084957783665816061",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 180,
+        "replies": 0,
+        "quotes": 0,
+        "views": "291"
       }
     },
     {
@@ -446,6 +571,56 @@
       }
     },
     {
+      "id": "2084821960941240326",
+      "is_retweet": true,
+      "original_author": "AZCactusKiller",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T02:01:04+00:00",
+      "text": "RT @AZCactusKiller: @boston_sense @sethmoulton @SenMarkey @DeatonforSenate I’m no dummy. https://t.co/rtT26u6gkA",
+      "summary": "RT @AZCactusKiller: @boston_sense @sethmoulton @SenMarkey @DeatonforSenate I’m no dummy. https://t.co/rtT26u6gkA",
+      "url": "https://x.com/JohnEDeaton1/status/2084821960941240326",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4001"
+      }
+    },
+    {
+      "id": "2084821915940659201",
+      "is_retweet": true,
+      "original_author": "Lompie77",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T02:00:53+00:00",
+      "text": "RT @Lompie77: @boston_sense @sethmoulton @SenMarkey @DeatonforSenate There's an alternative. I'm voting for @DeatonforSenate",
+      "summary": "RT @Lompie77: @boston_sense @sethmoulton @SenMarkey @DeatonforSenate There's an alternative. I'm voting for @DeatonforSenate",
+      "url": "https://x.com/JohnEDeaton1/status/2084821915940659201",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3612"
+      }
+    },
+    {
       "id": "2084817707682169313",
       "is_retweet": true,
       "original_author": "IsdrsP",
@@ -596,6 +771,31 @@
       }
     },
     {
+      "id": "2084803456003420280",
+      "is_retweet": true,
+      "original_author": "amandatums",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T00:47:32+00:00",
+      "text": "RT @amandatums: So not only do these op ed authors not know how decentralized networks work (not at all like publicly traded centralized company eBay), they also didn’t read the Clarity Act / are just misrepresenting its provisions.",
+      "summary": "RT @amandatums: So not only do these op ed authors not know how decentralized networks work (not at all like publicly traded centralized company…",
+      "url": "https://x.com/KhurramDara/status/2084803456003420280",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "11"
+      }
+    },
+    {
       "id": "2084799878140485646",
       "is_retweet": true,
       "original_author": "milesjennings",
@@ -643,6 +843,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "313"
+      }
+    },
+    {
+      "id": "2084781789042602067",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T23:21:26+00:00",
+      "text": "RT @ReclaimTheNetHQ: Australia's censor wants the power to demand documents from anyone on Earth who is \"affiliated\" with a social media company. The same bill hands her a legal route into the face scans and ID images Australians were just forced to upload to keep their accounts. X says it breaks international law. eSafety says its powers still aren't big enough.",
+      "summary": "RT @ReclaimTheNetHQ: Australia's censor wants the power to demand documents from anyone on Earth who is \"affiliated\" with a social media company. The…",
+      "url": "https://x.com/prestonjbyrne/status/2084781789042602067",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 122,
+        "replies": 0,
+        "quotes": 0,
+        "views": "49"
+      }
+    },
+    {
+      "id": "2084778648888897538",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T23:08:57+00:00",
+      "text": "RT @ReclaimTheNetHQ: X Warns Australia’s Censor Wants Reach Beyond Australia https://t.co/SwcPlkWqhR",
+      "summary": "RT @ReclaimTheNetHQ: X Warns Australia’s Censor Wants Reach Beyond Australia https://t.co/SwcPlkWqhR",
+      "url": "https://x.com/prestonjbyrne/status/2084778648888897538",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": "336"
       }
     },
     {
@@ -896,6 +1146,31 @@
       }
     },
     {
+      "id": "2084733630744527284",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T20:10:04+00:00",
+      "text": "Ripple spent years and hundreds of millions in court just for a judge to rule XRP itself isn't a security. No company should have to sue for clarity - and no consumer should be left unprotected while they wait. That's why we need the Clarity Act. Contact your Senator now. 👇 https://t.co/4gp0IRJmeU",
+      "summary": "Ripple spent years and hundreds of millions in court just for a judge to rule XRP itself isn't a security. No company should have to sue for clarity…",
+      "url": "https://x.com/CryptoLawUS/status/2084733630744527284",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 171,
+        "retweets": 38,
+        "replies": 4,
+        "quotes": 1,
+        "views": "9234"
+      }
+    },
+    {
       "id": "2084733620632350722",
       "is_retweet": false,
       "original_author": null,
@@ -943,6 +1218,31 @@
         "replies": 27,
         "quotes": 5,
         "views": "52135"
+      }
+    },
+    {
+      "id": "2084729746902901165",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T19:54:38+00:00",
+      "text": "RT @intangiblecoins: my DMs are slammed with reports from coldcard victims do not despair. i will get to you. and i will provide each and every one of you with a forensic report nothing but love and sympathy for the victims 🧡 nothing but disgust and contempt for the attackers 🤬",
+      "summary": "RT @intangiblecoins: my DMs are slammed with reports from coldcard victims do not despair. i will get to you. and i will provide each and every one…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084729746902901165",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 59,
+        "replies": 0,
+        "quotes": 0,
+        "views": "234"
       }
     },
     {
@@ -1096,6 +1396,31 @@
       }
     },
     {
+      "id": "2084719944764113219",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T19:15:41+00:00",
+      "text": "This is why the Adam Smith Institute's Freedom of Speech Bill proposes to reform the English law of harassment to ensure it cannot be misused to stifle political speech. We really did think of everything! https://t.co/VtzUYKOjuA",
+      "summary": "This is why the Adam Smith Institute's Freedom of Speech Bill proposes to reform the English law of harassment to ensure it cannot be misused to…",
+      "url": "https://x.com/prestonjbyrne/status/2084719944764113219",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 127,
+        "retweets": 27,
+        "replies": 2,
+        "quotes": 1,
+        "views": "4865"
+      }
+    },
+    {
       "id": "2084712331943022700",
       "is_retweet": true,
       "original_author": "ohaiom",
@@ -1168,6 +1493,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "89"
+      }
+    },
+    {
+      "id": "2084706057901764886",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T18:20:30+00:00",
+      "text": "The SEC put out guidance Feb 2025 that memecoins aren’t securities “It is the Division’s view that transactions in the types of meme coins described in this statement, do not involve the offer and sale of securities under the federal securities laws” https://t.co/j8YKvuVUFe",
+      "summary": "The SEC put out guidance Feb 2025 that memecoins aren’t securities “It is the Division’s view that transactions in the types of meme coins described…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084706057901764886",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2899"
+      }
+    },
+    {
+      "id": "2084704819357294698",
+      "is_retweet": true,
+      "original_author": "SpeechUnion",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T18:15:35+00:00",
+      "text": "RT @SpeechUnion: “As a writer and broadcaster in 2020s Britain, one almost expects the police eventually to arrive and allege some sort of thought crime, particularly if one writes about anti-Jewish racism and violence, free speech, the Middle East, Islam or trans issues. I write about all of them.” The Green Party is no friend of free speech. We saw that in its treatment of Dr Shahrar Ali, who was removed as the party’s Justice spokesperson and later expelled over his lawful gender-critical beliefs. Writing in The Spectator, Jonathan Sacerdoti recounts how the Green Party tried to have him arrested. One day, a plain-clothes police officer arrived at Jonathan’s door. As he points out, this was a rarity, given that nobody turned up when his car was broken into or when shoplifters threatened a local shop worker with a stolen bottle of wine. The officer suggested she come inside for a conversation. She informed Jonathan that she was there to invite him to a voluntary interview so he could give his “account”. The complaint related to a Green Party canvasser. Jonathan, the son of a Holocaust survivor, writes that he has become increasingly alarmed by the trajectory of the Green Party and the antisemitism emerging within it. Because he dared to challenge a representative of the party who appeared on his doorstep wearing a keffiyeh, he found himself facing a police visit. Jonathan had previously told another Green Party canvasser that he did not want the party canvassing at his home. It seems the Greens do not take kindly to voters who answer back and challenge them. The police officer also revealed something deeply concerning. It was not the woman in the keffiyeh who had made the harassment complaint. It was the earlier canvasser, who, the officer revealed, was then a Green Party candidate and is now a councillor. She alleged that Jonathan had called her “terrorist scum”, even though he had not. More troubling still, according to the officer, the Green Party appeared to have a “system” for collating intelligence about Jonathan. Jonathan writes, in response to the allegation of harassment: “Harassment in law requires a course of conduct involving at least two separate incidents, aimed at the same person. I didn’t know either woman, didn’t know where they lived or worked, or in fact anything about them other than their allegiance to the nasty party. They knew where I live, what I do, my ethnicity and religion, and even my husband’s name. I know who I think was harassing who.” After the officer left, Jonathan contacted his lawyer, who is funded by the Free Speech Union. He writes: “The complainant, whom they insisted on calling the ‘victim’, was pressing them to act, though the CPS itself recognised the weakness of an allegation with literally no evidence. Maybe, they said, I’d like to write a letter of regret, to make this all disappear? “Regret? For what? I’d broken no law. I declined. If ‘voluntary interviews’ and letters of regret are becoming the new tools for silencing lawful political speech, we must refuse them at every opportunity. “The irony is that the Green Party has shown far less sensitivity toward prejudice in its own ranks.” It is incredible that the police even investigated this. The Free Speech Union was pleased to have been able to help. Read more below 👇",
+      "summary": "RT @SpeechUnion: “As a writer and broadcaster in 2020s Britain, one almost expects the police eventually to arrive and allege some sort of thought…",
+      "url": "https://x.com/prestonjbyrne/status/2084704819357294698",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 389,
+        "replies": 0,
+        "quotes": 0,
+        "views": "290"
       }
     },
     {
@@ -1246,6 +1621,31 @@
       }
     },
     {
+      "id": "2084696433022607643",
+      "is_retweet": true,
+      "original_author": "boston_sense",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:42:16+00:00",
+      "text": "RT @boston_sense: Rarely lost for opinions, I’m truly baffled by which of these 2 guys is the biggest dope. @sethmoulton @SenMarkey Good grief MA voters. Just once try voting for a normal person like @DeatonforSenate. #mapoli #bospoli #magov",
+      "summary": "RT @boston_sense: Rarely lost for opinions, I’m truly baffled by which of these 2 guys is the biggest dope. @sethmoulton @SenMarkey Good grief MA…",
+      "url": "https://x.com/JohnEDeaton1/status/2084696433022607643",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 132,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3740"
+      }
+    },
+    {
       "id": "2084696031761953253",
       "is_retweet": true,
       "original_author": "DarlineGrahamSC",
@@ -1321,6 +1721,31 @@
       }
     },
     {
+      "id": "2084693278352441689",
+      "is_retweet": true,
+      "original_author": "glukianoff",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:29:43+00:00",
+      "text": "RT @glukianoff: A new @WSJ investigation describes ICE compiling dossiers, issuing subpoenas, and confronting critics. Among those featured is @theFIREorg client David Streever. His angry email to ICE’s director was harsh, but protected by the First Amendment. https://t.co/eE89JpxlqV",
+      "summary": "RT @glukianoff: A new @WSJ investigation describes ICE compiling dossiers, issuing subpoenas, and confronting critics. Among those featured is…",
+      "url": "https://x.com/prestonjbyrne/status/2084693278352441689",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "320"
+      }
+    },
+    {
       "id": "2084692220309811532",
       "is_retweet": false,
       "original_author": null,
@@ -1368,6 +1793,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "108"
+      }
+    },
+    {
+      "id": "2084687764637811025",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:07:49+00:00",
+      "text": "Bitcoin Twitter when they learned the word “entropy” this week https://t.co/aZAE4i7LlS",
+      "summary": "Bitcoin Twitter when they learned the word “entropy” this week https://t.co/aZAE4i7LlS",
+      "url": "https://x.com/HaileyLennonBTC/status/2084687764637811025",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 70,
+        "retweets": 1,
+        "replies": 9,
+        "quotes": 1,
+        "views": "2650"
       }
     },
     {
@@ -1443,6 +1893,31 @@
         "replies": 1,
         "quotes": 2,
         "views": "4110"
+      }
+    },
+    {
+      "id": "2084686540874166448",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:02:57+00:00",
+      "text": "I agree that Markey beats Moulton. I do believe it will be closer than many people think. All we heard last night were election-year slogans without a single solution.",
+      "summary": "I agree that Markey beats Moulton. I do believe it will be closer than many people think. All we heard last night were election-year slogans without…",
+      "url": "https://x.com/JohnEDeaton1/status/2084686540874166448",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31,
+        "retweets": 6,
+        "replies": 3,
+        "quotes": 0,
+        "views": "13224"
       }
     },
     {
@@ -1571,6 +2046,31 @@
       }
     },
     {
+      "id": "2084675442817036622",
+      "is_retweet": true,
+      "original_author": "BitcoinNewsCom",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T16:18:51+00:00",
+      "text": "RT @BitcoinNewsCom: COINKITE CTO ALLEGEDLY DISMISSED WARNING ABOUT FAULTY RNG CODE A YEAR BEFORE EXPLOIT New evidence suggests the pseudonymous switck account that wrote the LibNgU code at the center of the COLDCARD entropy failure was actually Coinkite co-founder and CTO Peter Gray. Researchers say Gray’s GPG key signed dozens of switck commits, with additional identifiers appearing to link the two identities. Bitcoin developer James O’Beirne (@jamesob) says he warned Coinkite in May 2025 that LibNgU’s RNG implementation looked suspicious and recommended removing it, but says he was told any issue would already have been discovered. Screenshots also show users questioning the LibNgU rewrite as early as April 2021. If these findings are accurate, it would mean the engineer who introduced the code later tied to the theft of more than 1,800 BTC also received a direct warning about the RNG implementation more than a year before the vulnerability was publicly disclosed.",
+      "summary": "RT @BitcoinNewsCom: COINKITE CTO ALLEGEDLY DISMISSED WARNING ABOUT FAULTY RNG CODE A YEAR BEFORE EXPLOIT New evidence suggests the pseudonymous…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084675442817036622",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 51,
+        "replies": 0,
+        "quotes": 0,
+        "views": "263"
+      }
+    },
+    {
       "id": "2084675318598562034",
       "is_retweet": false,
       "original_author": null,
@@ -1593,6 +2093,56 @@
         "replies": 6,
         "quotes": 0,
         "views": "1706"
+      }
+    },
+    {
+      "id": "2084674828657643778",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T16:16:25+00:00",
+      "text": "I always wished there was more guidance for new bitcoiners regarding self custody but as we are seeing, there is a ton of risk to personal capital if you go out on a limb and suggest a specific solution or product.",
+      "summary": "I always wished there was more guidance for new bitcoiners regarding self custody but as we are seeing, there is a ton of risk to personal capital if…",
+      "url": "https://x.com/HaileyLennonBTC/status/2084674828657643778",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 41,
+        "retweets": 1,
+        "replies": 14,
+        "quotes": 0,
+        "views": "3002"
+      }
+    },
+    {
+      "id": "2084672075105435696",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T16:05:28+00:00",
+      "text": "Clarity sets clear rules. Without them, the anti-crypto army runs rogue with lawsuits and investigations. The crypto community wants regulation, not regulation by enforcement. Clear rules protects consumers. Tell your Senator to pass Clarity: https://t.co/GzHabguvh1",
+      "summary": "Clarity sets clear rules. Without them, the anti-crypto army runs rogue with lawsuits and investigations. The crypto community wants regulation, not…",
+      "url": "https://x.com/CryptoLawUS/status/2084672075105435696",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 191,
+        "retweets": 63,
+        "replies": 4,
+        "quotes": 1,
+        "views": "9110"
       }
     },
     {
