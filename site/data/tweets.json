@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-05T09:14:18.900588+00:00",
-  "generated_at_unix": 1785921258,
+  "generated_at": "2026-08-05T12:14:40.048477+00:00",
+  "generated_at_unix": 1785932080,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-04T16:00:00+00:00",
-  "window_end": "2026-08-05T09:14:18.900588+00:00",
-  "new_this_run": 8,
-  "total_recent": 36,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-05T12:14:40.048477+00:00",
+  "new_this_run": 28,
+  "total_recent": 64,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,481 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2084975881500393575",
+      "is_retweet": true,
+      "original_author": "sonyasunkim",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T12:12:41+00:00",
+      "text": "RT @sonyasunkim: This proposal misses what the incremental ETH buyers (TradFi) actually want, while creating infighting among Ethereum’s long-term supporters (DeFi). It’s not clear to me who it’s supposed to serve. TradFi wants: - Yield: even inflationary yield. ETF issuers are increasingly excited about passing staking yield to holders - Revenue: Ethereum needs a clear line of sight to sustainable monetization - The real issue: incremental users/liquidity have been going to Base and Robinhood Chain, not mainnet. Better to focus on growth (driving mainnet onboarding and usage, or monetizing L2s) than on austerity DeFi cares about: - Native ETH yield, which makes up a real chunk of some app revenues. Killing it overnight alienates builders and long-term supporters - Credible neutrality: OGs are ideologues on this, and issuance being changeable by a few individuals undermines it",
+      "summary": "RT @sonyasunkim: This proposal misses what the incremental ETH buyers (TradFi) actually want, while creating infighting among Ethereum’s long-term…",
+      "url": "https://x.com/lex_node/status/2084975881500393575",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "317"
+      }
+    },
+    {
+      "id": "2084963615140950054",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T11:23:57+00:00",
+      "text": "RT @faryarshirzad: Disappointing to see the @WSJopinion – usually a champion of free markets and competition – abandon serious analysis, defend regulatory moats and recycle bank association talking points. Stablecoin rewards are subject to multiple restrictions under CLARITY, and are tied to customer activity. There is no evidence to support the “deposit flight” claims: three independent studies (including one from the White House @CEA47) have looked at this exhaustively. Plus, there's the fact that stablecoins and bank deposits have grown side by side for years - even without the restrictions banks successfully lobbied for in the bill. CLARITY also doesn’t give DeFi a free pass for criminals. It draws a bright line between writing code and running a financial intermediary – while fraud, sanctions, and money-laundering violations remain fully prosecutable. Americans deserve durable federal rules. They also deserve a more serious take from the @WSJ. The Senate should pass CLARITY.",
+      "summary": "RT @faryarshirzad: Disappointing to see the @WSJopinion – usually a champion of free markets and competition – abandon serious analysis, defend…",
+      "url": "https://x.com/NYcryptolawyer/status/2084963615140950054",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 57,
+        "replies": 0,
+        "quotes": 0,
+        "views": "54"
+      }
+    },
+    {
+      "id": "2084962432301089039",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T11:19:15+00:00",
+      "text": "RT @SenLummis: I agree with my friend and colleague, @SenatorHagerty. It's time to pass the Clarity Act and ensure that America leads the world in digital assets.",
+      "summary": "RT @SenLummis: I agree with my friend and colleague, @SenatorHagerty. It's time to pass the Clarity Act and ensure that America leads the world in…",
+      "url": "https://x.com/NYcryptolawyer/status/2084962432301089039",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 744,
+        "replies": 0,
+        "quotes": 0,
+        "views": "42"
+      }
+    },
+    {
+      "id": "2084961391929139539",
+      "is_retweet": true,
+      "original_author": "OisinKyne",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T11:15:07+00:00",
+      "text": "RT @OisinKyne: The least they could do is publish the math that shows solo stakers (that account for taxes) already spend ~70% of their rewards on costs and taxes, and under snail (different curve but close enough to their surprise new one) it goes >100% of rewards on costs and taxes. Of course we’ll lose solo stakers if this goes forward, we’ll also lose the majority of small delegate stake operators too, and Ethereum will be majority controlled by a handful of big orgs. No one has produced a model that says otherwise, they know this will happen, they just think it’s worth it for their unfounded belief that 50% stake ratio is the end of the world, and they’d rather Ethereum be centralised than exceed it. https://t.co/AI38FjMmB7",
+      "summary": "RT @OisinKyne: The least they could do is publish the math that shows solo stakers (that account for taxes) already spend ~70% of their rewards on…",
+      "url": "https://x.com/lex_node/status/2084961391929139539",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "503"
+      }
+    },
+    {
+      "id": "2084956919597347188",
+      "is_retweet": true,
+      "original_author": "MarcoWorms",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T10:57:20+00:00",
+      "text": "RT @MarcoWorms: me and the bois omw to proposing doubling the eth staking yield just to troll the people trying to reduce it",
+      "summary": "RT @MarcoWorms: me and the bois omw to proposing doubling the eth staking yield just to troll the people trying to reduce it",
+      "url": "https://x.com/lex_node/status/2084956919597347188",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "499"
+      }
+    },
+    {
+      "id": "2084955884128514292",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T10:53:14+00:00",
+      "text": "Terra peaked at 43% LUNA stake at something like 15% APR & 10,000 airdrop and liquidity mining schemes layered on top of staking while being the hottest ponzu in crypto...also having in-protocol delegation and in-protocol LST so less risk...also being in a low-interest-rate QE/covid subsidy macro environment that we'll probably never get again in our lifetimes... there is basically no reason to think ETH staking will ever get to 50% no less 100%, just a bunch of hysterical bullshit....",
+      "summary": "Terra peaked at 43% LUNA stake at something like 15% APR & 10,000 airdrop and liquidity mining schemes layered on top of staking while being the…",
+      "url": "https://x.com/lex_node/status/2084955884128514292",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 40,
+        "retweets": 2,
+        "replies": 16,
+        "quotes": 0,
+        "views": "2547"
+      }
+    },
+    {
+      "id": "2084945301329076504",
+      "is_retweet": true,
+      "original_author": "papa_raw",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T10:11:10+00:00",
+      "text": "RT @papa_raw: The ecosystem should absolutely be ready to organize a fork if this proposal gets anywhere near inclusion It is nothing less than the chat control of Ethereum: a massive, unwanted change (ex)-EF bureaucrats keep trying to shove \"for our own good\" while ignoring what users want",
+      "summary": "RT @papa_raw: The ecosystem should absolutely be ready to organize a fork if this proposal gets anywhere near inclusion It is nothing less than the…",
+      "url": "https://x.com/lex_node/status/2084945301329076504",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "556"
+      }
+    },
+    {
+      "id": "2084942118406037949",
+      "is_retweet": true,
+      "original_author": "_vshapovalov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:58:32+00:00",
+      "text": "RT @_vshapovalov: The thing I don't like most about cutting issuance discource is lack of positive vision for Ethereum validator set. Original design was not prescient enough, but has clear design goals: hundreds of thousands of individual stakers, running Ethereum all across the world. Status quo proponents also have a version of positive vision - e.g. Lido has built community staking, is decentralizing and geographically distributing validator set. We're successfully making a staking protocol that can bring Ethereum closer to original goals via opinionated, non-neutral decisions that base protocol can't adopt. Cutting is just \"do it or it's going to get worse\", no clear vision of good validator set we're solving for. They're given up on original vision, but don't want to clearly admit it and offer a new one.",
+      "summary": "RT @_vshapovalov: The thing I don't like most about cutting issuance discource is lack of positive vision for Ethereum validator set. Original design…",
+      "url": "https://x.com/lex_node/status/2084942118406037949",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "477"
+      }
+    },
+    {
+      "id": "2084936971294544105",
+      "is_retweet": true,
+      "original_author": "cryptographicas",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:38:04+00:00",
+      "text": "RT @cryptographicas: This is like if the fed cut rates in half because too many people bought treasuries, saving pennies in interest while trillions across repo and credit reprice. TLDR: amputate the leg to save on socks. https://t.co/jGHlyxR4s0",
+      "summary": "RT @cryptographicas: This is like if the fed cut rates in half because too many people bought treasuries, saving pennies in interest while trillions…",
+      "url": "https://x.com/lex_node/status/2084936971294544105",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "536"
+      }
+    },
+    {
+      "id": "2084936703077155001",
+      "is_retweet": true,
+      "original_author": "d_gusakov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:37:00+00:00",
+      "text": "RT @d_gusakov: If we let a small group of people make decisions on Ethereum's monetary policy, we lose the core value of Ethereum. The sentiment is clear. Ethereum community, developers, builders, and users do not support EIP-8361. Let's make sure it will never make it to the fork!",
+      "summary": "RT @d_gusakov: If we let a small group of people make decisions on Ethereum's monetary policy, we lose the core value of Ethereum. The sentiment is…",
+      "url": "https://x.com/lex_node/status/2084936703077155001",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "534"
+      }
+    },
+    {
+      "id": "2084933999693021574",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:26:16+00:00",
+      "text": "RT @StaniKulechov: Ethereum should not focus on gaming staking issuance and cutting staking rewards. That is not the problem Ethereum needs to solve. Ethereum is still an unfinished product when it comes to serving the financial system. At the protocol level, the priorities are privacy, scalability, and security. We need real breakthroughs and the leadership to deliver them. At the application layer, the focus should be on scaling the use cases Ethereum was built for: stablecoins, DeFi, and RWAs that bring the financial system onchain. We have achieved a lot over the past decade, but the last mile matters most.",
+      "summary": "RT @StaniKulechov: Ethereum should not focus on gaming staking issuance and cutting staking rewards. That is not the problem Ethereum needs to solve.…",
+      "url": "https://x.com/lex_node/status/2084933999693021574",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 48,
+        "replies": 0,
+        "quotes": 0,
+        "views": "470"
+      }
+    },
+    {
+      "id": "2084933945263579602",
+      "is_retweet": true,
+      "original_author": "Lomashuk",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:26:03+00:00",
+      "text": "RT @Lomashuk: 🍿 Interesting how researchers, aiming to cut issuance because they believe a 1% cut will push the price higher, are ready to destroy Ethereum's core proposition - decentralization - and as a result destroy far more value.",
+      "summary": "RT @Lomashuk: 🍿 Interesting how researchers, aiming to cut issuance because they believe a 1% cut will push the price higher, are ready to destroy…",
+      "url": "https://x.com/lex_node/status/2084933945263579602",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "500"
+      }
+    },
+    {
+      "id": "2084933892998349196",
+      "is_retweet": true,
+      "original_author": "0xKolten",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:25:50+00:00",
+      "text": "RT @0xKolten: Here’s my longer thoughts on why this is bad. First off, wtf? We’re in the middle of a DeFi and TradFi convergence that builders have been scratching and clawing towards for a decade, primarily centered around yield, and we’re proposing nuking the underlying engine? The staking yield is the base rate of DeFi and everything prices off it. Lending rates, vault strategies, the cost of borrowing stablecoins against ETH collateral, all of it references the staking rate as the floor. This proposal tapers that floor to zero, and when the yield on staked ETH drops below the cost to borrow it, the looping strategies that generate the majority of ETH borrow demand invert. Borrowers will unwind, borrow demand will collapse, LSTs lose the yield that made them worth holding over plain ETH, stablecoin borrowers who were quietly offsetting interest costs with staking yield face a higher real cost, utilization drops, and suppliers earn less. You pull one rate out of the system and every market built on top of it reprices, because they were all referencing the same floor that no longer exists. Once that happens, the rest of DeFi will start to compress in tandem as liquidity exits the system and causes downstream issues that I couldn’t begin to scope out here. Also, this should be obvious, but solo stakers are the ones who depend on issuance more than anyone else, so compressing the yield pushes them out first. Is that what we want? BlackRock, Grayscale, Fidelity, and others are building products on Ethereum that depend on the staking yield to attract capital, institutional allocators are finally looking at onchain credit as a serious venue, and we are at the exact point on the adoption curve where the next wave of capital is arriving. Implementing this guarantees that we ruin everything that DeFi has built towards.",
+      "summary": "RT @0xKolten: Here’s my longer thoughts on why this is bad. First off, wtf? We’re in the middle of a DeFi and TradFi convergence that builders have…",
+      "url": "https://x.com/lex_node/status/2084933892998349196",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "501"
+      }
+    },
+    {
+      "id": "2084933879341756440",
+      "is_retweet": true,
+      "original_author": "rostyketh",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:25:47+00:00",
+      "text": "RT @rostyketh: It looks like they united everyone in Ethereum around this proposal I didn’t see a single positive tweet about it on the timeline This shouldn’t pass, very surprised it comes from Justin, I am his biggest fun",
+      "summary": "RT @rostyketh: It looks like they united everyone in Ethereum around this proposal I didn’t see a single positive tweet about it on the timeline This…",
+      "url": "https://x.com/lex_node/status/2084933879341756440",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "521"
+      }
+    },
+    {
+      "id": "2084931742171840539",
+      "is_retweet": true,
+      "original_author": "d_gusakov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T09:17:18+00:00",
+      "text": "RT @d_gusakov: Any curve that brings staking yield to zero earlier than at 100% staked is essentially a centralization tool. It is simple. Reaching 100% staked is practically infeasible, but if it does, there is no point in paying for staking anymore. Hence, a curve that goes to zero at 100% staked could be at least considered reasonable. What about any curve that zeroes out staking rewards for all stakers at N < 100%? Simple again! What we will see is a survival game. If we assume there is demand to stake more than 50% of ETH (as all issuance proposals do), then the staking ratio will get as close as possible to 50% or even reach 50%. And then we wait. We wait for the small players to die out or just quit staking. While institutions like BitMine will be able to afford zero staking rewards for long enough so that others will leave and staking rewards will become positive again. Now ask yourself, is it what we really want? As a person who devoted the last 5 years of my life to Ethereum decentralization improvement and strengthening, I take this proposal as a clear signal that its authors are against decentralized Ethereum!",
+      "summary": "RT @d_gusakov: Any curve that brings staking yield to zero earlier than at 100% staked is essentially a centralization tool. It is simple. Reaching…",
+      "url": "https://x.com/lex_node/status/2084931742171840539",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "592"
+      }
+    },
+    {
+      "id": "2084926267950850060",
+      "is_retweet": true,
+      "original_author": "CodyCarboneDC",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T08:55:32+00:00",
+      "text": "RT @CodyCarboneDC: Misinformed and factually incorrect. This is extremely disappointing from the WSJ and begs the question of motive of something so riddled with misinformation. There is no evidence of deposit flight for small banks from stablecoin rewards. Furthermore, this bill specifically prohibits rewards that are functionally and economically similar to an interest bearing deposit. And I don’t know how to make this any clearer, but developers and infrastructure providers that do not custody funds should not be treated like banks. Those building the tools are wildly different than those running the banks.",
+      "summary": "RT @CodyCarboneDC: Misinformed and factually incorrect. This is extremely disappointing from the WSJ and begs the question of motive of something so…",
+      "url": "https://x.com/NYcryptolawyer/status/2084926267950850060",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "63"
+      }
+    },
+    {
+      "id": "2084843594041483272",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T03:27:01+00:00",
+      "text": "RT @EleanorTerrett: Procedural matters related to the ongoing CR would explain why Leader Thune didn’t file cloture on the motion to proceed to the Clarity Act this evening, though not having the votes and major issues still being debated likely also factored in. Once the procedural matters on the CR are resolved, it leaves room for Thune to file cloture as soon as tomorrow (increasingly the expectation), which would put a potential Clarity Act vote on the schedule 30 hours after he files. Again, how this all shakes out is anyone’s guess given the bill’s outstanding issues, which include the lack of a bipartisan ethics agreement (still silence from the White House) and disagreements still brewing over the BRCA, but I’m hearing from a lot of folks that at this point there’s also a desire just to get members on the record, even if the bill fails.",
+      "summary": "RT @EleanorTerrett: Procedural matters related to the ongoing CR would explain why Leader Thune didn’t file cloture on the motion to proceed to the…",
+      "url": "https://x.com/NYcryptolawyer/status/2084843594041483272",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 239,
+        "replies": 0,
+        "quotes": 0,
+        "views": "70"
+      }
+    },
+    {
+      "id": "2084817707682169313",
+      "is_retweet": true,
+      "original_author": "IsdrsP",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T01:44:10+00:00",
+      "text": "RT @IsdrsP: I think that EIP 8361 tries to do too many things (increasing the moneyness of ETH, pre-empting remotely possible future decreases security due to overstake, protecting solo stakers, etc) at once and in my estimation will mostly do the opposite. I honestly believe that issuance change is too complicated to treat with this urgency, that the far-future concerns are drastically overblown, and it's very bad timing to introduce such a divisive proposal, especially in such a way. It has also been pushed last minute in an attempt to squeeze into Hegota (still subject to the EIP Inclusion process), even though potential issuance changes had been communicated as per the current strawmap to be slated for I* at the earliest. IMO, this proposal lays Ethereum's hard-fought uniqueness (real decentralization and neutrality) at the sacrificial altar of ETH as money, camouflaged against an insufficiently scrutinized concept of \"minimally viable\" security spend. Unfortunately, it also doesn't come to terms with the fact the moral hazard of a \"too big to fail\" event is not necessarily mitigated by limiting staking adoption, only displaced, as ETH seeking yield will mostly just go to more risky and likely custodial solutions, in my estimation thereby increasing the likelihood of such an event. Apart from misgivings around the governance and consensus (or lack thereof, given its wide-reaching scope and implications) process around this proposal, I find that the selective supporting research is too theoretical and is lacking from a macro, micro and behavioral economic modeling perspective, especially with regards to 2nd and 3rd order effects. This applies to especially to two aspects: 1) one of the central theses around the urgent concern about the stake rate (which is lower than most other PoS networks which are mostly fine) that also hinges on the idea that just because issuance is positive at 100% stake then there's necessarily incentive to do so (ignoring years of economic history and literature which illustrate that demand is actually expressed as a complex function of utility, and not merely purely theoretic expected value, and strong contra examples such as USD as cash/savings vs T-Bills); and 2) on the effect of drastically reduced issuance (and real validator rewards) on the resulting validator set, and the negative externalities that will be born out of this material change in monetary policy (and possible further changes which might be required for correction). Due to the new proposed curve a very real possibility of a sustained equilibrium at or near 50% of Ethereum staked with 0 nominal (nevermind real) yield is now possible, which would essentially be a death-knell for the security of the network, as node operators and staking protocols which prioritize expertise, decentralization, and expensive know-how are priced out and large, centralized, minimal-cost parties take over the operation of the overwhelming majority of the network's validators. Unfortunately, at current ETH/USD prices, such a scenario isn't even necessary for this proposed issuance change to lead to a large consolidation of the operator set, which would drastically lower the network's Nakamoto coefficient and thus its resilience. In an eventuality where few actors are allowed to control one of the fundamental levers of the network -- determining its security (i.e. control of fork choice) -- by simply being able to offer staking at break-even or at a loss for long enough to price most other actors out of the market, what will be left of Ethereum's neutrality when the only recourse (now made ever-more necessary) will be a substantial and messy social slashing? Not much. I'm not against an issuance reduction in general; I am against an issuance reduction without centering on the core questions, and giving the community adequate time, tools, and analysis to be able to consider the bevy of implications. To me these core questions are: * What is the right amount of economic security given that we want Ethereum to be the centerpiece of onchain finance? A minimum viable security approach here doesn't cut it -- nation states don't think this way and the largest financial network in the world shouldn't either * What is the effect of the market structures generated by any issuance curve, the relevant expected prices of operation (eg in ETH/fiat terms), and the effect of issuance changes -- and their consequences -- on demand for the asset, especially on the underlying validator and node operator set? * How does the network retain its neutrality, utility, and demand, if social slashing is utilized not in the same way that nuclear arms are (as a last-measure deterrent) but rather as as the go-to solution for problems created by the network's own security paradigm? * Why do we honestly believe that the terminal staking rate is in the high double digits? What practical economic modelling or historical indicators are there to point towards this? * Are we okay with a hyper-centralized validator set just because if they misbehave we will socially slash them? Why have PoS at all then and not just go to PoA or PoG?",
+      "summary": "RT @IsdrsP: I think that EIP 8361 tries to do too many things (increasing the moneyness of ETH, pre-empting remotely possible future decreases…",
+      "url": "https://x.com/lex_node/status/2084817707682169313",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "631"
+      }
+    },
+    {
+      "id": "2084817522851819522",
+      "is_retweet": true,
+      "original_author": "folkyatina",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T01:43:26+00:00",
+      "text": "RT @folkyatina: This &gt;this proposal lays Ethereum's hard-fought uniqueness (real decentralization and neutrality) at the sacrificial altar of ETH as money, camouflaged against an insufficiently scrutinized concept of \"minimally viable\" security spend.",
+      "summary": "RT @folkyatina: This &gt;this proposal lays Ethereum's hard-fought uniqueness (real decentralization and neutrality) at the sacrificial altar of ETH…",
+      "url": "https://x.com/lex_node/status/2084817522851819522",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "572"
+      }
+    },
     {
       "id": "2084816234013466917",
       "is_retweet": true,
@@ -251,6 +721,31 @@
       }
     },
     {
+      "id": "2084765148405698569",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RSSH273",
+      "display_name": "Rodrigo",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T22:15:19+00:00",
+      "text": "Its been an honor to work w/ @BirchHill_io from day one as they scale their vault platform w/ a compliance-first approach Also, credit to the inimitable @HesterPeirce and the rest of the staff who are committed to working w/ industry to provide a path for crypto to develop within the regulatory perimeter",
+      "summary": "Its been an honor to work w/ @BirchHill_io from day one as they scale their vault platform w/ a compliance-first approach Also, credit to the…",
+      "url": "https://x.com/RSSH273/status/2084765148405698569",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1465"
+      }
+    },
+    {
       "id": "2084757816049311941",
       "is_retweet": true,
       "original_author": "PeteHegseth",
@@ -451,6 +946,31 @@
       }
     },
     {
+      "id": "2084728114458796385",
+      "is_retweet": true,
+      "original_author": "_jikim",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T19:48:09+00:00",
+      "text": "RT @_jikim: How do we stop another FTX? Pass CLARITY. FTX was a horrific fraud, and the answer can't be to let the status quo persist. @crypto_council mapped every regulatory gap that unfortunately made FTX possible. CLARITY closes every single one. The time is now for CLARITY.",
+      "summary": "RT @_jikim: How do we stop another FTX? Pass CLARITY. FTX was a horrific fraud, and the answer can't be to let the status quo persist.…",
+      "url": "https://x.com/MinarikLaw/status/2084728114458796385",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "14"
+      }
+    },
+    {
       "id": "2084726325542039662",
       "is_retweet": false,
       "original_author": null,
@@ -576,6 +1096,106 @@
       }
     },
     {
+      "id": "2084712331943022700",
+      "is_retweet": true,
+      "original_author": "ohaiom",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T18:45:26+00:00",
+      "text": "RT @ohaiom: @amandalfischer @NYcryptolawyer @leereiners The \"semantics error\" is referring to them as \"crypto asset securities\" (which makes no sense). The real question is whether there were investment contracts - which the court held (unsurprisingly) was a question to be determined after discovery. So ... I stand by my point.",
+      "summary": "RT @ohaiom: @amandalfischer @NYcryptolawyer @leereiners The \"semantics error\" is referring to them as \"crypto asset securities\" (which makes no…",
+      "url": "https://x.com/NYcryptolawyer/status/2084712331943022700",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "97"
+      }
+    },
+    {
+      "id": "2084707616282816913",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T18:26:42+00:00",
+      "text": "RT @CoinDesk: 🎥 @renato_mariotti says the CFTC has ordered George Santos to disgorge $17,000 in profit and pay a $17,500 fine for insider trading on a State of the Union prediction market on Kalshi. He publicly said he'd attend. Then bet on himself not showing up. https://t.co/5DeQQm0ZRD",
+      "summary": "RT @CoinDesk: 🎥 @renato_mariotti says the CFTC has ordered George Santos to disgorge $17,000 in profit and pay a $17,500 fine for insider trading on…",
+      "url": "https://x.com/RebeccaRettig1/status/2084707616282816913",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "67"
+      }
+    },
+    {
+      "id": "2084707490717900995",
+      "is_retweet": true,
+      "original_author": "jtx_trade",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T18:26:12+00:00",
+      "text": "RT @jtx_trade: Orderbook view is now live, including for pairs that have never had a book, exclusively on JTX. A familiar view, now for onchain pools. See real, routable onchain liquidity aggregated from supported DEXs and PropAMMs, all in one book. https://t.co/IpmFZ41asj",
+      "summary": "RT @jtx_trade: Orderbook view is now live, including for pairs that have never had a book, exclusively on JTX. A familiar view, now for onchain…",
+      "url": "https://x.com/RebeccaRettig1/status/2084707490717900995",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "89"
+      }
+    },
+    {
+      "id": "2084700858185302363",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:59:51+00:00",
+      "text": "RT @laurashin: Tuongvy Le on the legal gray area around hardware wallet exploits \"I find this incident really fascinating because I'm sure the three of us have been thinking about things like, what duty does a hardware wallet manufacturer owe to its users? If there's a defect in the firmware that makes users less secure than they were promised, what legal framework even applies here? Are we talking about negligence, product liability, consumer protection laws, breach of warranty, or something else? These naturally came to mind for me as a lawyer\" \"The other issue is disclosure. There are conflicting reports coming out, but if Coldcard had become aware of this flaw, does it have a duty to tell users? And how do you communicate that risk?\" \"Once the flaw exists, it might not be enough to just update the software. You might need to actually recall the devices and require users to migrate their assets to entirely new wallets\"",
+      "summary": "RT @laurashin: Tuongvy Le on the legal gray area around hardware wallet exploits \"I find this incident really fascinating because I'm sure the three…",
+      "url": "https://x.com/TuongvyLe12/status/2084700858185302363",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "43"
+      }
+    },
+    {
       "id": "2084697564130197941",
       "is_retweet": false,
       "original_author": null,
@@ -623,6 +1243,31 @@
         "replies": 5,
         "quotes": 0,
         "views": "1965"
+      }
+    },
+    {
+      "id": "2084696031761953253",
+      "is_retweet": true,
+      "original_author": "DarlineGrahamSC",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:40:40+00:00",
+      "text": "RT @DarlineGrahamSC: The Senate must deliver a product to the American people that protects consumers, provides law enforcement with the tools they need, and creates regulatory certainty so that the digital asset industry can continue to innovate here in the United States. President Trump through his work with the House and Senate has given us that opportunity through the Clarity Act, and it is time to act now on the Senate floor. I stand with President Trump to deliver for the American people. The Clarity Act is part of the President’s mission to keep American innovation built here at home, and South Carolina will be part of getting it across the finish line. I stand ready to support Chairman Tim Scott, Senator Lummis, and President Trump to create market structure and get this important priority done.",
+      "summary": "RT @DarlineGrahamSC: The Senate must deliver a product to the American people that protects consumers, provides law enforcement with the tools they…",
+      "url": "https://x.com/NYcryptolawyer/status/2084696031761953253",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 255,
+        "replies": 0,
+        "quotes": 0,
+        "views": "105"
       }
     },
     {
@@ -698,6 +1343,31 @@
         "replies": 4,
         "quotes": 2,
         "views": "4599"
+      }
+    },
+    {
+      "id": "2084688472690827617",
+      "is_retweet": true,
+      "original_author": "renato_mariotti",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T17:10:38+00:00",
+      "text": "RT @renato_mariotti: Former Congressman George Santos traded a contract on whether George Santos would show up at the State of the Union. The CFTC just showed how it polices prediction market contracts that settle on the conduct of the people trading them. @RebeccaRettig1 and I discussed on @CoinDesk The Policy Protocol.",
+      "summary": "RT @renato_mariotti: Former Congressman George Santos traded a contract on whether George Santos would show up at the State of the Union. The CFTC…",
+      "url": "https://x.com/RebeccaRettig1/status/2084688472690827617",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "108"
       }
     },
     {
@@ -873,6 +1543,31 @@
         "replies": 5,
         "quotes": 0,
         "views": "1910"
+      }
+    },
+    {
+      "id": "2084675695360274913",
+      "is_retweet": true,
+      "original_author": "xethalis",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T16:19:51+00:00",
+      "text": "RT @xethalis: KK is the best of us. Massive get for Ben and the @chainlink Team.",
+      "summary": "RT @xethalis: KK is the best of us. Massive get for Ben and the @chainlink Team.",
+      "url": "https://x.com/NYcryptolawyer/status/2084675695360274913",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "112"
       }
     },
     {
