@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-08-05T06:16:34.337189+00:00",
-  "generated_at_unix": 1785910594,
+  "generated_at": "2026-08-05T09:14:18.900588+00:00",
+  "generated_at_unix": 1785921258,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-04T16:00:00+00:00",
-  "window_end": "2026-08-05T06:16:34.337189+00:00",
-  "new_this_run": 18,
-  "total_recent": 28,
+  "window_end": "2026-08-05T09:14:18.900588+00:00",
+  "new_this_run": 8,
+  "total_recent": 36,
   "errors": [
     {
-      "username": "SECGov",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "VP",
+      "username": "RoKhanna",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -80,6 +76,56 @@
       }
     },
     {
+      "id": "2084808543161499769",
+      "is_retweet": true,
+      "original_author": "lindsayfraser0",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-05T01:07:45+00:00",
+      "text": "RT @lindsayfraser0: 1/ Today’s @WSJ editorial makes the case for the Clarity Act’s core framework. But it gets two of the most carefully negotiated provisions wrong: stablecoin rewards and DeFi. The Clarity Act neither authorizes bank deposits by another name nor exempts financial intermediaries simply because they use blockchain technology.",
+      "summary": "RT @lindsayfraser0: 1/ Today’s @WSJ editorial makes the case for the Clarity Act’s core framework. But it gets two of the most carefully negotiated…",
+      "url": "https://x.com/BlockchainAssn/status/2084808543161499769",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "559"
+      }
+    },
+    {
+      "id": "2084808419551191204",
+      "is_retweet": true,
+      "original_author": "lindsayfraser0",
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-05T01:07:15+00:00",
+      "text": "RT @lindsayfraser0: 1/ Today’s @WSJ editorial makes the case for the Clarity Act’s core framework. But it gets two of the most carefully negotiated provisions wrong: stablecoin rewards and DeFi. The Clarity Act neither authorizes bank deposits by another name nor exempts financial intermediaries simply because they use blockchain technology.",
+      "summary": "RT @lindsayfraser0: 1/ Today’s @WSJ editorial makes the case for the Clarity Act’s core framework. But it gets two of the most carefully negotiated…",
+      "url": "https://x.com/KristinSmith/status/2084808419551191204",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "267"
+      }
+    },
+    {
       "id": "2084799878140485646",
       "is_retweet": true,
       "original_author": "milesjennings",
@@ -102,6 +148,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "8742"
+      }
+    },
+    {
+      "id": "2084788017730920912",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-04T23:46:11+00:00",
+      "text": "RT @faryarshirzad: Disappointing to see the @WSJopinion – usually a champion of free markets and competition – abandon serious analysis, defend regulatory moats and recycle bank association talking points. Stablecoin rewards are subject to multiple restrictions under CLARITY, and are tied to customer activity. There is no evidence to support the “deposit flight” claims: three independent studies (including one from the White House @CEA47) have looked at this exhaustively. Plus, there's the fact that stablecoins and bank deposits have grown side by side for years - even without the restrictions banks successfully lobbied for in the bill. CLARITY also doesn’t give DeFi a free pass for criminals. It draws a bright line between writing code and running a financial intermediary – while fraud, sanctions, and money-laundering violations remain fully prosecutable. Americans deserve durable federal rules. They also deserve a more serious take from the @WSJ. The Senate should pass CLARITY.",
+      "summary": "RT @faryarshirzad: Disappointing to see the @WSJopinion – usually a champion of free markets and competition – abandon serious analysis, defend…",
+      "url": "https://x.com/standwithcrypto/status/2084788017730920912",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 53,
+        "replies": 0,
+        "quotes": 0,
+        "views": "313"
+      }
+    },
+    {
+      "id": "2084774414890021250",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-04T22:52:08+00:00",
+      "text": "So not only do these op ed authors not know how decentralized networks work (not at all like publicly traded centralized company eBay), they also didn’t read the Clarity Act / are just misrepresenting its provisions.",
+      "summary": "So not only do these op ed authors not know how decentralized networks work (not at all like publicly traded centralized company eBay), they also…",
+      "url": "https://x.com/amandatums/status/2084774414890021250",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 60,
+        "retweets": 7,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3716"
       }
     },
     {
@@ -230,6 +326,31 @@
       }
     },
     {
+      "id": "2084751852428464569",
+      "is_retweet": true,
+      "original_author": "phylaxsystems",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-04T21:22:29+00:00",
+      "text": "RT @phylaxsystems: Today we’re shipping an update to the Phylax app to make the following questions easier to answer for inquiring users: What security properties is a protocol trying to preserve? What can cause irreversible damage? What mechanisms are in place to prevent swift and irreversible changes?",
+      "summary": "RT @phylaxsystems: Today we’re shipping an update to the Phylax app to make the following questions easier to answer for inquiring users: What…",
+      "url": "https://x.com/NeerajKA/status/2084751852428464569",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "343"
+      }
+    },
+    {
       "id": "2084735431048831340",
       "is_retweet": false,
       "original_author": null,
@@ -277,6 +398,31 @@
         "replies": 814,
         "quotes": 73,
         "views": "244565"
+      }
+    },
+    {
+      "id": "2084733620632350722",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-04T20:10:02+00:00",
+      "text": "Today, @SummerMersinger joined @BloombergTV’s @crypto to make the case for Senate action on the Clarity Act before the August recess. The finish line is within reach. Visit https://t.co/5jmWH4UVse and urge the Senate to bring the bill to the floor. Watch the full interview: https://t.co/0q3RRyUTP5",
+      "summary": "Today, @SummerMersinger joined @BloombergTV’s @crypto to make the case for Senate action on the Clarity Act before the August recess. The finish line…",
+      "url": "https://x.com/BlockchainAssn/status/2084733620632350722",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1720"
       }
     },
     {
@@ -530,6 +676,31 @@
       }
     },
     {
+      "id": "2084692220309811532",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-04T17:25:31+00:00",
+      "text": "It's time for Clarity for America. Clear rules protect consumers, keep jobs and investment here, and give companies a reason to build and hire here in the United States. Our CEO @SummerMersinger on why the Senate must act now, today in @dcexaminer: https://t.co/R5J2czpaAS",
+      "summary": "It's time for Clarity for America. Clear rules protect consumers, keep jobs and investment here, and give companies a reason to build and hire here…",
+      "url": "https://x.com/BlockchainAssn/status/2084692220309811532",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 64,
+        "retweets": 10,
+        "replies": 4,
+        "quotes": 2,
+        "views": "4599"
+      }
+    },
+    {
       "id": "2084687728130843079",
       "is_retweet": false,
       "original_author": null,
@@ -652,6 +823,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "1554"
+      }
+    },
+    {
+      "id": "2084677557652210090",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-04T16:27:15+00:00",
+      "text": "From Alaska to Maryland to Pennsylvania and across the country, SWC Advocates and Presidents spent all of July calling their senators, hosting events educating their community on the CLARITY Act, and pushing for the Senate to get it done. https://t.co/ONBhLypxRc",
+      "summary": "From Alaska to Maryland to Pennsylvania and across the country, SWC Advocates and Presidents spent all of July calling their senators, hosting events…",
+      "url": "https://x.com/standwithcrypto/status/2084677557652210090",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 167,
+        "retweets": 38,
+        "replies": 6,
+        "quotes": 2,
+        "views": "4322"
       }
     },
     {
