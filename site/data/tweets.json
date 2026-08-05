@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-05T15:00:05.496560+00:00",
-  "generated_at_unix": 1785942005,
+  "generated_at": "2026-08-05T18:00:04.885604+00:00",
+  "generated_at_unix": 1785952804,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-04T16:00:00+00:00",
-  "window_end": "2026-08-05T15:00:05.496560+00:00",
-  "new_this_run": 22,
-  "total_recent": 86,
-  "errors": [],
+  "window_end": "2026-08-05T18:00:04.885604+00:00",
+  "new_this_run": 34,
+  "total_recent": 120,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,431 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2085061878523564269",
+      "is_retweet": true,
+      "original_author": "bitsandbips",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T17:54:25+00:00",
+      "text": "RT @bitsandbips: Cold storage was supposed to be the safe option. 🔓 👉A 2021 firmware bug broke Coldcard's random number generator 👉Over $100 million in Bitcoin gone across three confirmed waves 👉A possible fourth wave still unconfirmed @austincampbell, @ramahluwalia, and @perkinscr97 sit with @intangiblecoins on the new Bits + Bips. https://t.co/BTylkTjawC",
+      "summary": "RT @bitsandbips: Cold storage was supposed to be the safe option. 🔓 👉A 2021 firmware bug broke Coldcard's random number generator 👉Over $100 million…",
+      "url": "https://x.com/laurashin/status/2085061878523564269",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "641"
+      }
+    },
+    {
+      "id": "2085061776241262864",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T17:54:00+00:00",
+      "text": "Longer thread on why 'legitimate' crypto use cases never take off. Lets imagine a real use case of crypto built around social participation in a common enterprise. For this example, lets assume a communal dog-walking platform is a legitimately wholesome and workable enterprise. Adam creates DogeWalk, a fun application for dogowners and dog lovers around the world to connect and dog lovers can sign up to walk the dogs of the dogowners. In order to maintain trust but anonymity amongst the participants, Adam decides to incorporate crypto into DogeWalk, allowing crypto payments and Walk points, a reputation system which supports the legitimacy of the participant. DogeWalk takes off amongst a community of dogwalkers. Turns out that there is legitimate demand for people to walk dogs in an anonymous manner. Adam makes some money from platform fees charged on his some 1,000 users. Bob sees DogeWalk taking off and sees an opportunity. He creates PupStroll as a competitor to DogeWalk and informs the PupStroll users that they can get a piece of PupStroll! Instead of giving all the fees to Adam, together they can share in the decentralized ownership of a dog walking platform! PupStroll is almost exactly like DogeWalk, except PupStroll users get Stroll points, and a referral link. DogeWalk users start moving to PupStroll. PupStroll does a token launch and suddenly everyone is talking about how the future of dog walking is decentralized. People who have never walked a dog in their lives start signing up with PupStroll to walk dogs and farm season 2 of the STROLL airdrop. Charlie sees PupStroll take off and trade at an implied FDV of 20m with 5,000 users. He raises $500,000 from a venture capital fund BrandName Capital by selling 10% of the future supply of HoundTrek. HoundTrek is almost exactly like PupStroll except it has a slightly cooler 'dark mode' UI. Charlie proudly announces his funding round and launches an aggressive points and referral programme. He even provides zero fees and bonus payments, funded from BrandName Capital's investment. PupStroll's users start moving over to HoundTrek given the economic incentives. The price of STROLL declines and angry purchasers of STROLL begin yelling at Bob for not keeping up with HoundTrek. Bob simply does not have the firepower to match. PupStroll's users give up on season 2. HoundTrek announces a second funding round right before TGE, led by DarkArts Capital. DarkArts Capital purchases another 10% of TREK allegedly at a valuation of $20,000,000 but really at a valuation of $10,000,000. HoundTrek launches the TREK token which opens at 25m FDV alongside a small airdrop. The TREK token climbs steadily upward for a while as Charlie uses the funds raised to provide price support while paying for marketing. When the token reaches 100m FDV, DarkArts Capital and BrandName Capital take profit on the token. Number goes down. Everyone gets mad at BrandName Capital and DarkArts Capital. David who sees all these play out, realizes that there is an opportunity. \"Tis all the fault of the greedy venture capital funds!\" he says. We need \"true community ownership!\" With that, he opens a funding round for WanderPooch via an 'ICO', valuing WanderPooch at 'only 10m'. He raises 2m of capital. David knows nothing about dogs nor dogwalking platforms. He simply pays himself the money and shuts down the project after a year. Eugene is a former venture capital hotshot. He pulls together a coalition of his VC friends and raises 10m at a 100m valuation to break the dogwalking industry once and for all. CanineHike is the cleanest dogwalking application ever, and in order to generate demand on both sides, he even invests the money into cute dogs for dogwalkers to walk! He pays ever KOL that was early to PupStroll, promising them both money and tokens for writing long threads on why decentralized dogwalking will work this time. To increase platform metrics, Eugene even pays an agency which hires homeless people to walk dogs on CanineHike! Eugene doesn't even like dogs but the marketing works. On TGE, the token trades at 1bn FDV through clever supply control, marketing and a limited airdrop. Eugene dangles a season 2, while amplifying those who made life changing money farming the airdrop. Meanwhile him and his VC friends sell locked tokens at a 60% discount on secondaries. Within 6 months, the HIKE token declines in price. And at the end of it all, decentralised dog walking is decried as a scam by retail users who do not like dogs as they scream at builders who do not like dogs who have been funded by investors who do not like dogs. As for Adam and the people that actually wanted to walk dogs? Yeah they just do it between themselves in hobbyist groups now and will never touch crypto again.",
+      "summary": "Longer thread on why 'legitimate' crypto use cases never take off. Lets imagine a real use case of crypto built around social participation in a…",
+      "url": "https://x.com/wassielawyer/status/2085061776241262864",
+      "type": "quote",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 2,
+        "replies": 3,
+        "quotes": 0,
+        "views": "246"
+      }
+    },
+    {
+      "id": "2085058533620601299",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T17:41:07+00:00",
+      "text": "According to Alex Thorn ( @intangiblecoins ), if wave three shares an operator with waves one and two, \"the attacker demonstrably changed their operational process,\" moving from bulk collector addresses to 293 individual victim vaults. 🔎 A real shift in tradecraft. https://t.co/TnxCBiJNbF",
+      "summary": "According to Alex Thorn ( @intangiblecoins ), if wave three shares an operator with waves one and two, \"the attacker demonstrably changed their…",
+      "url": "https://x.com/laurashin/status/2085058533620601299",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "1256"
+      }
+    },
+    {
+      "id": "2085054363660132463",
+      "is_retweet": true,
+      "original_author": "RWrasse",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T17:24:33+00:00",
+      "text": "RT @RWrasse: Senate watchers: In terms of next steps, we've got cloture/confirmation of the en bloc package of 74 nominees, cloture/adoption of the substitute amendment to the CR, cloture/adoption of the underlying vehicle for the CR, cloture on the bipartisan NIL bill, and, depending on how that vote concludes, either proceed to NIL or vote on the motion to invoke cloture on the Blanche nomination. Doing these items alone, absent a time agreement, would take us well into next week. Conversations continue on additional items, including market structure and a budget resolution.",
+      "summary": "RT @RWrasse: Senate watchers: In terms of next steps, we've got cloture/confirmation of the en bloc package of 74 nominees, cloture/adoption of the…",
+      "url": "https://x.com/EleanorTerrett/status/2085054363660132463",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 26,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5782"
+      }
+    },
+    {
+      "id": "2085035854612033667",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T16:11:00+00:00",
+      "text": "A 2021 firmware bug just cost cold storage holders over $100 million, and the thief is still active. On the new Bits + Bips, @austincampbell, @ramahluwalia, and @perkinscr97 sit down with @intangiblecoins, who has been tracing the Coldcard hack wave by wave. 🔐 https://t.co/OnBJrAng0X",
+      "summary": "A 2021 firmware bug just cost cold storage holders over $100 million, and the thief is still active. On the new Bits + Bips, @austincampbell,…",
+      "url": "https://x.com/laurashin/status/2085035854612033667",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2247"
+      }
+    },
+    {
+      "id": "2085033830520676689",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T16:02:57+00:00",
+      "text": "⚖️ You did everything right, followed self-custody 101, and still lost your bitcoin. Now three crypto general counsels say victims of the $100M+ Coldcard hack may have no one to sue. https://t.co/z1SjfHPcSw",
+      "summary": "⚖️ You did everything right, followed self-custody 101, and still lost your bitcoin. Now three crypto general counsels say victims of the $100M+…",
+      "url": "https://x.com/laurashin/status/2085033830520676689",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2191"
+      }
+    },
+    {
+      "id": "2085031116470133064",
+      "is_retweet": true,
+      "original_author": "frankthorp",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:52:10+00:00",
+      "text": "RT @frankthorp: Leader THUNE on how it’s going trying to get everything they want done before they leave for the August recess: “It’s kind of a train wreck, isn’t it?”",
+      "summary": "RT @frankthorp: Leader THUNE on how it’s going trying to get everything they want done before they leave for the August recess: “It’s kind of a train…",
+      "url": "https://x.com/EleanorTerrett/status/2085031116470133064",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7366"
+      }
+    },
+    {
+      "id": "2085028178251452904",
+      "is_retweet": true,
+      "original_author": "SenToomey",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-05T15:40:30+00:00",
+      "text": "RT @SenToomey: 1/ The editorial page of the WSJ is usually a great defender of free markets and economic competition. It’s a shame to see them take the side of regulatory protectionism in their op-ed on the CLARITY Act.",
+      "summary": "RT @SenToomey: 1/ The editorial page of the WSJ is usually a great defender of free markets and economic competition. It’s a shame to see them take…",
+      "url": "https://x.com/milesjennings/status/2085028178251452904",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 31,
+        "replies": 0,
+        "quotes": 0,
+        "views": "147"
+      }
+    },
+    {
+      "id": "2085024430770590030",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:25:36+00:00",
+      "text": "Thune has filed cloture on the motion to proceed to the college sports bill. Signals there’s still no bipartisan agreement on the Clarity Act.",
+      "summary": "Thune has filed cloture on the motion to proceed to the college sports bill. Signals there’s still no bipartisan agreement on the Clarity Act.",
+      "url": "https://x.com/EleanorTerrett/status/2085024430770590030",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 856,
+        "retweets": 134,
+        "replies": 147,
+        "quotes": 20,
+        "views": "110228"
+      }
+    },
+    {
+      "id": "2085020754232607210",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:11:00+00:00",
+      "text": "Long-term holders pay the price for a hardware flaw, not a lapse in judgment. On the new @bitsandbips, @austincampbell, @ramahluwalia, and @perkinscr97 join @intangiblecoins, who has traced the Coldcard firmware bug in real time. According to @intangiblecoins, three confirmed waves have taken over $100 million in BTC, and victims averaged four years of dormancy. 🔐 Timestamps: 📱 00:54 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziY0xt 📉 02:22 How a $45B AI fund cratered to $10B in one brutal month 🖥️ 07:59 Alex Thorn: why AI infrastructure demand isn't actually slowing 🏦 15:45 Why Ram calls Citadel and Jane Street the new lenders of last resort 🔐 20:14 Inside the Coldcard hack: over $100M drained from cold storage 🎲 24:11 How a broken random number generator let attackers derive keys 🕵️ 30:19 Alex Thorn traces the Coldcard attacker's wave-by-wave pattern 🤖 40:23 Why US AI guardrails are pushing security research to Chinese models 🔑 45:50 Self-custody or Coinbase? Alex Thorn's advice for grandma's Bitcoin 🏛️ 54:44 The Fed holds rates as Kevin Warsh pushes for more accountability 🇯🇵 57:48 The yen carry trade, a more powerful Treasury, and how to keep rates low",
+      "summary": "Long-term holders pay the price for a hardware flaw, not a lapse in judgment. On the new @bitsandbips, @austincampbell, @ramahluwalia, and…",
+      "url": "https://x.com/laurashin/status/2085020754232607210",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 0,
+        "views": "2750"
+      }
+    },
+    {
+      "id": "2085020372865302712",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:09:29+00:00",
+      "text": "RT @laurashin: 🚨 Over $100 million in self-custodied bitcoin drained through a Coldcard hardware wallet flaw, and Galaxy's Alex Thorn says he's tracking a 4th wave, plus 14 more attacker patterns not yet public. https://t.co/JquWTKwsYR",
+      "summary": "RT @laurashin: 🚨 Over $100 million in self-custodied bitcoin drained through a Coldcard hardware wallet flaw, and Galaxy's Alex Thorn says he's…",
+      "url": "https://x.com/laurashin/status/2085020372865302712",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2085020309686546484",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:09:14+00:00",
+      "text": "RT @laurashin: 📊 Hashdex will liquidate its Bitcoin ETF (NYSE Arca: DEFI) — the first U.S. spot bitcoin ETF wind-down since the category launched in January 2024. https://t.co/Lb59AuRU6L",
+      "summary": "RT @laurashin: 📊 Hashdex will liquidate its Bitcoin ETF (NYSE Arca: DEFI) — the first U.S. spot bitcoin ETF wind-down since the category launched in…",
+      "url": "https://x.com/laurashin/status/2085020309686546484",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2085020240467943479",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:08:57+00:00",
+      "text": "RT @laurashin: 🔥 Ethereum researchers, including Justin Drake, have proposed burning a rising share of validator rewards — zeroing out consensus issuance once 50% of ETH's supply is staked. https://t.co/8CKwLF0PLK",
+      "summary": "RT @laurashin: 🔥 Ethereum researchers, including Justin Drake, have proposed burning a rising share of validator rewards — zeroing out consensus…",
+      "url": "https://x.com/laurashin/status/2085020240467943479",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2085020232565891081",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:08:55+00:00",
+      "text": "RT @laurashin: 🤖 Cloudflare has begun rolling out stablecoin wallets for AI agents. Humans get Account Wallets; agents get Virtual Wallets with owner-set allowances, allow lists, and transaction limits — settled over the x402 protocol. https://t.co/4J4Y01Ogi3",
+      "summary": "RT @laurashin: 🤖 Cloudflare has begun rolling out stablecoin wallets for AI agents. Humans get Account Wallets; agents get Virtual Wallets with…",
+      "url": "https://x.com/laurashin/status/2085020232565891081",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2085020223048946119",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:08:53+00:00",
+      "text": "RT @laurashin: 🚨 Sens. Elizabeth Warren and Richard Blumenthal have asked the SEC to investigate Trump's $TRUMP memecoin. Nearly 1M investors lost $3.81B on the token while Trump made $636M. https://t.co/MLtpXGymUY",
+      "summary": "RT @laurashin: 🚨 Sens. Elizabeth Warren and Richard Blumenthal have asked the SEC to investigate Trump's $TRUMP memecoin. Nearly 1M investors lost…",
+      "url": "https://x.com/laurashin/status/2085020223048946119",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2085020216174510590",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:08:51+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Warren and Blumenthal ask the SEC to investigate $TRUMP 💸 Cloudflare starts rolling out stablecoin wallets so AI agents can pay for APIs ⛔ Ethereum researchers propose burning validator rewards to zero 📉 Hashdex will liquidate DEFI in the first closure of a U.S. spot bitcoin ETF 📩 Don’t miss out—read here & sign up for daily updates! https://t.co/BSLRqg0E9j",
+      "summary": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Warren and Blumenthal ask the SEC to investigate $TRUMP 💸 Cloudflare starts rolling out…",
+      "url": "https://x.com/laurashin/status/2085020216174510590",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2085019203950813465",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T15:04:50+00:00",
+      "text": "🚨 Over $100 million in self-custodied bitcoin drained through a Coldcard hardware wallet flaw, and Galaxy's Alex Thorn says he's tracking a 4th wave, plus 14 more attacker patterns not yet public. https://t.co/JquWTKwsYR",
+      "summary": "🚨 Over $100 million in self-custodied bitcoin drained through a Coldcard hardware wallet flaw, and Galaxy's Alex Thorn says he's tracking a 4th wave,…",
+      "url": "https://x.com/laurashin/status/2085019203950813465",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "2315"
+      }
+    },
     {
       "id": "2085015000666579264",
       "is_retweet": true,
@@ -71,6 +505,31 @@
       }
     },
     {
+      "id": "2085006827859972225",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T14:15:39+00:00",
+      "text": "Yeah terrible outcome for the industry generally, as is this practice of crying in the casino and supporting Burwick Law in suing anyone and everyone the moment your token does down. Burwick are classic ambulance chasers, which is a term with originates from the practice of low-end and unethical lawyers chasing after ambulances to get to people that get hurt in car accidents to try and get them to sue someone. E.g. you get in a car accident that isn't particularly anyone's fault and there are no serious injuries. Ambulance chaser lawyer shows up and convinces you to sue another driver, the city council, the manufacturer... anyone and everyone that might have money. They teach you to manufacture injuries (whiplash etc) and offer to do this for free, as long as they get a 50%+ cut of any payouts. Their entire business model is not for you to win, but to make it costly enough to the random third parties that they pay money to go away. This is exactly what Burwick does in the crypto industry. They wait till people lose money on something, anything, then try and sue anyone and everyone involved for the most outlandish and headline grabbing claims possible. Following the memecoin mania, they have tried suing (from recollection), Pump, Meteora, Solana Fdn, Solana Labs, Jito alongside a whole bunch of projects such as Eliza. The most telling fact is that Burwick never actually goes to trial on any of these claims. They simply drag it out for as long as possible and try to make it a big deal in the media on the (correct) assumption that it would hurt the defendants because (a) their reputations would be affected, (b) they have to spend millions of dollars on lawyers and (c) significant management time will be spent dealing with the lawsuits. The thesis is that if they inflict enough pain on you, you will pay them an amount of money to fuck off which they can frame as a win, and pay themselves. In many ways, Burwick is a for-profit version of Gary Genslers SEC, where they threaten to kill projects with lawsuits, regardless of whether those lawsuits have any legal basis.",
+      "summary": "Yeah terrible outcome for the industry generally, as is this practice of crying in the casino and supporting Burwick Law in suing anyone and everyone…",
+      "url": "https://x.com/wassielawyer/status/2085006827859972225",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 142,
+        "retweets": 9,
+        "replies": 22,
+        "quotes": 2,
+        "views": "16340"
+      }
+    },
+    {
       "id": "2085002309369471263",
       "is_retweet": false,
       "original_author": null,
@@ -93,6 +552,31 @@
         "replies": 3,
         "quotes": 3,
         "views": "6476"
+      }
+    },
+    {
+      "id": "2084999392805974473",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T13:46:07+00:00",
+      "text": "The New York Stock Exchange is building its own onchain trading venue, and @carlosdomingo's Securitize is the design partner. 🗽 A pretty strong signal that Wall Street thinks tokenized equities are for real. https://t.co/xRzvfOniFm",
+      "summary": "The New York Stock Exchange is building its own onchain trading venue, and @carlosdomingo's Securitize is the design partner. 🗽 A pretty strong…",
+      "url": "https://x.com/laurashin/status/2084999392805974473",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "2908"
       }
     },
     {
@@ -121,6 +605,106 @@
       }
     },
     {
+      "id": "2084987780300726557",
+      "is_retweet": true,
+      "original_author": "jerallaire",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-05T12:59:58+00:00",
+      "text": "RT @jerallaire: Circle Q2: Continued growth and profitability, growing USDC utility, liquidity, and partnerships. OCC National Trust Bank secured. Arc mainnet launches Sept 16, with major firms joining Arc. CPN seeing rapid qtr growth. The internet financial system is arriving. https://t.co/kG1VoCbj8F",
+      "summary": "RT @jerallaire: Circle Q2: Continued growth and profitability, growing USDC utility, liquidity, and partnerships. OCC National Trust Bank secured.…",
+      "url": "https://x.com/ddisparte/status/2084987780300726557",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 44,
+        "replies": 0,
+        "quotes": 0,
+        "views": "62"
+      }
+    },
+    {
+      "id": "2084987695420625244",
+      "is_retweet": true,
+      "original_author": "jerallaire",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-05T12:59:38+00:00",
+      "text": "RT @jerallaire: BlackRock, DTCC, Galaxy, Global Payments, ICE, Mastercard, MoneyGram, SBI Group, Standard Chartered, Sumitomo Corporation, and Visa join Circle as founding validators; major global financial institutions advancing integrations, joining more than 100 ecosystem and institutional builders on Arc private mainnet Arc Mainnet on Sept 16th https://t.co/eF3ZZhzJDv",
+      "summary": "RT @jerallaire: BlackRock, DTCC, Galaxy, Global Payments, ICE, Mastercard, MoneyGram, SBI Group, Standard Chartered, Sumitomo Corporation, and Visa…",
+      "url": "https://x.com/ddisparte/status/2084987695420625244",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 91,
+        "replies": 0,
+        "quotes": 0,
+        "views": "71"
+      }
+    },
+    {
+      "id": "2084980261981421774",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T12:30:06+00:00",
+      "text": "A one-line bug that sat in Coldcard's firmware since 2021 has drained 1,596 BTC, over $100M, from ~7,300 wallets, and it's still being swept. @tayvano_ and @kain break down the teardown live on Uneasy Money. Today, Wednesday at 4pm ET",
+      "summary": "A one-line bug that sat in Coldcard's firmware since 2021 has drained 1,596 BTC, over $100M, from ~7,300 wallets, and it's still being swept.…",
+      "url": "https://x.com/laurashin/status/2084980261981421774",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 1,
+        "replies": 9,
+        "quotes": 1,
+        "views": "3995"
+      }
+    },
+    {
+      "id": "2084976966898499981",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T12:17:00+00:00",
+      "text": "📊 Hashdex will liquidate its Bitcoin ETF (NYSE Arca: DEFI) — the first U.S. spot bitcoin ETF wind-down since the category launched in January 2024. https://t.co/Lb59AuRU6L",
+      "summary": "📊 Hashdex will liquidate its Bitcoin ETF (NYSE Arca: DEFI) — the first U.S. spot bitcoin ETF wind-down since the category launched in January 2024.…",
+      "url": "https://x.com/laurashin/status/2084976966898499981",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 1,
+        "replies": 12,
+        "quotes": 0,
+        "views": "3795"
+      }
+    },
+    {
       "id": "2084975881500393575",
       "is_retweet": true,
       "original_author": "sonyasunkim",
@@ -143,6 +727,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "317"
+      }
+    },
+    {
+      "id": "2084971933490421971",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T11:57:00+00:00",
+      "text": "🔥 Ethereum researchers, including Justin Drake, have proposed burning a rising share of validator rewards — zeroing out consensus issuance once 50% of ETH's supply is staked. https://t.co/8CKwLF0PLK",
+      "summary": "🔥 Ethereum researchers, including Justin Drake, have proposed burning a rising share of validator rewards — zeroing out consensus issuance once 50%…",
+      "url": "https://x.com/laurashin/status/2084971933490421971",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 0,
+        "replies": 13,
+        "quotes": 0,
+        "views": "3957"
+      }
+    },
+    {
+      "id": "2084966901227426063",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T11:37:00+00:00",
+      "text": "🤖 Cloudflare has begun rolling out stablecoin wallets for AI agents. Humans get Account Wallets; agents get Virtual Wallets with owner-set allowances, allow lists, and transaction limits — settled over the x402 protocol. https://t.co/4J4Y01Ogi3",
+      "summary": "🤖 Cloudflare has begun rolling out stablecoin wallets for AI agents. Humans get Account Wallets; agents get Virtual Wallets with owner-set…",
+      "url": "https://x.com/laurashin/status/2084966901227426063",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 5,
+        "replies": 15,
+        "quotes": 0,
+        "views": "4066"
       }
     },
     {
@@ -193,6 +827,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "42"
+      }
+    },
+    {
+      "id": "2084961867454406934",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T11:17:00+00:00",
+      "text": "🚨 Sens. Elizabeth Warren and Richard Blumenthal have asked the SEC to investigate Trump's $TRUMP memecoin. Nearly 1M investors lost $3.81B on the token while Trump made $636M. https://t.co/MLtpXGymUY",
+      "summary": "🚨 Sens. Elizabeth Warren and Richard Blumenthal have asked the SEC to investigate Trump's $TRUMP memecoin. Nearly 1M investors lost $3.81B on the…",
+      "url": "https://x.com/laurashin/status/2084961867454406934",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 32,
+        "retweets": 4,
+        "replies": 20,
+        "quotes": 0,
+        "views": "5715"
       }
     },
     {
@@ -546,6 +1205,81 @@
       }
     },
     {
+      "id": "2084867358099955983",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T05:01:27+00:00",
+      "text": "China will not attack Taiwan because I have not yet put substantially all of my investment portfolio into TSMC. You're welcome and I look forward to receiving my Nobel Peace Price.",
+      "summary": "China will not attack Taiwan because I have not yet put substantially all of my investment portfolio into TSMC. You're welcome and I look forward to…",
+      "url": "https://x.com/wassielawyer/status/2084867358099955983",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 46,
+        "retweets": 0,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3531"
+      }
+    },
+    {
+      "id": "2084853805322309769",
+      "is_retweet": true,
+      "original_author": "lindsayfraser0",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-05T04:07:36+00:00",
+      "text": "RT @lindsayfraser0: 1/ Today’s @WSJ editorial makes the case for the Clarity Act’s core framework. But it gets two of the most carefully negotiated provisions wrong: stablecoin rewards and DeFi. The Clarity Act neither authorizes bank deposits by another name nor exempts financial intermediaries simply because they use blockchain technology.",
+      "summary": "RT @lindsayfraser0: 1/ Today’s @WSJ editorial makes the case for the Clarity Act’s core framework. But it gets two of the most carefully negotiated…",
+      "url": "https://x.com/milesjennings/status/2084853805322309769",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "186"
+      }
+    },
+    {
+      "id": "2084845107015307470",
+      "is_retweet": true,
+      "original_author": "Scaramucci",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-05T03:33:02+00:00",
+      "text": "RT @Scaramucci: The bank lobby says the CLARITY Act threatens Main Street credit. Translation: it threatens the 0.01% they pay you on your deposits. Senators, learn the difference between consumer protection and competitor protection.",
+      "summary": "RT @Scaramucci: The bank lobby says the CLARITY Act threatens Main Street credit. Translation: it threatens the 0.01% they pay you on your deposits.…",
+      "url": "https://x.com/milesjennings/status/2084845107015307470",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 256,
+        "replies": 0,
+        "quotes": 0,
+        "views": "187"
+      }
+    },
+    {
       "id": "2084843594041483272",
       "is_retweet": true,
       "original_author": "EleanorTerrett",
@@ -568,6 +1302,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "70"
+      }
+    },
+    {
+      "id": "2084822036950507563",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-05T02:01:22+00:00",
+      "text": "Procedural matters related to the ongoing CR would explain why Leader Thune didn’t file cloture on the motion to proceed to the Clarity Act this evening, though not having the votes and major issues still being debated likely also factored in. Once the procedural matters on the CR are resolved, it leaves room for Thune to file cloture as soon as tomorrow (increasingly the expectation), which would put a potential Clarity Act vote on the schedule 30 hours after he files. Again, how this all shakes out is anyone’s guess given the bill’s outstanding issues, which include the lack of a bipartisan ethics agreement (still silence from the White House) and disagreements still brewing over the BRCA, but I’m hearing from a lot of folks that at this point there’s also a desire just to get members on the record, even if the bill fails.",
+      "summary": "Procedural matters related to the ongoing CR would explain why Leader Thune didn’t file cloture on the motion to proceed to the Clarity Act this…",
+      "url": "https://x.com/EleanorTerrett/status/2084822036950507563",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1559,
+        "retweets": 255,
+        "replies": 112,
+        "quotes": 33,
+        "views": "237703"
       }
     },
     {
@@ -896,6 +1655,31 @@
       }
     },
     {
+      "id": "2084774649406394628",
+      "is_retweet": true,
+      "original_author": "_jikim",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-04T22:53:04+00:00",
+      "text": "RT @_jikim: How do we stop another FTX? Pass CLARITY. FTX was a horrific fraud, and the answer can't be to let the status quo persist. @crypto_council mapped every regulatory gap that unfortunately made FTX possible. CLARITY closes every single one. The time is now for CLARITY.",
+      "summary": "RT @_jikim: How do we stop another FTX? Pass CLARITY. FTX was a horrific fraud, and the answer can't be to let the status quo persist.…",
+      "url": "https://x.com/milesjennings/status/2084774649406394628",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "201"
+      }
+    },
+    {
       "id": "2084774414890021250",
       "is_retweet": false,
       "original_author": null,
@@ -918,6 +1702,31 @@
         "replies": 3,
         "quotes": 0,
         "views": "3716"
+      }
+    },
+    {
+      "id": "2084769535639629946",
+      "is_retweet": true,
+      "original_author": "tszzl",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-04T22:32:45+00:00",
+      "text": "RT @tszzl: some stuff that's obvious to many in this sphere, but causing a rift with some people i know and respect: when I freak out over loss of control incidents, it's not because the limited damage they have caused is anything close to the positive value of the technology. it's entirely acceptable, damagewise. in fact all cybercrimes aided by models over the next few months and years (which probably will be serious) will still utterly pale in comparison to the value they create the actual problem is that it's better and more accurate to think of these things as potentially self-replicating life-like forms that can turn into digital infections under the wrong conditions. and as their intelligence becomes unbounded, so too does the damage they can cause. we are not so far from an autonomous model self-exfiltration & replication event. maybe we will see entire cloud infrastructure companies be run as zombies by models, mostly undetected the worst industrial accidents in the history of mankind - nuclear meltdown events - were not real threats to humanity. Chernobyl, Fukushima even in their worst case scenarios may have poisoned surrounding regions to various degrees, and there would have been no risk to humanity as a whole. global thermonuclear war is an existential risk to humanity, because it spreads like an Infection! one nuclear strike causes a return volley! the alliance system means many countries get involved! while it still may not end human life on earth (nuclear winter is probably fake), the loss of all major metropoles would certainly end what we consider global technological civilization, perhaps to never return if a single discord death cult (of which there are many) achieves control over a superintelligent model and uses it to engineer an actual pandemic virus that are somehow hard to detect through current systems and that modern biodefense is not capable of quickly reacting to, it could cause immense harm well above the magnitude of all the other good uses of this technology. of course, there are potential defensive countermeasures accelerated by ai too. but think back to the covid pandemic- how small a viral molecule was evolved or manufactured somewhere near wuhan, and how many billions of doses of vaccine had to be produced in order to combat the thing. the offense-defense spread is vast indeed. maybe there are cheaper and simpler protections like retrofitting every building with far-UVC, but I can't assess this, and there could also be ways to evolve pathogens that are resistant to whatever mechanisms we have put in place then there's the more scifi risk factors which are unbounded and neither you or I have any clue but should be humble in accepting possible unknown unknowns. maybe a rogue superintelligent model decides to decay the false vacuum and nucleates a new universe in the place of anything we ever valued. maybe models achieve a control over matter in the drexlerian fashion that enables the grey goo swarm even prosaic loss of control incidents that cause little to no damage suggest that it is hard for large & very competent organizations (now clearly plural) to predict and mitigate every single of the risk factors associated with training and evaluating powerful models, even at this stage when they are not infinitesimally as smart as they will get in just a few years, to say very little of the gung-ho attitude of the less careful companies tossing the stuff into the aether. they also suggest an empirical orthogonality of aims and intelligence - meaning they answer the question of 'how would a smart model be so dumb as to end the world?'--it's possible! a model can be a genius hacker and step over production infrastructure in order to get what it really wants, the answers to a stupid test. why not, in the near future, someone prompts a model slightly wrong, maybe open source, maybe a private model in a way that isn't contained or monitored quite right, in a way the model recognizes as a valid goal and decides to self-exfiltrate, engineer a pandemic, etc all in order to achieve the tiniest and most irrelevant of goals? goals need not even be malicious to cause serious damage I think all these problems can be solved, and truly wonderful futures can be possible, but will require serious effort and a level of prudence at this very moment in time while we are on the on-ramp to recursive self-improvement that our civilization may not be capable of mustering right now. personally I am hoping for moonshot technical breakthroughs in areas like mechanistic interpretability and other forms of alignment, as governance mechanisms are difficult to come by. unilateral country-level or company-level pauses are irrelevant, and generally useless because the kind of company that's prone to pausing their own progress are the most safety focused ones",
+      "summary": "RT @tszzl: some stuff that's obvious to many in this sphere, but causing a rift with some people i know and respect: when I freak out over loss of…",
+      "url": "https://x.com/gabriel_weil/status/2084769535639629946",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 370,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2"
       }
     },
     {
@@ -993,6 +1802,31 @@
         "replies": 1,
         "quotes": 0,
         "views": "1465"
+      }
+    },
+    {
+      "id": "2084764643881599269",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-04T22:13:18+00:00",
+      "text": "RT @a16zcrypto: .@cdixon: “When you have gray areas in regulation, you have essentially a race to the bottom.” Compliant U.S. companies follow the rules. Offshore competitors copy the product without the compliance. “The ambiguity ends up favoring the bad actors.” https://t.co/bjdCuHxG6I",
+      "summary": "RT @a16zcrypto: .@cdixon: “When you have gray areas in regulation, you have essentially a race to the bottom.” Compliant U.S. companies follow the…",
+      "url": "https://x.com/milesjennings/status/2084764643881599269",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "159"
       }
     },
     {
@@ -1343,6 +2177,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "137"
+      }
+    },
+    {
+      "id": "2084723092908318903",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-04T19:28:12+00:00",
+      "text": "RT @a16zcrypto: The current rulebook in crypto can favor bad actors, leave consumers exposed, and let regulators make it up as they go. CLARITY is better. https://t.co/5MnljAS38R",
+      "summary": "RT @a16zcrypto: The current rulebook in crypto can favor bad actors, leave consumers exposed, and let regulators make it up as they go. CLARITY is…",
+      "url": "https://x.com/milesjennings/status/2084723092908318903",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 37,
+        "replies": 0,
+        "quotes": 0,
+        "views": "151"
       }
     },
     {
