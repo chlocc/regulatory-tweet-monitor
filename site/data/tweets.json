@@ -1,18 +1,79 @@
 {
-  "generated_at": "2026-08-06T15:00:05.721792+00:00",
-  "generated_at_unix": 1786028405,
+  "generated_at": "2026-08-06T18:12:41.497478+00:00",
+  "generated_at_unix": 1786039961,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-05T16:00:00+00:00",
-  "window_end": "2026-08-06T15:00:05.721792+00:00",
-  "new_this_run": 28,
+  "window_end": "2026-08-06T18:12:41.497478+00:00",
+  "new_this_run": 0,
   "total_recent": 71,
-  "errors": [],
+  "errors": [
+    {
+      "username": "wassielawyer",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "CarloD_Angelo",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "sander_lutz",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "laurashin",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "EleanorTerrett",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "gabriel_weil",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "angela_walch",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "jessefried",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "eva_shang",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "mparker5102",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "ddisparte",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "milesjennings",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "nickpickles",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "username": "danrobinson",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 0,
+    "successful_this_run": 0,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
