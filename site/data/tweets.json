@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-08-06T09:07:46.011344+00:00",
-  "generated_at_unix": 1786007266,
+  "generated_at": "2026-08-06T12:10:54.909359+00:00",
+  "generated_at_unix": 1786018254,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-05T16:00:00+00:00",
-  "window_end": "2026-08-06T09:07:46.011344+00:00",
-  "new_this_run": 5,
-  "total_recent": 23,
-  "errors": [
-    {
-      "username": "BlockchainAssn",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "s_alderoty",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-06T12:10:54.909359+00:00",
+  "new_this_run": 20,
+  "total_recent": 43,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,256 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2085335905045299508",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T12:03:18+00:00",
+      "text": "are there any BigLaw lawyers out there who want to publicly deliver an opinion that signing a legal agreement with a wallet key as we do on cyberSign (https://t.co/0fIGsJLKSf) meets UETA requirements for electronic signature? it seems quite obvious to me that it does but you always get the occasional conservative person who only accepts prestigious authorities saying so I will try to crowdfund the legal fees from tokenization projects etc and failing that will just pay for it myself. Need fixed-fee arrangement. see also https://t.co/gLrOexmtJK for my short-form presentation of the analysis",
+      "summary": "are there any BigLaw lawyers out there who want to publicly deliver an opinion that signing a legal agreement with a wallet key as we do on cyberSign…",
+      "url": "https://x.com/lex_node/status/2085335905045299508",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "776"
+      }
+    },
+    {
+      "id": "2085333451071230097",
+      "is_retweet": true,
+      "original_author": "Alexintosh",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T11:53:33+00:00",
+      "text": "RT @Alexintosh: Not only solo stakers, the only reason a lot of people still manage to hold large quantities of an under performing asset like ETH is because of staking yield via LSTs. It's not even easy, the yield is so low already that everybody is taking massive risks by looping, selling options, LPing, delta-hedging, etc. The uncomfortable truth is that under 5% yield ETH is a very risky asset to hold, many would prefer to trade perps or simply buy options to capture upside compared to holding.",
+      "summary": "RT @Alexintosh: Not only solo stakers, the only reason a lot of people still manage to hold large quantities of an under performing asset like ETH is…",
+      "url": "https://x.com/lex_node/status/2085333451071230097",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "372"
+      }
+    },
+    {
+      "id": "2085333359522115959",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T11:53:11+00:00",
+      "text": "Boring can be good! \"With a discretionary multi-protocol vault you have two new truths to secure that math can no longer give you: is the attested price honest, and is the strategist actually allowed to do the thing they just did with the funds. BoringVault, built by Veda Labs, is the cleanest answer the industry has to those two questions, and its design is worth studying line by line because it is what a serious vault looks like in 2026. The core BoringVault contract is deliberately boring, it is roughly a hundred lines that do nothing but hold the assets and mint or burn shares. All intelligence is pushed into swappable external modules around a non-upgradeable core, which means the thing holding your money is small enough to audit exhaustively and never changes.\"",
+      "summary": "Boring can be good! \"With a discretionary multi-protocol vault you have two new truths to secure that math can no longer give you: is the attested…",
+      "url": "https://x.com/TuongvyLe12/status/2085333359522115959",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "226"
+      }
+    },
+    {
+      "id": "2085244470141018279",
+      "is_retweet": true,
+      "original_author": "jenn_rosenthal",
+      "username": "MinarikLaw",
+      "display_name": "Katherine Minarik",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T05:59:58+00:00",
+      "text": "RT @jenn_rosenthal: Putting aside all of the factual inaccuracies in WSJ ed board’s piece, one of the things that continues to irk me is the “crypto boys” slur. It is the continued usage of phrases like this that subtly shape how the general public perceives this industry. By infantilizing its participants and reinforcing stereotypes, it’s easy to lose sight about what we are *actually* talking about here: an unquestionably transformative technology, one that’s looking to be regulated while forcing legacy players to modernize and be better for consumers. (Skeptical? Just follow bank lobby attention and resources…)",
+      "summary": "RT @jenn_rosenthal: Putting aside all of the factual inaccuracies in WSJ ed board’s piece, one of the things that continues to irk me is the “crypto…",
+      "url": "https://x.com/MinarikLaw/status/2085244470141018279",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "12"
+      }
+    },
+    {
+      "id": "2085236082996654387",
+      "is_retweet": true,
+      "original_author": "DeFi_Dad",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T05:26:38+00:00",
+      "text": "RT @DeFi_Dad: Here's a first look at @polarisfinance_ in testnet, a new CDP protocol launching on Ethereum later this year where you actually get paid to borrow. Imagine negative interest rates on pBTC and pGOLD. Plus simple USDp savings earning. All onchain, immutable, and no multisigs. Polaris is built by a team that's invested years into how to build a truly permissionless financial layer open to everybody, with transparent and verifiable rules. The team's roots are in protocols like @LiquityProtocol and deeply influenced by their principles. Polaris will be according to their new docs... \"a permissionless onchain infrastructure built around pETH, a yield-bearing reserve asset designed to collateralize censorship-resistant stablecoins and synthetic assets. ETH enters the system through the Polaris bonding curve and becomes pETH, the collateral asset at the center of the ecosystem. Stablecoins, commodities and synthetic assets are all issued against pETH, with the economic activity they generate flowing back into the ecosystem.\" USDp will be a fully decentralized and censorship-resistant dollar backed by pETH. Built on the same infrastructure, GOLDp will be the first permissionless onchain market, with more currencies, commodities, and synthetic assets coming soon. Interestingly, pETH isn't just collateral for the system. It can also be split into fpETH and vpETH: fpETH represents the ever-rising floor price of pETH as a standalone yield-bearing asset, while vpETH isolates its market premium and volatility. These primitives may be combined to enable non-liquidateable ETH loans, carry trades that turn traditionally non-yield-bearing assets into yield-bearing ones (ie gold), and capital-efficient DeFi looping. Watch the screenshare below led by Polaris CoFounder @0xluude from The @Edge_Pod 😇",
+      "summary": "RT @DeFi_Dad: Here's a first look at @polarisfinance_ in testnet, a new CDP protocol launching on Ethereum later this year where you actually get…",
+      "url": "https://x.com/lex_node/status/2085236082996654387",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "631"
+      }
+    },
+    {
+      "id": "2085220367576989866",
+      "is_retweet": true,
+      "original_author": "DeFi_Dad",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T04:24:11+00:00",
+      "text": "RT @DeFi_Dad: “Whatever change you make now, you’re gonna have to revisit to make a big change later, so if there’s no urgent problem that needs to be solved, why would you not wait until then. Any change we make now is going to be short lived.” Yes, @lex_node 🤝 I don’t fault the EIP authors for thinking this far ahead but the EIP is completely tone deaf. We as an Ethereum community cannot afford to make such major changes to issuance to solve a problem that’s not here yet, and may never arrive, when the consequences for changing issuance are immense (loss of confidence for ETH holders, stakers and DeFi builders, and confusion over incentives for stakers and ETH investors). I am grateful for the intense unified reaction against this EIP. I appreciate anyone trying to champion an EIP for what they think will benefit Ethereum but I just disagree with this draft and the timing. Maybe a modified approach in the distant future but dear god, not now. Now back to Ethereum winning 😘",
+      "summary": "RT @DeFi_Dad: “Whatever change you make now, you’re gonna have to revisit to make a big change later, so if there’s no urgent problem that needs to…",
+      "url": "https://x.com/lex_node/status/2085220367576989866",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "589"
+      }
+    },
+    {
+      "id": "2085216088573321581",
+      "is_retweet": true,
+      "original_author": "BlueBadger2600",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T04:07:11+00:00",
+      "text": "RT @BlueBadger2600: Real problems on Ethereum: > People have no recourse when there is theft > There are no norms around what devs can do with user funds, so there is widespread scamming > Privacy is not built in by design > MEV has been fenced, but not properly solved > Quantum/AI are emerging threats to security > The L1/L2 divide is poorly managed, and it’s not clear where the ecosystem is going Not a real problem on Ethereum: > Issuance should be slightly different than it is",
+      "summary": "RT @BlueBadger2600: Real problems on Ethereum: > People have no recourse when there is theft > There are no norms around what devs can do with user…",
+      "url": "https://x.com/lex_node/status/2085216088573321581",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "688"
+      }
+    },
+    {
+      "id": "2085202053366768022",
+      "is_retweet": true,
+      "original_author": "lzminsky",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T03:11:25+00:00",
+      "text": "RT @lzminsky: with POAP shutting down and the Goldcard drain, I think we’re solidly moving from post-CT to post-crypto Failed as ideology, failed as asset class for anyone who wasn’t first, succeeded as an R&D programme that produced four or five primitives it neither predicted nor wanted. when I look back on the past few years: - the honest casinos (binance) survived the dishonest banks (celsius) - every single thesis company failed (all of web3 / culture / decentralization circus) - every single company that was blatantly honest and stripped away the ideology, ie what @sapijiju did, won - altcoins were a long on distributon being an asset class post GME, which still holds will probably write a sequel to the article below",
+      "summary": "RT @lzminsky: with POAP shutting down and the Goldcard drain, I think we’re solidly moving from post-CT to post-crypto Failed as ideology, failed as…",
+      "url": "https://x.com/lex_node/status/2085202053366768022",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": "616"
+      }
+    },
+    {
+      "id": "2085201835921445200",
+      "is_retweet": true,
+      "original_author": "surfcoderepeat",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T03:10:33+00:00",
+      "text": "RT @surfcoderepeat: we need to think bigger and launch different things even if they don't make sense in practice VCs should also go to podcasts and tell us frogs about the future (we still won't buy your tokens, but make us dream)",
+      "summary": "RT @surfcoderepeat: we need to think bigger and launch different things even if they don't make sense in practice VCs should also go to podcasts and…",
+      "url": "https://x.com/lex_node/status/2085201835921445200",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "583"
+      }
+    },
+    {
+      "id": "2085192458963386841",
+      "is_retweet": true,
+      "original_author": "auryn_macmillan",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T02:33:17+00:00",
+      "text": "RT @auryn_macmillan: I'll probably get crucified for this, but it seems a large part of the tension in the ETH issuance rate wanting rates to be high enough to justify solo/small staking operations while not overpaying/hurting security because large/liquid staking providers pile in on those rates. Cutting rates hurts security because it makes solo/small staking operators less viable. Maintaining current rates eventually hurts security because too large of a percentage of stake accumulates in a very small number of large staking operators. The solution to this is to give smaller stakers better rates / have diminishing returns for ever larger stakes. The issue with this is that it requires some sybil resistance mechanism and there are none that are both reliable at this scale and credibly neutral. @BrightIDProject's Auroa still seems like the closest thing to a solution that would be viable for something like this. But I struggle to see a scenario where a critical mass of staking weight gets behind something like this, in part because it means greatly reduced staking yield for large incumbents.",
+      "summary": "RT @auryn_macmillan: I'll probably get crucified for this, but it seems a large part of the tension in the ETH issuance rate wanting rates to be high…",
+      "url": "https://x.com/lex_node/status/2085192458963386841",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "626"
+      }
+    },
     {
       "id": "2085183254865596434",
       "is_retweet": false,
@@ -55,6 +296,206 @@
       }
     },
     {
+      "id": "2085174948167827510",
+      "is_retweet": true,
+      "original_author": "BlockEnthusiast",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T01:23:42+00:00",
+      "text": "RT @BlockEnthusiast: RAI already proved how to find the market rate anchored to some arbitrary targeted market outcome. The proposed curve is asking for constant intervention instead of solving market rate discovery. Dont make opinionated rate designs to achieve a targeted outcome",
+      "summary": "RT @BlockEnthusiast: RAI already proved how to find the market rate anchored to some arbitrary targeted market outcome. The proposed curve is asking…",
+      "url": "https://x.com/lex_node/status/2085174948167827510",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "599"
+      }
+    },
+    {
+      "id": "2085169916424941855",
+      "is_retweet": true,
+      "original_author": "scupytrooples",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T01:03:43+00:00",
+      "text": "RT @scupytrooples: a lot of this rings true for me too. I’ve sacrificed my mental health, soul, and especially my body for 6 years now, have held my tokens and even been a net buyer of ALCX over the years (all the while being called a scammer soft rugger and having assholes “dunk” on me by posting the chart), take a lower salary than many on the team, even furloughing myself as i take small periodic breaks for physical therapy recoveries. I have poured myself into building v3 over the past few years, and I am even having trouble getting my gc friends and mutuals to check it out as they are either burnt out or chasing memescams or some new ponzi point program. and yet, I will continue to push and build because I believe in making awesome DeFi protocols and truly believe Alchemix v3 is special and powerful. we will continue building it out making it better and better, for as long as we can as an org. we’ve still got runway for another few years and we will either have a triumphant return or go down swinging.",
+      "summary": "RT @scupytrooples: a lot of this rings true for me too. I’ve sacrificed my mental health, soul, and especially my body for 6 years now, have held my…",
+      "url": "https://x.com/lex_node/status/2085169916424941855",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "567"
+      }
+    },
+    {
+      "id": "2085169855024492854",
+      "is_retweet": true,
+      "original_author": "llamaonthebrink",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T01:03:28+00:00",
+      "text": "RT @llamaonthebrink: The job of a podcastooor in crypto is to sit back and criticize everything that’s struggling and venerate everything that’s growing then jump from [trending thing] to [next trending thing] over and over again while highlighting their buddy’s project and how it’s the one exception",
+      "summary": "RT @llamaonthebrink: The job of a podcastooor in crypto is to sit back and criticize everything that’s struggling and venerate everything that’s…",
+      "url": "https://x.com/lex_node/status/2085169855024492854",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "552"
+      }
+    },
+    {
+      "id": "2085169550413246645",
+      "is_retweet": true,
+      "original_author": "0xTonyBrod",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T01:02:16+00:00",
+      "text": "RT @0xTonyBrod: Agree here. I honestly think people spend way too much time debating ETH issuance. The bigger opportunity is finishing the product. Scale the network. Improve privacy. Make Ethereum the best place for stablecoins, tokenized assets, and institutional capital. If Ethereum becomes the financial layer for the internet, the demand side will matter far more than marginal changes to issuance.",
+      "summary": "RT @0xTonyBrod: Agree here. I honestly think people spend way too much time debating ETH issuance. The bigger opportunity is finishing the product.…",
+      "url": "https://x.com/lex_node/status/2085169550413246645",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "593"
+      }
+    },
+    {
+      "id": "2085169217133793443",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T01:00:56+00:00",
+      "text": "if you are the kind of ETH holder/Ethereum builder who is mad as hell about the issuance reduction proposal, you should be in my plΞbs.ETH chat on telegram, which was built for this kind of moment reply here with your TG username to be considered https://t.co/tzc626CQJa",
+      "summary": "if you are the kind of ETH holder/Ethereum builder who is mad as hell about the issuance reduction proposal, you should be in my plΞbs.ETH chat on…",
+      "url": "https://x.com/lex_node/status/2085169217133793443",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 51,
+        "retweets": 3,
+        "replies": 28,
+        "quotes": 0,
+        "views": "3124"
+      }
+    },
+    {
+      "id": "2085167788859990388",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T00:55:16+00:00",
+      "text": "I've never encountered douchebags like this in Ethereum before encountering these issuance reduction maniacs. https://t.co/4qnWM0IFRD",
+      "summary": "I've never encountered douchebags like this in Ethereum before encountering these issuance reduction maniacs. https://t.co/4qnWM0IFRD",
+      "url": "https://x.com/lex_node/status/2085167788859990388",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 135,
+        "retweets": 4,
+        "replies": 18,
+        "quotes": 1,
+        "views": "7685"
+      }
+    },
+    {
+      "id": "2085167162952429888",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T00:52:46+00:00",
+      "text": "these people literally think 90% of ETH will INEVITABLY be staked if we don't make a change 🤣🤣🤣🤣 https://t.co/RkGFvW6tq4",
+      "summary": "these people literally think 90% of ETH will INEVITABLY be staked if we don't make a change 🤣🤣🤣🤣 https://t.co/RkGFvW6tq4",
+      "url": "https://x.com/lex_node/status/2085167162952429888",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 44,
+        "retweets": 2,
+        "replies": 13,
+        "quotes": 0,
+        "views": "3803"
+      }
+    },
+    {
+      "id": "2085166639075479612",
+      "is_retweet": true,
+      "original_author": "kmets_",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T00:50:41+00:00",
+      "text": "RT @kmets_: This is the saddest side effect of the contentious Ethereum staking issuance proposal. I’ve used Ethereum on ARM to run my node for over 3 years. They provide an invaluable service, and cutting issuance would be a death sentence for home stakers.",
+      "summary": "RT @kmets_: This is the saddest side effect of the contentious Ethereum staking issuance proposal. I’ve used Ethereum on ARM to run my node for over…",
+      "url": "https://x.com/lex_node/status/2085166639075479612",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "581"
+      }
+    },
+    {
       "id": "2085163133430034549",
       "is_retweet": false,
       "original_author": null,
@@ -77,6 +518,31 @@
         "replies": 19,
         "quotes": 1,
         "views": "3809"
+      }
+    },
+    {
+      "id": "2085152077848682974",
+      "is_retweet": true,
+      "original_author": "haydenzadams",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T23:52:50+00:00",
+      "text": "RT @haydenzadams: Incredibly excited for the launch of @TradePools!! This rollout has been absolutely insane. Degens discovered earlier versions of the smart contracts and traded over $150m in trading volume before the UI even went live This created a unique challenge where we had to update our site and indexing to support both the earlier test versions and the final versions of the contracts at the same time, which added some additional time to the launch People have used uniswap as both a launchpad and launchpad infra for over 8 years. We're excited to be building alongside all the other launchpads to move the space forward What most sets https://t.co/wEWmXIGbvx apart? - no added launchpad fee, just the normal protocol fee that comes with all v4 pools. This makes the launch pool way better for traders, with total spreads far lower than most launchpads - autocompounding liquidity (excited to bring this feature to normal Uniswap LPing as well) - permanently locked liquidity for all launches - two launch methods: instant launch works similar to other launchpads, and crowd launch simplifies what we built with CCA to create a fairer, more bundle resistant launch method - deep integrations and distribution: Pools has day one support across uniswap web app, wallet, trading api, all third party trading api integrations, bitget, fomo, gmgn, okx wallet, etc, with more coming online rapidly Have seen various takes claiming incorrect fee splits - to be clear the 0.25% LP fees autocompounds to the locked liquidity pool, it does not go to the uniswap team. This becomes 20% to the creator and 80% to the liquidity compounding mechanism Uniswap Labs team has been cooking hard on this one but its still in beta. We intend to ship a constant stream of upgrades and improvements from here. So please share any feedback!!",
+      "summary": "RT @haydenzadams: Incredibly excited for the launch of @TradePools!! This rollout has been absolutely insane. Degens discovered earlier versions of…",
+      "url": "https://x.com/N0th1n3/status/2085152077848682974",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 148,
+        "replies": 0,
+        "quotes": 0,
+        "views": "14"
       }
     },
     {
@@ -227,6 +693,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "42575"
+      }
+    },
+    {
+      "id": "2085086722757448105",
+      "is_retweet": true,
+      "original_author": "blockaid_",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-05T19:33:08+00:00",
+      "text": "RT @blockaid_: Rules for onchain finance are arriving, and exploits are still getting worse. Jessi Brooks (@RibbitCapital) and Rebecca Rettig (@jito_labs) joined Roni Sidi at Blockaid on why the biggest recent hacks were preventable and what has to change for blockchain adoption to scale. Full webinar here: https://t.co/FEGpxcLoJK",
+      "summary": "RT @blockaid_: Rules for onchain finance are arriving, and exploits are still getting worse. Jessi Brooks (@RibbitCapital) and Rebecca Rettig…",
+      "url": "https://x.com/RebeccaRettig1/status/2085086722757448105",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "90"
       }
     },
     {
