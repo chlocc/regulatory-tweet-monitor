@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-06T06:10:31.042633+00:00",
-  "generated_at_unix": 1785996631,
+  "generated_at": "2026-08-06T09:07:46.011344+00:00",
+  "generated_at_unix": 1786007266,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-05T16:00:00+00:00",
-  "window_end": "2026-08-06T06:10:31.042633+00:00",
-  "new_this_run": 12,
-  "total_recent": 18,
+  "window_end": "2026-08-06T09:07:46.011344+00:00",
+  "new_this_run": 5,
+  "total_recent": 23,
   "errors": [
     {
-      "username": "SECGov",
+      "username": "BlockchainAssn",
       "error": "The read operation timed out"
     },
     {
-      "username": "howardlutnick",
+      "username": "s_alderoty",
       "error": "The read operation timed out"
     }
   ],
@@ -21,7 +21,7 @@
     "total_accounts": 76,
     "attempted_this_run": 13,
     "successful_this_run": 13,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -130,6 +130,31 @@
       }
     },
     {
+      "id": "2085125628781613257",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-05T22:07:44+00:00",
+      "text": "New Mexico AG @TorrezforNM sued the DOJ on Monday, accusing it of blocking their investigation into Epstein’s ranch. The lawsuit states that Todd Blanche had taken steps that “actively harm victims interests.” We demand a full investigation into Epstein’s ranch. @RepThomasMassie",
+      "summary": "New Mexico AG @TorrezforNM sued the DOJ on Monday, accusing it of blocking their investigation into Epstein’s ranch. The lawsuit states that Todd…",
+      "url": "https://x.com/RoKhanna/status/2085125628781613257",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1434,
+        "retweets": 427,
+        "replies": 33,
+        "quotes": 4,
+        "views": "22002"
+      }
+    },
+    {
       "id": "2085119982157898042",
       "is_retweet": true,
       "original_author": "SenAshleyMoody",
@@ -152,6 +177,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "8147"
+      }
+    },
+    {
+      "id": "2085101820431462527",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-05T20:33:07+00:00",
+      "text": "So glad our local government has it's priorities straight. https://t.co/OgIOMEVDIO",
+      "summary": "So glad our local government has it's priorities straight. https://t.co/OgIOMEVDIO",
+      "url": "https://x.com/valkenburgh/status/2085101820431462527",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1694"
       }
     },
     {
@@ -202,6 +252,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "16103"
+      }
+    },
+    {
+      "id": "2085072931642618153",
+      "is_retweet": true,
+      "original_author": "BrendanPedersen",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-05T18:38:20+00:00",
+      "text": "RT @BrendanPedersen: 🧵I'm gonna try to make sense of what is happening with the Senate and Clarity Act as of this PM. The bill is *not dead yet* and a vote before recess remains possible. 1) Thune hasn't filed cloture. Without that, no vote. The Senate is supposed to leave tomorrow, Aug 7. But...",
+      "summary": "RT @BrendanPedersen: 🧵I'm gonna try to make sense of what is happening with the Senate and Clarity Act as of this PM. The bill is *not dead yet* and…",
+      "url": "https://x.com/NeerajKA/status/2085072931642618153",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 56,
+        "replies": 0,
+        "quotes": 0,
+        "views": "390"
       }
     },
     {
@@ -355,6 +430,31 @@
       }
     },
     {
+      "id": "2085051209212129296",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-05T17:12:01+00:00",
+      "text": "Congratulations to @DonavanMI13 for victory in his courageous progressive campaign. Donavan will bring an invaluable fighting spirit to Washington, and I look forward to working with him.",
+      "summary": "Congratulations to @DonavanMI13 for victory in his courageous progressive campaign. Donavan will bring an invaluable fighting spirit to Washington,…",
+      "url": "https://x.com/RoKhanna/status/2085051209212129296",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 632,
+        "retweets": 32,
+        "replies": 15,
+        "quotes": 0,
+        "views": "12036"
+      }
+    },
+    {
       "id": "2085048186616570115",
       "is_retweet": false,
       "original_author": null,
@@ -402,6 +502,31 @@
         "replies": 405,
         "quotes": 26,
         "views": "42499"
+      }
+    },
+    {
+      "id": "2085043683796107695",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-05T16:42:07+00:00",
+      "text": "Congratulations to our endorsed primary candidates @AbdulElSayed, @WeWill2026, @FPWellman, @SeanAMcCann, @abbasformi, and @AlabasFarhat for a monumental night in Michigan and Missouri for the progressive movement. Now the work continues onto the general. https://t.co/H6zvxBkf38",
+      "summary": "Congratulations to our endorsed primary candidates @AbdulElSayed, @WeWill2026, @FPWellman, @SeanAMcCann, @abbasformi, and @AlabasFarhat for a…",
+      "url": "https://x.com/RoKhanna/status/2085043683796107695",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1468,
+        "retweets": 185,
+        "replies": 90,
+        "quotes": 9,
+        "views": "18569"
       }
     },
     {
