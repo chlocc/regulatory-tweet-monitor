@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-07T06:07:41.028018+00:00",
-  "generated_at_unix": 1786082861,
+  "generated_at": "2026-08-07T09:01:18.886567+00:00",
+  "generated_at_unix": 1786093278,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-06T16:00:00+00:00",
-  "window_end": "2026-08-07T06:07:41.028018+00:00",
-  "new_this_run": 16,
-  "total_recent": 16,
+  "window_end": "2026-08-07T09:01:18.886567+00:00",
+  "new_this_run": 12,
+  "total_recent": 28,
   "errors": [
     {
-      "username": "BoHines",
+      "username": "BlockchainAssn",
       "error": "The read operation timed out"
     }
   ],
@@ -17,7 +17,7 @@
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -48,6 +48,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "100"
+      }
+    },
+    {
+      "id": "2085560029487284397",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-07T02:53:53+00:00",
+      "text": "The bipartisan desire to move Clarity forward hasn't changed. The need for clear rules and protections for 67 million Americans hasn't changed. The case for American leadership hasn't changed. Onward!",
+      "summary": "The bipartisan desire to move Clarity forward hasn't changed. The need for clear rules and protections for 67 million Americans hasn't changed. The…",
+      "url": "https://x.com/KristinSmith/status/2085560029487284397",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 162,
+        "retweets": 13,
+        "replies": 30,
+        "quotes": 3,
+        "views": "7359"
+      }
+    },
+    {
+      "id": "2085544750665355453",
+      "is_retweet": true,
+      "original_author": "Landon",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-07T01:53:10+00:00",
+      "text": "RT @Landon: .@WSJ says \"the crypto lobby ducks many of the issues we addressed.\" Many, many of the responses addressed WSJ's assertions on defi. Why does their response duck the \"courtesy of responding\" to that issue? Maybe because the entire original oped was uninformed and wrong?",
+      "summary": "RT @Landon: .@WSJ says \"the crypto lobby ducks many of the issues we addressed.\" Many, many of the responses addressed WSJ's assertions on defi. Why…",
+      "url": "https://x.com/NeerajKA/status/2085544750665355453",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "343"
       }
     },
     {
@@ -126,6 +176,106 @@
       }
     },
     {
+      "id": "2085519625719025715",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-07T00:13:20+00:00",
+      "text": "Senators. Clarity is ready. 67 million Americans hold crypto. They're watching. Let's vote. 🇺🇸",
+      "summary": "Senators. Clarity is ready. 67 million Americans hold crypto. They're watching. Let's vote. 🇺🇸",
+      "url": "https://x.com/KristinSmith/status/2085519625719025715",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3606,
+        "retweets": 334,
+        "replies": 85,
+        "quotes": 8,
+        "views": "52068"
+      }
+    },
+    {
+      "id": "2085515033249792263",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-06T23:55:05+00:00",
+      "text": "A few weeks ago when I visited the occupied West Bank, we stopped in Turmus Ayya, a town home to mostly Palestinian American citizens. They detailed to us brutal attacks from settlers while soldiers either stood by and watched or directly contributed. We met a man who was visiting family and got beaten at a checkpoint by an IDF soldier who didn’t believe he could not speak Hebrew. A family whose son was held in prison for almost a year and came out emaciated. American citizens are having their lives and livelihoods destroyed by the settler movement, which is backed with American funding. We need to sanction violent settlers like Yinon Levi, who just this week was indicted for murdering Awdah Hathaleen in broad daylight in a Bedouin village that we visited. We need to sanction the construction companies and banks that provide material support to the settler movement. The American government is not powerless. We can demand the arrests of the extremist settlers, the destruction of outposts, and an end to this brutal occupation.",
+      "summary": "A few weeks ago when I visited the occupied West Bank, we stopped in Turmus Ayya, a town home to mostly Palestinian American citizens. They detailed…",
+      "url": "https://x.com/RoKhanna/status/2085515033249792263",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 246,
+        "retweets": 79,
+        "replies": 21,
+        "quotes": 1,
+        "views": "12990"
+      }
+    },
+    {
+      "id": "2085472102602420489",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-06T21:04:30+00:00",
+      "text": "A @WSJopinion piece this week referred to supporters of crypto regulation as \"the crypto boys.\" But that's not who the crypto community is. There are 67 million Americans who own crypto today. One-third are women. More are over 55 than under 25 years old. They're teachers, construction workers, veterans, nurses, parents, and small business owners.",
+      "summary": "A @WSJopinion piece this week referred to supporters of crypto regulation as \"the crypto boys.\" But that's not who the crypto community is. There are…",
+      "url": "https://x.com/s_alderoty/status/2085472102602420489",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1510,
+        "retweets": 304,
+        "replies": 83,
+        "quotes": 25,
+        "views": "69763"
+      }
+    },
+    {
+      "id": "2085471029263032568",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-06T21:00:14+00:00",
+      "text": "Kansas showed it can be done. Stand With Crypto Kansas chapter president Talha Siddiqi has a new op-ed out. He explains how his state got ahead on crypto consumer protection and why the CLARITY Act is Congress's chance to follow suit. https://t.co/cWB5SiBZ4H",
+      "summary": "Kansas showed it can be done. Stand With Crypto Kansas chapter president Talha Siddiqi has a new op-ed out. He explains how his state got ahead on…",
+      "url": "https://x.com/standwithcrypto/status/2085471029263032568",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 49,
+        "retweets": 9,
+        "replies": 2,
+        "quotes": 0,
+        "views": "2519"
+      }
+    },
+    {
       "id": "2085470248312951266",
       "is_retweet": false,
       "original_author": null,
@@ -176,6 +326,31 @@
       }
     },
     {
+      "id": "2085460136793985067",
+      "is_retweet": true,
+      "original_author": "NarvaezChris_",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-06T20:16:57+00:00",
+      "text": "RT @NarvaezChris_: The CLARITY Act remains stuck in the Senate, and the delay matters beyond Washington. I joined @FINTECHTVglobal at the New York Stock Exchange earlier this week to discuss the roadblocks, and what the lack of clear U.S. market structure means for investors, builders, and institutions in the United States. The central issue is no longer whether digital assets need rules. It is whether Congress can deliver a durable, bipartisan framework before the legislative window closes. Watch the full interview for additional context on where the Clarity Act stands: https://t.co/xYgWG7S7GV",
+      "summary": "RT @NarvaezChris_: The CLARITY Act remains stuck in the Senate, and the delay matters beyond Washington. I joined @FINTECHTVglobal at the New York…",
+      "url": "https://x.com/standwithcrypto/status/2085460136793985067",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "397"
+      }
+    },
+    {
       "id": "2085456894479536406",
       "is_retweet": false,
       "original_author": null,
@@ -198,6 +373,31 @@
         "replies": 213,
         "quotes": 9,
         "views": "71565"
+      }
+    },
+    {
+      "id": "2085445025387749647",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-06T19:16:54+00:00",
+      "text": "A dive into the FBI's proposed use of predictive AI for its terrorism watchlist by @LazPieper. Protected political beliefs cannot alone justify watchlisting but a recent WH memo may give an AI room to blur that line. https://t.co/L0sJRKCY1b",
+      "summary": "A dive into the FBI's proposed use of predictive AI for its terrorism watchlist by @LazPieper. Protected political beliefs cannot alone justify…",
+      "url": "https://x.com/NeerajKA/status/2085445025387749647",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 5,
+        "replies": 3,
+        "quotes": 1,
+        "views": "3827"
       }
     },
     {
@@ -248,6 +448,81 @@
         "replies": 5,
         "quotes": 2,
         "views": "2522"
+      }
+    },
+    {
+      "id": "2085436978678411374",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-06T18:44:55+00:00",
+      "text": "“Don’t Trust, Verify” is one of the foundational principles of Bitcoin. You don’t have to trust a central operator. You don’t have to trust everyone else in the system to act honestly. You can run the software, check the ledger, and verify both the rules and good behavior of others for yourself. The same principle extends to all open systems. You can verify the software you are running is secure without trusting the author or an auditor, or millions of other people saying “well, it’s worked fine for me.” You can see for yourself. At least, in theory. In practice, however, the level of skill needed for such an evaluation is not something we can expect everyone to have. The Coldcard hack was a disaster. I feel terribly for the victims. Setting that aside, it has been an instructive example of how security and open source software could work in the post-AI world. This democratization of verification lowers the cost of questioning the software we trust for everything. Expertise is still preferred, but it does make expert-ish scrutiny more widely available than it used to be. By the way, thus far only open-weight models have given people this power. Closed models trigger safety lockouts when a user tries anything that looks like hacking, even if it’s for good reason. Of course, that only applies if the code is open in the first place. Closed software still asks you to trust the vendor. Open software gives the public something to inspect. I’ll admit, in the past I thought the naysayers had a bit of a gotcha when they pointed out it was impossible for a nontechnical person to truly be trustless while still being reliant on experts. Now I’m not so sure.",
+      "summary": "“Don’t Trust, Verify” is one of the foundational principles of Bitcoin. You don’t have to trust a central operator. You don’t have to trust everyone…",
+      "url": "https://x.com/NeerajKA/status/2085436978678411374",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 4,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3723"
+      }
+    },
+    {
+      "id": "2085436717171912927",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-06T18:43:53+00:00",
+      "text": "This is it. One more day to get the CLARITY Act moving before recess. The window is still open. Call your Senators now 👇 https://t.co/Bo11LbK8au",
+      "summary": "This is it. One more day to get the CLARITY Act moving before recess. The window is still open. Call your Senators now 👇 https://t.co/Bo11LbK8au",
+      "url": "https://x.com/standwithcrypto/status/2085436717171912927",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 739,
+        "retweets": 137,
+        "replies": 37,
+        "quotes": 7,
+        "views": "19309"
+      }
+    },
+    {
+      "id": "2085434978469580834",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-06T18:36:59+00:00",
+      "text": "Here we go again. Ilhan hating on federal and local police. The “many people” in this jail are illegal criminals who should have never been in this country in the first place. Through its partnership with the federal govt, the Sherburne County jail has helped keep our state safer. In the last month, the jail had two federal audits looking at all areas of operation, which resulted in ZERO deficiencies identified.",
+      "summary": "Here we go again. Ilhan hating on federal and local police. The “many people” in this jail are illegal criminals who should have never been in this…",
+      "url": "https://x.com/GOPMajorityWhip/status/2085434978469580834",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 35,
+        "retweets": 10,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3385"
       }
     },
     {
@@ -348,6 +623,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "15768"
+      }
+    },
+    {
+      "id": "2085412436144730308",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-06T17:07:24+00:00",
+      "text": "Law enforcement in Minnesota is overworked and underfunded because of the Walz administration’s soft-on-crime agenda. Thankfully, Wright and Stearns County Sheriff’s Offices were just awarded much-needed funding through the Edward Byrne Memorial Justice Assistance Grant (JAG) Program, funding we’ve advocated for for several years. https://t.co/TZOm8ThTP0",
+      "summary": "Law enforcement in Minnesota is overworked and underfunded because of the Walz administration’s soft-on-crime agenda. Thankfully, Wright and Stearns…",
+      "url": "https://x.com/GOPMajorityWhip/status/2085412436144730308",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 5,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3285"
       }
     },
     {
