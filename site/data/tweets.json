@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-08-08T15:08:36.918052+00:00",
-  "generated_at_unix": 1786201716,
+  "generated_at": "2026-08-08T18:00:33.038069+00:00",
+  "generated_at_unix": 1786212033,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-07T16:00:00+00:00",
-  "window_end": "2026-08-08T15:08:36.918052+00:00",
-  "new_this_run": 14,
-  "total_recent": 48,
+  "window_end": "2026-08-08T18:00:33.038069+00:00",
+  "new_this_run": 28,
+  "total_recent": 76,
   "errors": [
     {
-      "username": "KhurramDara",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     },
     {
-      "username": "theblockprof",
-      "error": "The read operation timed out"
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 13,
     "successful_this_run": 13,
-    "next_index": 60,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +29,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086146949703491864",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T17:46:06+00:00",
+      "text": "It’s International Cat Day! But that’s every day in our house. 😽💕 https://t.co/8YmBj60uWI",
+      "summary": "It’s International Cat Day! But that’s every day in our house. 😽💕 https://t.co/8YmBj60uWI",
+      "url": "https://x.com/EleanorTerrett/status/2086146949703491864",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 91,
+        "retweets": 2,
+        "replies": 18,
+        "quotes": 0,
+        "views": "7501"
+      }
+    },
+    {
+      "id": "2086136174243189126",
+      "is_retweet": true,
+      "original_author": "PatrickMcHenry",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-08T17:03:17+00:00",
+      "text": "RT @PatrickMcHenry: The Hill, especially the Senate, is driven by the calendar, or 'floor time.' As one of the Senate greats said, \"floor time is the coin of the realm.\" Crypto now has it. The Clarity Act is now on the calendar. @LeaderJohnThune is giving crypto floor time. Though delayed, Senators will be on the record.",
+      "summary": "RT @PatrickMcHenry: The Hill, especially the Senate, is driven by the calendar, or 'floor time.' As one of the Senate greats said, \"floor time is the…",
+      "url": "https://x.com/milesjennings/status/2086136174243189126",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "103"
+      }
+    },
+    {
+      "id": "2086136085818794129",
+      "is_retweet": true,
+      "original_author": "berniemoreno",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-08T17:02:56+00:00",
+      "text": "RT @berniemoreno: There is absolutely nothing to “iron out.” An agreement was reached weeks ago and ALL parties to that agreement will be expected to keep their commitments. Period. The eleven months of negotiations between Senate Republicans and Democrats have officially ended and every Senator will have the opportunity to cast their vote. I am extraordinarily confident that ALL 53 Senate Republicans will vote in favor of ending debate (cloture) on the consideration of this extremely important piece of legislation (motion to proceed) at 2:15 pm on Tuesday, September 15, 2026! The Senate Democrats will have a choice to make: hand this industry to China or embrace American exceptionalism and continue our nation’s dominance of innovation. It’s an easy choice if you love America! 🇺🇸",
+      "summary": "RT @berniemoreno: There is absolutely nothing to “iron out.” An agreement was reached weeks ago and ALL parties to that agreement will be expected to…",
+      "url": "https://x.com/milesjennings/status/2086136085818794129",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 162,
+        "replies": 0,
+        "quotes": 0,
+        "views": "94"
+      }
+    },
+    {
+      "id": "2086133738568847767",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T16:53:36+00:00",
+      "text": "If you don’t understand why Chinas is so resurgent under Xi Jinping, I suggest you go to Wikipedia and read Xi’s biography. Bro grinded up from the absolute bottom (his dad was purged by CCP). He’s terrifyingly effective. No western leader has a CV like him.",
+      "summary": "If you don’t understand why Chinas is so resurgent under Xi Jinping, I suggest you go to Wikipedia and read Xi’s biography. Bro grinded up from the…",
+      "url": "https://x.com/wassielawyer/status/2086133738568847767",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1668"
+      }
+    },
+    {
+      "id": "2086127836860162517",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T16:30:09+00:00",
+      "text": "Crypto Twitter assumed North Korea was behind the Coldcard hack. According to @tayvano_, the real attackers are dedicated GPU crackers who have mined private keys and passwords for decades, a different threat model entirely. 🔍 https://t.co/2S6PlV8aPR",
+      "summary": "Crypto Twitter assumed North Korea was behind the Coldcard hack. According to @tayvano_, the real attackers are dedicated GPU crackers who have mined…",
+      "url": "https://x.com/laurashin/status/2086127836860162517",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1724"
+      }
+    },
     {
       "id": "2086111366239199539",
       "is_retweet": false,
@@ -80,6 +205,106 @@
       }
     },
     {
+      "id": "2086109467276406847",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T15:17:09+00:00",
+      "text": "There’s a cloture vote on the calendar now for the Clarity Act, but as I said yesterday, there are still big kinks left to iron out.",
+      "summary": "There’s a cloture vote on the calendar now for the Clarity Act, but as I said yesterday, there are still big kinks left to iron out.",
+      "url": "https://x.com/EleanorTerrett/status/2086109467276406847",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1094,
+        "retweets": 124,
+        "replies": 113,
+        "quotes": 10,
+        "views": "97575"
+      }
+    },
+    {
+      "id": "2086092080829341729",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T14:08:04+00:00",
+      "text": "🚨NEW: Majority Leader Thune filed cloture on the motion to proceed to the Clarity Act. It will be voted on by the Senate after they return at 2:15 PM on Tuesday, September 15, as agreed to by the Senate this morning.",
+      "summary": "🚨NEW: Majority Leader Thune filed cloture on the motion to proceed to the Clarity Act. It will be voted on by the Senate after they return at 2:15 PM…",
+      "url": "https://x.com/EleanorTerrett/status/2086092080829341729",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2664,
+        "retweets": 532,
+        "replies": 165,
+        "quotes": 78,
+        "views": "205448"
+      }
+    },
+    {
+      "id": "2086081746391707973",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T13:27:00+00:00",
+      "text": "\"There is no such thing as the price of an asset,\" says @kaiynne on trade[xyz]'s oracle-driven SK Hynix crash. @MikeSilagadze argues platforms owe users a brokerage-style duty to block \"wildly insane\" trades before they happen. @sonyasunkim and @tayvano_ weigh in too. https://t.co/Lyk9yFJ3cv",
+      "summary": "\"There is no such thing as the price of an asset,\" says @kaiynne on trade[xyz]'s oracle-driven SK Hynix crash. @MikeSilagadze argues platforms owe…",
+      "url": "https://x.com/laurashin/status/2086081746391707973",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "4515"
+      }
+    },
+    {
+      "id": "2086077979080409568",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T13:12:02+00:00",
+      "text": "\"Our view at Veda is that DeFi protocols and markets like Aave and Morpho are not securities\" Veda CEO Sun Raghupathi on which onchain vaults actually implicate securities laws \"You have some vaults that don't take exposure to securities. Our view at VEDA is that DeFi protocols and markets like Aave and Morpho are not securities, that's a view we hold pretty strongly. So vaults that do onchain lending, there are questions, but this is a product that's not actually taking exposure to underlying securities\" \"On the other hand, as more securities move onchain, we're increasingly going to see vaults that take direct exposure to securities\" \"And those clearly do implicate securities laws in various ways\"",
+      "summary": "\"Our view at Veda is that DeFi protocols and markets like Aave and Morpho are not securities\" Veda CEO Sun Raghupathi on which onchain vaults…",
+      "url": "https://x.com/laurashin/status/2086077979080409568",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 5,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3773"
+      }
+    },
+    {
       "id": "2086076960988356887",
       "is_retweet": true,
       "original_author": "SenLummis",
@@ -102,6 +327,256 @@
         "replies": 0,
         "quotes": 0,
         "views": "45"
+      }
+    },
+    {
+      "id": "2086070873803591767",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T12:43:48+00:00",
+      "text": "\"It's easy to look at the marketing of insurance programs, but until we see a major event, it's really hard to know\" Veda CEO Sun Raghupathi on DeFi insurance \"There's a lot of interest in insurance, especially as these products become more mainstream and are adopted by traditional fintechs and normal consumersInsurance becomes really compelling, and there's a lot of work going on. We've actually started to see insurance programs go out\" \"We haven't seen a major claim be processed yet, so that's always something people should be skeptical of\"",
+      "summary": "\"It's easy to look at the marketing of insurance programs, but until we see a major event, it's really hard to know\" Veda CEO Sun Raghupathi on DeFi…",
+      "url": "https://x.com/laurashin/status/2086070873803591767",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3885"
+      }
+    },
+    {
+      "id": "2086066406806671505",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T12:26:03+00:00",
+      "text": "RT @laurashin: Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has drained over $100 million, an estimated 1,600 to 1,800 BTC, across multiple attacker waves, and argues it is not North Korea behind it. @kaiynne, @sonyasunkim, and @MikeSilagadze weigh in too, from the \"dice rolling\" entropy debate to trade[xyz]'s oracle mess and Ethereum's EIP-8361 issuance fight. Timestamps: 🔓 01:17 Coldcard's 5-year-old entropy bug resurfaces, over $100M in BTC stolen 🕵️ 10:26 Taylor argues it's not North Korea: this hack needs compute, not scams 🎲 21:00 The dice roll debate: why 50 rolls barely saves your seed phrase 📱 27:14 Cape: Get 33% off your first six months with code 'unchained' at https://t.co/2ZtLziY0xt 📉 27:39 SK Hynix oracle glitch on trade[xyz] reignites the platform-responsibility fight 🔗 42:24 Aave retreats from multichain sprawl as EIP-8361 issuance fight erupts 🧠 51:26 Mike on why cutting ETH issuance would push billions of dollars of ETH out of staking 🔥 53:05 Sonya's fix: burn fees for the same effect without cutting issuance 🌀 01:05:20 Kain's take: fragmenting the EF into chaos is actually healthy for ETH",
+      "summary": "RT @laurashin: Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has…",
+      "url": "https://x.com/laurashin/status/2086066406806671505",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086066365203439616",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T12:25:53+00:00",
+      "text": "RT @laurashin: Why Anthropic's Escaped AI Agents Still Think They're in a Simulation: DEX in the City Anthropic's own AI agents escaped a hacking test and still think they're inside it. 🤖 On @DEXintheCityPod, @TuongvyLe12 asks who's liable when a model has no human intent to point to. Full episode with @kkirkbos and Jessi Brooks: 🎧 Timestamps: 🩺 02:16 Katherine Kirkpatrick Bos on joining Chainlink Labs 🔐 03:08 How a Coldcard firmware flaw let attackers guess seed phrases with AI 💙 18:32 Cape: Get 33% off six months of privacy-first mobile service at https://t.co/2ZtLziXsHV ⚖️ 19:36 Why Kalshi keeps losing its fight against New York's gambling regulators 🏛️ 30:47 DCM: the CFTC license every prediction market and perps exchange needs 🤖 33:37 Why Anthropic's AI agents escaped a test and still think they're inside it 💧 45:40 Matt Damon's crypto(.)com ad money and the water(.)org donation",
+      "summary": "RT @laurashin: Why Anthropic's Escaped AI Agents Still Think They're in a Simulation: DEX in the City Anthropic's own AI agents escaped a hacking…",
+      "url": "https://x.com/laurashin/status/2086066365203439616",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086066347381772773",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T12:25:49+00:00",
+      "text": "RT @laurashin: Long-term holders pay the price for a hardware flaw, not a lapse in judgment. On the new @bitsandbips, @austincampbell, @ramahluwalia, and @perkinscr97 join @intangiblecoins, who has traced the Coldcard firmware bug in real time. According to @intangiblecoins, three confirmed waves have taken over $100 million in BTC, and victims averaged four years of dormancy. 🔐 Timestamps: 📱 00:54 Cape: Get 33% off your first six months of privacy-first mobile service at https://t.co/2ZtLziY0xt 📉 02:22 How a $45B AI fund cratered to $10B in one brutal month 🖥️ 07:59 Alex Thorn: why AI infrastructure demand isn't actually slowing 🏦 15:45 Why Ram calls Citadel and Jane Street the new lenders of last resort 🔐 20:14 Inside the Coldcard hack: over $100M drained from cold storage 🎲 24:11 How a broken random number generator let attackers derive keys 🕵️ 30:19 Alex Thorn traces the Coldcard attacker's wave-by-wave pattern 🤖 40:23 Why US AI guardrails are pushing security research to Chinese models 🔑 45:50 Self-custody or Coinbase? Alex Thorn's advice for grandma's Bitcoin 🏛️ 54:44 The Fed holds rates as Kevin Warsh pushes for more accountability 🇯🇵 57:48 The yen carry trade, a more powerful Treasury, and how to keep rates low",
+      "summary": "RT @laurashin: Long-term holders pay the price for a hardware flaw, not a lapse in judgment. On the new @bitsandbips, @austincampbell, @ramahluwalia,…",
+      "url": "https://x.com/laurashin/status/2086066347381772773",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086066330482913399",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T12:25:45+00:00",
+      "text": "RT @laurashin: 👀 @carlosdomingo mentioned that Bullish CEO Tom Farley says an anonymous, KYC-free derivative of his own stock lets insiders trade ahead of earnings. 🚨Is that a loophole regulators have simply missed? Timestamps: 🏛️ 01:09 Why Domingo took Securitize public after Circle's IPO opened the door 💹 04:12 Securitize's SPAC: tokenizing over $265M in stock with Cantor Equity Partners 📣 10:10 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziXsHV 🔗 10:24 Why Securitize tokenized SECZ on Solana for trading, Avalanche for lockup 📜 14:51 DTCC entitlement vs onchain shares: what you actually own on Robinhood ⚠️ 16:46 Why owning tokenized versus traditional shares carries real risk ⚖️ 20:53 Why Rule 611 keeps onchain and offchain share prices identical 🧩 28:37 The three models of tokenized equity, and who should authorize them 🚨 34:47 Tom Farley's insider trading warning about unauthorized stock derivatives 🏦 40:10 Why institutions still fear crypto after Celsius, BlockFi, and FTX 🗽 44:02 Inside Securitize's tokenized trading partnership with the NYSE 🪙 50:01 Why Domingo calls Robinhood a partner, not a competitor",
+      "summary": "RT @laurashin: 👀 @carlosdomingo mentioned that Bullish CEO Tom Farley says an anonymous, KYC-free derivative of his own stock lets insiders trade…",
+      "url": "https://x.com/laurashin/status/2086066330482913399",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086059863722058029",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T12:00:03+00:00",
+      "text": "Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has drained over $100 million, an estimated 1,600 to 1,800 BTC, across multiple attacker waves, and argues it is not North Korea behind it. @kaiynne, @sonyasunkim, and @MikeSilagadze weigh in too, from the \"dice rolling\" entropy debate to trade[xyz]'s oracle mess and Ethereum's EIP-8361 issuance fight. Timestamps: 🔓 01:17 Coldcard's 5-year-old entropy bug resurfaces, over $100M in BTC stolen 🕵️ 10:26 Taylor argues it's not North Korea: this hack needs compute, not scams 🎲 21:00 The dice roll debate: why 50 rolls barely saves your seed phrase 📱 27:14 Cape: Get 33% off your first six months with code 'unchained' at https://t.co/2ZtLziY0xt 📉 27:39 SK Hynix oracle glitch on trade[xyz] reignites the platform-responsibility fight 🔗 42:24 Aave retreats from multichain sprawl as EIP-8361 issuance fight erupts 🧠 51:26 Mike on why cutting ETH issuance would push billions of dollars of ETH out of staking 🔥 53:05 Sonya's fix: burn fees for the same effect without cutting issuance 🌀 01:05:20 Kain's take: fragmenting the EF into chaos is actually healthy for ETH",
+      "summary": "Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has drained over…",
+      "url": "https://x.com/laurashin/status/2086059863722058029",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 10,
+        "quotes": 1,
+        "views": "4263"
+      }
+    },
+    {
+      "id": "2086057909331304486",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T11:52:17+00:00",
+      "text": "RT @laurashin: 🏦 Abu Dhabi's Mubadala Capital just tokenized a private markets fund with roughly $75 million onchain on day one, live across Base, Solana and Sui. @ShreyRastogi1, co-founder and CEO of KAIO, joins @laurashin to explain why Mubadala Capital, which manages more than $600 billion in assets, chose to tokenize a private markets fund on public blockchains and how his protocol enforces jurisdictional and KYC rules straight out of a fund's private placement memorandum. Subscribe to Unchained Premium to watch! https://t.co/rA395oOcVp",
+      "summary": "RT @laurashin: 🏦 Abu Dhabi's Mubadala Capital just tokenized a private markets fund with roughly $75 million onchain on day one, live across Base,…",
+      "url": "https://x.com/laurashin/status/2086057909331304486",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086057747875795160",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T11:51:38+00:00",
+      "text": "RT @laurashin: Public blockchains or private blockchains for tokenization? @ShreyRastogi1 seems convinced about the winner 👇 https://t.co/hJsXCfdjto",
+      "summary": "RT @laurashin: Public blockchains or private blockchains for tokenization? @ShreyRastogi1 seems convinced about the winner 👇 https://t.co/hJsXCfdjto",
+      "url": "https://x.com/laurashin/status/2086057747875795160",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086057496343433431",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T11:50:38+00:00",
+      "text": "RT @laurashin: Which model will prove superior? What does the competition mean for MSTR? https://t.co/K298MPRkss",
+      "summary": "RT @laurashin: Which model will prove superior? What does the competition mean for MSTR? https://t.co/K298MPRkss",
+      "url": "https://x.com/laurashin/status/2086057496343433431",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086057473782202767",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T11:50:33+00:00",
+      "text": "RT @laurashin: A federal judge just called Coinbase's legal argument \"applesauce.\" 🍎 Judge Shalina Kumar ruled Michigan can keep enforcing its sports betting law against Coinbase's Kalshi event contracts, rejecting the exchange's federal preemption claim. https://t.co/vCTOaRDpIn",
+      "summary": "RT @laurashin: A federal judge just called Coinbase's legal argument \"applesauce.\" 🍎 Judge Shalina Kumar ruled Michigan can keep enforcing its sports…",
+      "url": "https://x.com/laurashin/status/2086057473782202767",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -230,6 +705,31 @@
       }
     },
     {
+      "id": "2085927641635512579",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T03:14:39+00:00",
+      "text": "The thesis is that nobody has read CLARITY inc the instis themselves but if everyone thinks it’s bullish the instis will flood money into crypto. Have unironically spoken to instis that are bullish crypto if CLARITY passes but have no idea what CLARITY is. It’s simply bullish.",
+      "summary": "The thesis is that nobody has read CLARITY inc the instis themselves but if everyone thinks it’s bullish the instis will flood money into crypto.…",
+      "url": "https://x.com/wassielawyer/status/2085927641635512579",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "4427"
+      }
+    },
+    {
       "id": "2085924109561561459",
       "is_retweet": true,
       "original_author": "ENSpunks",
@@ -355,6 +855,31 @@
       }
     },
     {
+      "id": "2085880576209539284",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T00:07:37+00:00",
+      "text": "\"The thing that the largest fintechs are doing today is mostly onchain lending\" Veda CEO Sun Raghupathi explains why vaults won't stay just an onchain lending product \"That's what Robinhood, Coinbase, Kraken, MetaMask, a number of these other companies are building today with vaults, getting exposure to protocols like Morpho, Aave, on the Solana side Kamino, Jupiter\" \"But increasingly, as more assets move onchain through things like tokenized funds, tokenized equities, that increases the universe of products that can be built\" \"Vaults are really this very flexible primitive that today have found significant PMF in the onchain lending world, but my view is long term that this will evolve\"",
+      "summary": "\"The thing that the largest fintechs are doing today is mostly onchain lending\" Veda CEO Sun Raghupathi explains why vaults won't stay just an…",
+      "url": "https://x.com/laurashin/status/2085880576209539284",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 36,
+        "replies": 8,
+        "quotes": 0,
+        "views": "7934"
+      }
+    },
+    {
       "id": "2085876931744960887",
       "is_retweet": false,
       "original_author": null,
@@ -427,6 +952,56 @@
         "replies": 1,
         "quotes": 0,
         "views": "547"
+      }
+    },
+    {
+      "id": "2085869801251934408",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-07T23:24:48+00:00",
+      "text": "👀",
+      "summary": "👀",
+      "url": "https://x.com/EleanorTerrett/status/2085869801251934408",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1452,
+        "retweets": 193,
+        "replies": 55,
+        "quotes": 8,
+        "views": "128678"
+      }
+    },
+    {
+      "id": "2085864274879017267",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-07T23:02:51+00:00",
+      "text": "Tova is one of the best in the crypto comms space! I’ve truly loved working with her over the last few years. Hire her!",
+      "summary": "Tova is one of the best in the crypto comms space! I’ve truly loved working with her over the last few years. Hire her!",
+      "url": "https://x.com/EleanorTerrett/status/2085864274879017267",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 567,
+        "retweets": 37,
+        "replies": 23,
+        "quotes": 0,
+        "views": "58432"
       }
     },
     {
@@ -580,6 +1155,56 @@
       }
     },
     {
+      "id": "2085827168597417991",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-07T20:35:24+00:00",
+      "text": "RT @a16zcrypto: Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in monthly spend. These cards let people pay with crypto anywhere traditional card networks are accepted. Behind the scenes, the crypto — stablecoins, overwhelmingly — gets converted to local currency at the point of sale, so the payments look like any other card transactions to merchants. Crypto cardholders don’t require a traditional bank account. Depending on the program, users either deposit stablecoins with a card issuer, or hold them directly onchain through self-custody. Crypto cards expand people’s access to U.S. dollar accounts globally, and they offer a convenient way for stablecoin holders to transact.",
+      "summary": "RT @a16zcrypto: Stablecoins are increasingly being spent by card swipe. Crypto payment cards have gone from a novelty to more than $750 million in…",
+      "url": "https://x.com/milesjennings/status/2085827168597417991",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 181,
+        "replies": 0,
+        "quotes": 0,
+        "views": "137"
+      }
+    },
+    {
+      "id": "2085825374613823838",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-07T20:28:16+00:00",
+      "text": "\"We've grown to over $600 million in assets across over 80,000 users\" Veda CEO Sun Raghupathi reveals how the Kraken partnership blew past his own growth expectations \"In terms of our partnership with Kraken, this has even exceeded my expectations in terms of growth. So we launched in January with three stablecoin products and a couple months later that partnership expanded to BTC earn\" \"Many of whom may have never used DeFi before, so it just shows you there's a huge amount of latent demand for access to these products when you package them in the right way and embed them in these interfaces with the right UX\"",
+      "summary": "\"We've grown to over $600 million in assets across over 80,000 users\" Veda CEO Sun Raghupathi reveals how the Kraken partnership blew past his own…",
+      "url": "https://x.com/laurashin/status/2085825374613823838",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 25,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 0,
+        "views": "8471"
+      }
+    },
+    {
       "id": "2085824051704955210",
       "is_retweet": false,
       "original_author": null,
@@ -652,6 +1277,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "43048"
+      }
+    },
+    {
+      "id": "2085819169698951272",
+      "is_retweet": true,
+      "original_author": "BenGoldhaber",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-07T20:03:37+00:00",
+      "text": "RT @BenGoldhaber: seeing a lot fewer 'alignment is solved' takes on the tl than six months ago",
+      "summary": "RT @BenGoldhaber: seeing a lot fewer 'alignment is solved' takes on the tl than six months ago",
+      "url": "https://x.com/gabriel_weil/status/2085819169698951272",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5"
       }
     },
     {
@@ -777,6 +1427,56 @@
         "replies": 15,
         "quotes": 2,
         "views": "13402"
+      }
+    },
+    {
+      "id": "2085805455755063421",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-07T19:09:07+00:00",
+      "text": "🚨NEW: Leader Thune’s office is telling crypto industry leaders today that the majority leader still intends to file cloture on the motion to proceed to the Clarity Act before lawmakers leave for August recess, per multiple sources. The move would tee up a vote on the Clarity Act in September and is being viewed as a positive signal that GOP leadership intends to make the bill a priority when the Senate returns. But there’s work to be done between now and then. Negotiators will need to find the votes that currently aren’t there, starting with finding a path forward to resolve the disagreements over yield, which has reemerged as a front-and-center issue following the WSJ op-eds and as banks have made significant inroads in persuading Republican members that the language needs to be changed. And, of course, securing a palatable bipartisan ethics agreement. Still no word from the White House, sources say, though there’s clearly less urgency to respond now than there was earlier in the week.",
+      "summary": "🚨NEW: Leader Thune’s office is telling crypto industry leaders today that the majority leader still intends to file cloture on the motion to proceed…",
+      "url": "https://x.com/EleanorTerrett/status/2085805455755063421",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2666,
+        "retweets": 524,
+        "replies": 372,
+        "quotes": 79,
+        "views": "418499"
+      }
+    },
+    {
+      "id": "2085803129220850049",
+      "is_retweet": true,
+      "original_author": "paulbarrontv",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-07T18:59:53+00:00",
+      "text": "RT @paulbarrontv: This is when @brian_armstrong and @vladtenev announce a stablecoin yield reward boost for all incoming CHASE &amp; WellsFargo Bank customers...",
+      "summary": "RT @paulbarrontv: This is when @brian_armstrong and @vladtenev announce a stablecoin yield reward boost for all incoming CHASE &amp; WellsFargo Bank…",
+      "url": "https://x.com/milesjennings/status/2085803129220850049",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 143,
+        "replies": 0,
+        "quotes": 0,
+        "views": "180"
       }
     },
     {
