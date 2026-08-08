@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-08-08T12:05:00.577283+00:00",
-  "generated_at_unix": 1786190700,
+  "generated_at": "2026-08-08T15:08:36.918052+00:00",
+  "generated_at_unix": 1786201716,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-07T16:00:00+00:00",
-  "window_end": "2026-08-08T12:05:00.577283+00:00",
-  "new_this_run": 21,
-  "total_recent": 34,
+  "window_end": "2026-08-08T15:08:36.918052+00:00",
+  "new_this_run": 14,
+  "total_recent": 48,
   "errors": [
     {
-      "username": "kspaglia",
+      "username": "KhurramDara",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "theblockprof",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +29,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086111366239199539",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T15:24:42+00:00",
+      "text": "All I’ve heard since the @EdMarkey 🆚 @sethmoulton debate are comments like this one. Even the @BostonGlobe wrote about just how uninspiring these two career politicians are. They’ve become so arrogant believing voters will choose anyone with a D in front of their name, that they’re ignoring what’s happening on the ground in MA. I’m telling you we have a shot at winning with a common sense nonpartisan candidate like me. #mapoli #MASen #Deaton",
+      "summary": "All I’ve heard since the @EdMarkey 🆚 @sethmoulton debate are comments like this one. Even the @BostonGlobe wrote about just how uninspiring these two…",
+      "url": "https://x.com/JohnEDeaton1/status/2086111366239199539",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3263"
+      }
+    },
+    {
+      "id": "2086111313751646311",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T15:24:29+00:00",
+      "text": "When things go wrong in Bitcoin, it’s easy to get completely consumed by them, but please don’t forget to spend time with friends and family this weekend and touch grass 🧡",
+      "summary": "When things go wrong in Bitcoin, it’s easy to get completely consumed by them, but please don’t forget to spend time with friends and family this…",
+      "url": "https://x.com/HaileyLennonBTC/status/2086111313751646311",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "474"
+      }
+    },
     {
       "id": "2086076960988356887",
       "is_retweet": true,
@@ -251,6 +305,31 @@
       }
     },
     {
+      "id": "2085907189735002526",
+      "is_retweet": true,
+      "original_author": "GivnerAriel",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T01:53:22+00:00",
+      "text": "RT @GivnerAriel: 🚨 Attn prediction markets: The CFTC just said stop making your odds look like sports betting. Platforms that offer event contracts must show prices the normal market way. No more of the “+150 / -200” style that sportsbooks and casinos use.",
+      "summary": "RT @GivnerAriel: 🚨 Attn prediction markets: The CFTC just said stop making your odds look like sports betting. Platforms that offer event contracts…",
+      "url": "https://x.com/HaileyLennonBTC/status/2085907189735002526",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "291"
+      }
+    },
+    {
       "id": "2085904941743271942",
       "is_retweet": true,
       "original_author": "SecRubio",
@@ -351,6 +430,31 @@
       }
     },
     {
+      "id": "2085852824521347540",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T22:17:21+00:00",
+      "text": "This is all just heart breaking Thanks to @glxyresearch @intangiblecoins for working tirelessly to quantify the damage done here. Hoping for some sort of resolution for victims long term. https://t.co/ECeA9djoyf",
+      "summary": "This is all just heart breaking Thanks to @glxyresearch @intangiblecoins for working tirelessly to quantify the damage done here. Hoping for some…",
+      "url": "https://x.com/HaileyLennonBTC/status/2085852824521347540",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 3,
+        "replies": 8,
+        "quotes": 1,
+        "views": "3449"
+      }
+    },
+    {
       "id": "2085849770514436164",
       "is_retweet": true,
       "original_author": "SlaterHeil",
@@ -398,6 +502,31 @@
         "replies": 14,
         "quotes": 2,
         "views": "9863"
+      }
+    },
+    {
+      "id": "2085847414854787484",
+      "is_retweet": true,
+      "original_author": "TFTC21",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T21:55:51+00:00",
+      "text": "RT @TFTC21: Bitcoin's Red Team started as an emergency response to the Coldcard disaster. Less than 3 days later: 24 people, 425 projects scanned, ~6,700 findings, and 1,029 classified as high or critical. Moving at 7.7 projects per hour. But the real bottleneck isn't discovery. It's disclosure. Only ~19.5% of scanned projects had a SECURITY.md. Only ~13.1% listed a security email. By hour 55, the team had produced thousands of findings but had only contacted ~130 projects. The scanners move at machine speed. Responsible disclosure is still hunting around for an email address. @OpenSats stepped up and gave the effort a home. Code RED will prioritize support for red-teaming critical Bitcoin software and reimburse past LLM token costs. The dedicated Red Team Fund is live. This week exposed how cheap vulnerability discovery has become and how unprepared most open-source projects are to receive the results. If your code touches bitcoin, publish a security contact. If you can reproduce and triage findings, the Red Team needs you.",
+      "summary": "RT @TFTC21: Bitcoin's Red Team started as an emergency response to the Coldcard disaster. Less than 3 days later: 24 people, 425 projects scanned,…",
+      "url": "https://x.com/HaileyLennonBTC/status/2085847414854787484",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "306"
       }
     },
     {
@@ -651,6 +780,31 @@
       }
     },
     {
+      "id": "2085802042812211707",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T18:55:33+00:00",
+      "text": "Crypto users are stronger than those trying to bring us down and we will fight even harder when Congress is back in September. We didn’t get the outcome we hoped for with Clarity, but the fight for clear crypto rules isn’t over. We won’t forget the Democrats who pretended to want Clarity or the Republicans who pretended to care about consumers but really care more about money from Big Banks. The retail users of crypto are a force. We show up at election time and we vote on this. We are never going away and only getting stronger as a movement. See you in September, and in the midterms and in 2028.",
+      "summary": "Crypto users are stronger than those trying to bring us down and we will fight even harder when Congress is back in September. We didn’t get the…",
+      "url": "https://x.com/CryptoLawUS/status/2085802042812211707",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 164,
+        "retweets": 37,
+        "replies": 8,
+        "quotes": 3,
+        "views": "5769"
+      }
+    },
+    {
       "id": "2085801448818847830",
       "is_retweet": true,
       "original_author": "_smoothninja",
@@ -726,6 +880,31 @@
       }
     },
     {
+      "id": "2085783702974460406",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:42:41+00:00",
+      "text": "Senator @SenLummis has worked tirelessly for Americans to have Clarity when it comes to digital assets. 👏",
+      "summary": "Senator @SenLummis has worked tirelessly for Americans to have Clarity when it comes to digital assets. 👏",
+      "url": "https://x.com/JohnEDeaton1/status/2085783702974460406",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 785,
+        "retweets": 93,
+        "replies": 36,
+        "quotes": 5,
+        "views": "26965"
+      }
+    },
+    {
       "id": "2085783157568069736",
       "is_retweet": false,
       "original_author": null,
@@ -773,6 +952,56 @@
         "replies": 978,
         "quotes": 150,
         "views": "455892"
+      }
+    },
+    {
+      "id": "2085778879269015995",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:23:31+00:00",
+      "text": "The only bipartisan thing in Washington is Corruption. And @RoKhanna is definitely bipartisan regarding that issue.",
+      "summary": "The only bipartisan thing in Washington is Corruption. And @RoKhanna is definitely bipartisan regarding that issue.",
+      "url": "https://x.com/JohnEDeaton1/status/2085778879269015995",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 152,
+        "retweets": 27,
+        "replies": 7,
+        "quotes": 1,
+        "views": "12958"
+      }
+    },
+    {
+      "id": "2085776577275531723",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:14:22+00:00",
+      "text": "I don’t know the solution, but it seems like we need a way better system to alert users about critical vulnerabilities that could result in lost funds than Twitter :/",
+      "summary": "I don’t know the solution, but it seems like we need a way better system to alert users about critical vulnerabilities that could result in lost…",
+      "url": "https://x.com/HaileyLennonBTC/status/2085776577275531723",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 72,
+        "retweets": 6,
+        "replies": 18,
+        "quotes": 0,
+        "views": "5663"
       }
     },
     {
@@ -873,6 +1102,131 @@
         "replies": 0,
         "quotes": 0,
         "views": "709"
+      }
+    },
+    {
+      "id": "2085762581168337110",
+      "is_retweet": true,
+      "original_author": "MetaLawMan",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T16:18:45+00:00",
+      "text": "RT @MetaLawMan: Congratulations to the Big Bank Lobby &amp; Sen. Elizabeth Warren on defeating the Clarity Act (for now). Now: 1. Trump &amp; his family can continue to do whatever they want in crypto; and 2. Crypto exchanges can continue paying unlimited yield on stablecoin deposits. Well played.",
+      "summary": "RT @MetaLawMan: Congratulations to the Big Bank Lobby &amp; Sen. Elizabeth Warren on defeating the Clarity Act (for now). Now: 1. Trump &amp; his…",
+      "url": "https://x.com/JohnEDeaton1/status/2085762581168337110",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 502,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3653"
+      }
+    },
+    {
+      "id": "2085762187943928304",
+      "is_retweet": true,
+      "original_author": "callebtc",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T16:17:11+00:00",
+      "text": "RT @callebtc: 🚨🚨 URGENT: BTCPAYSERVER 🚨🚨 There is a critical vulnerability that is being actively exploited on BTCPay Server which can lead to loss of funds. Update your BTCPayServer to to 2.4.2 or turn off your BTCPayServer now.",
+      "summary": "RT @callebtc: 🚨🚨 URGENT: BTCPAYSERVER 🚨🚨 There is a critical vulnerability that is being actively exploited on BTCPay Server which can lead to loss…",
+      "url": "https://x.com/HaileyLennonBTC/status/2085762187943928304",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 338,
+        "replies": 0,
+        "quotes": 0,
+        "views": "299"
+      }
+    },
+    {
+      "id": "2085762123720798438",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnReedStark",
+      "display_name": "John Reed Stark",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T16:16:56+00:00",
+      "text": "To All Crypto Bros: Crypto Has a Ticking Clock Problem, and Almost Nobody in Finance is Talking About It (Especially SEC Chairman Paul Atkins) Two things happened in the last two weeks that should be on every financial professional’s radar (and should be of serious concern for all crypto HODLers, especially bitcoin HODLers): 1️⃣ IBM CEO @ArvindKrishna told @jimcramer that within 3-4 years, we should all be “rather paranoid” about quantum computing’s threat to the cryptography underpinning crypto. Cramer is reportedly selling his Bitcoin in response (linked below). 2️⃣ Duke’s @leereiners published a comprehensive article in Duke's FinReg Blog arguing -- a must read -- that financial regulators need a plan for quantum-vulnerable digital assets, because right now, they don’t have one (linked below). The Quantum Fear. Meanwhile, quantum-vulnerable blockchain infrastructure is being integrated deeper into the traditional financial system every month: spot ETFs, bank custody, stablecoin legislation. The trend line is hard to dismiss. Research published this year cut the estimated quantum hardware needed to break current cryptographic keys by an order of magnitude. Millions of bitcoin especially reside in older, exposed and vulnerable wallet formats. The industry insists it will upgrade before the threat materializes. But to execute a coordinated cryptographic migration across every chain, wallet and custodian is unprecedented. Y2K Bug, Deja Vu All Over Again? Make no mistake about it -- this is no Y2K bug-like situation. I should know because I experienced the Y2K bug crisis firsthand. I worked at the U.S. Securities and Exchange Commission (SEC) during the Y2K bug threat and actually stood guard in the SEC Enforcement ticker room that night at 11:59 PM when the clock turned. All went fine (thankfully) but only because the SEC spent all of 1998 and 1999 fiercely enforcing Y2K Bug disclosure from, and Y2K Bug remediation by, all SEC-registered entities, especially brokerage firms, clearing firms and national exchanges. Specifically, the SEC strictly enforced Year 2000 (Y2K) disclosures by requiring registered firms to report their readiness and remediation progress. The SEC also initiated historic crackdowns and levied civil penalties against brokerage firms and investment advisers that failed to file or filed incomplete Y2K compliance forms. The SEC efforts were massive and extraordinarily effective -- just look at this Y2K Bug Report (one of many) from those days: https://t.co/ZMlJyUlMvt For example, to enforce Y2K readiness across the financial sector, the SEC instituted mandatory reporting rules and released comprehensive interpretative guidance, such as: -- Staff Legal Bulletin No. 5: The SEC issued and subsequently updated this bulletin to compel public issuers and registered investment companies to disclose material impacts the Y2K problem could have on their businesses. This included remediation costs, untimeliness risks, and third-party failures. -- Form BD-Y2K & Form TA-Y2K: Broker-dealers and transfer agents were legally required to submit disclosure reports detailing their readiness. Firms not deemed fully compliant by the late summer of 1999 were threatened with mandatory cessation of business operations. The SEC also famously took aggressive, sweeping enforcement actions against firms that missed statutory filing deadlines or failed to submit complete assessments: -- Broker-Dealer Crackdowns: In late 1998, the SEC charged 37 brokerage firms for failing to file or fully complete Part II of Form BD-Y2K. Nineteen of these firms initially agreed to settle, paying civil penalties ranging from $5,000 to $25,000. -- Investment Advisers & Transfer Agents: In the summer of 1999, the SEC brought enforcement actions against investment advisers and transfer agents (e.g., Peachtree Stock Transfer, Amervest) for missing deadlines or submitting incomplete updated TA-Y2K forms. Penalties reached upwards of $22,500 per firm, alongside cease-and-desist orders and formal censures. Following extensive internal efforts, the SEC also imposed a moratorium from June 1, 1999, to March 31, 2000, on any new rulemakings requiring major computer reprogramming by Commission-regulated entities to allow firms to focus strictly on Y2K remediation. Today's SEC and Quantum. Sadly, don’t expect the cavalry to ride in from the SEC. @SECPaulSAtkins spent years before his appointment on the other side of the table: co-chair of the Token Alliance, the crypto lobby’s advocacy arm; consultant to digital asset firms through his firm, whose client list included FTX, massing up to $6 million in crypto-related holdings disclosed at his nomination. @SECPaulSAtkins is no watchdog. He is the industry’s own man, installed in the regulator’s chair. And he has governed exactly as expected: “Project Crypto,” declaring most digital assets aren’t securities at all and swapping enforcement for accommodation, all while the quantum clock ticks. In short, when the Y2K Bug arose as an issue, the SEC spoke loudly and often, acted swiftly and aggressively and fully mobilized. Fast forward to today and the Quantum threat, there's only radio silence from the SEC and gleeful abandon from @SECPaulSAtkins. Does Big Crypto Even Care About the Quantum Threat? Let’s be honest about who’s guarding the vault. This is an industry born in shadow and raised on anonymity, whose track record runs from collapsed exchanges to vaporized stablecoins to founders sitting in federal prison. Their answer to the quantum threat is ‘trust us—we’ll upgrade in time.’ Trust? From a den of thieves whose entire history is one long exercise in separating holders from their money. The only thing new here is that quantum computing might beat them to it. The Stark Reality: Asking this SEC to plan for the day crypto’s cryptography cracks is asking a man to blow the whistle on the Big Crypto industry that made him. The chances are slim and none (and Slim just left town). Fail not at your peril crypto bros. Start asking questions now. . . . And though you may not agree with my views on crypto -- my take is that crypto's only use is for criminals -- you should still heed my admonition (and please don't kill the messenger). Lee Reiners article: https://t.co/TDNQGhjNLM IBM Interview: https://t.co/oKpGFmFutC",
+      "summary": "To All Crypto Bros: Crypto Has a Ticking Clock Problem, and Almost Nobody in Finance is Talking About It (Especially SEC Chairman Paul Atkins) Two…",
+      "url": "https://x.com/JohnReedStark/status/2085762123720798438",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 34,
+        "retweets": 9,
+        "replies": 8,
+        "quotes": 3,
+        "views": "61599"
+      }
+    },
+    {
+      "id": "2085761251427168697",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T16:13:28+00:00",
+      "text": "TO MA VOTERS: There is “a reasonable alternative” to @EdMarkey and @sethmoulton. Those are the words of the @BostonGlobe Editorial Board in 2024 when they described me as a U.S. Senate candidate. The Editorial Board stated that I was a “reasonable alternative who is downright liberal on certain social issues” (e.g., gay marriage, pro-choice). The debate the other night demonstrated the need for a reasonable alternative. #mapoli #MASen #Deaton",
+      "summary": "TO MA VOTERS: There is “a reasonable alternative” to @EdMarkey and @sethmoulton. Those are the words of the @BostonGlobe Editorial Board in 2024 when…",
+      "url": "https://x.com/JohnEDeaton1/status/2085761251427168697",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 63,
+        "retweets": 15,
+        "replies": 3,
+        "quotes": 0,
+        "views": "13149"
+      }
+    },
+    {
+      "id": "2085760559086002232",
+      "is_retweet": true,
+      "original_author": "callebtc",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T16:10:43+00:00",
+      "text": "RT @callebtc: 🚨🚨 URGENT: BTCPAYSERVER 🚨🚨 There is a critical vulnerability that is being actively exploited on BTCPay Server which can lead to loss of funds. Update your BTCPayServer to to 2.4.2 or turn off your BTCPayServer now.",
+      "summary": "RT @callebtc: 🚨🚨 URGENT: BTCPAYSERVER 🚨🚨 There is a critical vulnerability that is being actively exploited on BTCPay Server which can lead to loss…",
+      "url": "https://x.com/prestonjbyrne/status/2085760559086002232",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 338,
+        "replies": 0,
+        "quotes": 0,
+        "views": "339"
       }
     }
   ]
