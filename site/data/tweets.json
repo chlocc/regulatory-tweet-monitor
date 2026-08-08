@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-08T09:13:24.903556+00:00",
-  "generated_at_unix": 1786180404,
+  "generated_at": "2026-08-08T12:05:00.577283+00:00",
+  "generated_at_unix": 1786190700,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-07T16:00:00+00:00",
-  "window_end": "2026-08-08T09:13:24.903556+00:00",
-  "new_this_run": 2,
-  "total_recent": 13,
+  "window_end": "2026-08-08T12:05:00.577283+00:00",
+  "new_this_run": 21,
+  "total_recent": 34,
   "errors": [
     {
-      "username": "BlockchainAssn",
+      "username": "kspaglia",
       "error": "The read operation timed out"
     }
   ],
@@ -17,7 +17,7 @@
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +25,181 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086076960988356887",
+      "is_retweet": true,
+      "original_author": "SenLummis",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T13:07:59+00:00",
+      "text": "RT @SenLummis: The @WSJ editorial board says the Clarity Act is \"worth supporting\"—then spends the rest of their opinion piece regurgitating tired Big Bank talking points from the 1970s and taking cheap shots at the President instead of making an actual case for their position. I had to set the record straight. ⬇️⬇️ https://t.co/sH8uZ6iRBC",
+      "summary": "RT @SenLummis: The @WSJ editorial board says the Clarity Act is \"worth supporting\"—then spends the rest of their opinion piece regurgitating tired…",
+      "url": "https://x.com/NYcryptolawyer/status/2086076960988356887",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 279,
+        "replies": 0,
+        "quotes": 0,
+        "views": "45"
+      }
+    },
+    {
+      "id": "2086051102651232700",
+      "is_retweet": true,
+      "original_author": "JourneyMacro",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T11:25:14+00:00",
+      "text": "RT @JourneyMacro: Firstly, LSTs and large stakers are simply millions of people who don't have 32 ETH to do solo staking or can't be bothered to go through the complexities Secondly, there is zero proof that going over 50% will somehow accelerate dilution for non-stakers Thirdly, the effect on non-stakers is ameliorated by the fact that fee burns reduce the impact of dilution Fourthly, many non-stakers accept dilution as the cost of securing ETH and have no issues with it - if they had an issue with it, they can stake their ETH Lastly, if we made solo staking easier and cheaper, there would likely be a lot less LSTs and large pools",
+      "summary": "RT @JourneyMacro: Firstly, LSTs and large stakers are simply millions of people who don't have 32 ETH to do solo staking or can't be bothered to go…",
+      "url": "https://x.com/lex_node/status/2086051102651232700",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "614"
+      }
+    },
+    {
+      "id": "2086041510273761628",
+      "is_retweet": true,
+      "original_author": "ethvisionorg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T10:47:07+00:00",
+      "text": "RT @ethvisionorg: Several issues exist: 1. The statement that \"if the staked ETH exceeds a certain threshold, such as 50%, it will create a strong incentive for the remaining 50% to stake to avoid dilution\" is unfounded; it's only one possibility. In reality, as the staking ratio increases, the staking yield gradually decreases. The current surge in staking is largely due to the prolonged low price of ETH (which is also just one factor). The staking ratio is a complex factor, not a simple 0 or 1 model. 2. The statement that \"holding a high proportion of $ETH staked will introduce many problems and act as a centralized force\" is also unfounded. LSTs' value is entirely rooted in ETH. If ETH is decentralized, then LSTs are unlikely to become a centralized force. Because if LSTs try to undermine ETH, they will perish simultaneously. 3. The statement that \"LSTs with a large ETH staking ratio will introduce tail risk because they become too big to fail. In the event of a major leak, the chain may be forced to fork\" sounds correct, but strictly speaking... Any project/DApp that grows large will face the same risks. Even Ethereum's own code may have bugs. Presuming LSTs guilty based on theoretical possibilities demonstrates ignorance of law and common sense. 4. Vitalik and his core group have long been wary of LSTs like Lido because LSTs are not an unexpected bonus of the free market designed by EF. Those around Vitalik are deeply concerned that the growing influence of LSTs will weaken their own, so they are attempting to \"reduce power\" by addressing top-level rules. This is a typical power struggle, not a purely technical issue. In reality, L2s pose a much greater threat to Ethereum, and Vitalik, due to his deep involvement in L2s design, only acknowledged the problem this year. 5. My view is that Ethereum's current monetary policy and issuance curve do not have real problems. LSTs are a spontaneous market outcome and are part of Ethereum's greatness. Trying to change a problem that isn't a problem is itself a problem. Ethereum is already a massive economy worth hundreds of billions of dollars; the stability of its monetary policy is a prerequisite for its long-term consensus building. The large number of left-wing individuals within Ethereum (EF) excels in philosophy and theory but lacks substantial practical experience and product development mindset. This poses a threat to Ethereum to some extent, and the very proposal of this EIP exposes this problem. The near-universal opposition to this absurd proposal from the community also serves as a check and balance. Ethereum remains great, but not because of a few individuals. Ethereum doesn't need heroes; some should voluntarily step aside.",
+      "summary": "RT @ethvisionorg: Several issues exist: 1. The statement that \"if the staked ETH exceeds a certain threshold, such as 50%, it will create a strong…",
+      "url": "https://x.com/lex_node/status/2086041510273761628",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "648"
+      }
+    },
+    {
+      "id": "2086036491097010409",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T10:27:10+00:00",
+      "text": "Statutory interpretation (like admin law 😊) was one of my favorite subjects in law school. The statutory canon against absurdity is an actual statutory canon! dating back to a Supreme Court case from 1868. It’s not invoked often and has been controversial bc it can require courts to depart from a statute’s literal reading, which some people are very offended by. But yes it is real. (Also that case was about a sheriff who arrested a mailman who had been indicted for murder; the court ruled that the sheriff couldn’t be prosecuted for violating a federal law that made it illegal to “obstruct the mail” because that’s obviously not what Congress meant. Lol)",
+      "summary": "Statutory interpretation (like admin law 😊) was one of my favorite subjects in law school. The statutory canon against absurdity is an actual…",
+      "url": "https://x.com/TuongvyLe12/status/2086036491097010409",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 1,
+        "views": "675"
+      }
+    },
+    {
+      "id": "2085987814445830453",
+      "is_retweet": true,
+      "original_author": "_prestwich",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T07:13:45+00:00",
+      "text": "RT @_prestwich: @benjaminion_xyz thats just not how that works at all. each marginal upside of new stake is the same for all participants, and large stakers have economies of scale not available to small ones. decreasing issuance privileges large stakers and economically insensitive mountain men",
+      "summary": "RT @_prestwich: @benjaminion_xyz thats just not how that works at all. each marginal upside of new stake is the same for all participants, and large…",
+      "url": "https://x.com/lex_node/status/2085987814445830453",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "674"
+      }
+    },
+    {
+      "id": "2085981735997637013",
+      "is_retweet": true,
+      "original_author": "papa_raw",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T06:49:36+00:00",
+      "text": "RT @papa_raw: A lot of political economy is explainable as captured ledger systems Study the Cantillon Effect, Fed master accounts, DTCC … certain institutions capture rights to monopolize the numbers that make society fair Breaking their intermediating hold is crypto’s dragon to slay!",
+      "summary": "RT @papa_raw: A lot of political economy is explainable as captured ledger systems Study the Cantillon Effect, Fed master accounts, DTCC … certain…",
+      "url": "https://x.com/lex_node/status/2085981735997637013",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "679"
+      }
+    },
+    {
+      "id": "2085924109561561459",
+      "is_retweet": true,
+      "original_author": "ENSpunks",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T03:00:36+00:00",
+      "text": "RT @ENSpunks: For my time in Ethereum I’d alway been hyper focused on ENS. Almost everyone in ENS “quiet-quit.” Gabe &amp; I worked on similar things with similar philosophies, but he was always more Ethereum focused. Truth is, if people like Gabe (and I) don’t make it, no one will.",
+      "summary": "RT @ENSpunks: For my time in Ethereum I’d alway been hyper focused on ENS. Almost everyone in ENS “quiet-quit.” Gabe &amp; I worked on similar things…",
+      "url": "https://x.com/lex_node/status/2085924109561561459",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "640"
+      }
+    },
     {
       "id": "2085913316807880878",
       "is_retweet": false,
@@ -126,6 +301,31 @@
       }
     },
     {
+      "id": "2085876270290686306",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T23:50:31+00:00",
+      "text": "I honestly think something is broken in my brain to still be focusing 100% on crypto, participating in governance, etc. Most of my friends/colleagues have at least \"quiet-quit\", at most just kind of doing it as a job. I've tried to talk myself out of it but can't.",
+      "summary": "I honestly think something is broken in my brain to still be focusing 100% on crypto, participating in governance, etc. Most of my friends/colleagues…",
+      "url": "https://x.com/lex_node/status/2085876270290686306",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 270,
+        "retweets": 0,
+        "replies": 54,
+        "quotes": 3,
+        "views": "10373"
+      }
+    },
+    {
       "id": "2085875882627866988",
       "is_retweet": false,
       "original_author": null,
@@ -148,6 +348,81 @@
         "replies": 1,
         "quotes": 0,
         "views": "547"
+      }
+    },
+    {
+      "id": "2085849770514436164",
+      "is_retweet": true,
+      "original_author": "SlaterHeil",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T22:05:13+00:00",
+      "text": "RT @SlaterHeil: It's actually both San Altman and Dario but you wouldn't blv it Effective altruism only leads to one type of operator. It's not exactly a scammer. But someone who values EA over their customers and investors, who thinks they can arbit good and bad, ends up imploding.",
+      "summary": "RT @SlaterHeil: It's actually both San Altman and Dario but you wouldn't blv it Effective altruism only leads to one type of operator. It's not…",
+      "url": "https://x.com/lex_node/status/2085849770514436164",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "676"
+      }
+    },
+    {
+      "id": "2085849657251615043",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T22:04:46+00:00",
+      "text": "my lawyer groups on CLARITY are dead silent today lmao... well, I really wanted it to pass & personally put in some work on it. . . .OTOH, crypto has performed pretty abysmally during this period of actual/expected regulatory friendliness so perhaps there's some silver lining somewhere. . . still may pass later...but I fear election season will make it very tough. . .",
+      "summary": "my lawyer groups on CLARITY are dead silent today lmao... well, I really wanted it to pass & personally put in some work on it. . . .OTOH, crypto has…",
+      "url": "https://x.com/lex_node/status/2085849657251615043",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 116,
+        "retweets": 4,
+        "replies": 14,
+        "quotes": 2,
+        "views": "9863"
+      }
+    },
+    {
+      "id": "2085844075433828784",
+      "is_retweet": true,
+      "original_author": "materkel",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T21:42:35+00:00",
+      "text": "RT @materkel: Btw, it looks like many of you missed that @drakefjustin originally posted about a \"snail issuance\" proposal (essentially EIP-8363) and deleted it not even 1 hr later - I guess so as not to take away from the @ethereuminsti announcement, which happened roughly at the same time a few weeks ago. However, the proposal wasn't received very well by the people who saw it, including the open, issuance-related Telegram group, and it looks like Justin has since stepped away from championing it?",
+      "summary": "RT @materkel: Btw, it looks like many of you missed that @drakefjustin originally posted about a \"snail issuance\" proposal (essentially EIP-8363) and…",
+      "url": "https://x.com/lex_node/status/2085844075433828784",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "736"
       }
     },
     {
@@ -251,6 +526,81 @@
       }
     },
     {
+      "id": "2085818735403692514",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T20:01:53+00:00",
+      "text": "RT @laurashin: \"You can't just call twenty different things a vault and pretend that they're all the same thing\" Veda CEO Sun Raghupathi breaks down Commissioner Peirce's vault statement and what actually triggers securities law \"In terms of Commissioner Peirce's statement today, I think she's touching on something that many of us in the space have been saying for a long time.\" \"What Commissioner Peirce is saying is that different aspects of a vault design inform whether these products should be regulated under securities law or should not be\"",
+      "summary": "RT @laurashin: \"You can't just call twenty different things a vault and pretend that they're all the same thing\" Veda CEO Sun Raghupathi breaks down…",
+      "url": "https://x.com/TuongvyLe12/status/2085818735403692514",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "49"
+      }
+    },
+    {
+      "id": "2085817730473599152",
+      "is_retweet": true,
+      "original_author": "NeerajKA",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T19:57:54+00:00",
+      "text": "RT @NeerajKA: Maybe we should starting saying the BSA is like Flock for your money",
+      "summary": "RT @NeerajKA: Maybe we should starting saying the BSA is like Flock for your money",
+      "url": "https://x.com/N0th1n3/status/2085817730473599152",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "31"
+      }
+    },
+    {
+      "id": "2085813911618511131",
+      "is_retweet": true,
+      "original_author": "Beylin",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T19:42:43+00:00",
+      "text": "RT @Beylin: @lex_node By not knowing what’s inside Clarity one can remain in a superposition of being bullish (or bearish) regardless of whether or not it passes",
+      "summary": "RT @Beylin: @lex_node By not knowing what’s inside Clarity one can remain in a superposition of being bullish (or bearish) regardless of whether or…",
+      "url": "https://x.com/lex_node/status/2085813911618511131",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "715"
+      }
+    },
+    {
       "id": "2085808563885109256",
       "is_retweet": false,
       "original_author": null,
@@ -273,6 +623,56 @@
         "replies": 4,
         "quotes": 1,
         "views": "7469"
+      }
+    },
+    {
+      "id": "2085808372729651632",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T19:20:43+00:00",
+      "text": "I truly don't understand probably 80% of things said about CLARITY on this app. People seem to think it's somehow mainly about tokenizing RWAs lol? It's mainly about drawing the line between RWAs and non-RWAs and doesn't really change anything important about \"tokenization\". It's like no one reads it, not even AI-assisted, and just read what other people say about it or talk about what they wish it was/says/did. Oh well.",
+      "summary": "I truly don't understand probably 80% of things said about CLARITY on this app. People seem to think it's somehow mainly about tokenizing RWAs lol?…",
+      "url": "https://x.com/lex_node/status/2085808372729651632",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 78,
+        "retweets": 2,
+        "replies": 15,
+        "quotes": 2,
+        "views": "13402"
+      }
+    },
+    {
+      "id": "2085801448818847830",
+      "is_retweet": true,
+      "original_author": "_smoothninja",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T18:53:12+00:00",
+      "text": "RT @_smoothninja: @lex_node EIP-1559 should have been somehow enforced in L2s as well. Should have made them burn half of the fees in ETH. Require them to submit the proof of burn.",
+      "summary": "RT @_smoothninja: @lex_node EIP-1559 should have been somehow enforced in L2s as well. Should have made them burn half of the fees in ETH. Require…",
+      "url": "https://x.com/lex_node/status/2085801448818847830",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "701"
       }
     },
     {
@@ -326,6 +726,31 @@
       }
     },
     {
+      "id": "2085783157568069736",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:40:31+00:00",
+      "text": "DTCC is not our friend. We must dismantle existing power structures, disintermediate, and put entities and their securities directly onchain to rebuild capital markets on the internet. https://t.co/E3qHU2scRK",
+      "summary": "DTCC is not our friend. We must dismantle existing power structures, disintermediate, and put entities and their securities directly onchain to…",
+      "url": "https://x.com/lex_node/status/2085783157568069736",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 59,
+        "retweets": 18,
+        "replies": 18,
+        "quotes": 5,
+        "views": "7856"
+      }
+    },
+    {
       "id": "2085780790328115669",
       "is_retweet": false,
       "original_author": null,
@@ -348,6 +773,106 @@
         "replies": 978,
         "quotes": 150,
         "views": "455892"
+      }
+    },
+    {
+      "id": "2085776490935795912",
+      "is_retweet": true,
+      "original_author": "daonamic",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:14:01+00:00",
+      "text": "RT @daonamic: @brianmcmichael @lex_node @ameensol might know https://t.co/qPj7T6DQtV",
+      "summary": "RT @daonamic: @brianmcmichael @lex_node @ameensol might know https://t.co/qPj7T6DQtV",
+      "url": "https://x.com/lex_node/status/2085776490935795912",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "726"
+      }
+    },
+    {
+      "id": "2085775717007081785",
+      "is_retweet": true,
+      "original_author": "Justin_Bons",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:10:57+00:00",
+      "text": "RT @Justin_Bons: Ethereum's economic design is perfect! The problem is: No demand due to a failure to scale Ethereum's latest proposal (EIP-8363) sacrifices security & decentralization for greed! Again exposing an out-of-touch leadership Squeezing supply for any life left is not the answer: 🧵 It shows a flawed set of priorities: Value & scarcity in crypto must ultimately be derived from fees! That is why scalability is tantamount for long-term security & decentralization. Something ETH is significantly behind on & will continue to be behind on according to its own monster of a 5-year roadmap... That is why this proposal comes across as so incredibly tone deaf: The fact that top ETH researchers spent years developing an idea that goes completely against ETH's self-stated ethos & popular demand. Faustian Bargain Make no mistake, this proposal, if passed, will make ETH less secure & less decentralized! By lowering the maximum stake, they are proposing to lower the maximum security budget! Lowering emissions will also lead to fewer stakers/validators! Less paid out = less security & decentralization. This proposal will lead to fewer validators overall (less decentralized) & a lower security budget (economic security); there is no other way to cut it. All to gain a few percentage points on the inflation curve, it tragically misses the big picture of what blockchains can become with high demand. As the fees a blockchain can generate when they scale far eclipse whatever minor difference such a small-minded economic proposal might make. The Perfect Model ETH's economic design is perfect as is; I have been on record about this since EIP-1559. SOL has more or less adopted the same model. At this stage, anyone who does not adopt this model has a bad economic design in my book I am, of ofcourse, talking about \"tail inflation + fee burn\". More secure & more scarce under all circumstances. This new proposal still follows that core structure but unnecessarily limits the maximums as we discussed earlier If this latest ETH proposal (EIP-8363) were passed, it would likely lead to SOL taking the lead in being the most economically secure blockchain, a title ETH currently holds... Despite this being very funny to me & serving as validation of my long-term thesis. It is obviously not the correct course of action for ETH. It should absolutely attempt to hold on to one of the few advantages it still possesses after losing its lead in usage to chains like SOL The way it does this is not by making minor tweaks to a pretty much perfect model. Instead, it must achieve this by scaling the L1 so that it can directly compete on demand/fees with other L1's. Something these same researchers have technically opposed, as ETH's current roadmap does not significantly increase speed at all on purpose! A tail inflation of 0.8% combined with a 50% fee burn is an excellent design for an L1 & it has always been that way. Are there slight ways it can be improved in minor ways? Certainly. However, that should not at all be the priority now, if ever The real problem is ETH's utter inability to compete with other L1's on-demand & that is due to its centralized ivory-tower leadership: Who Decides As this drama runs its course, pay attention. It will again expose that decision-making in ETH is totally centralized in the client development teams & or whoever controls them Extreme centralized control in what is supposed to be a decentralized network? Yes! Paradoxically, though it may seem at first, this is one of the most common perversions in crypto Even today, thought leaders like Vitalik speak against the evils of on-chain governance. While they hypocritically wield effective dictatorial decision-making power over the protocol Make no mistake, formalized stakeholder governance is the only way to decentralize the decision-making effectively in a way that still honors crypto & cypherpunk principles. To do justice to this incredibly powerful technology we have inherited without handing it right back to the powers that be Ethereum Foundation & Friends The more the Ethereum Foundation tries not to be in charge, the more they effectively are in charge. Power cannot exist in a vacuum. So, unless another centralized power takes control, it will always flow back to that cabal to solve the coordination problem That is the key: the coordination problem, as we can either solve it in the old way (centralized/off-chain) or in the new way (decentralized/on-chain). That is the biggest problem that blockchain solved to begin with, after all Here is a scary thought: With such a highly centralized form of governance, something I like to call a \"GitHub Dictatorship,\" even a little controversy can be used as a justification to implement nothing forever. So, I think that is what we should expect over the coming years: A lot of nothing Conclusion This economic proposal is only the latest blunder in a long list of failures in what is becoming a tragic history The gumption to trade off security in favor of price speculation at a time like this is insulting As this proposal makes ETH less decentralized & secure! To spend any energy on that instead of moving the needle on upgrading ETH to compete on demand is mindboggling The disconnect between the stakeholders having no effective say in this decision (except for forking off). Should also at least act as an additional wake-up call for any remaining supporters There are great ETH researchers supporting this proposal. Some whose previous work I admire & respect. Despite that, we cannot ignore the elephant in the room ETH's centralized leadership is a mess after the extremists consolidated control of the Ethereum Foundation & told the world to rely on others This is what we get from some of ETH's greatest researchers/others: A terrible proposal which weakens the qualities they claim to hold most dear; security & decentralization. The result; division & disruption We can love Ethereum's original spirit without supporting what it tragically has become today That is how we can move on from BTC & now ETH too, while carrying their original spirit with us. Crypto is still evolving & we have to keep evolving with it too! 🔥",
+      "summary": "RT @Justin_Bons: Ethereum's economic design is perfect! The problem is: No demand due to a failure to scale Ethereum's latest proposal (EIP-8363)…",
+      "url": "https://x.com/lex_node/status/2085775717007081785",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "645"
+      }
+    },
+    {
+      "id": "2085775578792149139",
+      "is_retweet": true,
+      "original_author": "CloutedMind",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:10:24+00:00",
+      "text": "RT @CloutedMind: pretty bullish that the far majority of the ethereum community can come together in a very chaotically coordinated way to act against any proposal that is clearly seen as not important and even possibly just redundant of a proposal chaotic coordination like this doesnt actually really happen anywhere else especially not in crypto? (is this democracy? {meme}) intellectual masturbators saying but muh tragedy of commons if 120M eth is staked and the entire community saying focus on pragmatism and win bullish long live ethereum",
+      "summary": "RT @CloutedMind: pretty bullish that the far majority of the ethereum community can come together in a very chaotically coordinated way to act…",
+      "url": "https://x.com/lex_node/status/2085775578792149139",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "645"
+      }
+    },
+    {
+      "id": "2085774344618152021",
+      "is_retweet": true,
+      "original_author": "Artem_Oak",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-07T17:05:30+00:00",
+      "text": "RT @Artem_Oak: Not speaking as a solo staker, but rather as someone who has been part of the Ethereum ecosystem for a while and that is aware of what's at stake here Our full opinion is available below, but here are some personal thoughts: 1 - The risks outweigh the benefits Network disruption, uncertainty, DeFi implosion, LST premium, and a bunch of other factors make me think that this is not the right way forward. I don't think this proposal comes from malicious actors, but feels like the people behind it still view Ethereum like we are in 2021. Ethereum has grown and is larger than a simple tech layer. You have to take it into consideration. I think @StaniKulechov had some really good points there (other opinions are also included in the article). 2 - Solo stakers and the centralisation issue Let's imagine for a second that this goes through. Solo stakers will be the ones who will need monitoring the staking curve, will bear the most costs, will capture less MEV and priority fees, will take on most of the risks. Good points by @mzeller on this. 3 - Don't understand why it is done now Yes, the staking has become popular among institutions, LST providers, and actors like @BitMNR who launched its own $ETH staking service. Why would you want, as Ethereum battles for adoption & relevance, try and change the most interesting part about owning ETH today? It feels like a state of urgency that doesn't need to be one. I would love to hear the opinion from @ethlabs_org on this EIP in general to see if we are wrong to disagree with the timing or if it's something that should not be the priority today (gm @barnabemonnot) Overall take (as someone who is an $ETH believer, not a solo staker), this proposal creates a lot of uncertainty, could become a real pain to manage both for solo stakers, but also institutions, while Ethereum seems to finally gain traction and get in front of its competitors. Please read the whole article that recaps everything around the proposal, the opinions of those who support it and who are against it, and overall a really good read by @MaximilienP51 with comments from @_prenomnom_ and myself.",
+      "summary": "RT @Artem_Oak: Not speaking as a solo staker, but rather as someone who has been part of the Ethereum ecosystem for a while and that is aware of…",
+      "url": "https://x.com/lex_node/status/2085774344618152021",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "709"
       }
     }
   ]
