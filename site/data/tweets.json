@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-09T15:03:47.851859+00:00",
-  "generated_at_unix": 1786287827,
+  "generated_at": "2026-08-09T18:04:06.088326+00:00",
+  "generated_at_unix": 1786298646,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-08T16:00:00+00:00",
-  "window_end": "2026-08-09T15:03:47.851859+00:00",
-  "new_this_run": 8,
-  "total_recent": 25,
-  "errors": [],
+  "window_end": "2026-08-09T18:04:06.088326+00:00",
+  "new_this_run": 11,
+  "total_recent": 36,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086494925881848005",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-09T16:48:50+00:00",
+      "text": "RT @CryptoAmerica_: The idea that tokenization is just about cost savings is a red herring, @WisdomTreeFunds’ @wbpeck tells us. “It needs to be about user experience and what you’re actually adding and improving for people.” https://t.co/HwzKGRWXcX",
+      "summary": "RT @CryptoAmerica_: The idea that tokenization is just about cost savings is a red herring, @WisdomTreeFunds’ @wbpeck tells us. “It needs to be about…",
+      "url": "https://x.com/EleanorTerrett/status/2086494925881848005",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6251"
+      }
+    },
+    {
+      "id": "2086494914397737130",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-09T16:48:47+00:00",
+      "text": "RT @CryptoAmerica_: 🕰️ Money never sleeps at @WisdomTreeFunds. Head of Digital Assets @wbpeck explains how clients can buy and sell its tokenized money market fund 24/7, even at 10 a.m. on a Sunday. https://t.co/6L8gZdPnnA",
+      "summary": "RT @CryptoAmerica_: 🕰️ Money never sleeps at @WisdomTreeFunds. Head of Digital Assets @wbpeck explains how clients can buy and sell its tokenized…",
+      "url": "https://x.com/EleanorTerrett/status/2086494914397737130",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5651"
+      }
+    },
+    {
+      "id": "2086478070140244312",
+      "is_retweet": true,
+      "original_author": "BenNapier",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-09T15:41:51+00:00",
+      "text": "RT @BenNapier: A quick summary of the 5 years of House action on crypto market structure legislation: Nov 2021: Digital Commodity Exchange Act (DCEA) discussion draft is released Apr 2022: DCEA is formally introduced Aug 2022: Digital Commodities Consumer Protection Act is formally introduced Apr-Jun 2023: Crypto hearings held in FS and Ag Committees Jul 2023: FS and Ag marks up FIT21 May 2024: FIT21 passes the full House 279-136 Jun 2025: FS and Ag marks up CLARITY Act Jul 2025: CLARITY passes the full House 294-134",
+      "summary": "RT @BenNapier: A quick summary of the 5 years of House action on crypto market structure legislation: Nov 2021: Digital Commodity Exchange Act (DCEA)…",
+      "url": "https://x.com/milesjennings/status/2086478070140244312",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "158"
+      }
+    },
+    {
+      "id": "2086453231270662274",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T14:03:09+00:00",
+      "text": "This Clarity Act thing is probably short-term great for our bags in USD terms but long-term kinda bearish for the cypherpunk ethos of this space. Yall think the Founding Fathers of America asked King George III for permission before they signed the Declaration of Independence?",
+      "summary": "This Clarity Act thing is probably short-term great for our bags in USD terms but long-term kinda bearish for the cypherpunk ethos of this space.…",
+      "url": "https://x.com/wassielawyer/status/2086453231270662274",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "2116"
+      }
+    },
     {
       "id": "2086444817970508040",
       "is_retweet": false,
@@ -121,6 +230,56 @@
       }
     },
     {
+      "id": "2086438027895996750",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T13:02:44+00:00",
+      "text": "I am celebrating Singapores National Day in the most patriotic way possible. Hanging out in Malaysia spending my SGD at a 3.2:1 exchange rate. Tis what Lee Kuan Yew would have wanted. Ah Gong - we did it. With this 250 ringgit bottle of sake I honour your life’s work.",
+      "summary": "I am celebrating Singapores National Day in the most patriotic way possible. Hanging out in Malaysia spending my SGD at a 3.2:1 exchange rate. Tis…",
+      "url": "https://x.com/wassielawyer/status/2086438027895996750",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 156,
+        "retweets": 4,
+        "replies": 14,
+        "quotes": 0,
+        "views": "8184"
+      }
+    },
+    {
+      "id": "2086422248379011193",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-09T12:00:02+00:00",
+      "text": "Could Some Vaults Trigger Securities Law? Yes, but It's Case by Case 'It's not critical, in my opinion, that there's no risk at all,' Sun Raghupathi (@sunandr_) told me on the show. We got into how $67B in onchain vaults actually work, and why SEC Commissioner Hester Peirce's new statement has Crypto Twitter split. 🏦🎧 Timestamps: 📣 00:41 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt 🏦 00:57 What is a vault, and why DeFi needed the primitive 🎢 02:25 Sun's path from an ML PhD to launching Veda ⚙️ 04:43 The three things vault infrastructure must solve: access, control, verifiability 💰 06:45 Where vault yield actually comes from, and how it differs from TradFi 📣 10:57 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt 🏗️ 11:03 Veda's role as infrastructure vs. curators and distributors ⚠️ 13:06 What happens when a vault loses money, in the worst case 🛟 16:31 Why Sun is skeptical of vault insurance until a real claim gets paid 🔑 18:08 How to vet vault partners on key management, not just smart contracts 📉 20:28 The Stream Finance blowup and how curator risk-taking has changed since 📊 23:00 The metrics Sun uses to evaluate vault curators 🏛️ 24:31 Why Sun reads Hester Peirce's vault statement on vaults as bullish, not a warning 🦑 28:46 Kraken's $600M vault partnership, and Veda's competitive edge",
+      "summary": "Could Some Vaults Trigger Securities Law? Yes, but It's Case by Case 'It's not critical, in my opinion, that there's no risk at all,' Sun Raghupathi…",
+      "url": "https://x.com/laurashin/status/2086422248379011193",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "4005"
+      }
+    },
+    {
       "id": "2086412397728706616",
       "is_retweet": true,
       "original_author": "fairdevs",
@@ -168,6 +327,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "43"
+      }
+    },
+    {
+      "id": "2086337970278412576",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T06:25:09+00:00",
+      "text": "They masses did come. They went onchain and put their money in US Terra. They even shilled all their friends and brought them all on. Until their US dollars went to zero. Then they took what was left and put it into the exchange run by the autistic darling of Washington. Then that guy went to jail. Then they took what they could and put it into investing into the new on-chain infrastructure that would allegedly make sure this never happens. That went to zero too. Then they bought a lot of vapor memecoins. Those uhhh... went to zero too. Then the fucking President of the United States launched his own memecoin. Which also went to zero. I think the masses are tired of just being robbed every time they believe they are actually part of a financial revolution tbh.",
+      "summary": "They masses did come. They went onchain and put their money in US Terra. They even shilled all their friends and brought them all on. Until their US…",
+      "url": "https://x.com/wassielawyer/status/2086337970278412576",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 194,
+        "retweets": 22,
+        "replies": 27,
+        "quotes": 2,
+        "views": "16264"
+      }
+    },
+    {
+      "id": "2086333568553210227",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-09T06:07:39+00:00",
+      "text": "RT @laurashin: Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has drained over $100 million, an estimated 1,600 to 1,800 BTC, across multiple attacker waves, and argues it is not North Korea behind it. @kaiynne, @sonyasunkim, and @MikeSilagadze weigh in too, from the \"dice rolling\" entropy debate to trade[xyz]'s oracle mess and Ethereum's EIP-8361 issuance fight. Timestamps: 🔓 01:17 Coldcard's 5-year-old entropy bug resurfaces, over $100M in BTC stolen 🕵️ 10:26 Taylor argues it's not North Korea: this hack needs compute, not scams 🎲 21:00 The dice roll debate: why 50 rolls barely saves your seed phrase 📱 27:14 Cape: Get 33% off your first six months with code 'unchained' at https://t.co/2ZtLziY0xt 📉 27:39 SK Hynix oracle glitch on trade[xyz] reignites the platform-responsibility fight 🔗 42:24 Aave retreats from multichain sprawl as EIP-8361 issuance fight erupts 🧠 51:26 Mike on why cutting ETH issuance would push billions of dollars of ETH out of staking 🔥 53:05 Sonya's fix: burn fees for the same effect without cutting issuance 🌀 01:05:20 Kain's take: fragmenting the EF into chaos is actually healthy for ETH",
+      "summary": "RT @laurashin: Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has…",
+      "url": "https://x.com/laurashin/status/2086333568553210227",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086318603901755511",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T05:08:11+00:00",
+      "text": "Creating a coin for a KOL is just a blended IQ + ethics + wealth test for the KOL. Someone sends you a fuckton of a token created in your name and you don't want it? Full stack everything, say thank you to the creator/LP for the donation and disavow. Donate proceeds for max karma points. Never engage with the token again. Want to make some money or low IQ? Literally tweet about how shocked and surprised you are that this happened and start soliciting ideas for what to do next. Start making intimations that you won't sell etc, that you are for the 'community'... then nuke the position at an opportune time. Want to maintain some appearance of 'decency' while still making money? Single-side LP your position while repeatedly engaging with it publicly. You get the moral high ground of being \"transparent\" (at the cost of lower potential returns).",
+      "summary": "Creating a coin for a KOL is just a blended IQ + ethics + wealth test for the KOL. Someone sends you a fuckton of a token created in your name and…",
+      "url": "https://x.com/wassielawyer/status/2086318603901755511",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 46,
+        "retweets": 1,
+        "replies": 10,
+        "quotes": 0,
+        "views": "3603"
       }
     },
     {
@@ -346,6 +580,31 @@
       }
     },
     {
+      "id": "2086188264969654285",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-08T20:30:16+00:00",
+      "text": "I loved this line from @sonyasunkim: Ethereum's issuance fight risks trading \"roughly right\" for \"precisely wrong.\" 🎯 In her view, academics should not set monetary policy without consulting the people who would actually buy ETH. https://t.co/bbm9FX1utM",
+      "summary": "I loved this line from @sonyasunkim: Ethereum's issuance fight risks trading \"roughly right\" for \"precisely wrong.\" 🎯 In her view, academics should…",
+      "url": "https://x.com/laurashin/status/2086188264969654285",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 33,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 0,
+        "views": "8705"
+      }
+    },
+    {
       "id": "2086186860452164079",
       "is_retweet": false,
       "original_author": null,
@@ -368,6 +627,31 @@
         "replies": 17,
         "quotes": 0,
         "views": "5358"
+      }
+    },
+    {
+      "id": "2086158346173001933",
+      "is_retweet": true,
+      "original_author": "a16zcrypto",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-08T18:31:23+00:00",
+      "text": "RT @a16zcrypto: Growth in the number of purchases made with crypto payment cards is trending similarly to the growth in crypto card volume. Nearly 9 million purchases were made using crypto payment cards during July, up from about 5.2 million a year ago. That puts the average amount spent per transaction at around $86.",
+      "summary": "RT @a16zcrypto: Growth in the number of purchases made with crypto payment cards is trending similarly to the growth in crypto card volume. Nearly 9…",
+      "url": "https://x.com/milesjennings/status/2086158346173001933",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 31,
+        "replies": 0,
+        "quotes": 0,
+        "views": "137"
       }
     },
     {
