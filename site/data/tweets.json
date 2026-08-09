@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-09T09:03:40.389134+00:00",
-  "generated_at_unix": 1786266220,
+  "generated_at": "2026-08-09T12:05:51.970300+00:00",
+  "generated_at_unix": 1786277151,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-08T16:00:00+00:00",
-  "window_end": "2026-08-09T09:03:40.389134+00:00",
-  "new_this_run": 1,
-  "total_recent": 7,
+  "window_end": "2026-08-09T12:05:51.970300+00:00",
+  "new_this_run": 10,
+  "total_recent": 17,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086412397728706616",
+      "is_retweet": true,
+      "original_author": "fairdevs",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T11:20:53+00:00",
+      "text": "RT @fairdevs: ngl i use gabe's posts as a barometer to keep myself grounded every time when \"wtf is this nerdy stuff\" crosses my mind when i read his posts, i slap myself and dive in losing interest in what makes crypto crypto at the point of max opportunity is the #1 mistake i ever made",
+      "summary": "RT @fairdevs: ngl i use gabe's posts as a barometer to keep myself grounded every time when \"wtf is this nerdy stuff\" crosses my mind when i read his…",
+      "url": "https://x.com/lex_node/status/2086412397728706616",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "566"
+      }
+    },
+    {
+      "id": "2086401983003390263",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T10:39:30+00:00",
+      "text": "RT @EleanorTerrett: Tova is one of the best in the crypto comms space! I’ve truly loved working with her over the last few years. Hire her!",
+      "summary": "RT @EleanorTerrett: Tova is one of the best in the crypto comms space! I’ve truly loved working with her over the last few years. Hire her!",
+      "url": "https://x.com/NYcryptolawyer/status/2086401983003390263",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 42,
+        "replies": 0,
+        "quotes": 0,
+        "views": "43"
+      }
+    },
+    {
+      "id": "2086271362738405570",
+      "is_retweet": true,
+      "original_author": "drjasper_eth",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T02:00:28+00:00",
+      "text": "RT @drjasper_eth: This is a false dichotomy. The proponents of the issuance cut are trying to frame it as this or nothing. That’s malicious. There are other ways to modify the curve without creating a race to the bottom on fees that home stakers always lose.",
+      "summary": "RT @drjasper_eth: This is a false dichotomy. The proponents of the issuance cut are trying to frame it as this or nothing. That’s malicious. There…",
+      "url": "https://x.com/lex_node/status/2086271362738405570",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "668"
+      }
+    },
     {
       "id": "2086220490826199132",
       "is_retweet": false,
@@ -43,6 +118,81 @@
         "replies": 364,
         "quotes": 7,
         "views": "9942"
+      }
+    },
+    {
+      "id": "2086219384620556479",
+      "is_retweet": true,
+      "original_author": "DCinvestor",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T22:33:56+00:00",
+      "text": "RT @DCinvestor: honestly, you guys are wasting your time i would bet 100% of my net worth that this proposal won’t be implemented by stakers, and that you don’t have the users to support a fork ALL effort should go into shipping Lean Ethereum and rebalancing incentives there in a sustainable way and by pushing it now in this way, you’re just reducing your credibility to do that then effectively when it really counts it’s sad to see it play out like this, but the outcome is extremely obvious",
+      "summary": "RT @DCinvestor: honestly, you guys are wasting your time i would bet 100% of my net worth that this proposal won’t be implemented by stakers, and…",
+      "url": "https://x.com/lex_node/status/2086219384620556479",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "616"
+      }
+    },
+    {
+      "id": "2086219300537331977",
+      "is_retweet": true,
+      "original_author": "DCinvestor",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T22:33:35+00:00",
+      "text": "RT @DCinvestor: the first step is understanding that your time is not the only cost to pushing forward non-starter, highly controversial proposals which don’t even attempt the bare minimum of reading viable consensus maybe you think you’re shifting the overton window to make a future change, but it’s likely shifting negatively to making one now",
+      "summary": "RT @DCinvestor: the first step is understanding that your time is not the only cost to pushing forward non-starter, highly controversial proposals…",
+      "url": "https://x.com/lex_node/status/2086219300537331977",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "587"
+      }
+    },
+    {
+      "id": "2086211914175074394",
+      "is_retweet": true,
+      "original_author": "llamaonthebrink",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T22:04:14+00:00",
+      "text": "RT @llamaonthebrink: Blockchains are append-only data structures made for use cases that are non-reversible or immutable. Permissionless money is the most obvious use case for that system. A less obvious use case is a public contract. Contracts, once in effect, are meant to be unalterable. Onchain immutability truly enhances the properties of a contract. Onchain messaging, communication, socials, or other plain language objects haven’t taken off because they don’t benefit from an append-only platform. The ability to edit and delete a message is a basic feature of any messaging or social app. But not for contracts. The ability to alter a contract is a major bug. Trueo makes unique use of the chain by using it as an immutable message board for plain language contracts. The event contracts themselves are posted as human readable strings inside transaction call data. Set in stone. Never to be altered or deleted. The original lives inside someone’s node forever. A symbol of immutability and a display of how blockchain’s can be practically used beyond direct financial transactions.",
+      "summary": "RT @llamaonthebrink: Blockchains are append-only data structures made for use cases that are non-reversible or immutable. Permissionless money is the…",
+      "url": "https://x.com/lex_node/status/2086211914175074394",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "733"
       }
     },
     {
@@ -71,6 +221,56 @@
       }
     },
     {
+      "id": "2086186860452164079",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T20:24:41+00:00",
+      "text": "bitcoin is contentiously forking under BIP-110...pretty cool as I understand it, difficulty on the BIP-110 chain will initially be the same, but it has way less hashpower backing it, so it will fall massively behind in terms of # of blocks.... https://t.co/6wQdZy8fcG",
+      "summary": "bitcoin is contentiously forking under BIP-110...pretty cool as I understand it, difficulty on the BIP-110 chain will initially be the same, but it…",
+      "url": "https://x.com/lex_node/status/2086186860452164079",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 55,
+        "retweets": 0,
+        "replies": 17,
+        "quotes": 0,
+        "views": "5358"
+      }
+    },
+    {
+      "id": "2086158094011171156",
+      "is_retweet": true,
+      "original_author": "llamaonthebrink",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T18:30:23+00:00",
+      "text": "RT @llamaonthebrink: Modern day dilemma: “This piece is too clean, it has to be AI generated. No originality. Red flag.” “Look at the grammar and structure of this piece, there’s literally no excuse for this in 2026. Do they even know how to use an LLM? Red flag.”",
+      "summary": "RT @llamaonthebrink: Modern day dilemma: “This piece is too clean, it has to be AI generated. No originality. Red flag.” “Look at the grammar and…",
+      "url": "https://x.com/lex_node/status/2086158094011171156",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "766"
+      }
+    },
+    {
       "id": "2086146949703491864",
       "is_retweet": false,
       "original_author": null,
@@ -93,6 +293,56 @@
         "replies": 18,
         "quotes": 0,
         "views": "7501"
+      }
+    },
+    {
+      "id": "2086144136483078582",
+      "is_retweet": true,
+      "original_author": "joshrudolf",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T17:34:55+00:00",
+      "text": "RT @joshrudolf: Ethereum's rough consensus governance is intended to consider and align with the broader community Seen a few questions on this topic Helpful reading from Tim's 2025 post here: https://t.co/62Ddisk9X2",
+      "summary": "RT @joshrudolf: Ethereum's rough consensus governance is intended to consider and align with the broader community Seen a few questions on this topic…",
+      "url": "https://x.com/lex_node/status/2086144136483078582",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "773"
+      }
+    },
+    {
+      "id": "2086141949824704567",
+      "is_retweet": true,
+      "original_author": "crypto_bobby",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T17:26:14+00:00",
+      "text": "RT @crypto_bobby: https://t.co/oC18AOYlC9",
+      "summary": "RT @crypto_bobby: https://t.co/oC18AOYlC9",
+      "url": "https://x.com/lex_node/status/2086141949824704567",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "788"
       }
     },
     {
