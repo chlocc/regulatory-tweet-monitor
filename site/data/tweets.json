@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-09T12:05:51.970300+00:00",
-  "generated_at_unix": 1786277151,
+  "generated_at": "2026-08-09T15:03:47.851859+00:00",
+  "generated_at_unix": 1786287827,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-08T16:00:00+00:00",
-  "window_end": "2026-08-09T12:05:51.970300+00:00",
-  "new_this_run": 10,
-  "total_recent": 17,
+  "window_end": "2026-08-09T15:03:47.851859+00:00",
+  "new_this_run": 8,
+  "total_recent": 25,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086444817970508040",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T13:29:43+00:00",
+      "text": "Expanding capacity after 100-plus registered for this Wednesday's Crypto in Canada event in Toronto. If you're in crypto we'd love to have you there. Register here: https://t.co/HBPDkFrRJr",
+      "summary": "Expanding capacity after 100-plus registered for this Wednesday's Crypto in Canada event in Toronto. If you're in crypto we'd love to have you there.…",
+      "url": "https://x.com/JacobRobinsonJD/status/2086444817970508040",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "320"
+      }
+    },
+    {
+      "id": "2086444224795271333",
+      "is_retweet": true,
+      "original_author": "AtelierMissor_",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T13:27:22+00:00",
+      "text": "RT @AtelierMissor_: In a few days, Prometheus will stand 50 ft tall, holding high the torch of the West. Starbase, Texas. https://t.co/olP1D7VT23",
+      "summary": "RT @AtelierMissor_: In a few days, Prometheus will stand 50 ft tall, holding high the torch of the West. Starbase, Texas. https://t.co/olP1D7VT23",
+      "url": "https://x.com/prestonjbyrne/status/2086444224795271333",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1399,
+        "replies": 0,
+        "quotes": 0,
+        "views": "245"
+      }
+    },
+    {
+      "id": "2086442513666032057",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T13:20:34+00:00",
+      "text": "Tokenized equity + stablecoins will bring more prosperity to the developing world than “microloans” or foreign aid ever have.",
+      "summary": "Tokenized equity + stablecoins will bring more prosperity to the developing world than “microloans” or foreign aid ever have.",
+      "url": "https://x.com/theblockprof/status/2086442513666032057",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "362"
+      }
+    },
+    {
+      "id": "2086440752024842303",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T13:13:34+00:00",
+      "text": "RT @theblockprof: Rule of life: only work with security obsessed and principled builders. Zcash for the win.",
+      "summary": "RT @theblockprof: Rule of life: only work with security obsessed and principled builders. Zcash for the win.",
+      "url": "https://x.com/theblockprof/status/2086440752024842303",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
     {
       "id": "2086412397728706616",
       "is_retweet": true,
@@ -196,6 +296,31 @@
       }
     },
     {
+      "id": "2086204580417654842",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T21:35:06+00:00",
+      "text": "Rule of life: only work with security obsessed and principled builders. Zcash for the win.",
+      "summary": "Rule of life: only work with security obsessed and principled builders. Zcash for the win.",
+      "url": "https://x.com/theblockprof/status/2086204580417654842",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1155"
+      }
+    },
+    {
       "id": "2086191195873845520",
       "is_retweet": false,
       "original_author": null,
@@ -268,6 +393,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "766"
+      }
+    },
+    {
+      "id": "2086147113675526646",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T17:46:45+00:00",
+      "text": "It was a great day. Kristiana &amp; John | Wedding Teaser at Hammond Castle Museum | Gloucester, MA https://t.co/RkzisjHZnW via @YouTube",
+      "summary": "It was a great day. Kristiana &amp; John | Wedding Teaser at Hammond Castle Museum | Gloucester, MA https://t.co/RkzisjHZnW via @YouTube",
+      "url": "https://x.com/JohnEDeaton1/status/2086147113675526646",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 62,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0,
+        "views": "18597"
       }
     },
     {
@@ -421,6 +571,31 @@
       }
     },
     {
+      "id": "2086129062141899084",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T16:35:01+00:00",
+      "text": "Unlike @sethmoulton, I’m not running solely on a message that @EdMarkey is too old and been in Washington too long - I’m running on the solutions to the problems working families face everyday across the Commonwealth: energy, housing, and healthcare. I have real plans not just slogans.",
+      "summary": "Unlike @sethmoulton, I’m not running solely on a message that @EdMarkey is too old and been in Washington too long - I’m running on the solutions to…",
+      "url": "https://x.com/JohnEDeaton1/status/2086129062141899084",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 76,
+        "retweets": 21,
+        "replies": 3,
+        "quotes": 0,
+        "views": "12880"
+      }
+    },
+    {
       "id": "2086127836860162517",
       "is_retweet": false,
       "original_author": null,
@@ -443,6 +618,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "1724"
+      }
+    },
+    {
+      "id": "2086127830895636633",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-08T16:30:07+00:00",
+      "text": "🚨Cloture vote on Clarity scheduled for September 15. 60 votes to clear cloture. A no vote kills Clarity. Crypto voters will remember every name. Contact your Senator: https://t.co/GzHabguvh1",
+      "summary": "🚨Cloture vote on Clarity scheduled for September 15. 60 votes to clear cloture. A no vote kills Clarity. Crypto voters will remember every name.…",
+      "url": "https://x.com/CryptoLawUS/status/2086127830895636633",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 593,
+        "retweets": 168,
+        "replies": 23,
+        "quotes": 8,
+        "views": "14458"
       }
     }
   ]
