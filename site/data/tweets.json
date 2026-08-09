@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-09T06:06:08.873283+00:00",
-  "generated_at_unix": 1786255568,
+  "generated_at": "2026-08-09T09:03:40.389134+00:00",
+  "generated_at_unix": 1786266220,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-08T16:00:00+00:00",
-  "window_end": "2026-08-09T06:06:08.873283+00:00",
+  "window_end": "2026-08-09T09:03:40.389134+00:00",
   "new_this_run": 1,
-  "total_recent": 6,
-  "errors": [
-    {
-      "username": "SECGov",
-      "error": "The read operation timed out"
-    }
-  ],
+  "total_recent": 7,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 15,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -48,6 +43,31 @@
         "replies": 364,
         "quotes": 7,
         "views": "9942"
+      }
+    },
+    {
+      "id": "2086191195873845520",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-08T20:41:55+00:00",
+      "text": "Congress has been working on crypto market structure legislation for years at this point. The Senate alone has been actively negotiating the Clarity Act since last summer. But this past week, Chuck Schumer and the “pro-crypto Democrats” pulled out all the stops to block a mere procedural vote on the bill before recess, demanding yet another extension. If they can’t get there by September 15, they never will.",
+      "summary": "Congress has been working on crypto market structure legislation for years at this point. The Senate alone has been actively negotiating the Clarity…",
+      "url": "https://x.com/patrickjwitt/status/2086191195873845520",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1320,
+        "retweets": 188,
+        "replies": 142,
+        "quotes": 23,
+        "views": "104126"
       }
     },
     {
