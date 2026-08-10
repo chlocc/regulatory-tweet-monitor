@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-08-10T09:09:14.151403+00:00",
-  "generated_at_unix": 1786352954,
+  "generated_at": "2026-08-10T12:06:09.764648+00:00",
+  "generated_at_unix": 1786363569,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-09T16:00:00+00:00",
-  "window_end": "2026-08-10T09:09:14.151403+00:00",
-  "new_this_run": 1,
-  "total_recent": 12,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "iampaulgrewal",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-10T12:06:09.764648+00:00",
+  "new_this_run": 7,
+  "total_recent": 19,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086782706835161575",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T11:52:22+00:00",
+      "text": "Ben toasting the death of CLARITY is premature and grossly misguided, even for him Premature, because the Senate will start the process to vote on CLARITY when they return from recess Misguided because negotiations were happening up to the 11th hour last week on language designed to ensure FTX does not happen again, a centerpiece of Ben's grievance with crypto Ben is toasting a vacuum the next SBF can exploit Not to mention CLARITY’s rules on token disclosures and taxonomy, AML and BSA obligations for exchanges, bankruptcy protections for creditors, and the ethics compromise He is not celebrating because this is a win for consumers; he is celebrating because he is a celebrity pushing a narrative and a persona; he cares more about his relevance than whether Americans get the protections CLARITY provides I guess trying to kill a bill is easier than reading it and engaging on the merits",
+      "summary": "Ben toasting the death of CLARITY is premature and grossly misguided, even for him Premature, because the Senate will start the process to vote on…",
+      "url": "https://x.com/N0th1n3/status/2086782706835161575",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "117"
+      }
+    },
+    {
+      "id": "2086597749068202002",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RSSH273",
+      "display_name": "Rodrigo",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T23:37:25+00:00",
+      "text": "The best startup lawyers I know are ruthlessly efficient and pragmatic, almost to a fault It’s critical to be a subject matter expert and know the law and the lore; but it’s equally as important to know when, in practice, something doesn’t matter",
+      "summary": "The best startup lawyers I know are ruthlessly efficient and pragmatic, almost to a fault It’s critical to be a subject matter expert and know the…",
+      "url": "https://x.com/RSSH273/status/2086597749068202002",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 3,
+        "replies": 4,
+        "quotes": 0,
+        "views": "4056"
+      }
+    },
     {
       "id": "2086558823599214971",
       "is_retweet": true,
@@ -155,6 +196,106 @@
       }
     },
     {
+      "id": "2086546099095978125",
+      "is_retweet": true,
+      "original_author": "JohnEDeaton1",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T20:12:10+00:00",
+      "text": "RT @JohnEDeaton1: Hey @ben_mckenzie, As someone who was awarded the Defender of Freedom Award, Lawyer of the Year Award, and Consumer Advocate of the Year, related to my pro bono legal work protecting retail investors within the digital asset space, you should know that you sound like a 🤡 bragging about protecting Americans from Donald Trump’s exploitation of the crypto industry. Trump already made $1.4 Billion trading/exploiting crypto. In fact, he made more profit than @coinbase did in 2025. But the reason he was able to is because of a lack of regulatory Clarity related to digital assets. Because we have a corrupt and inept Congress, we still apply 1933 statutes and a 1946 Supreme Court case involving 🍊 groves to modern day technologies like Blockchain, AI, Robotics, Automation, Quantum Computing, etc. You claim that you helped stop Trump’s crypto corruption. Are you really that stupid or are you’re intentionally gaslighting people. Because you seem to be claiming that Trump is going to stop making money off Crypto because the Clarity Act didn’t get passed. I bet you also think predatory banks are the good guys, don’t you?",
+      "summary": "RT @JohnEDeaton1: Hey @ben_mckenzie, As someone who was awarded the Defender of Freedom Award, Lawyer of the Year Award, and Consumer Advocate of the…",
+      "url": "https://x.com/lex_node/status/2086546099095978125",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 367,
+        "replies": 0,
+        "quotes": 0,
+        "views": "661"
+      }
+    },
+    {
+      "id": "2086544939828105223",
+      "is_retweet": true,
+      "original_author": "perkinscr97",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T20:07:34+00:00",
+      "text": "RT @perkinscr97: If CLARITY passes…it’s good for crypto, the banks and TradFi. Big institutional unlock. ✅ Federal pre-emption ✅ Enshrined taxonomy and clear rules of the road. ✅ National security improvements If CLARITY fails…it will be good for crypto, too— now that the Senate will be on the record. ✅Crypto once becomes an issue during midterms. ✅Local airwaves become saturated with the benefits of crypto, unleashing a new wave of marketing for an industry that needs it. ✅ The @SECGov and @CFTC will provide rule making and set precedent anyway. Passing the CLARITY Act is in the obvious long term interests of the country. It’s also in the long term interests of the banks (the GENIUS stablecoin “loophole” remains without CLARITY). And let’s not forget ethics. Without CLARITY, the status quo remains. A lot can happen between now and Sept 15th, and I hope CLARITY will pass. But the crypto industry will march forward with or without it.",
+      "summary": "RT @perkinscr97: If CLARITY passes…it’s good for crypto, the banks and TradFi. Big institutional unlock. ✅ Federal pre-emption ✅ Enshrined taxonomy…",
+      "url": "https://x.com/lex_node/status/2086544939828105223",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "689"
+      }
+    },
+    {
+      "id": "2086544768914301408",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T20:06:53+00:00",
+      "text": "A lot of times people will not take you seriously for various reasons. I've been a corporate securities lawyer for 16 years, half of that at about the most prestigious biglaw level possible. I've been in crypto for 8 years There are still people who treat me like a joke on first encounter or first several encounters, whether in law or in crypto or at their intersection. Or talk down to me or condescend to me. You have to be prepared to earn it every day. But also not be a doormat.",
+      "summary": "A lot of times people will not take you seriously for various reasons. I've been a corporate securities lawyer for 16 years, half of that at about…",
+      "url": "https://x.com/lex_node/status/2086544768914301408",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 210,
+        "retweets": 3,
+        "replies": 21,
+        "quotes": 0,
+        "views": "9242"
+      }
+    },
+    {
+      "id": "2086534976057565381",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T19:27:58+00:00",
+      "text": "they're gonna do Lukechain, the MOST pure FORM of HARD roman catholic MONEY to ever exist!!! ngl I'm actually sympathetic to a lot of their arguments but this is kind of a pathetic end to the remaining ultra-paranoid wing of Bitcoin... https://t.co/CBS23DykwS",
+      "summary": "they're gonna do Lukechain, the MOST pure FORM of HARD roman catholic MONEY to ever exist!!! ngl I'm actually sympathetic to a lot of their arguments…",
+      "url": "https://x.com/lex_node/status/2086534976057565381",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 45,
+        "retweets": 0,
+        "replies": 16,
+        "quotes": 0,
+        "views": "3372"
+      }
+    },
+    {
       "id": "2086534250753294773",
       "is_retweet": false,
       "original_author": null,
@@ -252,6 +393,31 @@
         "replies": 302,
         "quotes": 15,
         "views": "11079"
+      }
+    },
+    {
+      "id": "2086523035897458937",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-09T18:40:32+00:00",
+      "text": "RT @faryarshirzad: Great piece by former Defense Secretary @MarkTEsper: “The Clarity Act, now before the Senate, is not merely a financial services bill. It is also a national security bill, and it should be understood as such and passed with urgency.” https://t.co/S9o4JtufAp",
+      "summary": "RT @faryarshirzad: Great piece by former Defense Secretary @MarkTEsper: “The Clarity Act, now before the Senate, is not merely a financial services…",
+      "url": "https://x.com/NYcryptolawyer/status/2086523035897458937",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 86,
+        "replies": 0,
+        "quotes": 0,
+        "views": "104"
       }
     },
     {
