@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-10T15:04:45.444995+00:00",
-  "generated_at_unix": 1786374285,
+  "generated_at": "2026-08-10T18:00:05.877146+00:00",
+  "generated_at_unix": 1786384805,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-09T16:00:00+00:00",
-  "window_end": "2026-08-10T15:04:45.444995+00:00",
-  "new_this_run": 5,
-  "total_recent": 24,
-  "errors": [],
+  "window_end": "2026-08-10T18:00:05.877146+00:00",
+  "new_this_run": 19,
+  "total_recent": 43,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,381 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2086855082025378238",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:39:58+00:00",
+      "text": "RT @laurashin: Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has drained over $100 million, an estimated 1,600 to 1,800 BTC, across multiple attacker waves, and argues it is not North Korea behind it. @kaiynne, @sonyasunkim, and @MikeSilagadze weigh in too, from the \"dice rolling\" entropy debate to trade[xyz]'s oracle mess and Ethereum's EIP-8361 issuance fight. Timestamps: 🔓 01:17 Coldcard's 5-year-old entropy bug resurfaces, over $100M in BTC stolen 🕵️ 10:26 Taylor argues it's not North Korea: this hack needs compute, not scams 🎲 21:00 The dice roll debate: why 50 rolls barely saves your seed phrase 📱 27:14 Cape: Get 33% off your first six months with code 'unchained' at https://t.co/2ZtLziY0xt 📉 27:39 SK Hynix oracle glitch on trade[xyz] reignites the platform-responsibility fight 🔗 42:24 Aave retreats from multichain sprawl as EIP-8361 issuance fight erupts 🧠 51:26 Mike on why cutting ETH issuance would push billions of dollars of ETH out of staking 🔥 53:05 Sonya's fix: burn fees for the same effect without cutting issuance 🌀 01:05:20 Kain's take: fragmenting the EF into chaos is actually healthy for ETH",
+      "summary": "RT @laurashin: Why Coldcard's 5-Year-Old Bug Let Hackers Take Over $100M in Bitcoin: Uneasy Money 😳 Taylor says Coldcard's 5-year-old entropy bug has…",
+      "url": "https://x.com/laurashin/status/2086855082025378238",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086855012869718024",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:39:41+00:00",
+      "text": "RT @laurashin: The US economy lost 23,000 jobs in July. Ten days earlier, three Fed officials voted to hike. @austincampbell, @ramahluwalia and @perkinscr97 on what Wednesday's CPI does to that split. Today, Monday, 4:30pm ET",
+      "summary": "RT @laurashin: The US economy lost 23,000 jobs in July. Ten days earlier, three Fed officials voted to hike. @austincampbell, @ramahluwalia and…",
+      "url": "https://x.com/laurashin/status/2086855012869718024",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086855000039313652",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:39:38+00:00",
+      "text": "RT @laurashin: ⚠️ BTCPay Server says attackers exploited a critical vulnerability present in every version before 2.4.2, stealing funds from self-hosted Lightning nodes. Operators are urged to update immediately. https://t.co/qI6USoPgOF",
+      "summary": "RT @laurashin: ⚠️ BTCPay Server says attackers exploited a critical vulnerability present in every version before 2.4.2, stealing funds from…",
+      "url": "https://x.com/laurashin/status/2086855000039313652",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086854981034897501",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:39:34+00:00",
+      "text": "RT @laurashin: ❌ Trump Media, Crypto[com] and Yorkville Acquisition Corp. have scrapped their $6.42 billion CRO treasury company deal. CRO is down over 11% since. https://t.co/5XOiRZ1sqg",
+      "summary": "RT @laurashin: ❌ Trump Media, Crypto[com] and Yorkville Acquisition Corp. have scrapped their $6.42 billion CRO treasury company deal. CRO is down…",
+      "url": "https://x.com/laurashin/status/2086854981034897501",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086854972075880702",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:39:31+00:00",
+      "text": "RT @laurashin: 🕵️ The businessman behind Aqua 1's $100M purchase of World Liberty Financial tokens was arrested in the UK in 2021 on suspicion of money laundering. The probe was still active as of late July, per The New York Times. https://t.co/hR4xv7CGz2",
+      "summary": "RT @laurashin: 🕵️ The businessman behind Aqua 1's $100M purchase of World Liberty Financial tokens was arrested in the UK in 2021 on suspicion of…",
+      "url": "https://x.com/laurashin/status/2086854972075880702",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086854959664955618",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:39:28+00:00",
+      "text": "RT @laurashin: 🚨 The Senate will hold its first floor vote on crypto market structure legislation on Sept. 15. Majority Leader John Thune filed cloture on the Digital Asset Market Clarity Act at 4:52 a.m. ET Saturday, in the final minutes before the August recess. https://t.co/68Zf436Ttt",
+      "summary": "RT @laurashin: 🚨 The Senate will hold its first floor vote on crypto market structure legislation on Sept. 15. Majority Leader John Thune filed…",
+      "url": "https://x.com/laurashin/status/2086854959664955618",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086854266459943122",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T16:36:43+00:00",
+      "text": "An exploit left Aave with ~$195M in bad debt. @hexonaut's Spark had exited the same asset months earlier and absorbed $1.7B fleeing to SparkLend. He joins @laurashin on why SPK sits near lows while Spark coordinates $12B. Today, Aug 10 at 3.35pm ET 👇 Join us live on our platform: X - https://t.co/AohKSQ4sNg",
+      "summary": "An exploit left Aave with ~$195M in bad debt. @hexonaut's Spark had exited the same asset months earlier and absorbed $1.7B fleeing to SparkLend. He…",
+      "url": "https://x.com/laurashin/status/2086854266459943122",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1627"
+      }
+    },
+    {
+      "id": "2086850569239687612",
+      "is_retweet": true,
+      "original_author": "gakonst",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-10T16:22:02+00:00",
+      "text": "RT @gakonst: Announcing Centaur 2.0! Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. Centaur 2.0 can connect to everything you have access to, and can reason over it next to where you work, either in Slack, Discord, Teams or in your local Codex or Claude Code via an MCP. But context isn't useful if it can be accessed by anyone, so we rebuilt Centaur from the ground up for security. Centaur obviously doesn't have access to secrets because we're leveraging egress proxies. Centaur 2.0 takes that a step further enabling administrators to configure who can access what from where. This means that Centaur can have access to private information that you normally wouldn't feel comfortable giving it access to (e.g. DMs or sensitive channels and docs) but only expose it to authorized principals. It also means you can add Centaur to external channels and leverage it as a virtual colleague that doesn't live only in your Slack, for example, but also your Slack Connect channels! This is extremely powerful as we start moving to a world where agents cross organizational boundaries. Also in case anyone's wondering, yes we rewrote it in Rust! Centaur is now way way more stable at durably executing threads, and its workflow engine is now based on Absurd. We have been operating Centaur since January, officially launched and Open Sourced it in May, and now we're full speed towards making it the #1 open source agentic infrastructure. To succeed at that, I'm thrilled to welcome @mslipper to the @paradigm team who will be leading all our Applied AI work, while continuing to maintain and extend Iron Proxy as the leading secure secret access for agents. Welcome Matt, it's an honor after all these years of knowing you! Read the full blogpost below, and apply to join our team!",
+      "summary": "RT @gakonst: Announcing Centaur 2.0! Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on…",
+      "url": "https://x.com/danrobinson/status/2086850569239687612",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 28,
+        "replies": 0,
+        "quotes": 0,
+        "views": "249"
+      }
+    },
+    {
+      "id": "2086837798192263388",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T15:31:17+00:00",
+      "text": "Sun Raghupathi ( @sunandr_ ) told me the biggest mistake vault users make is assuming they're sitting in something like an insured savings account. Some of these products are closer to an onchain hedge fund 👀 https://t.co/XvjHeoLhi7",
+      "summary": "Sun Raghupathi ( @sunandr_ ) told me the biggest mistake vault users make is assuming they're sitting in something like an insured savings account.…",
+      "url": "https://x.com/laurashin/status/2086837798192263388",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2079"
+      }
+    },
+    {
+      "id": "2086812295217467627",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T13:49:56+00:00",
+      "text": "💰 \"Even if we were to sell one bitcoin, we’d be buying 10 to 20 more bitcoin,\" Saylor said in May. Two straight weeks of selling later, Strategy just routed $650M of a new stock raise into cash instead. https://t.co/gEkayHZ3wR",
+      "summary": "💰 \"Even if we were to sell one bitcoin, we’d be buying 10 to 20 more bitcoin,\" Saylor said in May. Two straight weeks of selling later, Strategy just…",
+      "url": "https://x.com/laurashin/status/2086812295217467627",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 14,
+        "quotes": 0,
+        "views": "3072"
+      }
+    },
+    {
+      "id": "2086811555174449580",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T13:47:00+00:00",
+      "text": "Sun Raghupathi ( @sunandr_ ) told me smart contract risk isn't what keeps him up at night anymore. It's who controls the keys. This clip maps the real risk stack behind onchain vaults. 🔑🎧 https://t.co/8U9GA1iBuN",
+      "summary": "Sun Raghupathi ( @sunandr_ ) told me smart contract risk isn't what keeps him up at night anymore. It's who controls the keys. This clip maps the…",
+      "url": "https://x.com/laurashin/status/2086811555174449580",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 2,
+        "views": "4360"
+      }
+    },
+    {
+      "id": "2086800018347053385",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T13:01:09+00:00",
+      "text": "The US economy lost 23,000 jobs in July. Ten days earlier, three Fed officials voted to hike. @austincampbell, @ramahluwalia and @perkinscr97 on what Wednesday's CPI does to that split. Today, Monday, 4:30pm ET",
+      "summary": "The US economy lost 23,000 jobs in July. Ten days earlier, three Fed officials voted to hike. @austincampbell, @ramahluwalia and @perkinscr97 on what…",
+      "url": "https://x.com/laurashin/status/2086800018347053385",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3716"
+      }
+    },
+    {
+      "id": "2086794442716172408",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T12:39:00+00:00",
+      "text": "⚠️ BTCPay Server says attackers exploited a critical vulnerability present in every version before 2.4.2, stealing funds from self-hosted Lightning nodes. Operators are urged to update immediately. https://t.co/qI6USoPgOF",
+      "summary": "⚠️ BTCPay Server says attackers exploited a critical vulnerability present in every version before 2.4.2, stealing funds from self-hosted Lightning…",
+      "url": "https://x.com/laurashin/status/2086794442716172408",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 1,
+        "views": "4172"
+      }
+    },
+    {
+      "id": "2086791200208507012",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T12:26:07+00:00",
+      "text": "RT @laurashin: Could Some Vaults Trigger Securities Law? Yes, but It's Case by Case 'It's not critical, in my opinion, that there's no risk at all,' Sun Raghupathi (@sunandr_) told me on the show. We got into how $67B in onchain vaults actually work, and why SEC Commissioner Hester Peirce's new statement has Crypto Twitter split. 🏦🎧 Timestamps: 📣 00:41 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt 🏦 00:57 What is a vault, and why DeFi needed the primitive 🎢 02:25 Sun's path from an ML PhD to launching Veda ⚙️ 04:43 The three things vault infrastructure must solve: access, control, verifiability 💰 06:45 Where vault yield actually comes from, and how it differs from TradFi 📣 10:57 Cape: Get 33% off your first six months with code unchained at https://t.co/2ZtLziY0xt 🏗️ 11:03 Veda's role as infrastructure vs. curators and distributors ⚠️ 13:06 What happens when a vault loses money, in the worst case 🛟 16:31 Why Sun is skeptical of vault insurance until a real claim gets paid 🔑 18:08 How to vet vault partners on key management, not just smart contracts 📉 20:28 The Stream Finance blowup and how curator risk-taking has changed since 📊 23:00 The metrics Sun uses to evaluate vault curators 🏛️ 24:31 Why Sun reads Hester Peirce's vault statement on vaults as bullish, not a warning 🦑 28:46 Kraken's $600M vault partnership, and Veda's competitive edge",
+      "summary": "RT @laurashin: Could Some Vaults Trigger Securities Law? Yes, but It's Case by Case 'It's not critical, in my opinion, that there's no risk at all,'…",
+      "url": "https://x.com/laurashin/status/2086791200208507012",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2086789410394431625",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T12:19:00+00:00",
+      "text": "❌ Trump Media, Crypto[com] and Yorkville Acquisition Corp. have scrapped their $6.42 billion CRO treasury company deal. CRO is down over 11% since. https://t.co/5XOiRZ1sqg",
+      "summary": "❌ Trump Media, Crypto[com] and Yorkville Acquisition Corp. have scrapped their $6.42 billion CRO treasury company deal. CRO is down over 11% since.…",
+      "url": "https://x.com/laurashin/status/2086789410394431625",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "views": "3933"
+      }
+    },
     {
       "id": "2086787862536593620",
       "is_retweet": false,
@@ -71,6 +455,31 @@
       }
     },
     {
+      "id": "2086784375954575856",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T11:59:00+00:00",
+      "text": "🕵️ The businessman behind Aqua 1's $100M purchase of World Liberty Financial tokens was arrested in the UK in 2021 on suspicion of money laundering. The probe was still active as of late July, per The New York Times. https://t.co/hR4xv7CGz2",
+      "summary": "🕵️ The businessman behind Aqua 1's $100M purchase of World Liberty Financial tokens was arrested in the UK in 2021 on suspicion of money laundering.…",
+      "url": "https://x.com/laurashin/status/2086784375954575856",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 2,
+        "views": "4311"
+      }
+    },
+    {
       "id": "2086782706835161575",
       "is_retweet": false,
       "original_author": null,
@@ -93,6 +502,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "117"
+      }
+    },
+    {
+      "id": "2086780652993851509",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T11:44:12+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Thune filed cloture on the Clarity Act 🕵️ A World Liberty backer was arrested in a UK money laundering probe 📉 Trump Media and Crypto[com] scrapped their $6.42 billion CRO treasury deal ⚡ BTCPay confirmed attackers drained Lightning nodes using stolen credentials 🎯 Read it now… and make sure you never miss one. Subscribe! https://t.co/Y9IeAfWMI9",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Thune filed cloture on the Clarity Act 🕵️ A World Liberty backer was arrested in a UK money laundering probe…",
+      "url": "https://x.com/laurashin/status/2086780652993851509",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "views": "4080"
+      }
+    },
+    {
+      "id": "2086779342676496537",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T11:39:00+00:00",
+      "text": "🚨 The Senate will hold its first floor vote on crypto market structure legislation on Sept. 15. Majority Leader John Thune filed cloture on the Digital Asset Market Clarity Act at 4:52 a.m. ET Saturday, in the final minutes before the August recess. https://t.co/68Zf436Ttt",
+      "summary": "🚨 The Senate will hold its first floor vote on crypto market structure legislation on Sept. 15. Majority Leader John Thune filed cloture on the…",
+      "url": "https://x.com/laurashin/status/2086779342676496537",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 1,
+        "views": "4663"
+      }
+    },
+    {
+      "id": "2086775515407642958",
+      "is_retweet": true,
+      "original_author": "JohnEDeaton1",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T11:23:47+00:00",
+      "text": "RT @JohnEDeaton1: Hey @ben_mckenzie, As someone who was awarded the Defender of Freedom Award, Lawyer of the Year Award, and Consumer Advocate of the Year, related to my pro bono legal work protecting retail investors within the digital asset space, you should know that you sound like a 🤡 bragging about protecting Americans from Donald Trump’s exploitation of the crypto industry. Trump already made $1.4 Billion trading/exploiting crypto. In fact, he made more profit than @coinbase did in 2025. But the reason he was able to is because of a lack of regulatory Clarity related to digital assets. Because we have a corrupt and inept Congress, we still apply 1933 statutes and a 1946 Supreme Court case involving 🍊 groves to modern day technologies like Blockchain, AI, Robotics, Automation, Quantum Computing, etc. You claim that you helped stop Trump’s crypto corruption. Are you really that stupid or are you’re intentionally gaslighting people. Because you seem to be claiming that Trump is going to stop making money off Crypto because the Clarity Act didn’t get passed. I bet you also think predatory banks are the good guys, don’t you?",
+      "summary": "RT @JohnEDeaton1: Hey @ben_mckenzie, As someone who was awarded the Defender of Freedom Award, Lawyer of the Year Award, and Consumer Advocate of the…",
+      "url": "https://x.com/laurashin/status/2086775515407642958",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 404,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1343"
       }
     },
     {
