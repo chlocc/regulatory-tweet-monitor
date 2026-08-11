@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-11T06:11:39.179877+00:00",
-  "generated_at_unix": 1786428699,
+  "generated_at": "2026-08-11T09:06:04.629894+00:00",
+  "generated_at_unix": 1786439164,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-10T16:00:00+00:00",
-  "window_end": "2026-08-11T06:11:39.179877+00:00",
-  "new_this_run": 12,
-  "total_recent": 20,
-  "errors": [],
+  "window_end": "2026-08-11T09:06:04.629894+00:00",
+  "new_this_run": 6,
+  "total_recent": 26,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -68,6 +73,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "5592"
+      }
+    },
+    {
+      "id": "2087004149061755319",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-11T02:32:18+00:00",
+      "text": "The administration remains fully committed to getting the Clarity Act across the finish line in September. Durable rules, the kind only legislation can provide, are needed now more than ever. But we also can’t afford to wait forever. Every time Democrats have delayed this bill, America has fallen further behind in the digital asset race, jeopardizing our leadership role in global financial markets, weakening our national security, and denying law enforcement the tools they need to stop crypto crime. Clarity represents years of genuine bipartisan work, and Democrats still have a real opportunity to shape digital asset policy in America by helping pass it into law. Our door remains open, and we’ll keep negotiating in good faith all the way up until the September vote.",
+      "summary": "The administration remains fully committed to getting the Clarity Act across the finish line in September. Durable rules, the kind only legislation…",
+      "url": "https://x.com/patrickjwitt/status/2087004149061755319",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 758,
+        "retweets": 157,
+        "replies": 57,
+        "quotes": 14,
+        "views": "49669"
       }
     },
     {
@@ -146,6 +176,56 @@
       }
     },
     {
+      "id": "2086954726243901497",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BillHughesDC",
+      "display_name": "Bill Hughes",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T23:15:55+00:00",
+      "text": "Senators Mike Rounds (R - SD) and John Hickenlooper (D - CO) have proposed legislation intending to boost US manufacturing of robotics systems. The bill directs the Commerce Department to collect data and drive standards development. The overarching intent is to put the US in as strong as position as possible to compete with China. Specifically, the bill covers: - data sharing that bolsters the AI models that are powering robotics - NIST and Manufacturing USA promotion of the use of robotics - creation of voluntary standards for emerging robotics use cases - creation of training and apprenticeship programs to augment domestic robotics expertise - Commerce engagement with industry to drive down costs in energy, food, and healthcare through efficiencies achieved through robotics - pushing NASA to commercialize some of its robotics breakthroughs. Sen. Rounds is on the Armed Services Committee and Senate Select Committee on Intelligence. Sen. Hickenlooper is on Commerce, Science and Transportation. Bill text: https://t.co/a0SinSbBzQ",
+      "summary": "Senators Mike Rounds (R - SD) and John Hickenlooper (D - CO) have proposed legislation intending to boost US manufacturing of robotics systems. The…",
+      "url": "https://x.com/BillHughesDC/status/2086954726243901497",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "294"
+      }
+    },
+    {
+      "id": "2086947992473387418",
+      "is_retweet": true,
+      "original_author": "ChairmanSelig",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T22:49:09+00:00",
+      "text": "RT @ChairmanSelig: On August 20, the @CFTC will convene a meeting of some of America’s greatest innovators, builders, thinkers, and entrepreneurs in Washington, DC for a series of conversations on the future of our financial markets. Mark your calendars for the inaugural Innovation Advisory Committee meeting on Wednesday, August 20 at 1pm EST. Read more 👇",
+      "summary": "RT @ChairmanSelig: On August 20, the @CFTC will convene a meeting of some of America’s greatest innovators, builders, thinkers, and entrepreneurs in…",
+      "url": "https://x.com/jchervinsky/status/2086947992473387418",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 83,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1208"
+      }
+    },
+    {
       "id": "2086911865808982395",
       "is_retweet": false,
       "original_author": null,
@@ -168,6 +248,31 @@
         "replies": 8,
         "quotes": 2,
         "views": "25092"
+      }
+    },
+    {
+      "id": "2086908587608039436",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-10T20:12:34+00:00",
+      "text": "1/ We recently filed comments with the @FederalReserve on its proposal to create special-purpose Payment Accounts for eligible financial institutions. The proposal is a positive step—but the Fed must ensure the accounts are practical enough to support real-world payments and innovation. 🧵 https://t.co/dX5v0OKyk7",
+      "summary": "1/ We recently filed comments with the @FederalReserve on its proposal to create special-purpose Payment Accounts for eligible financial…",
+      "url": "https://x.com/BlockchainAssn/status/2086908587608039436",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1640"
       }
     },
     {
@@ -268,6 +373,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "36855"
+      }
+    },
+    {
+      "id": "2086867514521268348",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-10T17:29:22+00:00",
+      "text": "So what happens on September 15? The first vote is on cloture, specifically on the “motion to proceed” for the CLARITY Act. 🧵👇",
+      "summary": "So what happens on September 15? The first vote is on cloture, specifically on the “motion to proceed” for the CLARITY Act. 🧵👇",
+      "url": "https://x.com/standwithcrypto/status/2086867514521268348",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 244,
+        "retweets": 41,
+        "replies": 12,
+        "quotes": 3,
+        "views": "15149"
       }
     },
     {
@@ -518,6 +648,31 @@
         "replies": 13,
         "quotes": 6,
         "views": "32512"
+      }
+    },
+    {
+      "id": "2086845056703500769",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-10T16:00:07+00:00",
+      "text": "3 million U.S. Advocates, ready to vote this November. The Stand With Crypto movement keeps growing, and so does the impact of the community. Every advocate is a voice for sensible crypto policy in Washington and beyond. Join us: https://t.co/CNSj8obXDC",
+      "summary": "3 million U.S. Advocates, ready to vote this November. The Stand With Crypto movement keeps growing, and so does the impact of the community. Every…",
+      "url": "https://x.com/standwithcrypto/status/2086845056703500769",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 81,
+        "retweets": 17,
+        "replies": 2,
+        "quotes": 1,
+        "views": "3454"
       }
     }
   ]
