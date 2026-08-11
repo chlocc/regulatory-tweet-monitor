@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-11T09:06:04.629894+00:00",
-  "generated_at_unix": 1786439164,
+  "generated_at": "2026-08-11T12:00:03.905518+00:00",
+  "generated_at_unix": 1786449603,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-10T16:00:00+00:00",
-  "window_end": "2026-08-11T09:06:04.629894+00:00",
-  "new_this_run": 6,
-  "total_recent": 26,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-11T12:00:03.905518+00:00",
+  "new_this_run": 14,
+  "total_recent": 40,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -48,6 +43,31 @@
         "replies": 1,
         "quotes": 0,
         "views": "148"
+      }
+    },
+    {
+      "id": "2087010285957546129",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T02:56:41+00:00",
+      "text": "RT @EleanorTerrett: 🚨NEW: The @SECGov will hold an open meeting on Friday at 10AM ET to consider whether to issue a release proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. https://t.co/OOIp9MZeJM",
+      "summary": "RT @EleanorTerrett: 🚨NEW: The @SECGov will hold an open meeting on Friday at 10AM ET to consider whether to issue a release proposing new rules to…",
+      "url": "https://x.com/lex_node/status/2087010285957546129",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 500,
+        "replies": 0,
+        "quotes": 0,
+        "views": "603"
       }
     },
     {
@@ -101,6 +121,31 @@
       }
     },
     {
+      "id": "2086995729780744580",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T01:58:51+00:00",
+      "text": "an ethos score below 1600 is like being poor",
+      "summary": "an ethos score below 1600 is like being poor",
+      "url": "https://x.com/lex_node/status/2086995729780744580",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3217"
+      }
+    },
+    {
       "id": "2086995243778375926",
       "is_retweet": true,
       "original_author": "RapidResponse47",
@@ -123,6 +168,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "32728"
+      }
+    },
+    {
+      "id": "2086984010702418121",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T01:12:17+00:00",
+      "text": "listen to the words of someone who's economically literate bonus points: also one of the most successful DeFi founders",
+      "summary": "listen to the words of someone who's economically literate bonus points: also one of the most successful DeFi founders",
+      "url": "https://x.com/lex_node/status/2086984010702418121",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 111,
+        "retweets": 17,
+        "replies": 19,
+        "quotes": 0,
+        "views": "14394"
       }
     },
     {
@@ -198,6 +268,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "294"
+      }
+    },
+    {
+      "id": "2086951164839416252",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T23:01:46+00:00",
+      "text": "I have no mercy for scammers. Thanks for the free $8k to the real @Gorbagana_chain (71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg) and learn your lesson not to scam me or my communities again.",
+      "summary": "I have no mercy for scammers. Thanks for the free $8k to the real @Gorbagana_chain (71Jvq4Epe2FCJ7JFSF7jLXdNk1Wy4Bhqd9iL6bEFELvg) and learn your…",
+      "url": "https://x.com/lex_node/status/2086951164839416252",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 53,
+        "retweets": 1,
+        "replies": 14,
+        "quotes": 0,
+        "views": "4569"
       }
     },
     {
@@ -301,6 +396,81 @@
       }
     },
     {
+      "id": "2086907093500809473",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T20:06:38+00:00",
+      "text": "if you have a following here but aren't a trader, the single best reason to start using privacy tools is for ordinary payments you make onchain you *never* want to link an address with yours publicly even for a low-$ value payment, because it may be a scammer who launches a coin based on that connection (literally has happened to me) less of a risk right now in bear market but better safe than sorry....",
+      "summary": "if you have a following here but aren't a trader, the single best reason to start using privacy tools is for ordinary payments you make onchain you…",
+      "url": "https://x.com/lex_node/status/2086907093500809473",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 61,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 1,
+        "views": "5220"
+      }
+    },
+    {
+      "id": "2086905872479895915",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T20:01:47+00:00",
+      "text": "crypto is legitimately better UX than legacy/mainstream UX in one area--private markets corporate finance the UX could not be worse there sending a token and signing a legal agreement in a single step is legit just way better, looking at a wallet to check your portfolio is way better",
+      "summary": "crypto is legitimately better UX than legacy/mainstream UX in one area--private markets corporate finance the UX could not be worse there sending a…",
+      "url": "https://x.com/lex_node/status/2086905872479895915",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 76,
+        "retweets": 5,
+        "replies": 9,
+        "quotes": 2,
+        "views": "5346"
+      }
+    },
+    {
+      "id": "2086903629085106421",
+      "is_retweet": true,
+      "original_author": "punk8164",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T19:52:52+00:00",
+      "text": "RT @punk8164: \"Ethereum will be quantum-safe. Ethereum will put users' privacy first. Ethereum will be secure. Ethereum will be censorship-resistant. Ethereum will be highly performant and scalable while satisfying the above. And Ethereum will be Lean.\" He forgot one: Ethereum will win Age of Ethereum innit",
+      "summary": "RT @punk8164: \"Ethereum will be quantum-safe. Ethereum will put users' privacy first. Ethereum will be secure. Ethereum will be censorship-resistant.…",
+      "url": "https://x.com/lex_node/status/2086903629085106421",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "714"
+      }
+    },
+    {
       "id": "2086903602598256890",
       "is_retweet": false,
       "original_author": null,
@@ -326,6 +496,31 @@
       }
     },
     {
+      "id": "2086899130559770916",
+      "is_retweet": true,
+      "original_author": "EthereanMaximus",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T19:35:00+00:00",
+      "text": "RT @EthereanMaximus: Firmly convinced that long term $ETH investors are among the highest conviction cohort in the game. We will win and we will win big. @BitMNR https://t.co/Uxh0folQBm",
+      "summary": "RT @EthereanMaximus: Firmly convinced that long term $ETH investors are among the highest conviction cohort in the game. We will win and we will win…",
+      "url": "https://x.com/lex_node/status/2086899130559770916",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "691"
+      }
+    },
+    {
       "id": "2086898999332573645",
       "is_retweet": true,
       "original_author": "PressSec",
@@ -348,6 +543,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "40464"
+      }
+    },
+    {
+      "id": "2086896339103715662",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T19:23:54+00:00",
+      "text": "RT @StaniKulechov: Solo staker should be concerned about EIP-8361. We will see mass exodus of solo stakers if this proposal goes further.",
+      "summary": "RT @StaniKulechov: Solo staker should be concerned about EIP-8361. We will see mass exodus of solo stakers if this proposal goes further.",
+      "url": "https://x.com/lex_node/status/2086896339103715662",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "686"
       }
     },
     {
@@ -398,6 +618,81 @@
         "replies": 12,
         "quotes": 3,
         "views": "15149"
+      }
+    },
+    {
+      "id": "2086866920410665182",
+      "is_retweet": true,
+      "original_author": "oskarth",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T17:27:00+00:00",
+      "text": "RT @oskarth: As a solo staker I’d also strongly consider unstaking if this EIP goes through. Happy to support the network to be more robust and resilient (also build my own blocks), but not worth the hassle and risk if yield drops much below 2%. You get the network you incentivize.",
+      "summary": "RT @oskarth: As a solo staker I’d also strongly consider unstaking if this EIP goes through. Happy to support the network to be more robust and…",
+      "url": "https://x.com/lex_node/status/2086866920410665182",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "752"
+      }
+    },
+    {
+      "id": "2086866805142729111",
+      "is_retweet": true,
+      "original_author": "0xfornax",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T17:26:33+00:00",
+      "text": "RT @0xfornax: A lot of people in favor of changing issuance on Ethereum are using emotionally charged or fallacious arguments. They claim that doing nothing will destroy ETH's value, ignoring that we had an explosive ETH price movement up with orders of magnitude higher issuance in the past.",
+      "summary": "RT @0xfornax: A lot of people in favor of changing issuance on Ethereum are using emotionally charged or fallacious arguments. They claim that doing…",
+      "url": "https://x.com/lex_node/status/2086866805142729111",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "692"
+      }
+    },
+    {
+      "id": "2086862439597965511",
+      "is_retweet": true,
+      "original_author": "CamiRusso",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T17:09:12+00:00",
+      "text": "RT @CamiRusso: Interesting we're seeing governance drama hit both Bitcoin and Ethereum at the same time. Bitcoin's BIP-110 just flopped. This is the latest round of the long fight over how much arbitrary data belongs onchain. It got only 2.53% of 55% miners needed to pass. Meanwhile, Ethereum is debating EIP-8363, a totally different subject: burning a rising share of validator rewards so there's no incentive to stake past 50% of all ETH. A big part of the pushback is that Ethereum should be working on getting more users right now, not on an issuance curve problem that's still theoretical. Maybe the common theme is priority for both camps is to just get people using the chain. sounds obvious but hasn't always been the case with these two.",
+      "summary": "RT @CamiRusso: Interesting we're seeing governance drama hit both Bitcoin and Ethereum at the same time. Bitcoin's BIP-110 just flopped. This is the…",
+      "url": "https://x.com/lex_node/status/2086862439597965511",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "711"
       }
     },
     {
@@ -648,6 +943,56 @@
         "replies": 13,
         "quotes": 6,
         "views": "32512"
+      }
+    },
+    {
+      "id": "2086846449577238820",
+      "is_retweet": true,
+      "original_author": "CodyCarboneDC",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T16:05:39+00:00",
+      "text": "RT @CodyCarboneDC: I’m genuinely fascinated by the celebration of community bank advocacy re: clarity. The bill does exactly what they want - blocks any stablecoin reward that looks like an interest bearing deposit. If this bill doesn’t pass, community banks lose and rewards continue as is.",
+      "summary": "RT @CodyCarboneDC: I’m genuinely fascinated by the celebration of community bank advocacy re: clarity. The bill does exactly what they want - blocks…",
+      "url": "https://x.com/lex_node/status/2086846449577238820",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "722"
+      }
+    },
+    {
+      "id": "2086846084215959873",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T16:04:12+00:00",
+      "text": "in terms of asset integrity, running a non-mining/BPing node, by itself, is merely protection for RWA issuers (fully) and (partially) RWA holders it can have other benefits (privacy, tx broadcast sovereignty, fraud protection) but \"deciding what is the canonical Bitcoin\" or whatever is not really one of them. . .",
+      "summary": "in terms of asset integrity, running a non-mining/BPing node, by itself, is merely protection for RWA issuers (fully) and (partially) RWA holders it…",
+      "url": "https://x.com/lex_node/status/2086846084215959873",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2343"
       }
     },
     {
