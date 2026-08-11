@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-11T12:00:03.905518+00:00",
-  "generated_at_unix": 1786449603,
+  "generated_at": "2026-08-11T15:00:59.913234+00:00",
+  "generated_at_unix": 1786460459,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-10T16:00:00+00:00",
-  "window_end": "2026-08-11T12:00:03.905518+00:00",
-  "new_this_run": 14,
-  "total_recent": 40,
-  "errors": [],
+  "window_end": "2026-08-11T15:00:59.913234+00:00",
+  "new_this_run": 7,
+  "total_recent": 47,
+  "errors": [
+    {
+      "username": "KhurramDara",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 45,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087141786556735797",
+      "is_retweet": true,
+      "original_author": "ericrichy",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T11:39:13+00:00",
+      "text": "RT @ericrichy: We got crypto policy right early in Canada… but have work to do if we want to lead again. Proud to join @JacobRobinsonJD and a stacked lineup of regulators, lawyers, and builders on @LawofCodeFM.",
+      "summary": "RT @ericrichy: We got crypto policy right early in Canada… but have work to do if we want to lead again. Proud to join @JacobRobinsonJD and a stacked…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087141786556735797",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "45"
+      }
+    },
+    {
+      "id": "2087134934972449079",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T11:12:00+00:00",
+      "text": "\"It's not the role of securities regulators to pick winners and losers.\" @evanmthomas, counsel for 3iQ in the fight that won approval of The Bitcoin Fund and paved the way for the world's first Bitcoin ETF. https://t.co/hRpIKcrfDw",
+      "summary": "\"It's not the role of securities regulators to pick winners and losers.\" @evanmthomas, counsel for 3iQ in the fight that won approval of The Bitcoin…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087134934972449079",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "545"
+      }
+    },
     {
       "id": "2087041402077163918",
       "is_retweet": false,
@@ -121,6 +176,56 @@
       }
     },
     {
+      "id": "2087002170147172649",
+      "is_retweet": true,
+      "original_author": "btctechsupport",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T02:24:26+00:00",
+      "text": "RT @btctechsupport: \"the watermark is part of the text\" \"it doesn't change the quality\" Any rules that modify the output will change the quality. @AnthropicAI why are you sabotaging your own product for a foreign government that can't even defend its own borders? I'd rather run Chinese weights with my own instructions, than trust whatever sneaky garbage y'all are injecting. Absolutely wild. Kimi K3 here I come.",
+      "summary": "RT @btctechsupport: \"the watermark is part of the text\" \"it doesn't change the quality\" Any rules that modify the output will change the quality.…",
+      "url": "https://x.com/prestonjbyrne/status/2087002170147172649",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 38,
+        "replies": 0,
+        "quotes": 0,
+        "views": "314"
+      }
+    },
+    {
+      "id": "2086999181558751271",
+      "is_retweet": true,
+      "original_author": "JohnEDeaton1",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T02:12:34+00:00",
+      "text": "RT @JohnEDeaton1: .@EdMarkey and I should travel across MA debating issues that allow voters to compare and decide which one of us has the best solutions to the problems facing working families. I even offered to drive - giving Ed the bed on the bus in order to rest. #mapoli #MASen #Deaton https://t.co/vbCHZZf1Rm",
+      "summary": "RT @JohnEDeaton1: .@EdMarkey and I should travel across MA debating issues that allow voters to compare and decide which one of us has the best…",
+      "url": "https://x.com/JohnEDeaton1/status/2086999181558751271",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2086995729780744580",
       "is_retweet": false,
       "original_author": null,
@@ -168,6 +273,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "32728"
+      }
+    },
+    {
+      "id": "2086995235079381030",
+      "is_retweet": true,
+      "original_author": "ryanjclements",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T01:56:53+00:00",
+      "text": "RT @ryanjclements: Thanks to @JacobRobinsonJD for the opportunity to speak on the @LawofCodeFM podcast on Regulating Crypto in Canada. My expressed views are my own and do not reflect the official position of the ASC / CSA.",
+      "summary": "RT @ryanjclements: Thanks to @JacobRobinsonJD for the opportunity to speak on the @LawofCodeFM podcast on Regulating Crypto in Canada. My expressed…",
+      "url": "https://x.com/JacobRobinsonJD/status/2086995235079381030",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "50"
       }
     },
     {
@@ -318,6 +448,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1208"
+      }
+    },
+    {
+      "id": "2086932470545707073",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T21:47:28+00:00",
+      "text": "The US is still fighting over crypto rules. Canada settled many of them years ago. This podcast explains Canada's approach to regulating crypto, why builders left despite some clarity, plus Canada's opportunity with tokenization, perps. You'll hear from Grant Vingoe, CEO of the OSC, @ericrichy, CEO of Coinbase Canada, the @bankofcanada's Anne Butler, McCarthy's @loriandreastein, Osler's @BurgoyneMatt, @evanmthomas, @BlairWiley of @Wealthsimple and @ryanjclements of the ASC. It should be the internet's most comprehensive podcast on Canadian crypto law. Timestamps: 0:00 Intro 2:42 Tax 4:53 AML Rules 8:06 Securities 12:00 Investment contracts 16:13 Quadriga's collapse 23:00 The Crypto Contract 34:29 World's first Bitcoin ETF 38:23 Stablecoins 46:47 Canada's opportunities 52:53 The speed problem Thank you to the presenting sponsor of this episode, @altitude. Nothing in this podcast is legal or investment advice.",
+      "summary": "The US is still fighting over crypto rules. Canada settled many of them years ago. This podcast explains Canada's approach to regulating crypto, why…",
+      "url": "https://x.com/JacobRobinsonJD/status/2086932470545707073",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 4,
+        "views": "2813"
       }
     },
     {
@@ -993,6 +1148,31 @@
         "replies": 5,
         "quotes": 0,
         "views": "2343"
+      }
+    },
+    {
+      "id": "2086845577405379036",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-10T16:02:12+00:00",
+      "text": ".@EdMarkey and I should travel across MA debating issues that allow voters to compare and decide which one of us has the best solutions to the problems facing working families. I even offered to drive - giving Ed the bed on the bus in order to rest. #mapoli #MASen #Deaton https://t.co/vbCHZZf1Rm",
+      "summary": ".@EdMarkey and I should travel across MA debating issues that allow voters to compare and decide which one of us has the best solutions to the…",
+      "url": "https://x.com/JohnEDeaton1/status/2086845577405379036",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 163,
+        "retweets": 33,
+        "replies": 4,
+        "quotes": 1,
+        "views": "13065"
       }
     },
     {
