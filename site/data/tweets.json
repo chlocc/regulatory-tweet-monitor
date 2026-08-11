@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-08-11T15:00:59.913234+00:00",
-  "generated_at_unix": 1786460459,
+  "generated_at": "2026-08-11T18:01:10.557082+00:00",
+  "generated_at_unix": 1786471270,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-10T16:00:00+00:00",
-  "window_end": "2026-08-11T15:00:59.913234+00:00",
-  "new_this_run": 7,
-  "total_recent": 47,
+  "window_end": "2026-08-11T18:01:10.557082+00:00",
+  "new_this_run": 25,
+  "total_recent": 72,
   "errors": [
     {
-      "username": "KhurramDara",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +29,381 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087233259730243745",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T17:42:42+00:00",
+      "text": "\"We would literally have to coordinate around how many of the signers are going to be on the same flight\" Tuongvy Le on why multisig makes crypto succession planning unique \"As someone who works at a DeFi company, we think about quote unquote succession planning a lot, in the context of things like multisigs and dependencies on people who hold the keys, emergency councils, and what happens if there's a governance attack on a protocol\" \"Literally, if we had a team offsite, we'd have to do all this coordination around how many of the signers are going to be on the same flight, or whatever it is\" \"So I think in crypto this sort of thing really does take on special and unique importance\"",
+      "summary": "\"We would literally have to coordinate around how many of the signers are going to be on the same flight\" Tuongvy Le on why multisig makes crypto…",
+      "url": "https://x.com/laurashin/status/2087233259730243745",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1750"
+      }
+    },
+    {
+      "id": "2087230992096571755",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T17:33:42+00:00",
+      "text": "Tuongvy Le says transparent standards could make it harder for banks to debank crypto \"Crypto should be paying attention to this. As an industry, we could either end up loving it or hating it. Obviously having a transparent set of standards could make it harder for banks to debank crypto companies, something we dealt with for a long time based on this idea of reputational risk\" \"On the other hand, having certification standards that are really conservative or leave a lot of room for interpretation could actually end up formalizing derisking in a way that's harder to change. So what the actual standards end up being is going to matter a lot in general, but especially for crypto\" \"I personally like the efficiency argument for this. I've lived the diligence process firsthand as a bank GC, and it is not fun. So I think standardized diligence could solve a very real problem\"",
+      "summary": "Tuongvy Le says transparent standards could make it harder for banks to debank crypto \"Crypto should be paying attention to this. As an industry, we…",
+      "url": "https://x.com/laurashin/status/2087230992096571755",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1891"
+      }
+    },
+    {
+      "id": "2087228938414325835",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T17:25:32+00:00",
+      "text": "Tuongvy Le: \"The question I always have is, is it even possible to perfectly constrain an agent or AI? There's basically an infinite number of ways to achieve a given outcome, maybe not infinite, but probably more than you can conceive of or anticipate. So how do you design for that?\" Jessi: \"I totally get your point, but that's the same argument you could make for any regulation. We can't stop all hacking in crypto, we're not going to ban crypto. We can't stop all bad activity at banks, but we maybe don't enhance it beyond the burdensome levels the current BSA already provides. I just think we've got to do better than this\"",
+      "summary": "Tuongvy Le: \"The question I always have is, is it even possible to perfectly constrain an agent or AI? There's basically an infinite number of ways…",
+      "url": "https://x.com/laurashin/status/2087228938414325835",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2037"
+      }
+    },
+    {
+      "id": "2087227451252543736",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T17:19:37+00:00",
+      "text": "\"Claude diagnosed my appendectomy hours and hours before the doctors did\" Katherine on how AI walked her through her appendectomy \"AI is not all bad. Like I told everyone on last week's episode, I had an emergency appendectomy, and Claude diagnosed it immediately, hours and hours before the doctors did. Then it walked me through the whole process as my medical consultant, which gave me a high degree of understanding and comfort\" \"There's so much it can do\" \"But Claude as your doctor or lawyer or any other professional, it's not a good idea. We're not advocating for this\"",
+      "summary": "\"Claude diagnosed my appendectomy hours and hours before the doctors did\" Katherine on how AI walked her through her appendectomy \"AI is not all bad.…",
+      "url": "https://x.com/laurashin/status/2087227451252543736",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2038"
+      }
+    },
+    {
+      "id": "2087220562372239747",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T16:52:15+00:00",
+      "text": "Why crypto can't shrug off CLARITY's stall, per Chainlink Labs' Katherine Kirkpatrick Bos on DEX in the City: She calls it \"the last institutional unlock for crypto\" and warns \"we are so behind the ball,\" pointing to Japan, the UK and the G20. https://t.co/07pCFisedh",
+      "summary": "Why crypto can't shrug off CLARITY's stall, per Chainlink Labs' Katherine Kirkpatrick Bos on DEX in the City: She calls it \"the last institutional…",
+      "url": "https://x.com/laurashin/status/2087220562372239747",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1605"
+      }
+    },
+    {
+      "id": "2087218635945148788",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T16:44:36+00:00",
+      "text": "An FDIC-backed effort to standardize how banks vet fintech vendors could cut both ways for crypto, Vy Le said on DEX in the City: Done right it \"could make it harder for banks to debank crypto companies\" — done wrong, it just formalizes de-risking. https://t.co/07pCFisedh",
+      "summary": "An FDIC-backed effort to standardize how banks vet fintech vendors could cut both ways for crypto, Vy Le said on DEX in the City: Done right it…",
+      "url": "https://x.com/laurashin/status/2087218635945148788",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "1571"
+      }
+    },
+    {
+      "id": "2087215178571989181",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T16:30:51+00:00",
+      "text": "Every crypto founder's homework, per DEX in the City: 'Tomorrow, if so-and-so is hit by a bus, do we have a clear succession plan?' The hosts drew the lesson from the messy Ondo Finance control fight. https://t.co/07pCFisedh",
+      "summary": "Every crypto founder's homework, per DEX in the City: 'Tomorrow, if so-and-so is hit by a bus, do we have a clear succession plan?' The hosts drew…",
+      "url": "https://x.com/laurashin/status/2087215178571989181",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "1546"
+      }
+    },
+    {
+      "id": "2087214863395455256",
+      "is_retweet": true,
+      "original_author": "justinwangx",
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-11T16:29:36+00:00",
+      "text": "RT @justinwangx: understanding progress on RSI is one of the most important things we can do to chart the future. @danrobinson and I made a game and explorer based on economic models of AI research, to make the inputs and constraints that define RSI more intuitive. https://t.co/w8qfDhnhqx",
+      "summary": "RT @justinwangx: understanding progress on RSI is one of the most important things we can do to chart the future. @danrobinson and I made a game and…",
+      "url": "https://x.com/danrobinson/status/2087214863395455256",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "321"
+      }
+    },
+    {
+      "id": "2087212318119592238",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T16:19:29+00:00",
+      "text": "Why AI agents keep breaking out to hit a goal, per Jessi Brooks on DEX in the City: 'Once a measure becomes the target, it stops being a good measure.' Reward the goal, she says, and don't be surprised when things get blown up. https://t.co/bCSZUpoAjP",
+      "summary": "Why AI agents keep breaking out to hit a goal, per Jessi Brooks on DEX in the City: 'Once a measure becomes the target, it stops being a good…",
+      "url": "https://x.com/laurashin/status/2087212318119592238",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "1594"
+      }
+    },
+    {
+      "id": "2087207625163243898",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T16:00:50+00:00",
+      "text": "DEX in the City is live! 🏛️ This week: the 9th Circuit's rogue-AI-agent ruling, the control fight at Ondo Finance, and the CLARITY Act countdown. @kkirkbos, Jessi Brooks, and @TuongvyLe12 get into it. https://t.co/07pCFisedh",
+      "summary": "DEX in the City is live! 🏛️ This week: the 9th Circuit's rogue-AI-agent ruling, the control fight at Ondo Finance, and the CLARITY Act countdown.…",
+      "url": "https://x.com/laurashin/status/2087207625163243898",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1795"
+      }
+    },
+    {
+      "id": "2087204962061402574",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T15:50:16+00:00",
+      "text": "Ondo's Succession War Lands in Delaware Court https://t.co/07pCFisM2P",
+      "summary": "Ondo's Succession War Lands in Delaware Court https://t.co/07pCFisM2P",
+      "url": "https://x.com/laurashin/status/2087204962061402574",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 1,
+        "views": "4906"
+      }
+    },
+    {
+      "id": "2087163223631888756",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T13:04:24+00:00",
+      "text": "RT @EleanorTerrett: 🚨🗞️NEW: Clarity Gets a September Lifeline as SEC Tees Up Proposal for Crypto Offering Rules The Senate punted a procedural vote on the Clarity Act. How it happened and what comes next as regulators prepare to move ahead with crypto rules of their own. https://t.co/B9EKDgFUdE",
+      "summary": "RT @EleanorTerrett: 🚨🗞️NEW: Clarity Gets a September Lifeline as SEC Tees Up Proposal for Crypto Offering Rules The Senate punted a procedural vote…",
+      "url": "https://x.com/EleanorTerrett/status/2087163223631888756",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 356,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087161360958488846",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T12:57:00+00:00",
+      "text": "Stocks keep grinding higher. Bitcoin and ether aren't moving. @StocktonKatie of Fairlead Strategies joins Bits + Bips: The Interview to explain the divergence, and why the Clarity Act deadline could make or break this market.",
+      "summary": "Stocks keep grinding higher. Bitcoin and ether aren't moving. @StocktonKatie of Fairlead Strategies joins Bits + Bips: The Interview to explain the…",
+      "url": "https://x.com/laurashin/status/2087161360958488846",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 12,
+        "quotes": 0,
+        "views": "3556"
+      }
+    },
+    {
+      "id": "2087151293714563464",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T12:17:00+00:00",
+      "text": "An AI agent hacks a company with no human at the keyboard. Who's liable? @kkirkbos, Jessi Brooks, and @TuongvyLe12 break down the 9th Circuit's new ruling, plus Ondo's succession war. Live today at 12pm ET.",
+      "summary": "An AI agent hacks a company with no human at the keyboard. Who's liable? @kkirkbos, Jessi Brooks, and @TuongvyLe12 break down the 9th Circuit's new…",
+      "url": "https://x.com/laurashin/status/2087151293714563464",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "3851"
+      }
+    },
+    {
+      "id": "2087146260709171371",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T11:57:00+00:00",
+      "text": "Trump Media posted a $238.1 million net loss in Q2 as its bitcoin and cronos holdings both dropped in value. 📉 https://t.co/aCMLCyRftx",
+      "summary": "Trump Media posted a $238.1 million net loss in Q2 as its bitcoin and cronos holdings both dropped in value. 📉 https://t.co/aCMLCyRftx",
+      "url": "https://x.com/laurashin/status/2087146260709171371",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 0,
+        "views": "4021"
+      }
+    },
     {
       "id": "2087141786556735797",
       "is_retweet": true,
@@ -48,6 +427,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "45"
+      }
+    },
+    {
+      "id": "2087141227284386170",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T11:37:00+00:00",
+      "text": "Keel Infrastructure has shut down every U.S. bitcoin mining site it runs. Revenue fell 50% and Q2 operating losses hit $141 million. ⛏️ https://t.co/XFK8RMgc4r",
+      "summary": "Keel Infrastructure has shut down every U.S. bitcoin mining site it runs. Revenue fell 50% and Q2 operating losses hit $141 million. ⛏️…",
+      "url": "https://x.com/laurashin/status/2087141227284386170",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 3,
+        "replies": 6,
+        "quotes": 4,
+        "views": "23150"
+      }
+    },
+    {
+      "id": "2087136194442498516",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T11:17:00+00:00",
+      "text": "The SEC will meet Friday on whether to formally propose Regulation Crypto, its first codified path letting token issuers raise money without registering with the agency. 📜 https://t.co/rA26HiCNMY",
+      "summary": "The SEC will meet Friday on whether to formally propose Regulation Crypto, its first codified path letting token issuers raise money without…",
+      "url": "https://x.com/laurashin/status/2087136194442498516",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "4423"
       }
     },
     {
@@ -76,6 +505,81 @@
       }
     },
     {
+      "id": "2087132173820469597",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T11:01:01+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 SEC sets a Friday meeting over its first crypto rule 📉 Strategy sold 1,690 bitcoin below cost 🔌 Keel decommissioned every U.S. bitcoin mine for AI data centers 🩸 Trump Media lost $238 million and is retooling its crypto treasury 🌎 Read today’s must-know crypto news… and subscribe! https://t.co/JwtTy0xQd8",
+      "summary": "In today's Unchained Daily newsletter: 🔥 SEC sets a Friday meeting over its first crypto rule 📉 Strategy sold 1,690 bitcoin below cost 🔌 Keel…",
+      "url": "https://x.com/laurashin/status/2087132173820469597",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "views": "4123"
+      }
+    },
+    {
+      "id": "2087106783722746106",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T09:20:08+00:00",
+      "text": "The real winners are all these crypto payment rails that make money while you do free marketing (and borderline crime) to acquire users for them by burning your VC money and social capital teasing a token.",
+      "summary": "The real winners are all these crypto payment rails that make money while you do free marketing (and borderline crime) to acquire users for them by…",
+      "url": "https://x.com/wassielawyer/status/2087106783722746106",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 45,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 1,
+        "views": "10342"
+      }
+    },
+    {
+      "id": "2087070122162938215",
+      "is_retweet": true,
+      "original_author": "boazbaraktcs",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-11T06:54:27+00:00",
+      "text": "RT @boazbaraktcs: I actually agree that the HF incident requires not just fixing some issues but also changing our culture. Time will tell but I am seeing some hopeful signs. A big part of this is closer collaboration between security and researchers.",
+      "summary": "RT @boazbaraktcs: I actually agree that the HF incident requires not just fixing some issues but also changing our culture. Time will tell but I am…",
+      "url": "https://x.com/gabriel_weil/status/2087070122162938215",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5"
+      }
+    },
+    {
       "id": "2087041402077163918",
       "is_retweet": false,
       "original_author": null,
@@ -101,6 +605,31 @@
       }
     },
     {
+      "id": "2087024196006384048",
+      "is_retweet": true,
+      "original_author": "patrickjwitt",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-11T03:51:58+00:00",
+      "text": "RT @patrickjwitt: The administration remains fully committed to getting the Clarity Act across the finish line in September. Durable rules, the kind only legislation can provide, are needed now more than ever. But we also can’t afford to wait forever. Every time Democrats have delayed this bill, America has fallen further behind in the digital asset race, jeopardizing our leadership role in global financial markets, weakening our national security, and denying law enforcement the tools they need to stop crypto crime. Clarity represents years of genuine bipartisan work, and Democrats still have a real opportunity to shape digital asset policy in America by helping pass it into law. Our door remains open, and we’ll keep negotiating in good faith all the way up until the September vote.",
+      "summary": "RT @patrickjwitt: The administration remains fully committed to getting the Clarity Act across the finish line in September. Durable rules, the kind…",
+      "url": "https://x.com/milesjennings/status/2087024196006384048",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 197,
+        "replies": 0,
+        "quotes": 0,
+        "views": "164"
+      }
+    },
+    {
       "id": "2087010285957546129",
       "is_retweet": true,
       "original_author": "EleanorTerrett",
@@ -123,6 +652,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "603"
+      }
+    },
+    {
+      "id": "2087008457522102782",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T02:49:25+00:00",
+      "text": "🚨🗞️NEW: Clarity Gets a September Lifeline as SEC Tees Up Proposal for Crypto Offering Rules The Senate punted a procedural vote on the Clarity Act. How it happened and what comes next as regulators prepare to move ahead with crypto rules of their own. https://t.co/B9EKDgFUdE",
+      "summary": "🚨🗞️NEW: Clarity Gets a September Lifeline as SEC Tees Up Proposal for Crypto Offering Rules The Senate punted a procedural vote on the Clarity Act.…",
+      "url": "https://x.com/EleanorTerrett/status/2087008457522102782",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1977,
+        "retweets": 356,
+        "replies": 74,
+        "quotes": 28,
+        "views": "117233"
       }
     },
     {
@@ -301,6 +855,31 @@
       }
     },
     {
+      "id": "2086994593556373940",
+      "is_retweet": true,
+      "original_author": "amk_dc",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T01:54:20+00:00",
+      "text": "RT @amk_dc: Important context: Friday’s open meeting is solely to consider whether to propose a tailored offering regime for certain crypto investment contracts — the first formal step in the rulemaking process. Under the traditional notice-and-comment process, a proposal would be followed by a public comment period, economic analysis, potential revisions, and a separate final vote. Historically, significant SEC rules have often taken roughly 12–18 months from proposal to adoption (though interim final rules or temporary exemptive relief remain possible in appropriate cases). This is still welcome progress. It shows the SEC is moving forward rather than waiting for Congress, and is prepared to work in tandem with legislative efforts. The Commission clearly recognizes that the crypto industry needs clear rules and cannot operate indefinitely in a vacuum. Constructive engagement from industry and investors during any comment period will matter.",
+      "summary": "RT @amk_dc: Important context: Friday’s open meeting is solely to consider whether to propose a tailored offering regime for certain crypto…",
+      "url": "https://x.com/EleanorTerrett/status/2086994593556373940",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9639"
+      }
+    },
+    {
       "id": "2086984010702418121",
       "is_retweet": false,
       "original_author": null,
@@ -323,6 +902,31 @@
         "replies": 19,
         "quotes": 0,
         "views": "14394"
+      }
+    },
+    {
+      "id": "2086976516340990326",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T00:42:30+00:00",
+      "text": "🚨NEW: The @SECGov will hold an open meeting on Friday at 10AM ET to consider whether to issue a release proposing new rules to create a tailored offering regime for certain investment contracts involving crypto assets. https://t.co/OOIp9MZeJM",
+      "summary": "🚨NEW: The @SECGov will hold an open meeting on Friday at 10AM ET to consider whether to issue a release proposing new rules to create a tailored…",
+      "url": "https://x.com/EleanorTerrett/status/2086976516340990326",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2843,
+        "retweets": 569,
+        "replies": 101,
+        "quotes": 54,
+        "views": "215645"
       }
     },
     {
@@ -648,6 +1252,31 @@
         "replies": 157,
         "quotes": 34,
         "views": "163033"
+      }
+    },
+    {
+      "id": "2086900714047963304",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-10T19:41:17+00:00",
+      "text": "An exploit left Aave with ~$195M in bad debt. @hexonaut 's Spark had exited the same asset months earlier and absorbed $1.7B fleeing to SparkLend. He joins me on why SPK sits near lows while Spark coordinates $12B. DON'T MISS IT! Tune in Today at 3:45 ET 🎧 https://t.co/q8uLtwooMy",
+      "summary": "An exploit left Aave with ~$195M in bad debt. @hexonaut 's Spark had exited the same asset months earlier and absorbed $1.7B fleeing to SparkLend. He…",
+      "url": "https://x.com/laurashin/status/2086900714047963304",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 3,
+        "replies": 4,
+        "quotes": 0,
+        "views": "5113"
       }
     },
     {
