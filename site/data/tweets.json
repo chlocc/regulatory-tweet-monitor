@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-12T09:22:21.746940+00:00",
-  "generated_at_unix": 1786526541,
+  "generated_at": "2026-08-12T12:01:00.643827+00:00",
+  "generated_at_unix": 1786536060,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-11T16:00:00+00:00",
-  "window_end": "2026-08-12T09:22:21.746940+00:00",
-  "new_this_run": 8,
-  "total_recent": 30,
+  "window_end": "2026-08-12T12:01:00.643827+00:00",
+  "new_this_run": 16,
+  "total_recent": 46,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087501030871249119",
+      "is_retweet": true,
+      "original_author": "Thealphacruze",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T11:26:44+00:00",
+      "text": "RT @Thealphacruze: So what happened to \"CROPs\"🤔 If \"moderator's\" and \"core\" Devs are deleting people's posts just to silence and then saying it's \"bots\"... I don't see CROPs here This reminds me so much of the last EIP that everyone was against... and the thing with Nick It's like a whole bunch of people with their heads up their own assholes are finally showing themselves and trying to forcefully do things the way they want it Or to be more accurate, this has been something that's always been going on, but now people are a lot more vocal about their rejections and since the X Algo has been fixed... people actually see it",
+      "summary": "RT @Thealphacruze: So what happened to \"CROPs\"🤔 If \"moderator's\" and \"core\" Devs are deleting people's posts just to silence and then saying it's…",
+      "url": "https://x.com/lex_node/status/2087501030871249119",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "467"
+      }
+    },
+    {
+      "id": "2087489061602680964",
+      "is_retweet": true,
+      "original_author": "johnjdagostino",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T10:39:10+00:00",
+      "text": "RT @johnjdagostino: Tokenized equities, done the right way, allow for billions more to safely invest in the most powerful wealth generation vehicle in human history - the economic miracle that is US capital markets. This helps the world, and us. America thrives when the world greatly values access to the US dollar and US equity markets. So we should make it as easy as possible for them to get both. Stablecoins monetize US Treasuries, tokenized equities does the same for our equity markets. Blockchain as the rails. Crypto as the mechanism. America as the investable product.",
+      "summary": "RT @johnjdagostino: Tokenized equities, done the right way, allow for billions more to safely invest in the most powerful wealth generation vehicle…",
+      "url": "https://x.com/NYcryptolawyer/status/2087489061602680964",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "59"
+      }
+    },
     {
       "id": "2087429760301289562",
       "is_retweet": true,
@@ -43,6 +93,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "3"
+      }
+    },
+    {
+      "id": "2087389309225615362",
+      "is_retweet": true,
+      "original_author": "Shenanigrahams",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T04:02:47+00:00",
+      "text": "RT @Shenanigrahams: @gmoneyNFT @lex_node hold on. We airdroppin shares?!",
+      "summary": "RT @Shenanigrahams: @gmoneyNFT @lex_node hold on. We airdroppin shares?!",
+      "url": "https://x.com/lex_node/status/2087389309225615362",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "653"
+      }
+    },
+    {
+      "id": "2087378873696563455",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T03:21:19+00:00",
+      "text": "they said tokenization is useless but I just forced gmoney to be an angel investor in my company so who's laughing now buddy???",
+      "summary": "they said tokenization is useless but I just forced gmoney to be an angel investor in my company so who's laughing now buddy???",
+      "url": "https://x.com/lex_node/status/2087378873696563455",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 0,
+        "views": "2887"
+      }
+    },
+    {
+      "id": "2087355651081068869",
+      "is_retweet": true,
+      "original_author": "milesjennings",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T01:49:03+00:00",
+      "text": "RT @milesjennings: Congress can either: (1) pass rules that govern how the Trump admin regulates crypto; or (2) not pass rules and defer to the Trump admin on how to regulate crypto. Pass CLARITY or abdicate.",
+      "summary": "RT @milesjennings: Congress can either: (1) pass rules that govern how the Trump admin regulates crypto; or (2) not pass rules and defer to the Trump…",
+      "url": "https://x.com/lex_node/status/2087355651081068869",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "616"
+      }
+    },
+    {
+      "id": "2087352855422292437",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T01:37:56+00:00",
+      "text": "\"comments will not be considered unless on ethereum magicians...the devs are too busy to look at X and it's full of bots\" \"the dissenting comments on ethereum magicians are obvious bots so we deleted them...\" @VitalikButerin I hope you see what's going on here...never thought I'd see this type of thing in Ethereum...",
+      "summary": "\"comments will not be considered unless on ethereum magicians...the devs are too busy to look at X and it's full of bots\" \"the dissenting comments on…",
+      "url": "https://x.com/lex_node/status/2087352855422292437",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 66,
+        "retweets": 5,
+        "replies": 9,
+        "quotes": 2,
+        "views": "5873"
       }
     },
     {
@@ -118,6 +268,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "37780"
+      }
+    },
+    {
+      "id": "2087310040629645715",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T22:47:48+00:00",
+      "text": "apparently me and pretty much everyone I know in the Ethereum community including people like @banteg @StaniKulechov @hanni_abu are all sockpuppets! who knew!!???",
+      "summary": "apparently me and pretty much everyone I know in the Ethereum community including people like @banteg @StaniKulechov @hanni_abu are all sockpuppets!…",
+      "url": "https://x.com/lex_node/status/2087310040629645715",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 66,
+        "retweets": 2,
+        "replies": 9,
+        "quotes": 0,
+        "views": "5957"
       }
     },
     {
@@ -346,6 +521,56 @@
       }
     },
     {
+      "id": "2087262309521535115",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T19:38:08+00:00",
+      "text": "RT @laurashin: Tuongvy Le says transparent standards could make it harder for banks to debank crypto \"Crypto should be paying attention to this. As an industry, we could either end up loving it or hating it. Obviously having a transparent set of standards could make it harder for banks to debank crypto companies, something we dealt with for a long time based on this idea of reputational risk\" \"On the other hand, having certification standards that are really conservative or leave a lot of room for interpretation could actually end up formalizing derisking in a way that's harder to change. So what the actual standards end up being is going to matter a lot in general, but especially for crypto\" \"I personally like the efficiency argument for this. I've lived the diligence process firsthand as a bank GC, and it is not fun. So I think standardized diligence could solve a very real problem\"",
+      "summary": "RT @laurashin: Tuongvy Le says transparent standards could make it harder for banks to debank crypto \"Crypto should be paying attention to this. As…",
+      "url": "https://x.com/TuongvyLe12/status/2087262309521535115",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "39"
+      }
+    },
+    {
+      "id": "2087261766711455752",
+      "is_retweet": true,
+      "original_author": "_TalkingTokens",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T19:35:59+00:00",
+      "text": "RT @_TalkingTokens: Today’s Talking Tokenization is with @johnjdagostino Head of Strategy at @Coinbase Institutional, and @RebeccaRettig1, COO & CLO at @Jito Labs, diving into: - What Wall Street actually wants from tokenization and what needs to change - How perps could help solve the pre-IPO liquidity crisis - Why crypto needs a “Venmo” moment for the user experience - Why stablecoins could be the ultimate weapon for preserving US dollar dominance and more TIMESTAMPS: 00:40 What Is Tokenization? 03:19 Why Traditional Finance Is Resisting Tokenization 07:37 Perpetual Futures and the Crypto Advantage 11:06 The Rise of Pre-IPO Perpetual Markets 16:18 Who Is the Future Investor? 19:47 Crypto vs. Blockchain: The Reputation Problem 24:34 Why Are Crypto Products Still So Complicated? 29:25 What Happens If the Clarity Act Passes? 31:20 Can Crypto Grow Without Regulatory Clarity? 35:24 AI and Crypto: Competitors or Partners? 39:23 Can Blockchain Solve AI’s Trust Problem? 41:55 Why Blockchain Adoption Is Inevitable 45:05 Stablecoins, Cross-Border Payments & Global Markets 47:20 What Will Crypto Look Like a Year From Now? 49:52 Final Advice: Build Useful Things Watch below or on X:",
+      "summary": "RT @_TalkingTokens: Today’s Talking Tokenization is with @johnjdagostino Head of Strategy at @Coinbase Institutional, and @RebeccaRettig1, COO & CLO…",
+      "url": "https://x.com/RebeccaRettig1/status/2087261766711455752",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "99"
+      }
+    },
+    {
       "id": "2087260569799737519",
       "is_retweet": true,
       "original_author": "DoWCTO",
@@ -396,6 +621,56 @@
       }
     },
     {
+      "id": "2087251149971693630",
+      "is_retweet": true,
+      "original_author": "d_gusakov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:53:48+00:00",
+      "text": "RT @d_gusakov: Ok. You all can keep arguing about EIP-8363. But what really matter for me and @ethereum is having EIP-8148 implemented. Looks like @prylabs already has a draft! https://t.co/v998s3yo6w",
+      "summary": "RT @d_gusakov: Ok. You all can keep arguing about EIP-8363. But what really matter for me and @ethereum is having EIP-8148 implemented. Looks like…",
+      "url": "https://x.com/lex_node/status/2087251149971693630",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "736"
+      }
+    },
+    {
+      "id": "2087245335575855207",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:30:41+00:00",
+      "text": "the beatings (privatizations of DAOs) will continue until morale improves",
+      "summary": "the beatings (privatizations of DAOs) will continue until morale improves",
+      "url": "https://x.com/lex_node/status/2087245335575855207",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31,
+        "retweets": 2,
+        "replies": 5,
+        "quotes": 0,
+        "views": "4061"
+      }
+    },
+    {
       "id": "2087244601182617841",
       "is_retweet": false,
       "original_author": null,
@@ -443,6 +718,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "7"
+      }
+    },
+    {
+      "id": "2087241460764598781",
+      "is_retweet": true,
+      "original_author": "serpinxbt",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:15:17+00:00",
+      "text": "RT @serpinxbt: &gt; nfts heating up &gt; everyone launching an nft project &gt; s2 reward of ethos was an NFT for those that selected it &gt; s2 ends today &gt; we announced this all back in january can’t time the market man https://t.co/ccYHagcgaz",
+      "summary": "RT @serpinxbt: &gt; nfts heating up &gt; everyone launching an nft project &gt; s2 reward of ethos was an NFT for those that selected it &gt; s2 ends…",
+      "url": "https://x.com/lex_node/status/2087241460764598781",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "680"
+      }
+    },
+    {
+      "id": "2087240906919358478",
+      "is_retweet": true,
+      "original_author": "Rager",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:13:05+00:00",
+      "text": "RT @Rager: Trading crypto prior to 2026 was \"so easy\" We only had to read every coin contract ourselves with no help from AI Honeypots with no detectors. Blacklists that made non-sellable after you buy Pausable transfers Unverified and unrenounced contracts that could be changed any minute Mutable sell tax cranked to 99% No screeners, no rug checkers, no bubble maps. You could do everything right and still get drained by a hidden transfer function.",
+      "summary": "RT @Rager: Trading crypto prior to 2026 was \"so easy\" We only had to read every coin contract ourselves with no help from AI Honeypots with no…",
+      "url": "https://x.com/lex_node/status/2087240906919358478",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "657"
+      }
+    },
+    {
+      "id": "2087240603260129409",
+      "is_retweet": true,
+      "original_author": "AminCad",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:11:53+00:00",
+      "text": "RT @AminCad: This is the future: every asset can grow an entire economic world around itself, with the whole global economy within reach through Ethereum",
+      "summary": "RT @AminCad: This is the future: every asset can grow an entire economic world around itself, with the whole global economy within reach through…",
+      "url": "https://x.com/lex_node/status/2087240603260129409",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "705"
       }
     },
     {
@@ -546,6 +896,31 @@
       }
     },
     {
+      "id": "2087228807769960636",
+      "is_retweet": true,
+      "original_author": "Montyly",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T17:25:01+00:00",
+      "text": "RT @Montyly: Imagine spending a year with multiple engineers, countless tokens, to build an AI auditing agent, and being outperformed by: /goal Follow threat_model.md to find bugs. You can do it. I believe in you.",
+      "summary": "RT @Montyly: Imagine spending a year with multiple engineers, countless tokens, to build an AI auditing agent, and being outperformed by: /goal…",
+      "url": "https://x.com/lex_node/status/2087228807769960636",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "748"
+      }
+    },
+    {
       "id": "2087227836847231315",
       "is_retweet": true,
       "original_author": "BuxMontNews",
@@ -593,6 +968,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "2038"
+      }
+    },
+    {
+      "id": "2087225117067632667",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T17:10:21+00:00",
+      "text": "the masculine urge to just bearer-tokenize your entire company's equity and dump it into an AMM",
+      "summary": "the masculine urge to just bearer-tokenize your entire company's equity and dump it into an AMM",
+      "url": "https://x.com/lex_node/status/2087225117067632667",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 187,
+        "retweets": 8,
+        "replies": 33,
+        "quotes": 3,
+        "views": "11902"
       }
     },
     {
