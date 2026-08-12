@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-12T06:14:20.962649+00:00",
-  "generated_at_unix": 1786515260,
+  "generated_at": "2026-08-12T09:22:21.746940+00:00",
+  "generated_at_unix": 1786526541,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-11T16:00:00+00:00",
-  "window_end": "2026-08-12T06:14:20.962649+00:00",
-  "new_this_run": 12,
-  "total_recent": 22,
+  "window_end": "2026-08-12T09:22:21.746940+00:00",
+  "new_this_run": 8,
+  "total_recent": 30,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087429760301289562",
+      "is_retweet": true,
+      "original_author": "arc",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T06:43:32+00:00",
+      "text": "RT @arc: Aave and Uniswap are two well-known DeFi names, and they're building on Arc. See what you can build.",
+      "summary": "RT @arc: Aave and Uniswap are two well-known DeFi names, and they're building on Arc. See what you can build.",
+      "url": "https://x.com/LindaJeng1/status/2087429760301289562",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3"
+      }
+    },
     {
       "id": "2087319392967114759",
       "is_retweet": true,
@@ -43,6 +68,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "41624"
+      }
+    },
+    {
+      "id": "2087316643420500232",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-11T23:14:02+00:00",
+      "text": "Headed to Jackson Hole next week for the Wyoming Blockchain Symposium? Meet with our team in WY including, @SummerMersinger @Advocate4Web3 @lindsayfraser0 and @DanSpuller. BA is proud to be a @SALTConference Industry Partner again this year for the 3rd annual gathering. https://t.co/z2v1QxcjOD",
+      "summary": "Headed to Jackson Hole next week for the Wyoming Blockchain Symposium? Meet with our team in WY including, @SummerMersinger @Advocate4Web3…",
+      "url": "https://x.com/BlockchainAssn/status/2087316643420500232",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1651"
       }
     },
     {
@@ -118,6 +168,56 @@
         "replies": 3,
         "quotes": 0,
         "views": "995"
+      }
+    },
+    {
+      "id": "2087298040138698866",
+      "is_retweet": true,
+      "original_author": "EconWithNick",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-11T22:00:07+00:00",
+      "text": "RT @EconWithNick: Breaking: FinCEN is expanding the Bank Secrecy Act to surveil Minnesota. https://t.co/LczwF1qvak",
+      "summary": "RT @EconWithNick: Breaking: FinCEN is expanding the Bank Secrecy Act to surveil Minnesota. https://t.co/LczwF1qvak",
+      "url": "https://x.com/NeerajKA/status/2087298040138698866",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "368"
+      }
+    },
+    {
+      "id": "2087297904532717850",
+      "is_retweet": true,
+      "original_author": "pattersonscott",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-11T21:59:35+00:00",
+      "text": "RT @pattersonscott: New crypto scoop: Here come the SEC's Reg Crypto and the much anticipated Innovation Exemption for tokenized stocks. New twists in the IE -- an issuer opt out from third party token listings and tighter anti-money-laundering rules. (Alas, I am now in the deep crypto world where I say things no one outside it understands...) Link below.",
+      "summary": "RT @pattersonscott: New crypto scoop: Here come the SEC's Reg Crypto and the much anticipated Innovation Exemption for tokenized stocks. New twists…",
+      "url": "https://x.com/NeerajKA/status/2087297904532717850",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 19,
+        "replies": 0,
+        "quotes": 0,
+        "views": "363"
       }
     },
     {
@@ -221,6 +321,31 @@
       }
     },
     {
+      "id": "2087267146992619619",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-11T19:57:22+00:00",
+      "text": "More veterans behind the wheel of 18-wheelers, and less illegal aliens who can’t read road signs. Great work by @secduffy and @USDOT https://t.co/Y76AdXEfhL",
+      "summary": "More veterans behind the wheel of 18-wheelers, and less illegal aliens who can’t read road signs. Great work by @secduffy and @USDOT…",
+      "url": "https://x.com/GOPMajorityWhip/status/2087267146992619619",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 59,
+        "retweets": 10,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2992"
+      }
+    },
+    {
       "id": "2087260569799737519",
       "is_retweet": true,
       "original_author": "DoWCTO",
@@ -296,6 +421,31 @@
       }
     },
     {
+      "id": "2087242551640363260",
+      "is_retweet": true,
+      "original_author": "LlamaRisk",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:19:38+00:00",
+      "text": "RT @LlamaRisk: 1/ A map is only useful if it answers questions. Our Aave v4 topology explorer has grown into a full risk surface: follow contagion, trace assets, inspect every hub and spoke connection down to its cap. Here's what you can do with it today. 🧵 https://t.co/VWUqFiDJis",
+      "summary": "RT @LlamaRisk: 1/ A map is only useful if it answers questions. Our Aave v4 topology explorer has grown into a full risk surface: follow contagion,…",
+      "url": "https://x.com/LindaJeng1/status/2087242551640363260",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7"
+      }
+    },
+    {
       "id": "2087233259730243745",
       "is_retweet": false,
       "original_author": null,
@@ -346,6 +496,31 @@
       }
     },
     {
+      "id": "2087230186798436545",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-11T17:30:30+00:00",
+      "text": "Senators, these are the people you represent. They took the time to record a message and send it directly to your office. Clear rules. Consumer protection. Jobs that stay in America. We need to pass the CLARITY Act.",
+      "summary": "Senators, these are the people you represent. They took the time to record a message and send it directly to your office. Clear rules. Consumer…",
+      "url": "https://x.com/standwithcrypto/status/2087230186798436545",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 182,
+        "retweets": 37,
+        "replies": 6,
+        "quotes": 2,
+        "views": "4430"
+      }
+    },
+    {
       "id": "2087228938414325835",
       "is_retweet": false,
       "original_author": null,
@@ -368,6 +543,31 @@
         "replies": 4,
         "quotes": 0,
         "views": "2037"
+      }
+    },
+    {
+      "id": "2087227836847231315",
+      "is_retweet": true,
+      "original_author": "BuxMontNews",
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-11T17:21:09+00:00",
+      "text": "RT @BuxMontNews: This story has gained some traction after appearing in a newslettee or two. And it's the second politics story ever by our wonderful summer intern, Stephen. - Bucks County-Raised Rep. Ro Khanna Pitches ‘New Economic Patriotism’ https://t.co/Wj1Rbb9Q0k #BucksPol",
+      "summary": "RT @BuxMontNews: This story has gained some traction after appearing in a newslettee or two. And it's the second politics story ever by our wonderful…",
+      "url": "https://x.com/RoKhanna/status/2087227836847231315",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1126"
       }
     },
     {
