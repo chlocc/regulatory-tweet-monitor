@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-12T12:01:00.643827+00:00",
-  "generated_at_unix": 1786536060,
+  "generated_at": "2026-08-12T15:00:38.085979+00:00",
+  "generated_at_unix": 1786546838,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-11T16:00:00+00:00",
-  "window_end": "2026-08-12T12:01:00.643827+00:00",
-  "new_this_run": 16,
-  "total_recent": 46,
+  "window_end": "2026-08-12T15:00:38.085979+00:00",
+  "new_this_run": 14,
+  "total_recent": 60,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087548331505352787",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T14:34:41+00:00",
+      "text": "I just tweet a lot. A major driver of GRANITE Act adoption has actually been @RepDanielSingh, who continues to move the ball forward in Wyoming and was largely responsible for getting the GRANITE proposal adopted by ALEC as national model policy.",
+      "summary": "I just tweet a lot. A major driver of GRANITE Act adoption has actually been @RepDanielSingh, who continues to move the ball forward in Wyoming and…",
+      "url": "https://x.com/prestonjbyrne/status/2087548331505352787",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "673"
+      }
+    },
+    {
+      "id": "2087529911640547777",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T13:21:30+00:00",
+      "text": "Well done. This law would have imposed a potential three year prison sentence on entrepreneurs who get it wrong deciphering what the nebulous definition of “beneficial owner” means. I’m a corporate law prof and I couldn’t figure it out.",
+      "summary": "Well done. This law would have imposed a potential three year prison sentence on entrepreneurs who get it wrong deciphering what the nebulous…",
+      "url": "https://x.com/theblockprof/status/2087529911640547777",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1694"
+      }
+    },
     {
       "id": "2087501030871249119",
       "is_retweet": true,
@@ -43,6 +93,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "467"
+      }
+    },
+    {
+      "id": "2087498329722646745",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T11:16:00+00:00",
+      "text": "Three years ago, Canadian 🇨🇦 regulators imposed a $30,000 per-platform limit on crypto purchases for everything except BTC, ETH ... and Bitcoin Cash and Litecoin (??) It didn't seem to make sense. Why those four? Why $30,000? Grant Vingoe, CEO of the OSC, walks through the thinking here. \" Every time a platform issued, or maintained a relationship with a customer in respect of a holding a crypto asset, it was in our mind, it was issuing a new security.\"",
+      "summary": "Three years ago, Canadian 🇨🇦 regulators imposed a $30,000 per-platform limit on crypto purchases for everything except BTC, ETH ... and Bitcoin Cash…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087498329722646745",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "387"
       }
     },
     {
@@ -71,6 +146,31 @@
       }
     },
     {
+      "id": "2087483083998015816",
+      "is_retweet": true,
+      "original_author": "M1Astra",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T10:15:25+00:00",
+      "text": "RT @M1Astra: Every major Western AI lab except SpaceXAI signed the same EU code requiring generated text to be \"marked in a machine-readable format.\" OpenAI, Google, Meta, Microsoft, Mistral and Anthropic all signed it in July. Existing models have to be changed. Any model already on the market has until December 2nd, 2026 to add the marking. That includes models businesses already use through APIs. The EU AI act makes this a requirement. It applies to companies outside the EU when \"the output produced by the AI system is used in the Union.\" Anthropic is applying the watermark to American users: \"wherever Claude is offered, worldwide.\" Google has been watermarking Gemini text since 2024, and OpenAI says its goal is to \"expand provenance signals to all modalities including text.\" No federal US law requires these watermarks in AI generated text. Anthropic is applying the EU requirement in the US anyways. OpenAI published a post supporting the same EU code in June without mentioning text watermarking. It mentioned text only later, in one sentence, without saying how or when the marking would be added. People are cancelling their Claude subscriptions over this, yet most of the alternatives signed the same EU code. OpenAI, Google, Meta, Microsoft and Mistral all signed. SpaceXAI has not. If you want to avoid this, open models are looking a lot more attractive.",
+      "summary": "RT @M1Astra: Every major Western AI lab except SpaceXAI signed the same EU code requiring generated text to be \"marked in a machine-readable format.\"…",
+      "url": "https://x.com/prestonjbyrne/status/2087483083998015816",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 47,
+        "replies": 0,
+        "quotes": 0,
+        "views": "284"
+      }
+    },
+    {
       "id": "2087429760301289562",
       "is_retweet": true,
       "original_author": "arc",
@@ -96,6 +196,56 @@
       }
     },
     {
+      "id": "2087401421943837170",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "kakashiii111",
+      "display_name": "Kakashii",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T04:50:55+00:00",
+      "text": "SpaceX is behind the boost in SMCI’s margins and revenue, thanks to Jensen brokering a deal between the two companies. Jensen told Elon that SMCI had “plenty” of Nvidia racks available for SpaceX and that he had better take them because of the “supply shortage”. If Jensen and Elon are aligned on the vision, the thinking seems to be that more GPUs mean a better chance of winning the AI race. I’m not sure how Elon still believes in this after accumulating tens of billions of dollars’ worth of unused compute and seeing Grok’s failure. However, it seems that Plan B for SpaceX is to become a neocloud until the company figures out how to advance its AI models, a plan that is likely very attractive to Elon. So Elon went ahead and ramped up his orders for Nvidia racks, and SMCI starting to clean the inventory and may be ready to get Rubin racks allocation in future. Win-win-win(?) for Nvidia, SMCI, and SpaceX(?)",
+      "summary": "SpaceX is behind the boost in SMCI’s margins and revenue, thanks to Jensen brokering a deal between the two companies. Jensen told Elon that SMCI had…",
+      "url": "https://x.com/kakashiii111/status/2087401421943837170",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 62,
+        "retweets": 8,
+        "replies": 7,
+        "quotes": 0,
+        "views": "8580"
+      }
+    },
+    {
+      "id": "2087391712524026084",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T04:12:20+00:00",
+      "text": "So says the man who spent over a DECADE compiling one of the most racist voting records in Congress. During the ’70s and ’80s, @EdMarkey backed a Constitutional Amendment to ban busing Black kids into white school districts - the same districts he represented, which were 95-99% white. 🙋‍♂️ QUESTION: How racist do you have to be to want to amend the Constitution just to keep Black kids out of white schools? That’s not all. Markey was a loud defender of Bob Jones University - a school that banned Black students outright in the ’70s, then banned interracial dating and marriage in the ’80s. Fall in love with the wrong person, get expelled. When the IRS moved to strip Bob Jones of its tax-exempt status, Markey voted to protect it. Strange how invested he was in a South Carolina university with zero ties to Massachusetts. 🤔 Then there’s Rachel Rollins. Markey bragged about her endorsement, calling her a symbol of racial justice - skin color over substance. He lobbied hard to get her named U.S. Attorney for Massachusetts. She resigned in disgrace over ethics violations. Funny - no mention of “racial justice” then. As recently as August 2020, Danroy “DJ” Henry Sr. called Markey out on camera: performs one way for the cameras, completely different when they’re off. Henry said Markey was still calling Black people “colored.” Malcolm X warned blacks that white progressives - like Markey - posed a unique danger to Black liberation - because they dress up political self-interest as friendship. That’s exactly the “friendship” Markey offers: pandering to Black voters while claiming to support reparations, after spending years fighting tooth and nail against one of America’s first real acts of reparative justice - school desegregation. He fought to keep Black kids out of white schools. He protected a racist university a thousand miles from home. He used Black leaders as political props - then dropped them the moment it was inconvenient. If Markey wants to talk repair, he can start with his own wallet. After all, after 53 years in office - he’s a multimillionaire - courtesy of the American taxpayer. Until he does - Ed, sit this one out.",
+      "summary": "So says the man who spent over a DECADE compiling one of the most racist voting records in Congress. During the ’70s and ’80s, @EdMarkey backed a…",
+      "url": "https://x.com/JohnEDeaton1/status/2087391712524026084",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 123,
+        "retweets": 20,
+        "replies": 2,
+        "quotes": 2,
+        "views": "11969"
+      }
+    },
+    {
       "id": "2087389309225615362",
       "is_retweet": true,
       "original_author": "Shenanigrahams",
@@ -118,6 +268,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "653"
+      }
+    },
+    {
+      "id": "2087385065030373831",
+      "is_retweet": true,
+      "original_author": "neil_chilson",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T03:45:55+00:00",
+      "text": "RT @neil_chilson: Realize what this means: If Anthropic does this, the EU AI Act will make every single text response generated by Claude, anywhere in the world, different (and worse). Measured by tokens affected, this may be the most expansive government manipulation of speech in history.",
+      "summary": "RT @neil_chilson: Realize what this means: If Anthropic does this, the EU AI Act will make every single text response generated by Claude, anywhere…",
+      "url": "https://x.com/prestonjbyrne/status/2087385065030373831",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 46,
+        "replies": 0,
+        "quotes": 0,
+        "views": "277"
+      }
+    },
+    {
+      "id": "2087384732623314993",
+      "is_retweet": true,
+      "original_author": "Dan_Jeffries1",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T03:44:36+00:00",
+      "text": "RT @Dan_Jeffries1: The EU AI Act is one of the worse pieces of legislation ever written. It needs to be scrapped entirely. Watermarking will now make the models worse at every one of their tasks. In particular it's magical thinking that you can watermark text. There is no way to meaningfully \"encode a water mark in text\" without altering the text. You can basically do the following: Alter word choices and punctuation patterns to inserting hidden Unicode or zero-width space characters. None of these are survivable. So this basically means that the EU just mandated that AI writing is now provable worse for something that is not actually possible. It means the models will be forced to write in a statistically worse/uniform way in order to embed utter nonsense that is irrelevant and which falls apart as soon as I start to edit it. There is no chance that if I am working on article with AI and rewrite 70-80% of it that it survives and so what I get is essentially just worse text for absolutely no reason at all. If the EU wants to become the \"AI continent\" they should start by scraping this atrocity.",
+      "summary": "RT @Dan_Jeffries1: The EU AI Act is one of the worse pieces of legislation ever written. It needs to be scrapped entirely. Watermarking will now make…",
+      "url": "https://x.com/prestonjbyrne/status/2087384732623314993",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 67,
+        "replies": 0,
+        "quotes": 0,
+        "views": "294"
+      }
+    },
+    {
+      "id": "2087379923518283822",
+      "is_retweet": true,
+      "original_author": "neil_chilson",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T03:25:30+00:00",
+      "text": "RT @neil_chilson: The EU is pressing an invisible thumbprint onto every response Anthropic models produce, anywhere in the world. Anthropic announced yesterday that it is embedding a watermark directly into Claude-generated text. Because the company weaves the mark into the words themselves, it persists through copy and paste and can survive later editing. Anthropic plans to stamp this mark on Claude, Claude Code, its API, cloud platforms, and its other products, in Europe and everywhere else. This is the Brussels Effect, one token at a time. Article 50 of the EU AI Act has pushed a leading American AI company to alter every text response its covered models generate, worldwide. Counted in tokens, this may be the most expansive government intrusion into expressive content in history. Anthropic claims the watermark will not affect meaning, quality, or readability. But it reportedly works by hiding a detectable signal in the model's word choices. If a detector can find that signal, the signal changed which words the model chose. So the model now attempts to optimize for two things at once: the best response for the user, and a regulator-facing signal buried inside it. The mark limits the output relative to what the model would otherwise produce, and that reduces quality, even if users rarely notice. The mandate originates in Europe, but Anthropic chose to implement it worldwide. A student in Ohio, a programmer in India, and a small business in Argentina will all carry an EU-mandated mark on what they produce. No law requires that. Anthropic's choice to impose an EU law on all of us deserves significant scrutiny and public pressure. Especially because the mark also fails to do its job. Anthropic acknowledges that a human may have written a marked passage and asked Claude only to proofread, translate, or summarize it. Meanwhile, ordinary editing can strip the mark from text that Claude wrote in full. The mark is therefore both overinclusive and evadable, flagging human work while missing machine work. No teacher, editor, or employer should judge authorship, credibility, academic integrity, or effort on a signal that weak. Transparency rules can be worth it when they tell people something useful. This one reveals little and yet requires a change to every output. EU policymakers should narrow Article 50's treatment of ordinary text and focus on concrete abuses: fraud, impersonation, and harmful deepfakes. Anthropic should apply the mark only where the law demands it, and better still, let users choose. Having struggled to export their technology to the world, Europe's regulators have long sought to export their regulations. The U.S. should push back. We shouldn't have to have European fingerprints on every American sentence that AI touches.",
+      "summary": "RT @neil_chilson: The EU is pressing an invisible thumbprint onto every response Anthropic models produce, anywhere in the world. Anthropic announced…",
+      "url": "https://x.com/prestonjbyrne/status/2087379923518283822",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "292"
       }
     },
     {
@@ -193,6 +418,31 @@
         "replies": 9,
         "quotes": 2,
         "views": "5873"
+      }
+    },
+    {
+      "id": "2087327799124144179",
+      "is_retweet": true,
+      "original_author": "USTreasury",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T23:58:22+00:00",
+      "text": "RT @USTreasury: Today, @FinCENnews issued a final rule that permanently removes the requirement for U.S. companies and U.S. persons to report beneficial ownership information. FinCEN today also announced that it will delete previously reported information by U.S. persons from the beneficial ownership information database.",
+      "summary": "RT @USTreasury: Today, @FinCENnews issued a final rule that permanently removes the requirement for U.S. companies and U.S. persons to report…",
+      "url": "https://x.com/KhurramDara/status/2087327799124144179",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 529,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10"
       }
     },
     {
@@ -296,6 +546,31 @@
       }
     },
     {
+      "id": "2087306718707380549",
+      "is_retweet": true,
+      "original_author": "kkirkbos",
+      "username": "NYCStein",
+      "display_name": "Elliott Z. Stein",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T22:34:36+00:00",
+      "text": "RT @kkirkbos: The Supreme Court will resolve this, the sooner the better. https://t.co/tf3UmmCORl",
+      "summary": "RT @kkirkbos: The Supreme Court will resolve this, the sooner the better. https://t.co/tf3UmmCORl",
+      "url": "https://x.com/NYCStein/status/2087306718707380549",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "37"
+      }
+    },
+    {
       "id": "2087303917809844431",
       "is_retweet": false,
       "original_author": null,
@@ -396,6 +671,31 @@
       }
     },
     {
+      "id": "2087290275819405741",
+      "is_retweet": true,
+      "original_author": "USTreasury",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T21:29:16+00:00",
+      "text": "RT @USTreasury: Today, @FinCENnews issued a final rule that permanently removes the requirement for U.S. companies and U.S. persons to report beneficial ownership information. FinCEN today also announced that it will delete previously reported information by U.S. persons from the beneficial ownership information database.",
+      "summary": "RT @USTreasury: Today, @FinCENnews issued a final rule that permanently removes the requirement for U.S. companies and U.S. persons to report…",
+      "url": "https://x.com/prestonjbyrne/status/2087290275819405741",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 530,
+        "replies": 0,
+        "quotes": 0,
+        "views": "327"
+      }
+    },
+    {
       "id": "2087290100199903353",
       "is_retweet": false,
       "original_author": null,
@@ -493,6 +793,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "586"
+      }
+    },
+    {
+      "id": "2087274101723258926",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T20:25:00+00:00",
+      "text": "\" The idea there is to try to provide a bright line test, something that is a little bit more prescriptive that you can follow and have predictability around.\" Taylor Lindman, Chief Counsel of the SEC's Crypto Task Force, on Reg Crypto. https://t.co/CPIRqvb9I3",
+      "summary": "\" The idea there is to try to provide a bright line test, something that is a little bit more prescriptive that you can follow and have…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087274101723258926",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "641"
       }
     },
     {
@@ -643,6 +968,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "736"
+      }
+    },
+    {
+      "id": "2087247951202583001",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-11T18:41:05+00:00",
+      "text": "Could Canadian stablecoins offer yield? I asked Grant Vingoe, CEO of the Ontario Securities Commission, about that possibility. https://t.co/fLTMT0riBV",
+      "summary": "Could Canadian stablecoins offer yield? I asked Grant Vingoe, CEO of the Ontario Securities Commission, about that possibility.…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087247951202583001",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "865"
       }
     },
     {
