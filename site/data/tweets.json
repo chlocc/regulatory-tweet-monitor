@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-12T15:00:38.085979+00:00",
-  "generated_at_unix": 1786546838,
+  "generated_at": "2026-08-12T18:00:05.699955+00:00",
+  "generated_at_unix": 1786557605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-11T16:00:00+00:00",
-  "window_end": "2026-08-12T15:00:38.085979+00:00",
-  "new_this_run": 14,
-  "total_recent": 60,
-  "errors": [],
+  "window_end": "2026-08-12T18:00:05.699955+00:00",
+  "new_this_run": 25,
+  "total_recent": 85,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087596498871550081",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T17:46:05+00:00",
+      "text": "RT @laurashin: The EF Wants ETH Yield at Zero. Institutions Are Furious. Everyone assumed the fight over ETH staking yield would be about the numbers. On the new @bitsandbips, @austincampbell and @perkinscr97, with @sethginns of Franklin Crypto, argue it's really about whether the Ethereum Foundation controls the network at all. 🎧 Timestamps: 💧 02:01 1inch: See how 1inch Aqua's shared liquidity layer works at https://t.co/PtM5Y19hRY 🏛️ 03:23 Why Chris says losing the Clarity Act vote could help crypto politically 🗳️ 06:54 Why Austin says FairShake should skip the fight over ethics language 🔥 15:32 The proposal to burn ETH issuance to zero, and Seth's case that it's a solution looking for a problem 💼 34:05 Why the Bybit hack keeps coming up as a red flag for institutions 📉 40:03 A weak jobs report and falling participation leave the Fed's move unclear 🤖 52:11 Cloudflare's agent traffic surge and what it means for crypto rails",
+      "summary": "RT @laurashin: The EF Wants ETH Yield at Zero. Institutions Are Furious. Everyone assumed the fight over ETH staking yield would be about the…",
+      "url": "https://x.com/laurashin/status/2087596498871550081",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087585466417553679",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T17:02:15+00:00",
+      "text": "RT @CryptoAmerica_: 🚨NEW: Some of the top companies in the Fortune 25 are gearing up to use stablecoins. This week, we sat down with @withAUSD CEO and co-founder @Nick_van_Eck, who tells us the stablecoin infrastructure provider is already working with some of the world’s largest corporations as they prepare to bring digital dollars into core parts of their operations. We also get into what the GENIUS Act could unlock, why he thinks stablecoins are “100x more valuable” outside the U.S., and why he doesn’t think the Clarity Act will have much impact on Agora’s business, whether it passes or not. Links below👇🏼",
+      "summary": "RT @CryptoAmerica_: 🚨NEW: Some of the top companies in the Fortune 25 are gearing up to use stablecoins. This week, we sat down with @withAUSD CEO…",
+      "url": "https://x.com/EleanorTerrett/status/2087585466417553679",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5870"
+      }
+    },
+    {
+      "id": "2087574337822081117",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T16:18:02+00:00",
+      "text": "Gen Z has far more variance in capability distribution imo. For every hundred worthless zero ambition TikTok addicted zoomer with no impulse control or sense of responsibility there’s prob one cracked broccoli haired autist that’s a one man founding team for a future unicorn.",
+      "summary": "Gen Z has far more variance in capability distribution imo. For every hundred worthless zero ambition TikTok addicted zoomer with no impulse control…",
+      "url": "https://x.com/wassielawyer/status/2087574337822081117",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2004"
+      }
+    },
+    {
+      "id": "2087563967665246501",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T15:36:49+00:00",
+      "text": "RT @laurashin: Researchers built a fake DeFi startup and hired North Korea's operatives just to watch how they work. It's one of five onchain security stories @kain and @tayvano_ get into this week on Uneasy Money, live today Wednesday 4pm ET.",
+      "summary": "RT @laurashin: Researchers built a fake DeFi startup and hired North Korea's operatives just to watch how they work. It's one of five onchain…",
+      "url": "https://x.com/laurashin/status/2087563967665246501",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087563006360076336",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T15:33:00+00:00",
+      "text": "The EF Wants ETH Yield at Zero. Institutions Are Furious. Everyone assumed the fight over ETH staking yield would be about the numbers. On the new @bitsandbips, @austincampbell and @perkinscr97, with @sethginns of Franklin Crypto, argue it's really about whether the Ethereum Foundation controls the network at all. 🎧 Timestamps: 💧 02:01 1inch: See how 1inch Aqua's shared liquidity layer works at https://t.co/PtM5Y19hRY 🏛️ 03:23 Why Chris says losing the Clarity Act vote could help crypto politically 🗳️ 06:54 Why Austin says FairShake should skip the fight over ethics language 🔥 15:32 The proposal to burn ETH issuance to zero, and Seth's case that it's a solution looking for a problem 💼 34:05 Why the Bybit hack keeps coming up as a red flag for institutions 📉 40:03 A weak jobs report and falling participation leave the Fed's move unclear 🤖 52:11 Cloudflare's agent traffic surge and what it means for crypto rails",
+      "summary": "The EF Wants ETH Yield at Zero. Institutions Are Furious. Everyone assumed the fight over ETH staking yield would be about the numbers. On the new…",
+      "url": "https://x.com/laurashin/status/2087563006360076336",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 1,
+        "replies": 13,
+        "quotes": 0,
+        "views": "2449"
+      }
+    },
     {
       "id": "2087548331505352787",
       "is_retweet": false,
@@ -71,6 +205,81 @@
       }
     },
     {
+      "id": "2087524000050340236",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T12:58:00+00:00",
+      "text": "How do you convince a DAO to approve a risk decision before it's too late? 🏛️ My conversation with @hexonaut on Spark's month-long governance process, and the emergency multisigs that step in when it's not fast enough. https://t.co/d1Len0781g",
+      "summary": "How do you convince a DAO to approve a risk decision before it's too late? 🏛️ My conversation with @hexonaut on Spark's month-long governance…",
+      "url": "https://x.com/laurashin/status/2087524000050340236",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3938"
+      }
+    },
+    {
+      "id": "2087508649145242044",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:57:00+00:00",
+      "text": "Researchers built a fake DeFi startup and hired North Korea's operatives just to watch how they work. It's one of five onchain security stories @kain and @tayvano_ get into this week on Uneasy Money, live today Wednesday 4pm ET.",
+      "summary": "Researchers built a fake DeFi startup and hired North Korea's operatives just to watch how they work. It's one of five onchain security stories @kain…",
+      "url": "https://x.com/laurashin/status/2087508649145242044",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "4168"
+      }
+    },
+    {
+      "id": "2087503615577784507",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:37:00+00:00",
+      "text": "✈️ FlightAware sued Kalshi demanding a restraining order. Then dropped the entire case one day later. https://t.co/yRx5ZIsC9p",
+      "summary": "✈️ FlightAware sued Kalshi demanding a restraining order. Then dropped the entire case one day later. https://t.co/yRx5ZIsC9p",
+      "url": "https://x.com/laurashin/status/2087503615577784507",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "4058"
+      }
+    },
+    {
       "id": "2087501030871249119",
       "is_retweet": true,
       "original_author": "Thealphacruze",
@@ -96,6 +305,31 @@
       }
     },
     {
+      "id": "2087498581972586679",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:17:00+00:00",
+      "text": "🚨 The CFTC just invoked emergency powers under Section 8a(9) to force Kalshi to keep trading, even if New York wins a restraining order against it. https://t.co/qk4Hx4JLwi",
+      "summary": "🚨 The CFTC just invoked emergency powers under Section 8a(9) to force Kalshi to keep trading, even if New York wins a restraining order against it.…",
+      "url": "https://x.com/laurashin/status/2087498581972586679",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 0,
+        "views": "4060"
+      }
+    },
+    {
       "id": "2087498329722646745",
       "is_retweet": false,
       "original_author": null,
@@ -118,6 +352,131 @@
         "replies": 1,
         "quotes": 0,
         "views": "387"
+      }
+    },
+    {
+      "id": "2087495375485608444",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:04:15+00:00",
+      "text": "RT @laurashin: ✈️ FlightAware just sued Kalshi, claiming the prediction market ran flight-cancellation bets on data it was only ever licensed to use personally, and that traders were told the odds were \"verified\" by a company that says it never signed off. https://t.co/7LBjBG59um",
+      "summary": "RT @laurashin: ✈️ FlightAware just sued Kalshi, claiming the prediction market ran flight-cancellation bets on data it was only ever licensed to use…",
+      "url": "https://x.com/laurashin/status/2087495375485608444",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087495359530475525",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:04:12+00:00",
+      "text": "RT @laurashin: 🪓 Bitcoin's core developers just voted Luke Dashjr off the five-person committee that decides which protocol proposals move forward, right after his push for a contentious fork fizzled at 2.53% support. https://t.co/GL08aXxJSs",
+      "summary": "RT @laurashin: 🪓 Bitcoin's core developers just voted Luke Dashjr off the five-person committee that decides which protocol proposals move forward,…",
+      "url": "https://x.com/laurashin/status/2087495359530475525",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087495352555384893",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:04:10+00:00",
+      "text": "RT @laurashin: 🌍 Coinbase just landed a license to run tokenized stock offerings out of Abu Dhabi, with a twist: every token can be frozen and seized at the wallet level under regulator oversight. https://t.co/cXKx28n5TZ",
+      "summary": "RT @laurashin: 🌍 Coinbase just landed a license to run tokenized stock offerings out of Abu Dhabi, with a twist: every token can be frozen and seized…",
+      "url": "https://x.com/laurashin/status/2087495352555384893",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087495155297227142",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:03:23+00:00",
+      "text": "RT @laurashin: Sam MacPherson on Why Spark Benefited So Much From the KelpDAO Hack Spark's TVL jumped more than 50% after the KelpDAO hack drained the rest of DeFi. 📈 I asked cofounder @hexonaut why his protocol was the exception, and the answer is refreshingly unglamorous: rate limits. Timestamps: 📣 00:26 Visit https://t.co/DJ6GY03wuq to swap tokenized securities, crypto and more. Simple. Secure. Self-custodial. Whatever asset you’re buying - swap it at https://t.co/DJ6GY03wuq 🏦 01:08 What Spark does and how it plugs into the Sky protocol's balance sheet 🛡️ 05:07 Why Sam says Spark's conservative design let it dodge the KelpDAO hack ⚖️ 11:24 How the rsETH exit exposed the tradeoffs in Sky's onchain governance 🎙️ 13:52 Visit https://t.co/DJ6GY03wuq to swap tokenized securities, crypto and more. Simple. Secure. Self-custodial. Whatever asset you’re buying - swap it at https://t.co/DJ6GY03wuq 💰 17:41 Why Sam thinks DeFi yields are converging toward SOFR, not higher 🤖 20:47 Why Sam says AI cuts both ways for DeFi security after the hack wave 🏛️ 23:26 Why Sky built the subDAO model, and whether it can survive politics 💵 26:58 The stablecoin land grab: Robinhood, Coinbase, and Spark's role in it 📊 30:50 Why Sam isn't worried about SPK trading near its all time low 🚀 32:39 Spark's next chapter: institutional lending and Spark Savings USDT growth",
+      "summary": "RT @laurashin: Sam MacPherson on Why Spark Benefited So Much From the KelpDAO Hack Spark's TVL jumped more than 50% after the KelpDAO hack drained…",
+      "url": "https://x.com/laurashin/status/2087495155297227142",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087494523983368595",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T11:00:52+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Bitcoin's BIP editors remove Luke Dashjr ⚖️ The CFTC ordered Kalshi to keep trading even if New York wins a restraining order 🇦🇪 Coinbase won an Abu Dhabi license for tokenized stocks ✈️ FlightAware dropped its suit against Kalshi one day after filing 📩 Don’t miss out—read here & sign up for daily updates! https://t.co/Sj0cAeGFxk",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Bitcoin's BIP editors remove Luke Dashjr ⚖️ The CFTC ordered Kalshi to keep trading even if New York wins a…",
+      "url": "https://x.com/laurashin/status/2087494523983368595",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 1,
+        "views": "3374"
       }
     },
     {
@@ -193,6 +552,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "3"
+      }
+    },
+    {
+      "id": "2087402008173261008",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T04:53:15+00:00",
+      "text": "Another quintessentially Singaporean clown show. \"Direct School Admission\" - an exercise ostensibly meant to stop parents from overly min-maxing their kids academics in order to get into \"good schools\" by offering a separate sports/arts/obscure interest route. The result? A 7 year old being dragged crying and screaming to play fucking Erhu (a Chinese fiddle lmao) two times a week for six years in an attempt to minmax him into a desirable school via the back door. The mother claims she didn't think about DSA until her son's teachers suggested it in upper primary and that he was 'gifted' at it. Woman - I do not believe for a second you spent good money forcing your son to play the fucking Chinese fiddle against his will twice a week because you alone saw his gift through his tears and nobly placed the maintenance and proliferation of ethnic Chinese music culture over his personal suffering. You did it because you thought no normal kid wants to play the Erhu and you realised this was a path you could take to farm the Chinese associations for scholarships and CV boosters en route to the backdoor into your desired Chinese secondary school. Jokes on you because every mid-curve Sinkie mom trying to game the system has the same idea - why else do you think there are so many Erhu music tutors in Singapore? And when this retarded scheme falls through, what does this Karen do? Immediately go to complain about how unfair it is, blame the teachers, blame the process for not being transparent etc. Oh and her son abandoned the Erhu immediately after. Figures. Ah Gong please come back and bring down your hatchet upon this country and fix it holy shit we have become a city-state of whiny entitled pussies.",
+      "summary": "Another quintessentially Singaporean clown show. \"Direct School Admission\" - an exercise ostensibly meant to stop parents from overly min-maxing…",
+      "url": "https://x.com/wassielawyer/status/2087402008173261008",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 268,
+        "retweets": 21,
+        "replies": 35,
+        "quotes": 14,
+        "views": "35432"
       }
     },
     {
@@ -571,6 +955,56 @@
       }
     },
     {
+      "id": "2087305153011413410",
+      "is_retweet": true,
+      "original_author": "Crypt0Senseii",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T22:28:23+00:00",
+      "text": "RT @Crypt0Senseii: 🚨 CLARITY moves to September as SEC starts crypto rulemaking According to @EleanorTerrett, CLARITY still has a path forward in September while the SEC prepares its own crypto offering proposal. 👉 Cloture was filed on the motion to proceed 👉 Procedural vote is expected after the Senate returns in September 👉 SEC meets August 14 on proposed crypto offering rules 👉 Proposal could create tailored exemptions and safe harbors for certain crypto offerings Congress and regulators are now moving on parallel tracks. CLARITY would set the broader market structure, while SEC rulemaking could start defining how certain crypto offerings can legally reach investors before Congress finishes the bill. September now matters on two fronts: the Senate gets another shot at moving CLARITY forward, while the SEC may already be building part of the regulatory framework around token issuance. #CLARITYAct #Crypto",
+      "summary": "RT @Crypt0Senseii: 🚨 CLARITY moves to September as SEC starts crypto rulemaking According to @EleanorTerrett, CLARITY still has a path forward in…",
+      "url": "https://x.com/EleanorTerrett/status/2087305153011413410",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 46,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9337"
+      }
+    },
+    {
+      "id": "2087304301911929300",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T22:25:00+00:00",
+      "text": "🌍 Coinbase just landed a license to run tokenized stock offerings out of Abu Dhabi, with a twist: every token can be frozen and seized at the wallet level under regulator oversight. https://t.co/cXKx28n5TZ",
+      "summary": "🌍 Coinbase just landed a license to run tokenized stock offerings out of Abu Dhabi, with a twist: every token can be frozen and seized at the wallet…",
+      "url": "https://x.com/laurashin/status/2087304301911929300",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 3,
+        "replies": 9,
+        "quotes": 1,
+        "views": "8486"
+      }
+    },
+    {
       "id": "2087303917809844431",
       "is_retweet": false,
       "original_author": null,
@@ -593,6 +1027,56 @@
         "replies": 166,
         "quotes": 9,
         "views": "120249"
+      }
+    },
+    {
+      "id": "2087302037369405592",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T22:16:00+00:00",
+      "text": "🪓 Bitcoin's core developers just voted Luke Dashjr off the five-person committee that decides which protocol proposals move forward, right after his push for a contentious fork fizzled at 2.53% support. https://t.co/GL08aXxJSs",
+      "summary": "🪓 Bitcoin's core developers just voted Luke Dashjr off the five-person committee that decides which protocol proposals move forward, right after his…",
+      "url": "https://x.com/laurashin/status/2087302037369405592",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 21,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "8335"
+      }
+    },
+    {
+      "id": "2087299772973728015",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T22:07:00+00:00",
+      "text": "✈️ FlightAware just sued Kalshi, claiming the prediction market ran flight-cancellation bets on data it was only ever licensed to use personally, and that traders were told the odds were \"verified\" by a company that says it never signed off. https://t.co/7LBjBG59um",
+      "summary": "✈️ FlightAware just sued Kalshi, claiming the prediction market ran flight-cancellation bets on data it was only ever licensed to use personally, and…",
+      "url": "https://x.com/laurashin/status/2087299772973728015",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 2,
+        "views": "8330"
       }
     },
     {
@@ -671,6 +1155,31 @@
       }
     },
     {
+      "id": "2087293514690494886",
+      "is_retweet": true,
+      "original_author": "ErikVoorhees",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T21:42:08+00:00",
+      "text": "RT @ErikVoorhees: There is still a widespread misunderstanding that using a Chinese model = your data goes to China If the Chinese model is hosted by Venice (Kimi, GLM, Deepseek etc), your data not only doesn't go to China, it doesn't go to anyone. Private.",
+      "summary": "RT @ErikVoorhees: There is still a widespread misunderstanding that using a Chinese model = your data goes to China If the Chinese model is hosted by…",
+      "url": "https://x.com/laurashin/status/2087293514690494886",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 81,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1071"
+      }
+    },
+    {
       "id": "2087290275819405741",
       "is_retweet": true,
       "original_author": "USTreasury",
@@ -718,6 +1227,31 @@
         "replies": 3,
         "quotes": 1,
         "views": "3718"
+      }
+    },
+    {
+      "id": "2087288868823552231",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T21:23:40+00:00",
+      "text": "⚡ A major institutional investor just pushed back hard on Ethereum's staking-rewards overhaul. Franklin Crypto's CIO calls the proposal to burn validator rewards \"a solution looking for a problem.\" https://t.co/j1CQbloqKz",
+      "summary": "⚡ A major institutional investor just pushed back hard on Ethereum's staking-rewards overhaul. Franklin Crypto's CIO calls the proposal to burn…",
+      "url": "https://x.com/laurashin/status/2087288868823552231",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 1,
+        "replies": 8,
+        "quotes": 0,
+        "views": "6569"
       }
     },
     {
@@ -771,6 +1305,31 @@
       }
     },
     {
+      "id": "2087280608150012152",
+      "is_retweet": true,
+      "original_author": "JohnTerrett1",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T20:50:51+00:00",
+      "text": "RT @JohnTerrett1: The Cats Roundtable on 77WABC Radio, New York. Sunday 9th August 2026. https://t.co/r7dPiRD4PP",
+      "summary": "RT @JohnTerrett1: The Cats Roundtable on 77WABC Radio, New York. Sunday 9th August 2026. https://t.co/r7dPiRD4PP",
+      "url": "https://x.com/EleanorTerrett/status/2087280608150012152",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10285"
+      }
+    },
+    {
       "id": "2087278631072538846",
       "is_retweet": true,
       "original_author": "SecScottBessent",
@@ -793,6 +1352,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "586"
+      }
+    },
+    {
+      "id": "2087275044091408718",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-11T20:28:44+00:00",
+      "text": "Congress can either: (1) pass rules that govern how the Trump admin regulates crypto; or (2) not pass rules and defer to the Trump admin on how to regulate crypto. Pass CLARITY or abdicate.",
+      "summary": "Congress can either: (1) pass rules that govern how the Trump admin regulates crypto; or (2) not pass rules and defer to the Trump admin on how to…",
+      "url": "https://x.com/milesjennings/status/2087275044091408718",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 173,
+        "retweets": 22,
+        "replies": 14,
+        "quotes": 1,
+        "views": "11915"
+      }
+    },
+    {
+      "id": "2087274778746909079",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-11T20:27:41+00:00",
+      "text": "Sam MacPherson on Why Spark Benefited So Much From the KelpDAO Hack Spark's TVL jumped more than 50% after the KelpDAO hack drained the rest of DeFi. 📈 I asked cofounder @hexonaut why his protocol was the exception, and the answer is refreshingly unglamorous: rate limits. Timestamps: 📣 00:26 Visit https://t.co/DJ6GY03wuq to swap tokenized securities, crypto and more. Simple. Secure. Self-custodial. Whatever asset you’re buying - swap it at https://t.co/DJ6GY03wuq 🏦 01:08 What Spark does and how it plugs into the Sky protocol's balance sheet 🛡️ 05:07 Why Sam says Spark's conservative design let it dodge the KelpDAO hack ⚖️ 11:24 How the rsETH exit exposed the tradeoffs in Sky's onchain governance 🎙️ 13:52 Visit https://t.co/DJ6GY03wuq to swap tokenized securities, crypto and more. Simple. Secure. Self-custodial. Whatever asset you’re buying - swap it at https://t.co/DJ6GY03wuq 💰 17:41 Why Sam thinks DeFi yields are converging toward SOFR, not higher 🤖 20:47 Why Sam says AI cuts both ways for DeFi security after the hack wave 🏛️ 23:26 Why Sky built the subDAO model, and whether it can survive politics 💵 26:58 The stablecoin land grab: Robinhood, Coinbase, and Spark's role in it 📊 30:50 Why Sam isn't worried about SPK trading near its all time low 🚀 32:39 Spark's next chapter: institutional lending and Spark Savings USDT growth",
+      "summary": "Sam MacPherson on Why Spark Benefited So Much From the KelpDAO Hack Spark's TVL jumped more than 50% after the KelpDAO hack drained the rest of DeFi.…",
+      "url": "https://x.com/laurashin/status/2087274778746909079",
+      "type": "original",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 3,
+        "replies": 6,
+        "quotes": 0,
+        "views": "8537"
       }
     },
     {
@@ -918,6 +1527,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "44461"
+      }
+    },
+    {
+      "id": "2087258453282853327",
+      "is_retweet": true,
+      "original_author": "faryarshirzad",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-11T19:22:49+00:00",
+      "text": "RT @faryarshirzad: Good to see the @SECGov moving forward with the process of developing clear rules for digital assets. President Trump’s crypto blueprint was right to call on regulators to use their existing authorities while Congress works to provide a durable statutory foundation. We need both. CLARITY remains critical, and we look forward to Congress enacting it. But policy can’t stand still while Congress deliberates. Technology and markets are moving, other countries are moving, and the US needs to keep moving too.",
+      "summary": "RT @faryarshirzad: Good to see the @SECGov moving forward with the process of developing clear rules for digital assets. President Trump’s crypto…",
+      "url": "https://x.com/milesjennings/status/2087258453282853327",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": "185"
       }
     },
     {
