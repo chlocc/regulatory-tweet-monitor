@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-13T12:02:39.897513+00:00",
-  "generated_at_unix": 1786622559,
+  "generated_at": "2026-08-13T15:05:29.748708+00:00",
+  "generated_at_unix": 1786633529,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-12T16:00:00+00:00",
-  "window_end": "2026-08-13T12:02:39.897513+00:00",
-  "new_this_run": 9,
-  "total_recent": 36,
+  "window_end": "2026-08-13T15:05:29.748708+00:00",
+  "new_this_run": 12,
+  "total_recent": 48,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087881022826307645",
+      "is_retweet": true,
+      "original_author": "JohnEDeaton1",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T12:36:41+00:00",
+      "text": "RT @JohnEDeaton1: WHERE’S ED MARKEY? Today, I participated in a U.S. Senate Candidate forum regarding food insecurity, moderated by the amazing people at Project Bread. @Tache4MA, @sethmoulton, @DeatonforSenate showed up to participate. @SenMarkey was CONFIRMED to participate. In fact, as you can see, his seat was right next to mine. But, only minutes before it started, Markey suddenly cancelled. Considering I was a last minute addition, I think Good-Old-Ed saw the Deaton-Mobile parked outside the front door and decided that he wasn’t going to talk about food insecurity and food stamps 🆚 the Food Stamp Warrior. I can now officially say, Seth Moulton has agreed - if he wins the primary- to at least 3 general election debates. Three major television outlets - with a fourth likely coming - have already asked for Markey, Moulton and myself to commit to their debate request. I have. Seth has. So, I ask once again: WHERES ED MARKEY?",
+      "summary": "RT @JohnEDeaton1: WHERE’S ED MARKEY? Today, I participated in a U.S. Senate Candidate forum regarding food insecurity, moderated by the amazing…",
+      "url": "https://x.com/JohnEDeaton1/status/2087881022826307645",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087870532020588969",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T11:55:00+00:00",
+      "text": "In Canada, stablecoins are considered securities. Even without offering yield. It's another example of 🇨🇦's regulators diverging from global norms. Lori Stein, partner at McCarthy Tetrault, explains how that works. https://t.co/ARNvS1C16N",
+      "summary": "In Canada, stablecoins are considered securities. Even without offering yield. It's another example of 🇨🇦's regulators diverging from global norms.…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087870532020588969",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "679"
+      }
+    },
+    {
+      "id": "2087825110761877711",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "kakashiii111",
+      "display_name": "Kakashii",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T08:54:30+00:00",
+      "text": "I wrote this in my Substack's chat, but I think it also should be as a X's post: “The thing is, Anthropic is paying well above market price for IMMEDIATE compute, deployed and available for use, for one simple reason. They are several months before IPO, and these are very critical months for Anthropic. They need to show growth, whether it is growth of users, growth of MRR, or growth of ARR. And if you are limited in compute, you can't grow as expected. So the SpaceX and other deals that Anthropic booked above market price are temporary and short term, just for the period prior to IPO and a little bit post IPO. And a reminder: Custom chips (Google’s TPUs/Amazon Trainium) are still in short supply, and datacenters take time to build. With Nvidia's GPUs, there is no shortage, but there is still the problem of datacenters taking time to build.” I suggest to check my Substack's chat and join the discussions!",
+      "summary": "I wrote this in my Substack's chat, but I think it also should be as a X's post: “The thing is, Anthropic is paying well above market price for…",
+      "url": "https://x.com/kakashiii111/status/2087825110761877711",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 75,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 0,
+        "views": "8918"
+      }
+    },
     {
       "id": "2087743465195012309",
       "is_retweet": false,
@@ -43,6 +118,81 @@
         "replies": 14,
         "quotes": 2,
         "views": "8784"
+      }
+    },
+    {
+      "id": "2087716212587286935",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T01:41:47+00:00",
+      "text": "And Reg Crypto this week too. https://t.co/WQHiZZGgyF",
+      "summary": "And Reg Crypto this week too. https://t.co/WQHiZZGgyF",
+      "url": "https://x.com/theblockprof/status/2087716212587286935",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "514"
+      }
+    },
+    {
+      "id": "2087713863534039084",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T01:32:27+00:00",
+      "text": "True story, during an expert depo an SEC lawyer asked me a hypothetical. I said “mind if I ask a few questions about your hypo?” And then I took over the depo for half an hour and then sat silent. Then I made her repeat the hypo with all the caveats. Then I said “I wouldn’t want to speculate.”",
+      "summary": "True story, during an expert depo an SEC lawyer asked me a hypothetical. I said “mind if I ask a few questions about your hypo?” And then I took over…",
+      "url": "https://x.com/theblockprof/status/2087713863534039084",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 33,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "4501"
+      }
+    },
+    {
+      "id": "2087706093057098077",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T01:01:34+00:00",
+      "text": "Permissionless, non-KYC trading…in true DeFi? Or are we talking like in a fake crypto TradFi Canton think?",
+      "summary": "Permissionless, non-KYC trading…in true DeFi? Or are we talking like in a fake crypto TradFi Canton think?",
+      "url": "https://x.com/theblockprof/status/2087706093057098077",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "691"
       }
     },
     {
@@ -496,6 +646,31 @@
       }
     },
     {
+      "id": "2087626936646238667",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T19:47:02+00:00",
+      "text": "RT @CoinDesk: LATEST: The SEC is set to unveil an innovation exemption for tokenized stocks as soon as Friday, potentially paving the way for 24/7 on-chain equity trading, per Bloomberg. https://t.co/ymD9gsvEE4",
+      "summary": "RT @CoinDesk: LATEST: The SEC is set to unveil an innovation exemption for tokenized stocks as soon as Friday, potentially paving the way for 24/7…",
+      "url": "https://x.com/HaileyLennonBTC/status/2087626936646238667",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 241,
+        "replies": 0,
+        "quotes": 0,
+        "views": "220"
+      }
+    },
+    {
       "id": "2087626170472771818",
       "is_retweet": true,
       "original_author": "karolineleavitt",
@@ -518,6 +693,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "45002"
+      }
+    },
+    {
+      "id": "2087622424275898749",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T19:29:06+00:00",
+      "text": "WHERE’S ED MARKEY? Today, I participated in a U.S. Senate Candidate forum regarding food insecurity, moderated by the amazing people at Project Bread. @Tache4MA, @sethmoulton, @DeatonforSenate showed up to participate. @SenMarkey was CONFIRMED to participate. In fact, as you can see, his seat was right next to mine. But, only minutes before it started, Markey suddenly cancelled. Considering I was a last minute addition, I think Good-Old-Ed saw the Deaton-Mobile parked outside the front door and decided that he wasn’t going to talk about food insecurity and food stamps 🆚 the Food Stamp Warrior. I can now officially say, Seth Moulton has agreed - if he wins the primary- to at least 3 general election debates. Three major television outlets - with a fourth likely coming - have already asked for Markey, Moulton and myself to commit to their debate request. I have. Seth has. So, I ask once again: WHERES ED MARKEY?",
+      "summary": "WHERE’S ED MARKEY? Today, I participated in a U.S. Senate Candidate forum regarding food insecurity, moderated by the amazing people at Project…",
+      "url": "https://x.com/JohnEDeaton1/status/2087622424275898749",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 96,
+        "retweets": 25,
+        "replies": 11,
+        "quotes": 0,
+        "views": "12883"
       }
     },
     {
@@ -621,6 +821,31 @@
       }
     },
     {
+      "id": "2087604781476929928",
+      "is_retweet": true,
+      "original_author": "guillaumemeyer",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T18:19:00+00:00",
+      "text": "RT @guillaumemeyer: 🧹watermarks-remover now supports watermarks from OpenAI and Gemini in addition to Claude. https://t.co/OxSdnAjEGe",
+      "summary": "RT @guillaumemeyer: 🧹watermarks-remover now supports watermarks from OpenAI and Gemini in addition to Claude. https://t.co/OxSdnAjEGe",
+      "url": "https://x.com/theblockprof/status/2087604781476929928",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1256,
+        "replies": 0,
+        "quotes": 0,
+        "views": "111"
+      }
+    },
+    {
       "id": "2087603881916121478",
       "is_retweet": true,
       "original_author": "RepRWilliams",
@@ -671,6 +896,31 @@
       }
     },
     {
+      "id": "2087598219869995381",
+      "is_retweet": true,
+      "original_author": "NicoPerrino",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T17:52:55+00:00",
+      "text": "RT @NicoPerrino: This is absolutely insane. The free internet is dead if a state court can pull a website offline worldwide simply because the registry for its domain is based in the United States. That puts the world’s access to information at the mercy of state lawmakers and judges—in this case, in Texas. Should Texas get to dictate what content the whole world can access on the open internet? Of course not. And I assume Texans would say the same if Russia, China, or even Australia claimed the same authority.",
+      "summary": "RT @NicoPerrino: This is absolutely insane. The free internet is dead if a state court can pull a website offline worldwide simply because the…",
+      "url": "https://x.com/HaileyLennonBTC/status/2087598219869995381",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 701,
+        "replies": 0,
+        "quotes": 0,
+        "views": "316"
+      }
+    },
+    {
       "id": "2087597207054680452",
       "is_retweet": true,
       "original_author": "0xcyp",
@@ -718,6 +968,31 @@
         "replies": 0,
         "quotes": 0,
         "views": null
+      }
+    },
+    {
+      "id": "2087596224266596586",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T17:45:00+00:00",
+      "text": "The \"crypto contract\" was how Canadian securities regulators claimed jurisdiction over crypto exchanges. It's a unique approach that hasn't been replicated elsewhere. It's also not law, just guidance. Lori Stein, partner at McCarthy Tetrault, explains the concept here. https://t.co/KBOEdBBhqJ",
+      "summary": "The \"crypto contract\" was how Canadian securities regulators claimed jurisdiction over crypto exchanges. It's a unique approach that hasn't been…",
+      "url": "https://x.com/JacobRobinsonJD/status/2087596224266596586",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "574"
       }
     },
     {
@@ -893,6 +1168,31 @@
         "replies": 20,
         "quotes": 1,
         "views": "24234"
+      }
+    },
+    {
+      "id": "2087576782471864586",
+      "is_retweet": true,
+      "original_author": "JohnEDeaton1",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T16:27:44+00:00",
+      "text": "RT @JohnEDeaton1: So says the man who spent over a DECADE compiling one of the most racist voting records in Congress. During the ’70s and ’80s, @EdMarkey backed a Constitutional Amendment to ban busing Black kids into white school districts - the same districts he represented, which were 95-99% white. 🙋‍♂️ QUESTION: How racist do you have to be to want to amend the Constitution just to keep Black kids out of white schools? That’s not all. Markey was a loud defender of Bob Jones University - a school that banned Black students outright in the ’70s, then banned interracial dating and marriage in the ’80s. Fall in love with the wrong person, get expelled. When the IRS moved to strip Bob Jones of its tax-exempt status, Markey voted to protect it. Strange how invested he was in a South Carolina university with zero ties to Massachusetts. 🤔 Then there’s Rachel Rollins. Markey bragged about her endorsement, calling her a symbol of racial justice - skin color over substance. He lobbied hard to get her named U.S. Attorney for Massachusetts. She resigned in disgrace over ethics violations. Funny - no mention of “racial justice” then. As recently as August 2020, Danroy “DJ” Henry Sr. called Markey out on camera: performs one way for the cameras, completely different when they’re off. Henry said Markey was still calling Black people “colored.” Malcolm X warned blacks that white progressives - like Markey - posed a unique danger to Black liberation - because they dress up political self-interest as friendship. That’s exactly the “friendship” Markey offers: pandering to Black voters while claiming to support reparations, after spending years fighting tooth and nail against one of America’s first real acts of reparative justice - school desegregation. He fought to keep Black kids out of white schools. He protected a racist university a thousand miles from home. He used Black leaders as political props - then dropped them the moment it was inconvenient. If Markey wants to talk repair, he can start with his own wallet. After all, after 53 years in office - he’s a multimillionaire - courtesy of the American taxpayer. Until he does - Ed, sit this one out.",
+      "summary": "RT @JohnEDeaton1: So says the man who spent over a DECADE compiling one of the most racist voting records in Congress. During the ’70s and ’80s,…",
+      "url": "https://x.com/JohnEDeaton1/status/2087576782471864586",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 49,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
