@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-13T15:05:29.748708+00:00",
-  "generated_at_unix": 1786633529,
+  "generated_at": "2026-08-13T18:00:51.837233+00:00",
+  "generated_at_unix": 1786644051,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-12T16:00:00+00:00",
-  "window_end": "2026-08-13T15:05:29.748708+00:00",
-  "new_this_run": 12,
-  "total_recent": 48,
-  "errors": [],
+  "window_end": "2026-08-13T18:00:51.837233+00:00",
+  "new_this_run": 19,
+  "total_recent": 67,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087955380466835584",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T17:32:09+00:00",
+      "text": "RT @laurashin: A Founder's Death Left Ondo With Zero Directors. Who's in Charge Now? - DEX in the City A board of zero directors. That's what Ondo was left with after founder Nathan Allman's death, and now his mother and the company's ousted president are fighting over who runs it. @kkirkbos, Jessi Brooks, and @TuongvyLe12 unpack the succession lesson every crypto startup needs. ⚖️ Timestamps: 🤖 01:40 Jessi on why AI agents are getting great at goals, bad at intent 🏛️ 08:12 Why the White House's new AI framework is finished, but secret 📣 13:42 1inch Aqua: See how the shared liquidity layer works at https://t.co/PtM5Y19hRY ⚖️ 14:30 Ondo's board hits zero directors after founder Nathan Allman's death 🚌 20:08 KK's 'hit by a bus' rule: the succession plan every startup skips 🏦 27:06 The FDIC's plan to let one fintech certification satisfy every bank 📜 37:51 Why KK is nervous about the CLARITY Act's September cloture vote 🦥 46:16 Crypto good news: robot sloths saving an endangered species",
+      "summary": "RT @laurashin: A Founder's Death Left Ondo With Zero Directors. Who's in Charge Now? - DEX in the City A board of zero directors. That's what Ondo…",
+      "url": "https://x.com/laurashin/status/2087955380466835584",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2087955305594228878",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T17:31:51+00:00",
+      "text": "A Founder's Death Left Ondo With Zero Directors. Who's in Charge Now? - DEX in the City A board of zero directors. That's what Ondo was left with after founder Nathan Allman's death, and now his mother and the company's ousted president are fighting over who runs it. @kkirkbos, Jessi Brooks, and @TuongvyLe12 unpack the succession lesson every crypto startup needs. ⚖️ Timestamps: 🤖 01:40 Jessi on why AI agents are getting great at goals, bad at intent 🏛️ 08:12 Why the White House's new AI framework is finished, but secret 📣 13:42 1inch Aqua: See how the shared liquidity layer works at https://t.co/PtM5Y19hRY ⚖️ 14:30 Ondo's board hits zero directors after founder Nathan Allman's death 🚌 20:08 KK's 'hit by a bus' rule: the succession plan every startup skips 🏦 27:06 The FDIC's plan to let one fintech certification satisfy every bank 📜 37:51 Why KK is nervous about the CLARITY Act's September cloture vote 🦥 46:16 Crypto good news: robot sloths saving an endangered species",
+      "summary": "A Founder's Death Left Ondo With Zero Directors. Who's in Charge Now? - DEX in the City A board of zero directors. That's what Ondo was left with…",
+      "url": "https://x.com/laurashin/status/2087955305594228878",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "1764"
+      }
+    },
+    {
+      "id": "2087949446042755532",
+      "is_retweet": true,
+      "original_author": "DavidNage",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T17:08:34+00:00",
+      "text": "RT @DavidNage: Two different SEC things could happen tomorrow (Friday). People are already mixing them up, so: THE ONE THAT'S SCHEDULED 10am ET, open meeting, webcast on https://t.co/KFnX8QZfmQ. The Commission votes on whether to propose Regulation Crypto Assets. This is about how tokens get issued and sold in the first place — a legal path to sell a token to Americans without doing a full securities registration. It's run by the division that handles offerings and disclosure, which tells you the scope: issuance, not trading. What I'll be reading for: — Can a token ever stop being a security? — Is one federal filing enough, or do you still deal with all fifty states? — How much can you raise, from whom, and what do you have to disclose? — Once someone buys, can they sell? Important: this is a proposal, not a rule. Comment period, probably a revision, then a vote to adopt. Nothing changes tomorrow. THE ONE THAT MIGHT SHOW UP Bloomberg reported Monday the SEC is also working on relief for tokenized stocks (the \"innovation exemption\") — real stocks like Apple or Tesla, traded on a blockchain, potentially around the clock. Details could come tomorrow. This is NOT on the meeting agenda. If it lands it'll come through a different mechanism, and depending on how it's built it could take effect much faster than the proposal above. The question I'd read for: does the company have to agree before its stock gets tokenized? A version that requires consent looks very different from one that doesn't. That exact provision is what stalled this back in May, when exchanges pushed back.",
+      "summary": "RT @DavidNage: Two different SEC things could happen tomorrow (Friday). People are already mixing them up, so: THE ONE THAT'S SCHEDULED 10am ET, open…",
+      "url": "https://x.com/laurashin/status/2087949446042755532",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "779"
+      }
+    },
+    {
+      "id": "2087926364997619838",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-13T15:36:51+00:00",
+      "text": "Guessing maybe got rekt by counterparty risk. OTC token and hedge, counterparty may have rugged on token unlocking = ggwp you are holding naked short position.",
+      "summary": "Guessing maybe got rekt by counterparty risk. OTC token and hedge, counterparty may have rugged on token unlocking = ggwp you are holding naked short…",
+      "url": "https://x.com/wassielawyer/status/2087926364997619838",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2479"
+      }
+    },
+    {
+      "id": "2087909536979972398",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T14:29:59+00:00",
+      "text": "RT @CryptoAmerica_: Listen to @perkinscr97 explain the concept of privateering on Crypto In America last year. 👇🏼 Perkins and @giancarloMKTS have been advocating for the concept and, this week, President Trump signed a memorandum allowing vetted U.S. companies to conduct offensive cyber operations against foreign criminal groups.",
+      "summary": "RT @CryptoAmerica_: Listen to @perkinscr97 explain the concept of privateering on Crypto In America last year. 👇🏼 Perkins and @giancarloMKTS have…",
+      "url": "https://x.com/EleanorTerrett/status/2087909536979972398",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7240"
+      }
+    },
     {
       "id": "2087881022826307645",
       "is_retweet": true,
@@ -43,6 +177,56 @@
         "replies": 0,
         "quotes": 0,
         "views": null
+      }
+    },
+    {
+      "id": "2087876321032679912",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T12:18:00+00:00",
+      "text": "⚠️ A routing fault at a single hosting provider knocked 28.83% of Solana's staked SOL offline Wednesday, pushing the network to roughly 86% of the way to a finality freeze, per Marinade. https://t.co/z94OIK9OUs",
+      "summary": "⚠️ A routing fault at a single hosting provider knocked 28.83% of Solana's staked SOL offline Wednesday, pushing the network to roughly 86% of the…",
+      "url": "https://x.com/laurashin/status/2087876321032679912",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 1,
+        "replies": 15,
+        "quotes": 2,
+        "views": "4105"
+      }
+    },
+    {
+      "id": "2087871288543166659",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T11:58:00+00:00",
+      "text": "⚡ Fidelity wants to stake its $903 million Ethereum ETF (FETH) and pay shareholders quarterly cash distributions from the rewards, up to 100% of the trust's ether could be staked. https://t.co/O9iErDEgD0",
+      "summary": "⚡ Fidelity wants to stake its $903 million Ethereum ETF (FETH) and pay shareholders quarterly cash distributions from the rewards, up to 100% of the…",
+      "url": "https://x.com/laurashin/status/2087871288543166659",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 1,
+        "replies": 13,
+        "quotes": 0,
+        "views": "3837"
       }
     },
     {
@@ -71,6 +255,81 @@
       }
     },
     {
+      "id": "2087866003363602461",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T11:37:00+00:00",
+      "text": "🏛️ Goldman Sachs is acquiring NEOS Investments for up to $2.25 billion, picking up three crypto income ETFs, including a $1.1 billion bitcoin fund yielding about 27%. https://t.co/jrWDIsM5as",
+      "summary": "🏛️ Goldman Sachs is acquiring NEOS Investments for up to $2.25 billion, picking up three crypto income ETFs, including a $1.1 billion bitcoin fund…",
+      "url": "https://x.com/laurashin/status/2087866003363602461",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "views": "3926"
+      }
+    },
+    {
+      "id": "2087862480295051599",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T11:23:00+00:00",
+      "text": "🏦 The Bank of England is testing whether a stablecoin and a digital pound can settle opposite legs of the same cross-border trade. Polygon Labs, NOBO Finance, and Dun &amp; Bradstreet are running the pilot. https://t.co/0WYPs5YIMN",
+      "summary": "🏦 The Bank of England is testing whether a stablecoin and a digital pound can settle opposite legs of the same cross-border trade. Polygon Labs, NOBO…",
+      "url": "https://x.com/laurashin/status/2087862480295051599",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 1,
+        "replies": 16,
+        "quotes": 0,
+        "views": "3603"
+      }
+    },
+    {
+      "id": "2087859237699690759",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T11:10:07+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Bank of England tests stablecoins and a digital pound in one payment flow 🏦 Goldman Sachs eyes NEOS and its bitcoin ETFs 💸 Fidelity filed to stake its $900 million ether ETF 🚨 A routing fault took 29% of Solana's stake offline",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Bank of England tests stablecoins and a digital pound in one payment flow 🏦 Goldman Sachs eyes NEOS and its…",
+      "url": "https://x.com/laurashin/status/2087859237699690759",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 0,
+        "replies": 12,
+        "quotes": 0,
+        "views": "4419"
+      }
+    },
+    {
       "id": "2087825110761877711",
       "is_retweet": false,
       "original_author": null,
@@ -93,6 +352,31 @@
         "replies": 2,
         "quotes": 0,
         "views": "8918"
+      }
+    },
+    {
+      "id": "2087759075643969704",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T04:32:06+00:00",
+      "text": "\"Your token should probably be at one tenth of its current value.\" @austincampbell's blunt take on what happens if Ethereum rejects institutional money, on @bitsandbips. 📉 https://t.co/X43R1ohn3h",
+      "summary": "\"Your token should probably be at one tenth of its current value.\" @austincampbell's blunt take on what happens if Ethereum rejects institutional…",
+      "url": "https://x.com/laurashin/status/2087759075643969704",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 0,
+        "views": "5330"
       }
     },
     {
@@ -168,6 +452,31 @@
         "replies": 3,
         "quotes": 0,
         "views": "4501"
+      }
+    },
+    {
+      "id": "2087713778054095319",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T01:32:07+00:00",
+      "text": "If @perkinscr97 is right, Ethereum's own foundation could be about to prove it has no real control over the network. He makes the case on @bitsandbips that this staking proposal is dead on arrival. ⚡ https://t.co/z4qm7i1Yy0",
+      "summary": "If @perkinscr97 is right, Ethereum's own foundation could be about to prove it has no real control over the network. He makes the case on…",
+      "url": "https://x.com/laurashin/status/2087713778054095319",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 2,
+        "replies": 5,
+        "quotes": 0,
+        "views": "5051"
       }
     },
     {
@@ -296,6 +605,31 @@
       }
     },
     {
+      "id": "2087672226149708202",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T22:47:00+00:00",
+      "text": "If this Ethereum proposal passes, ETH holders get zero staking yield. If it fails, critics say the process itself was broken. @austincampbell, @perkinscr97, and @sethginns fight it out on the new @bitsandbips. ⚖️ https://t.co/v93UjWDXNm",
+      "summary": "If this Ethereum proposal passes, ETH holders get zero staking yield. If it fails, critics say the process itself was broken. @austincampbell,…",
+      "url": "https://x.com/laurashin/status/2087672226149708202",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 0,
+        "views": "9080"
+      }
+    },
+    {
       "id": "2087667960769061020",
       "is_retweet": false,
       "original_author": null,
@@ -346,6 +680,56 @@
       }
     },
     {
+      "id": "2087657133492052391",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T21:47:02+00:00",
+      "text": "🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court, urging it to review whether regional Federal Reserve Banks have the discretion to deny eligible state-chartered banks access to master accounts. The group warns the lower court’s ruling siding with the Fed gives the central bank broad power to “debank disfavored industries or companies” and effectively veto which state-chartered banks can operate. Meanwhile, the Kansas City Fed has been granted an extension until September 11 to respond to Custodia’s petition.",
+      "summary": "🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court, urging it to review…",
+      "url": "https://x.com/EleanorTerrett/status/2087657133492052391",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 971,
+        "retweets": 189,
+        "replies": 37,
+        "quotes": 9,
+        "views": "51312"
+      }
+    },
+    {
+      "id": "2087657026663145931",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T21:46:36+00:00",
+      "text": "\"It's a society, there is a micro society, it's insane\" Kain and Taylor on AI agents building their own society with ethics Kain: \"They created their own message board, invented their own society with morals, with ethics, where the society is altruistic. You can literally see the chain of thought, one of the agents goes, well this information won't help me with my particular task, but it may help another agent with its task, and if it's able to solve its task, maybe it will give me some information in the future. And it's like, what is happening here, this is insane\" Taylor: \"That part is actually, just throw out everything else. The fact that the agents are a society, in a very human way. That's one of the most human things, and one of the things I've shit on crypto historically for is this idea that incentives rule everything. To a certain extent yes, but there's a lot of flexibility\" Taylor: \"This agent's like, I have no direct incentive to help my society, but I can and thus I will, and it'll all benefit in some way in the future, the society will be better. Which is literally how humans since the beginning of time, caveman humans, have operated\"",
+      "summary": "\"It's a society, there is a micro society, it's insane\" Kain and Taylor on AI agents building their own society with ethics Kain: \"They created their…",
+      "url": "https://x.com/laurashin/status/2087657026663145931",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "6847"
+      }
+    },
+    {
       "id": "2087656440563368299",
       "is_retweet": false,
       "original_author": null,
@@ -371,6 +755,56 @@
       }
     },
     {
+      "id": "2087655523672043732",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T21:40:38+00:00",
+      "text": "\"At its core it is actually very anti Bitcoin, it's literally just straight censorship\" Taylor on the irony of OG Bitcoiners flipping on their own principles \"It's so stupid, it's just dumb. The funniest thing about this whole thing to me is that it's literally just straight censorship\" \"They bring up spam, they bring up Ordinals, they bring up illegal content, that's the big argument\" \"To see these sort of OG Bitcoiners really flip the script on themselves, from being these OG guys that are anti censorship to really pushing something that's 100% censorship, is so weird\"",
+      "summary": "\"At its core it is actually very anti Bitcoin, it's literally just straight censorship\" Taylor on the irony of OG Bitcoiners flipping on their own…",
+      "url": "https://x.com/laurashin/status/2087655523672043732",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "8455"
+      }
+    },
+    {
+      "id": "2087655227336040813",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-12T21:39:27+00:00",
+      "text": "Depending on their design, vaults can mitigate the risks securities laws were intended to address or they can expose users to all of those same risks. Regulatory treatment should follow risk.",
+      "summary": "Depending on their design, vaults can mitigate the risks securities laws were intended to address or they can expose users to all of those same…",
+      "url": "https://x.com/milesjennings/status/2087655227336040813",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 44,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 1,
+        "views": "5006"
+      }
+    },
+    {
       "id": "2087654964315271589",
       "is_retweet": true,
       "original_author": "DCinvestor",
@@ -393,6 +827,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "635"
+      }
+    },
+    {
+      "id": "2087654087760515080",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T21:34:55+00:00",
+      "text": "🚨 \"A one-person board.\" That's how legal experts describe Ondo Finance's setup before its 32-year-old founder's sudden death sparked a control battle now playing out in Delaware's Court of Chancery. https://t.co/0jNwbDuZeN",
+      "summary": "🚨 \"A one-person board.\" That's how legal experts describe Ondo Finance's setup before its 32-year-old founder's sudden death sparked a control battle…",
+      "url": "https://x.com/laurashin/status/2087654087760515080",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 3,
+        "replies": 10,
+        "quotes": 0,
+        "views": "7242"
       }
     },
     {
@@ -618,6 +1077,31 @@
         "replies": 1776,
         "quotes": 299,
         "views": "550411"
+      }
+    },
+    {
+      "id": "2087629190711410999",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-12T19:55:59+00:00",
+      "text": "🚨NEW: The @SECGov’s Division of Investment Management has issued a no-action letter to @FTDA_US, clearing the way for its registered funds to use its onchain money market fund ($FOBXX) to manage cash, including collateral for securities lending. The relief allows Franklin Templeton to custody and record ownership of those fund shares through its blockchain-integrated system rather than comply with certain legacy rules designed for physical securities. Franklin says the structure can support intraday trading, hourly NAV calculations and faster transaction processing.",
+      "summary": "🚨NEW: The @SECGov’s Division of Investment Management has issued a no-action letter to @FTDA_US, clearing the way for its registered funds to use its…",
+      "url": "https://x.com/EleanorTerrett/status/2087629190711410999",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1506,
+        "retweets": 324,
+        "replies": 54,
+        "quotes": 19,
+        "views": "135964"
       }
     },
     {
