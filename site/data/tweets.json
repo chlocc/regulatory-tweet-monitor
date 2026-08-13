@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-13T06:05:39.745318+00:00",
-  "generated_at_unix": 1786601139,
+  "generated_at": "2026-08-13T09:01:28.791844+00:00",
+  "generated_at_unix": 1786611688,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-12T16:00:00+00:00",
-  "window_end": "2026-08-13T06:05:39.745318+00:00",
-  "new_this_run": 13,
-  "total_recent": 16,
+  "window_end": "2026-08-13T09:01:28.791844+00:00",
+  "new_this_run": 11,
+  "total_recent": 27,
   "errors": [
     {
-      "username": "SenRubenGallego",
+      "username": "RoKhanna",
       "error": "The read operation timed out"
     }
   ],
@@ -17,7 +17,7 @@
     "total_accounts": 76,
     "attempted_this_run": 14,
     "successful_this_run": 14,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2087743465195012309",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-13T03:30:05+00:00",
+      "text": "Cybercrime cost Americans nearly $21B last year, up 26% YoY and climbing, with about a third of it involving crypto. Today, President Trump signed an NSPM empowering the private sector to work with the U.S. government to go on offense against the transnational criminal orgs behind these crimes. Letters of marque are in our Constitution, making privateers as American as apple pie. This action, while not crypto-specific, is a major step toward shutting down the scammers who exploit crypto to prey on Americans.",
+      "summary": "Cybercrime cost Americans nearly $21B last year, up 26% YoY and climbing, with about a third of it involving crypto. Today, President Trump signed an…",
+      "url": "https://x.com/patrickjwitt/status/2087743465195012309",
+      "type": "quote",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 157,
+        "retweets": 19,
+        "replies": 14,
+        "quotes": 2,
+        "views": "8784"
+      }
+    },
     {
       "id": "2087705425755918517",
       "is_retweet": true,
@@ -151,6 +176,31 @@
       }
     },
     {
+      "id": "2087661994618892638",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T22:06:21+00:00",
+      "text": "RT @EleanorTerrett: 🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court, urging it to review whether regional Federal Reserve Banks have the discretion to deny eligible state-chartered banks access to master accounts. The group warns the lower court’s ruling siding with the Fed gives the central bank broad power to “debank disfavored industries or companies” and effectively veto which state-chartered banks can operate. Meanwhile, the Kansas City Fed has been granted an extension until September 11 to respond to Custodia’s petition.",
+      "summary": "RT @EleanorTerrett: 🚨NEW: Crypto trade group @BlockchainAssn has filed an amicus brief in support of @custodiabank’s petition to the Supreme Court,…",
+      "url": "https://x.com/BlockchainAssn/status/2087661994618892638",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 146,
+        "replies": 0,
+        "quotes": 0,
+        "views": "372"
+      }
+    },
+    {
       "id": "2087656440563368299",
       "is_retweet": false,
       "original_author": null,
@@ -173,6 +223,56 @@
         "replies": 565,
         "quotes": 45,
         "views": "127289"
+      }
+    },
+    {
+      "id": "2087651849939697881",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-12T21:26:02+00:00",
+      "text": "You’ve been a phenomenal Press Secretary, Karoline. Thank you for your service to the American people, for your commitment to the truth, and for NEVER backing down against the corrupt media! Wishing you and your family all the best in this next chapter.",
+      "summary": "You’ve been a phenomenal Press Secretary, Karoline. Thank you for your service to the American people, for your commitment to the truth, and for…",
+      "url": "https://x.com/GOPMajorityWhip/status/2087651849939697881",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 57,
+        "retweets": 10,
+        "replies": 10,
+        "quotes": 0,
+        "views": "3240"
+      }
+    },
+    {
+      "id": "2087647122544021615",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T21:07:15+00:00",
+      "text": "1/ Today, we filed an amicus brief in support of Custodia Bank's petition before the U.S. Supreme Court. The case raises a fundamental question: do federal regulators have discretion to effectively cut off lawful digital asset businesses with state-approved banking models from the broader banking system? 🧵 Read our brief: https://t.co/plLdo4nlUZ",
+      "summary": "1/ Today, we filed an amicus brief in support of Custodia Bank's petition before the U.S. Supreme Court. The case raises a fundamental question: do…",
+      "url": "https://x.com/BlockchainAssn/status/2087647122544021615",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 27,
+        "retweets": 14,
+        "replies": 3,
+        "quotes": 1,
+        "views": "4505"
       }
     },
     {
@@ -226,6 +326,31 @@
       }
     },
     {
+      "id": "2087635050536030451",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T20:19:17+00:00",
+      "text": "BA is proud to partner with @thestablecon, taking place on Sept. 9-11 in Washington, D.C. Stablecon will convene policy leaders, innovators, founders, investors, and builders from across the digital asset ecosystem. More info and registration: https://t.co/02kNLjXLuB",
+      "summary": "BA is proud to partner with @thestablecon, taking place on Sept. 9-11 in Washington, D.C. Stablecon will convene policy leaders, innovators,…",
+      "url": "https://x.com/BlockchainAssn/status/2087635050536030451",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1245"
+      }
+    },
+    {
       "id": "2087634731517006274",
       "is_retweet": false,
       "original_author": null,
@@ -248,6 +373,31 @@
         "replies": 1776,
         "quotes": 299,
         "views": "550411"
+      }
+    },
+    {
+      "id": "2087627206247825795",
+      "is_retweet": true,
+      "original_author": "w0rldmap",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T19:48:06+00:00",
+      "text": "RT @w0rldmap: holy moly me oh my I love woke and DEI https://t.co/4R7BSAEJkv",
+      "summary": "RT @w0rldmap: holy moly me oh my I love woke and DEI https://t.co/4R7BSAEJkv",
+      "url": "https://x.com/NeerajKA/status/2087627206247825795",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1360,
+        "replies": 0,
+        "quotes": 0,
+        "views": "379"
       }
     },
     {
@@ -276,6 +426,31 @@
       }
     },
     {
+      "id": "2087617914740314321",
+      "is_retweet": true,
+      "original_author": "DanSpuller",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T19:11:11+00:00",
+      "text": "RT @DanSpuller: Great move. My friend @wadepreston has been a strong voice for the crypto industry, and his leadership at @na_blockchain, along w/ @TBC_Jessi, helped bring state and nat’l advocacy into much closer alignment. Our team at @BlockchainAssn looks forward to continuing our work with Wade, @masonlynaugh and the @standwithcrypto community.",
+      "summary": "RT @DanSpuller: Great move. My friend @wadepreston has been a strong voice for the crypto industry, and his leadership at @na_blockchain, along w/…",
+      "url": "https://x.com/standwithcrypto/status/2087617914740314321",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1018"
+      }
+    },
+    {
       "id": "2087605026189447197",
       "is_retweet": false,
       "original_author": null,
@@ -301,6 +476,31 @@
       }
     },
     {
+      "id": "2087604891636097255",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BillHughesDC",
+      "display_name": "Bill Hughes",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T18:19:26+00:00",
+      "text": "In conjunction with one of its non-listed, continuously offered intervalventure funds, @ARKInvest filed an application with the @SEC in May 2026 seeking to expand the classes of issued shares to include a \"tokenized class\" of shares. Ownership of those shares would be recorded onchain and tradeable on one or more SEC-registered ATSs or peer-to-peer among \"whitelisted\" (i.e. AML/KYC-cleared) wallets. The application relies @SECPaulSAtkins' public statements on digital-asset innovation and retail access to private markets. https://t.co/jszIc0ZAVA interesting",
+      "summary": "In conjunction with one of its non-listed, continuously offered intervalventure funds, @ARKInvest filed an application with the @SEC in May 2026…",
+      "url": "https://x.com/BillHughesDC/status/2087604891636097255",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1207"
+      }
+    },
+    {
       "id": "2087603881916121478",
       "is_retweet": true,
       "original_author": "RepRWilliams",
@@ -323,6 +523,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "761"
+      }
+    },
+    {
+      "id": "2087600050008441116",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T18:00:12+00:00",
+      "text": "#ThisWeekInCrypto: Before heading into recess, Senate Majority Leader Thune scheduled a CLARITY Act cloture vote for September. Now we need the votes. August recess is your window. Find your Senator at a town hall. Call their district office. Record a video. Make noise. Start here: https://t.co/lMOlUhN83H",
+      "summary": "#ThisWeekInCrypto: Before heading into recess, Senate Majority Leader Thune scheduled a CLARITY Act cloture vote for September. Now we need the…",
+      "url": "https://x.com/standwithcrypto/status/2087600050008441116",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 67,
+        "retweets": 12,
+        "replies": 3,
+        "quotes": 0,
+        "views": "3301"
       }
     },
     {
@@ -373,6 +598,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "5870"
+      }
+    },
+    {
+      "id": "2087582632871596316",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-12T16:50:59+00:00",
+      "text": "It's amazing what happens when you actually hold criminals accountable and support law enforcement. Thank you, President Trump, for making our country safer!",
+      "summary": "It's amazing what happens when you actually hold criminals accountable and support law enforcement. Thank you, President Trump, for making our…",
+      "url": "https://x.com/GOPMajorityWhip/status/2087582632871596316",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 67,
+        "retweets": 10,
+        "replies": 7,
+        "quotes": 2,
+        "views": "3918"
+      }
+    },
+    {
+      "id": "2087579264925290988",
+      "is_retweet": true,
+      "original_author": "DanSpuller",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-12T16:37:36+00:00",
+      "text": "RT @DanSpuller: The @BlockchainAssn is returning as the Industry Partner for the third consecutive Wyoming Blockchain Symposium. Proud to be there alongside our leading members @KrakenFX + @SkyBridge and many friends helping drive crypto forward. And hats off to our members @Scaramucci and John Darsie, who have helped turn this into one of the year’s best gatherings. Last year, my friend @wyoapollo and I briefed Gov. Mark Gordon on the nat'l policy landscape and the hard-earned national reputation Wyoming has built. If you’ll be there next week, drop me a line.",
+      "summary": "RT @DanSpuller: The @BlockchainAssn is returning as the Industry Partner for the third consecutive Wyoming Blockchain Symposium. Proud to be there…",
+      "url": "https://x.com/BlockchainAssn/status/2087579264925290988",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "575"
       }
     },
     {
