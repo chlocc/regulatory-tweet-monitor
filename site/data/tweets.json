@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-13T09:01:28.791844+00:00",
-  "generated_at_unix": 1786611688,
+  "generated_at": "2026-08-13T12:02:39.897513+00:00",
+  "generated_at_unix": 1786622559,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-12T16:00:00+00:00",
-  "window_end": "2026-08-13T09:01:28.791844+00:00",
-  "new_this_run": 11,
-  "total_recent": 27,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-13T12:02:39.897513+00:00",
+  "new_this_run": 9,
+  "total_recent": 36,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -226,6 +221,31 @@
       }
     },
     {
+      "id": "2087654964315271589",
+      "is_retweet": true,
+      "original_author": "DCinvestor",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T21:38:24+00:00",
+      "text": "RT @DCinvestor: staking yield would ofc go to zero (eventually) it was implemented and there would be a renewed drive to extract MEV like you’ve never seen the network would be close to 100% operated by ETFs, DATs, exchanges, and other institutions oh, and LSTs probably won’t die either because any yield from any vector greater than zero may still be enough to keep operating solo/small stakers ofc wouldn’t exist in an environment like that. if they want to get rid of them, they should just state it plainly as a design goal if these are things that research and core devs actually want but are too afraid to say, then we have a problem. or if these are things they don’t believe can happen because vibes will save us, then we also have a problem and second and third order effects of these things would be much worse",
+      "summary": "RT @DCinvestor: staking yield would ofc go to zero (eventually) it was implemented and there would be a renewed drive to extract MEV like you’ve…",
+      "url": "https://x.com/lex_node/status/2087654964315271589",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "635"
+      }
+    },
+    {
       "id": "2087651849939697881",
       "is_retweet": false,
       "original_author": null,
@@ -301,6 +321,31 @@
       }
     },
     {
+      "id": "2087639095308685646",
+      "is_retweet": true,
+      "original_author": "MarcoWorms",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T20:35:21+00:00",
+      "text": "RT @MarcoWorms: cyberCORP is one of the most interesting real use-case of Ethereum right now if you plan to raise funds and want to be able to collect onchain checks (without going to jail) then use @MetaLeX_Labs proud to know these guys and to work in the same industry as them 🙇",
+      "summary": "RT @MarcoWorms: cyberCORP is one of the most interesting real use-case of Ethereum right now if you plan to raise funds and want to be able to…",
+      "url": "https://x.com/lex_node/status/2087639095308685646",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "667"
+      }
+    },
+    {
       "id": "2087638528255574341",
       "is_retweet": false,
       "original_author": null,
@@ -323,6 +368,56 @@
         "replies": 370,
         "quotes": 14,
         "views": "43114"
+      }
+    },
+    {
+      "id": "2087637015009308907",
+      "is_retweet": true,
+      "original_author": "Etherealize_io",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T20:27:05+00:00",
+      "text": "RT @Etherealize_io: Fidelity filed to stake up to 100% of its $898M ETH fund. The yield is not extracted from @ethereum. It is payment for securing the chain. Nearly 35% of $ETH staked, an ATH, 880,000 validators & 11+ years, no halt. Every new staker raises the cost of attack. That's security that compounds and can't be replicated.",
+      "summary": "RT @Etherealize_io: Fidelity filed to stake up to 100% of its $898M ETH fund. The yield is not extracted from @ethereum. It is payment for securing…",
+      "url": "https://x.com/lex_node/status/2087637015009308907",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 42,
+        "replies": 0,
+        "quotes": 0,
+        "views": "638"
+      }
+    },
+    {
+      "id": "2087635921357144082",
+      "is_retweet": true,
+      "original_author": "polyfactual",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T20:22:44+00:00",
+      "text": "RT @polyfactual: Why have Internet Capital Markets struggled to take off? @lex_node says one of the biggest problems is legal. Metalex and MetaDAO are trying to change that by creating real legal alignment between tokens, companies and equity. With actual legal structures in place, we may see renewed excitement around ICM in the coming weeks.",
+      "summary": "RT @polyfactual: Why have Internet Capital Markets struggled to take off? @lex_node says one of the biggest problems is legal. Metalex and MetaDAO…",
+      "url": "https://x.com/lex_node/status/2087635921357144082",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "626"
       }
     },
     {
@@ -451,6 +546,31 @@
       }
     },
     {
+      "id": "2087614422902587653",
+      "is_retweet": true,
+      "original_author": "alexolaru",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T18:57:19+00:00",
+      "text": "RT @alexolaru: « So attack the architecture where incumbency is weak: new issuers; private markets; companies whose securities have never entered DTC »",
+      "summary": "RT @alexolaru: « So attack the architecture where incumbency is weak: new issuers; private markets; companies whose securities have never entered DTC…",
+      "url": "https://x.com/lex_node/status/2087614422902587653",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "739"
+      }
+    },
+    {
       "id": "2087605026189447197",
       "is_retweet": false,
       "original_author": null,
@@ -551,6 +671,31 @@
       }
     },
     {
+      "id": "2087597207054680452",
+      "is_retweet": true,
+      "original_author": "0xcyp",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T17:48:54+00:00",
+      "text": "RT @0xcyp: it’s only called a Valid Feedback if it comes from the AI-Free Ethmag region of France. otherwise it’s just a sparkling troll comment",
+      "summary": "RT @0xcyp: it’s only called a Valid Feedback if it comes from the AI-Free Ethmag region of France. otherwise it’s just a sparkling troll comment",
+      "url": "https://x.com/lex_node/status/2087597207054680452",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "729"
+      }
+    },
+    {
       "id": "2087596498871550081",
       "is_retweet": true,
       "original_author": "laurashin",
@@ -576,6 +721,56 @@
       }
     },
     {
+      "id": "2087595387196526593",
+      "is_retweet": true,
+      "original_author": "d_gusakov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T17:41:40+00:00",
+      "text": "RT @d_gusakov: Make Ethereum Solana? 😂",
+      "summary": "RT @d_gusakov: Make Ethereum Solana? 😂",
+      "url": "https://x.com/lex_node/status/2087595387196526593",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "710"
+      }
+    },
+    {
+      "id": "2087585881712443891",
+      "is_retweet": true,
+      "original_author": "llamaonthebrink",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T17:03:54+00:00",
+      "text": "RT @llamaonthebrink: I think this industry needs to do everything it can to preserve open source. Open source was the primary reason the industry was able to grow so rapidly in its first decade. New builders avoid building new stuff onchain and just use offchain infra for everything but final settlement because it’s so much easier and faster. Onchain product development is much slower. In the age of vibe-coding, that is viewed as a cardinal sin. Rome was vibe-coded in day, your app has no excuse. Every new feature or product requires triple the work when it’s onchain (code audits, regression testing, data tracking + rendering are all way more complicated when building fully onchain vs offchain). UX of onchain is unavoidably a harder problem to solve, especially for anything user facing. Open source was the great equalizer in all this because it allowed projects to pick up pieces of things that work and iterate on them, without having to build from scratch again. With AI, open source can be turbocharged. But we need orgs to continue shipping open source code. Hyperliquid was only possible because all its foundational components were built from open source code. 90% of DEXs were only possible because Uniswap v2 was open source. Polymarket, was able to start off as a small experiment because Gnosis’s conditional token framework was open source. If we strip open source away from the onchain economy, we limit its potential for explosive growth. Because building onchain is objectively, harder, slower, and at times riskier. Open source is literally a remedy for all three of those things.",
+      "summary": "RT @llamaonthebrink: I think this industry needs to do everything it can to preserve open source. Open source was the primary reason the industry was…",
+      "url": "https://x.com/lex_node/status/2087585881712443891",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "669"
+      }
+    },
+    {
       "id": "2087585466417553679",
       "is_retweet": true,
       "original_author": "CryptoAmerica_",
@@ -598,6 +793,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "5870"
+      }
+    },
+    {
+      "id": "2087582708977238140",
+      "is_retweet": true,
+      "original_author": "SizeChad",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-12T16:51:17+00:00",
+      "text": "RT @SizeChad: Robinhood is the largest enterprise with the Blockchain and they built an L2 on Ethereum",
+      "summary": "RT @SizeChad: Robinhood is the largest enterprise with the Blockchain and they built an L2 on Ethereum",
+      "url": "https://x.com/lex_node/status/2087582708977238140",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "688"
       }
     },
     {
