@@ -1,79 +1,27 @@
 {
-  "generated_at": "2026-08-14T15:07:51.823685+00:00",
-  "generated_at_unix": 1786720071,
+  "generated_at": "2026-08-14T18:00:59.405759+00:00",
+  "generated_at_unix": 1786730459,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-13T16:00:00+00:00",
-  "window_end": "2026-08-14T15:07:51.823685+00:00",
-  "new_this_run": 0,
-  "total_recent": 3,
+  "window_end": "2026-08-14T18:00:59.405759+00:00",
+  "new_this_run": 21,
+  "total_recent": 24,
   "errors": [
     {
-      "username": "SGJohnsson",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     },
     {
-      "username": "KhurramDara",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JohnEDeaton1",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JohnReedStark",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "0xlawyoor",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "kakashiii111",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "NYCStein",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "CryptoLawUS",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "HaileyLennonBTC",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "stephendpalley",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "Drew_Morris",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "theblockprof",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "JacobRobinsonJD",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "lawtoshi",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    },
-    {
-      "username": "prestonjbyrne",
-      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 0,
-    "successful_this_run": 0,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -81,6 +29,531 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088324090453176822",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T17:57:17+00:00",
+      "text": "The instinct says a clear certification standard would help crypto get bank access. @TuongvyLe12 isn't so sure. She argues it could just as easily formalize the debanking crypto has fought for years. 🏦 https://t.co/shiIEGMy9H",
+      "summary": "The instinct says a clear certification standard would help crypto get bank access. @TuongvyLe12 isn't so sure. She argues it could just as easily…",
+      "url": "https://x.com/laurashin/status/2088324090453176822",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "826"
+      }
+    },
+    {
+      "id": "2088300435568472166",
+      "is_retweet": true,
+      "original_author": "IAmNickDodson",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T16:23:17+00:00",
+      "text": "RT @IAmNickDodson: Even North Koreans won't go to EthDenver. Sign of the times. https://t.co/wt7y7N8Lpm",
+      "summary": "RT @IAmNickDodson: Even North Koreans won't go to EthDenver. Sign of the times. https://t.co/wt7y7N8Lpm",
+      "url": "https://x.com/laurashin/status/2088300435568472166",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "935"
+      }
+    },
+    {
+      "id": "2088297961109205018",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T16:13:27+00:00",
+      "text": "This is hilarious. It tells me I only have 12.9k crypto followers 🤔 @laurashin is worth $2.51M Sorsa Score 3,219 — Certified OG priced on who follows you, not how many https://t.co/AxOEPPQp7R",
+      "summary": "This is hilarious. It tells me I only have 12.9k crypto followers 🤔 @laurashin is worth $2.51M Sorsa Score 3,219 — Certified OG priced on who follows…",
+      "url": "https://x.com/laurashin/status/2088297961109205018",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 0,
+        "replies": 20,
+        "quotes": 3,
+        "views": "9412"
+      }
+    },
+    {
+      "id": "2088296264391905495",
+      "is_retweet": true,
+      "original_author": "Reelsio",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T16:06:42+00:00",
+      "text": "RT @Reelsio: How have North Koreans exploited such a massive amount of crypto teams when this is all that was ever required to completely stop it🤣😂",
+      "summary": "RT @Reelsio: How have North Koreans exploited such a massive amount of crypto teams when this is all that was ever required to completely stop it🤣😂",
+      "url": "https://x.com/laurashin/status/2088296264391905495",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "992"
+      }
+    },
+    {
+      "id": "2088291306116358548",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T15:47:00+00:00",
+      "text": "Ondo's founder died with zero directors on the board. Now his mother and the company's ousted president are fighting for control. @kkirkbos walks through the Delaware fight, with @TuongvyLe12 and Jessi Brooks. ⚖️ https://t.co/7ciBf8NRjG",
+      "summary": "Ondo's founder died with zero directors on the board. Now his mother and the company's ousted president are fighting for control. @kkirkbos walks…",
+      "url": "https://x.com/laurashin/status/2088291306116358548",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "2594"
+      }
+    },
+    {
+      "id": "2088251816244810063",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T13:10:05+00:00",
+      "text": "RT @laurashin: 1/ 🕵️ I posed as a recruiter named \"Sophie Wang\" and interviewed a real North Korean state hacker applying for a crypto dev job. He'd already allegedly stolen $2.7M from one project. Here's what happened. https://t.co/aPyvcyO15z",
+      "summary": "RT @laurashin: 1/ 🕵️ I posed as a recruiter named \"Sophie Wang\" and interviewed a real North Korean state hacker applying for a crypto dev job. He'd…",
+      "url": "https://x.com/laurashin/status/2088251816244810063",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088251644869779855",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T13:09:24+00:00",
+      "text": "RT @laurashin: I Interviewed a North Korean Hacker Posing as a Crypto Dev https://t.co/QMbVYmE16e",
+      "summary": "RT @laurashin: I Interviewed a North Korean Hacker Posing as a Crypto Dev https://t.co/QMbVYmE16e",
+      "url": "https://x.com/laurashin/status/2088251644869779855",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088251481740743067",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T13:08:45+00:00",
+      "text": "RT @laurashin: 🔓 Trezor says a breach at fulfillment partner ShipMonk exposed names, phone numbers and home addresses of 13,689 customers. Trezor's own systems and devices were not compromised.",
+      "summary": "RT @laurashin: 🔓 Trezor says a breach at fulfillment partner ShipMonk exposed names, phone numbers and home addresses of 13,689 customers. Trezor's…",
+      "url": "https://x.com/laurashin/status/2088251481740743067",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088251457149481073",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T13:08:39+00:00",
+      "text": "RT @laurashin: 💰 Kalshi is reportedly in advanced talks with Sequoia Capital and Wellington Management for a $750M round at a $40 billion valuation — nearly double its May price tag.",
+      "summary": "RT @laurashin: 💰 Kalshi is reportedly in advanced talks with Sequoia Capital and Wellington Management for a $750M round at a $40 billion valuation —…",
+      "url": "https://x.com/laurashin/status/2088251457149481073",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088251449855590544",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T13:08:38+00:00",
+      "text": "RT @laurashin: ✅ Tether says KPMG just delivered an unqualified opinion, the cleanest verdict possible, on its full 2025 financial statements, an audit promise the company first made in 2017.",
+      "summary": "RT @laurashin: ✅ Tether says KPMG just delivered an unqualified opinion, the cleanest verdict possible, on its full 2025 financial statements, an…",
+      "url": "https://x.com/laurashin/status/2088251449855590544",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088251413717561456",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T13:08:29+00:00",
+      "text": "RT @laurashin: 🚨 BREAKING: The SEC just cancelled Friday's open meeting to propose Regulation Crypto, its first major digital asset rulemaking, less than a day before it was set to begin. No replacement date given.",
+      "summary": "RT @laurashin: 🚨 BREAKING: The SEC just cancelled Friday's open meeting to propose Regulation Crypto, its first major digital asset rulemaking, less…",
+      "url": "https://x.com/laurashin/status/2088251413717561456",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088241981206192333",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T12:31:00+00:00",
+      "text": "🔓 Trezor says a breach at fulfillment partner ShipMonk exposed names, phone numbers and home addresses of 13,689 customers. Trezor's own systems and devices were not compromised.",
+      "summary": "🔓 Trezor says a breach at fulfillment partner ShipMonk exposed names, phone numbers and home addresses of 13,689 customers. Trezor's own systems and…",
+      "url": "https://x.com/laurashin/status/2088241981206192333",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 2,
+        "replies": 10,
+        "quotes": 0,
+        "views": "3860"
+      }
+    },
+    {
+      "id": "2088236948192444596",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T12:11:00+00:00",
+      "text": "💰 Kalshi is reportedly in advanced talks with Sequoia Capital and Wellington Management for a $750M round at a $40 billion valuation — nearly double its May price tag.",
+      "summary": "💰 Kalshi is reportedly in advanced talks with Sequoia Capital and Wellington Management for a $750M round at a $40 billion valuation — nearly double…",
+      "url": "https://x.com/laurashin/status/2088236948192444596",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 38,
+        "retweets": 2,
+        "replies": 17,
+        "quotes": 1,
+        "views": "5358"
+      }
+    },
+    {
+      "id": "2088231914310431152",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T11:51:00+00:00",
+      "text": "✅ Tether says KPMG just delivered an unqualified opinion, the cleanest verdict possible, on its full 2025 financial statements, an audit promise the company first made in 2017.",
+      "summary": "✅ Tether says KPMG just delivered an unqualified opinion, the cleanest verdict possible, on its full 2025 financial statements, an audit promise the…",
+      "url": "https://x.com/laurashin/status/2088231914310431152",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "4125"
+      }
+    },
+    {
+      "id": "2088228847732883613",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T11:38:49+00:00",
+      "text": "RT @laurashin: North Korean hackers have stolen $6B+ in crypto — and they've been getting hired as devs across the industry for years. So I went undercover as a recruiter and interviewed one. There's one question none of them can answer. DON'T MISS IT! Tune in at 4 PM ET 🎧 https://t.co/CEZvnhtIgz",
+      "summary": "RT @laurashin: North Korean hackers have stolen $6B+ in crypto — and they've been getting hired as devs across the industry for years. So I went…",
+      "url": "https://x.com/laurashin/status/2088228847732883613",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088226882143850519",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T11:31:00+00:00",
+      "text": "🚨 BREAKING: The SEC just cancelled Friday's open meeting to propose Regulation Crypto, its first major digital asset rulemaking, less than a day before it was set to begin. No replacement date given.",
+      "summary": "🚨 BREAKING: The SEC just cancelled Friday's open meeting to propose Regulation Crypto, its first major digital asset rulemaking, less than a day…",
+      "url": "https://x.com/laurashin/status/2088226882143850519",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 32,
+        "retweets": 5,
+        "replies": 21,
+        "quotes": 2,
+        "views": "5412"
+      }
+    },
+    {
+      "id": "2088069193895743618",
+      "is_retweet": true,
+      "original_author": "amk_dc",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T01:04:24+00:00",
+      "text": "RT @amk_dc: Important level-set: The Constitution gives Congress alone the power to write laws. Congress, in its wisdom, then delegates authority to agencies like the SEC to write rules that implement those laws. Tomorrow’s open meeting would have been only the first formal step in a proposed rulemaking—not a final rule. That process includes public comment (where members of Congress regularly weigh in) and typically takes months. The Commission can advance rulemaking in different procedural forms—open meetings, seriatim consideration, interim final rules in limited cases, or guidance—but substantive rules still must follow the APA. If CLARITY advanced during that time, the agency would NOT have to start over. It could adjust the proposal through a Supplemental Notice of Proposed Rulemaking (SNPRM) and continue building on the existing work. Even if CLARITY passed tomorrow, the SEC and CFTC would still have to write the implementing rules. That is a months-long process at best. GENIUS was passed a year ago and still has not been fully implemented for the same reason. There is no instantaneous solution. Rules that last and survive judicial review have to follow the APA. We should want them to and this should not be the SEC vs Congress, they work in tandem.",
+      "summary": "RT @amk_dc: Important level-set: The Constitution gives Congress alone the power to write laws. Congress, in its wisdom, then delegates authority to…",
+      "url": "https://x.com/EleanorTerrett/status/2088069193895743618",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9809"
+      }
+    },
+    {
+      "id": "2088018230229274943",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T21:41:54+00:00",
+      "text": "WATCH: A North Korean hacker's response when asked to say something negative about Kim Jong Un: https://t.co/yFOEk4XMtH",
+      "summary": "WATCH: A North Korean hacker's response when asked to say something negative about Kim Jong Un: https://t.co/yFOEk4XMtH",
+      "url": "https://x.com/laurashin/status/2088018230229274943",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2519,
+        "retweets": 125,
+        "replies": 51,
+        "quotes": 32,
+        "views": "486851"
+      }
+    },
+    {
+      "id": "2088014188174315995",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T21:25:50+00:00",
+      "text": "🚨NEW: The @SECGov is cancelling its planned open meeting tomorrow due to a scheduling conflict. Per a spokesperson: “The SEC is committed to delivering on the President’s agenda to bring certainty to the crypto space. Due to an unforeseen scheduling issue, tomorrow’s Open Meeting will be moved to a later date.”",
+      "summary": "🚨NEW: The @SECGov is cancelling its planned open meeting tomorrow due to a scheduling conflict. Per a spokesperson: “The SEC is committed to…",
+      "url": "https://x.com/EleanorTerrett/status/2088014188174315995",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1978,
+        "retweets": 482,
+        "replies": 610,
+        "quotes": 175,
+        "views": "569858"
+      }
+    },
+    {
+      "id": "2088006016940261589",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-13T20:53:22+00:00",
+      "text": "Very based, funny, and ultimately sad The fact that North Korea won’t allow their hackers to say something negative about Kim Jong Un—even as an instrumental lie to steal millions of dollars—is heartbreaking in what it shows about their government",
+      "summary": "Very based, funny, and ultimately sad The fact that North Korea won’t allow their hackers to say something negative about Kim Jong Un—even as an…",
+      "url": "https://x.com/danrobinson/status/2088006016940261589",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 137,
+        "retweets": 5,
+        "replies": 18,
+        "quotes": 2,
+        "views": "30131"
+      }
+    },
+    {
+      "id": "2087971102945325189",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-13T18:34:38+00:00",
+      "text": "🚨Scooplet: The @SECGov’s tokenization innovation exemption has been “further delayed,” with details expected to remain under wraps for the time being, per a source familiar with the matter. Part of the reason, I’m told, could be that the tokenization section of the Clarity Act (Section 10505) has been the subject of much back and forth between stakeholders and anything the SEC might do via an innovation exemption may upset the compromise on that section. It suggests the exemption could remain on hold until there’s more “clarity” on the path forward for the Clarity Act. The SEC is still set to hold its planned open meeting tomorrow at 10AM to propose new rules and exemptions for fundraising transactions involving crypto, aka Regulation Crypto Assets.",
+      "summary": "🚨Scooplet: The @SECGov’s tokenization innovation exemption has been “further delayed,” with details expected to remain under wraps for the time…",
+      "url": "https://x.com/EleanorTerrett/status/2087971102945325189",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1627,
+        "retweets": 262,
+        "replies": 202,
+        "quotes": 62,
+        "views": "152860"
+      }
+    },
     {
       "id": "2087955380466835584",
       "is_retweet": true,
