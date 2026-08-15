@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-08-15T15:00:04.512901+00:00",
-  "generated_at_unix": 1786806004,
+  "generated_at": "2026-08-15T18:01:11.912504+00:00",
+  "generated_at_unix": 1786816871,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-14T16:00:00+00:00",
-  "window_end": "2026-08-15T15:00:04.512901+00:00",
-  "new_this_run": 13,
-  "total_recent": 46,
+  "window_end": "2026-08-15T18:01:11.912504+00:00",
+  "new_this_run": 16,
+  "total_recent": 62,
   "errors": [
     {
-      "username": "JohnReedStark",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +29,131 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088669798674891178",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T16:51:00+00:00",
+      "text": "A pet peeve of mine: when you’re at the baggage claim and people stand right up to the edge of the baggage claim, hogging the space to get the luggage and blocking the view of the suitcases for everyone not right at the edge. Fwiw, I noticed that Americans do this more than other countries 👀 IMO, it’s more polite to stand back a foot or two to keep the view clear and give people space to get their bags 🧳",
+      "summary": "A pet peeve of mine: when you’re at the baggage claim and people stand right up to the edge of the baggage claim, hogging the space to get the…",
+      "url": "https://x.com/laurashin/status/2088669798674891178",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 0,
+        "views": "2460"
+      }
+    },
+    {
+      "id": "2088663109221437815",
+      "is_retweet": true,
+      "original_author": "bitsandbips",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T16:24:25+00:00",
+      "text": "RT @bitsandbips: 🎧 @StocktonKatie on when an oversold Bitcoin chart actually becomes a buy signal: 📉 Stochastics need to clear 20%, decisively ⏳ The signal comes with a built-in lag, by design 🎯 The goal is catching inflection points, not noise Full conversation with @Steven_Ehrlich on @bitsandbips. 🎧",
+      "summary": "RT @bitsandbips: 🎧 @StocktonKatie on when an oversold Bitcoin chart actually becomes a buy signal: 📉 Stochastics need to clear 20%, decisively ⏳ The…",
+      "url": "https://x.com/laurashin/status/2088663109221437815",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1041"
+      }
+    },
+    {
+      "id": "2088656237105992101",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T15:57:06+00:00",
+      "text": "Bitcoin barely moves for weeks, then the charts go quiet before they turn. According to @StocktonKatie, an oversold buy signal fires when the monthly stochastic clears 20%, decisively, and that is the tell she is watching for with @Steven_Ehrlich on @bitsandbips. 📉 https://t.co/sgJ56MHL9Q",
+      "summary": "Bitcoin barely moves for weeks, then the charts go quiet before they turn. According to @StocktonKatie, an oversold buy signal fires when the monthly…",
+      "url": "https://x.com/laurashin/status/2088656237105992101",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 9,
+        "quotes": 0,
+        "views": "2216"
+      }
+    },
+    {
+      "id": "2088650229805658498",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T15:33:14+00:00",
+      "text": "1/ Crypto's loudest growth story and its ugliest chart are the same story. Perps now dominate trading. They also just posted their weakest month since December 2023, while bitcoin's carry trade paid less than a 2-year Treasury for the 165th straight day.",
+      "summary": "1/ Crypto's loudest growth story and its ugliest chart are the same story. Perps now dominate trading. They also just posted their weakest month…",
+      "url": "https://x.com/laurashin/status/2088650229805658498",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "views": "2312"
+      }
+    },
+    {
+      "id": "2088640439112876359",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T14:54:20+00:00",
+      "text": "RT @laurashin: Bitcoin's Charts Signal a 'Major Low', and a Springboard Higher \"The good news is that we may have already seen that major low,\" says @StocktonKatie about Ether's chart, in a wide-ranging technical read on Bitcoin, ETH, Solana, XRP, and Hyperliquid with @Steven_Ehrlich on @bitsandbips. 📈 Timestamps: 📉 02:33 Bitcoin's monthly stochastic just flipped long-term oversold, the signal bulls have been waiting for 🔍 04:22 Fibonacci and the cloud model line up on one thing: a potential major low ⚡ 16:07 Ether's downtrend is cyclical, not the end of the story, and the monthly chart shows why 🔄 21:19 Katie's call: Ether may have already put in its major low 🪙 27:20 The one thing Solana's chart still needs to confirm it's done bottoming 📉 28:54 Ripple is testing support and lagging. Is it setting up or falling behind? 🤖 33:41 Why Hyperliquid is suddenly trading like an AI or semiconductor stock 📊 39:28 BVIV vs. the VIX: what crypto's eerily calm volatility is really signaling 🏦 41:48 Katie's contrarian take: crypto's institutionalization story is overhyped",
+      "summary": "RT @laurashin: Bitcoin's Charts Signal a 'Major Low', and a Springboard Higher \"The good news is that we may have already seen that major low,\" says…",
+      "url": "https://x.com/laurashin/status/2088640439112876359",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
     {
       "id": "2088627786260820041",
       "is_retweet": false,
@@ -76,6 +205,31 @@
       }
     },
     {
+      "id": "2088611085163372930",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T12:57:41+00:00",
+      "text": "📉 Bitcoin's technicals have been flashing long-term oversold for months. According to @StocktonKatie, that is usually step one toward a major low, not a warning sign.",
+      "summary": "📉 Bitcoin's technicals have been flashing long-term oversold for months. According to @StocktonKatie, that is usually step one toward a major low,…",
+      "url": "https://x.com/laurashin/status/2088611085163372930",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 1,
+        "views": "3519"
+      }
+    },
+    {
       "id": "2088609034911756792",
       "is_retweet": true,
       "original_author": "RVanGrack",
@@ -123,6 +277,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "79"
+      }
+    },
+    {
+      "id": "2088597190419554755",
+      "is_retweet": true,
+      "original_author": "thestablecon",
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-15T12:02:29+00:00",
+      "text": "RT @thestablecon: Dante Disparte joins the Stablecon USA lineup. As Chief Strategy Officer and Head of Global Policy and Operations at Circle, @ddisparte oversees global strategy, market expansion, regulatory policy, public affairs, and corporate communications. His work sits at the intersection of strategy, policy, and execution behind the global growth of regulated digital currencies, including USDC and EURC. If you’re building, investing in, or preparing for the next phase of digital money, Dante brings the kind of firsthand insight that can help shape your next move. Stablecon USA 📍 Washington, DC 📅 September 9–11",
+      "summary": "RT @thestablecon: Dante Disparte joins the Stablecon USA lineup. As Chief Strategy Officer and Head of Global Policy and Operations at Circle,…",
+      "url": "https://x.com/ddisparte/status/2088597190419554755",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "139"
       }
     },
     {
@@ -226,6 +405,56 @@
       }
     },
     {
+      "id": "2088455349124890632",
+      "is_retweet": true,
+      "original_author": "abigbluebird",
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T02:38:51+00:00",
+      "text": "RT @abigbluebird: Violence has and will always be the great equalizer in society. The whole premise of law and order lies on the assumption that people have something to live for, which gives weight to consequences. That’s why on the extreme end, suicide bombers are one of the most difficult security threats to deal with. In the case of a wealthy person, money’s good for hiring bodyguards, CCTV but on its own, it’s pretty useless if someone wants his life and is fine with trading his own life for the outcome. End of the day, laws are man-made (French Revolution, start of Han dynasty) and are only effective in keeping order in a large society if there’s a collective buy-in from everyone.",
+      "summary": "RT @abigbluebird: Violence has and will always be the great equalizer in society. The whole premise of law and order lies on the assumption that…",
+      "url": "https://x.com/wassielawyer/status/2088455349124890632",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "517"
+      }
+    },
+    {
+      "id": "2088452395558928498",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T02:27:07+00:00",
+      "text": "\"Do we have a clear succession plan?\" That's the question @kkirkbos says every founder needs to ask before a tragedy forces the answer. 💭 https://t.co/prPzwSeyHs",
+      "summary": "\"Do we have a clear succession plan?\" That's the question @kkirkbos says every founder needs to ask before a tragedy forces the answer. 💭…",
+      "url": "https://x.com/laurashin/status/2088452395558928498",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "6500"
+      }
+    },
+    {
       "id": "2088424778591805597",
       "is_retweet": true,
       "original_author": "z0r0zzz",
@@ -248,6 +477,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "106"
+      }
+    },
+    {
+      "id": "2088422601399935213",
+      "is_retweet": true,
+      "original_author": "NeerajKA",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T00:28:43+00:00",
+      "text": "RT @NeerajKA: Widespread adoption of privacy preserving technology is the only solution",
+      "summary": "RT @NeerajKA: Widespread adoption of privacy preserving technology is the only solution",
+      "url": "https://x.com/laurashin/status/2088422601399935213",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1264"
+      }
+    },
+    {
+      "id": "2088419521845416015",
+      "is_retweet": true,
+      "original_author": "NickPlaysCrypto",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T00:16:29+00:00",
+      "text": "RT @NickPlaysCrypto: Lol",
+      "summary": "RT @NickPlaysCrypto: Lol",
+      "url": "https://x.com/laurashin/status/2088419521845416015",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1328"
       }
     },
     {
@@ -351,6 +630,56 @@
       }
     },
     {
+      "id": "2088407067430142416",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T23:27:00+00:00",
+      "text": "Bitcoin's Charts Signal a 'Major Low', and a Springboard Higher \"The good news is that we may have already seen that major low,\" says @StocktonKatie about Ether's chart, in a wide-ranging technical read on Bitcoin, ETH, Solana, XRP, and Hyperliquid with @Steven_Ehrlich on @bitsandbips. 📈 Timestamps: 📉 02:33 Bitcoin's monthly stochastic just flipped long-term oversold, the signal bulls have been waiting for 🔍 04:22 Fibonacci and the cloud model line up on one thing: a potential major low ⚡ 16:07 Ether's downtrend is cyclical, not the end of the story, and the monthly chart shows why 🔄 21:19 Katie's call: Ether may have already put in its major low 🪙 27:20 The one thing Solana's chart still needs to confirm it's done bottoming 📉 28:54 Ripple is testing support and lagging. Is it setting up or falling behind? 🤖 33:41 Why Hyperliquid is suddenly trading like an AI or semiconductor stock 📊 39:28 BVIV vs. the VIX: what crypto's eerily calm volatility is really signaling 🏦 41:48 Katie's contrarian take: crypto's institutionalization story is overhyped",
+      "summary": "Bitcoin's Charts Signal a 'Major Low', and a Springboard Higher \"The good news is that we may have already seen that major low,\" says @StocktonKatie…",
+      "url": "https://x.com/laurashin/status/2088407067430142416",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 3,
+        "views": "12338"
+      }
+    },
+    {
+      "id": "2088399979144794125",
+      "is_retweet": true,
+      "original_author": "clipsofcrypto",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T22:58:50+00:00",
+      "text": "RT @clipsofcrypto: Scott Melker reacts to Laura Shin asking a North Korean hacker to say something negative about Kim Jong Un \"This has to be one of the crazier things I've seen. Laura Shin, who's amazing, from Unchained, she posed as a recruiter hiring devs to effectively entrap a North Korean hacker\" \"The crypto industry has seen an influx of North Koreans working on behalf of the dictatorship to infiltrate the industry, so the question was, can you say something negative about Kim Jong Un? He disappeared. She messaged him again, he sent back a vague message that was clearly from AI, and then effectively just disappeared\" \"He said he was from Long Beach, the United States, not from North Korea. They traced him back to Vladivostok, Russia, where apparently North Korean hackers are still allowed to operate. These guys have stolen billions and billions of dollars over the last year, and she completely trapped this guy\"",
+      "summary": "RT @clipsofcrypto: Scott Melker reacts to Laura Shin asking a North Korean hacker to say something negative about Kim Jong Un \"This has to be one of…",
+      "url": "https://x.com/laurashin/status/2088399979144794125",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1359"
+      }
+    },
+    {
       "id": "2088387386187116825",
       "is_retweet": false,
       "original_author": null,
@@ -451,6 +780,31 @@
       }
     },
     {
+      "id": "2088379540431130795",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T21:37:37+00:00",
+      "text": "🚨NEW: Adding to Eleanor’s reporting here: SEC Chairman Paul Atkins will also be in attendance at Wednesday’s White House event. Also invited: executives from Kraken, Gemini, the NYSE and NASDAQ.",
+      "summary": "🚨NEW: Adding to Eleanor’s reporting here: SEC Chairman Paul Atkins will also be in attendance at Wednesday’s White House event. Also invited:…",
+      "url": "https://x.com/EleanorTerrett/status/2088379540431130795",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2154,
+        "retweets": 391,
+        "replies": 81,
+        "quotes": 22,
+        "views": "154402"
+      }
+    },
+    {
       "id": "2088365603249672689",
       "is_retweet": false,
       "original_author": null,
@@ -473,6 +827,31 @@
         "replies": 2,
         "quotes": 2,
         "views": "3170"
+      }
+    },
+    {
+      "id": "2088361797061575134",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-14T20:27:06+00:00",
+      "text": "\"If you reward goals, don't be surprised if stuff just gets blown up.\" Jessi Brooks on Goodhart's Law and why AI agents are getting great at winning, not at doing right. 🤖 https://t.co/eLoHY7293B",
+      "summary": "\"If you reward goals, don't be surprised if stuff just gets blown up.\" Jessi Brooks on Goodhart's Law and why AI agents are getting great at winning,…",
+      "url": "https://x.com/laurashin/status/2088361797061575134",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 0,
+        "views": "6808"
       }
     },
     {
@@ -623,6 +1002,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "40483"
+      }
+    },
+    {
+      "id": "2088340189559312537",
+      "is_retweet": true,
+      "original_author": "Crypto_WarRoom",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-14T19:01:15+00:00",
+      "text": "RT @Crypto_WarRoom: .@PatrickMcHenry rips into big banks’ lobbyists trying to kill the Clarity Act: “They are making a last-ditch effort — that’s all the banking industry can do at this point… It’s falling on deaf ears… The banking industry and the banking lobbyists in Washington have not stopped the death of small banks in America... so they’re turning their ire to crypto in order to stay together for the banking associations and their political power.”",
+      "summary": "RT @Crypto_WarRoom: .@PatrickMcHenry rips into big banks’ lobbyists trying to kill the Clarity Act: “They are making a last-ditch effort — that’s all…",
+      "url": "https://x.com/milesjennings/status/2088340189559312537",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 28,
+        "replies": 0,
+        "quotes": 0,
+        "views": "184"
       }
     },
     {
