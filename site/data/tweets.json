@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-15T06:11:59.337963+00:00",
-  "generated_at_unix": 1786774319,
+  "generated_at": "2026-08-15T09:06:32.831420+00:00",
+  "generated_at_unix": 1786784792,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-14T16:00:00+00:00",
-  "window_end": "2026-08-15T06:11:59.337963+00:00",
-  "new_this_run": 9,
-  "total_recent": 13,
+  "window_end": "2026-08-15T09:06:32.831420+00:00",
+  "new_this_run": 4,
+  "total_recent": 17,
   "errors": [
     {
-      "username": "SECGov",
+      "username": "RoKhanna",
       "error": "The read operation timed out"
     },
     {
-      "username": "RepFrenchHill",
+      "username": "jchervinsky",
       "error": "The read operation timed out"
     }
   ],
@@ -21,7 +21,7 @@
     "total_accounts": 76,
     "attempted_this_run": 13,
     "successful_this_run": 13,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +29,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088413141436977465",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T23:51:08+00:00",
+      "text": "After decades of futility I've learned to hedge my @Browns pain by trading against their success. Because I do so through event contracts, the contracts market - not a book betting against me - sets the prices. And I can exit my position at any time I feel orange and brown hope like I can in a traditional financial market. Market structure matters.",
+      "summary": "After decades of futility I've learned to hedge my @Browns pain by trading against their success. Because I do so through event contracts, the…",
+      "url": "https://x.com/iampaulgrewal/status/2088413141436977465",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 27,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 1,
+        "views": "7155"
+      }
+    },
     {
       "id": "2088412529483538759",
       "is_retweet": false,
@@ -102,6 +127,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "35934"
+      }
+    },
+    {
+      "id": "2088365603249672689",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-14T20:42:14+00:00",
+      "text": "1/ BA August Member Spotlight: @GEODNET Over the past year, GEODNET has emerged as the rails for Physical AI, providing the centimeter level positioning that robots, drones, autonomous vehicles, and other intelligent machines rely on to operate in the real world. https://t.co/5p3lwLzlCR",
+      "summary": "1/ BA August Member Spotlight: @GEODNET Over the past year, GEODNET has emerged as the rails for Physical AI, providing the centimeter level…",
+      "url": "https://x.com/BlockchainAssn/status/2088365603249672689",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 6,
+        "replies": 2,
+        "quotes": 2,
+        "views": "3170"
       }
     },
     {
@@ -205,6 +255,31 @@
       }
     },
     {
+      "id": "2088322421916889206",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-14T17:50:39+00:00",
+      "text": "It’s easy to love the idea of watermarking AI text in an effort to fight spam or slop. But the encoding of secret information unknown even to you into your work is concerning. https://t.co/ZJkSnqe3Wc",
+      "summary": "It’s easy to love the idea of watermarking AI text in an effort to fight spam or slop. But the encoding of secret information unknown even to you…",
+      "url": "https://x.com/NeerajKA/status/2088322421916889206",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 1,
+        "views": "4101"
+      }
+    },
+    {
       "id": "2088321528005792014",
       "is_retweet": true,
       "original_author": "SecVetAffairs",
@@ -302,6 +377,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "935"
+      }
+    },
+    {
+      "id": "2088298658403934410",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-14T16:16:13+00:00",
+      "text": "Mandatory AI text watermarks raise serious problems for free speech, privacy, and security. https://t.co/PJD1NnrMK9",
+      "summary": "Mandatory AI text watermarks raise serious problems for free speech, privacy, and security. https://t.co/PJD1NnrMK9",
+      "url": "https://x.com/valkenburgh/status/2088298658403934410",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 10,
+        "replies": 5,
+        "quotes": 1,
+        "views": "3967"
       }
     },
     {
