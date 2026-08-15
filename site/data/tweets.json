@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-15T12:05:09.389460+00:00",
-  "generated_at_unix": 1786795509,
+  "generated_at": "2026-08-15T15:00:04.512901+00:00",
+  "generated_at_unix": 1786806004,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-14T16:00:00+00:00",
-  "window_end": "2026-08-15T12:05:09.389460+00:00",
-  "new_this_run": 16,
-  "total_recent": 33,
-  "errors": [],
+  "window_end": "2026-08-15T15:00:04.512901+00:00",
+  "new_this_run": 13,
+  "total_recent": 46,
+  "errors": [
+    {
+      "username": "JohnReedStark",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 45,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088627786260820041",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T14:04:03+00:00",
+      "text": "The Anti-Prediction Markets people I’ve spoken to all said the same things (and they have a point): 1) prediction markets should exist, but … 2) the big complaint is about marketing (target audience and truthfulness re: counterparty not always being a peer)",
+      "summary": "The Anti-Prediction Markets people I’ve spoken to all said the same things (and they have a point): 1) prediction markets should exist, but … 2) the…",
+      "url": "https://x.com/JacobRobinsonJD/status/2088627786260820041",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "210"
+      }
+    },
+    {
+      "id": "2088621074393047447",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T13:37:23+00:00",
+      "text": "Enjoying the Bolton Fair after a very long day of doing something I guarantee no other person running for statewide office in MA has ever done. A successful campaign comes down to 3 things: 1)💰; 2) message; 3) work ethic. They can out-spend me but they can’t outwork me. https://t.co/Ftfmcjt94P",
+      "summary": "Enjoying the Bolton Fair after a very long day of doing something I guarantee no other person running for statewide office in MA has ever done. A…",
+      "url": "https://x.com/JohnEDeaton1/status/2088621074393047447",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 47,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0,
+        "views": "5931"
+      }
+    },
+    {
+      "id": "2088609034911756792",
+      "is_retweet": true,
+      "original_author": "RVanGrack",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T12:49:33+00:00",
+      "text": "RT @RVanGrack: Citi joins a growing list of major financial firms recognizing the need for regulatory CLARITY (Goldman, Schwab, Fidelity, BlackRock…). The debate isn’t about tradfi vs crypto. It’s about enhanced customer protections &amp; US leadership/innovation vs status quo. Who’s next?",
+      "summary": "RT @RVanGrack: Citi joins a growing list of major financial firms recognizing the need for regulatory CLARITY (Goldman, Schwab, Fidelity,…",
+      "url": "https://x.com/theblockprof/status/2088609034911756792",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "86"
+      }
+    },
+    {
+      "id": "2088608859640226070",
+      "is_retweet": true,
+      "original_author": "CoinbaseDuck",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T12:48:51+00:00",
+      "text": "RT @CoinbaseDuck: @theblockprof 6.5%!",
+      "summary": "RT @CoinbaseDuck: @theblockprof 6.5%!",
+      "url": "https://x.com/theblockprof/status/2088608859640226070",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "79"
+      }
+    },
     {
       "id": "2088587177626149334",
       "is_retweet": true,
@@ -68,6 +173,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "395"
+      }
+    },
+    {
+      "id": "2088583699939864889",
+      "is_retweet": true,
+      "original_author": "AlGeneRobi96834",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T11:08:52+00:00",
+      "text": "RT @AlGeneRobi96834: 🚨 THIS YOUNG MAN IS A HERO. Fourteen-year-old Acie Holland III was riding home from school, looking at his phone, when something felt wrong. The bus had passed his stop. Then it began accelerating. Acie looked toward the front and saw the driver unconscious over the steering wheel. The moving bus, carrying 14 students, was drifting across the centerline toward oncoming traffic. Acie did not scream. He did not freeze. He did not wait for an adult to save them. This eighth grader ran forward, seized the steering wheel, guided the bus back into its lane, moved the driver’s foot from the accelerator and pressed the brake until that enormous bus came safely to the curb. He could not find the parking brake, so he turned the wheels hard toward the curb to prevent the bus from rolling away. That is presence of mind under pressure. Then Acie checked on the younger students, told them to contact their parents, made certain 911 had been called and went to get his grandmother, Phyllis Holland, who is a nurse. The driver regained consciousness and received medical care. Every student made it home safely. Acie had worked on cars with his father and enjoyed go-karting, but nothing could have completely prepared a 14-year-old boy to take control of a moving school bus. Something had already been built inside him: courage, mechanical understanding, responsibility and the instinct to protect others. His classmates gave him a new name: “AC-Hero.” That name fits. While the world spends enormous energy telling us what is wrong with young men, Acie Holland III reminded us what can be right with them. Fourteen students reached home because one young man recognized the danger, stepped forward and acted. May God continue to strengthen this remarkable young man. #AStoneGroove #SilentMajoritySpeaks",
+      "summary": "RT @AlGeneRobi96834: 🚨 THIS YOUNG MAN IS A HERO. Fourteen-year-old Acie Holland III was riding home from school, looking at his phone, when something…",
+      "url": "https://x.com/theblockprof/status/2088583699939864889",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2916,
+        "replies": 0,
+        "quotes": 0,
+        "views": "87"
+      }
+    },
+    {
+      "id": "2088581028554199190",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T10:58:15+00:00",
+      "text": "RT @theblockprof: The biggest lie the Devil ever told was that crypto is the enemy of community banks, when in truth Wall Street banks are their enemy and community bank/stablecoin partnerships can help community banks compete with Wall Street banks. https://t.co/5LsZsy13xZ",
+      "summary": "RT @theblockprof: The biggest lie the Devil ever told was that crypto is the enemy of community banks, when in truth Wall Street banks are their…",
+      "url": "https://x.com/theblockprof/status/2088581028554199190",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088424778591805597",
+      "is_retweet": true,
+      "original_author": "z0r0zzz",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T00:37:22+00:00",
+      "text": "RT @z0r0zzz: today I am releasing the ultimate, and final DEX: zSwap. The first decentralized exchange that runs 100% on the blockchain. As a complete DeFi stack that runs forever.",
+      "summary": "RT @z0r0zzz: today I am releasing the ultimate, and final DEX: zSwap. The first decentralized exchange that runs 100% on the blockchain. As a…",
+      "url": "https://x.com/theblockprof/status/2088424778591805597",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 145,
+        "replies": 0,
+        "quotes": 0,
+        "views": "106"
       }
     },
     {
@@ -168,6 +348,56 @@
         "replies": 588,
         "quotes": 45,
         "views": "117563"
+      }
+    },
+    {
+      "id": "2088387386187116825",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T22:08:47+00:00",
+      "text": "The OCC has approved the national bank charter for Trump-backed crypto company World Liberty Financial I haven’t been surprised by much but this one actually surprised me. I thought there would be too much perceived political conflict of interest for the OCC to approve",
+      "summary": "The OCC has approved the national bank charter for Trump-backed crypto company World Liberty Financial I haven’t been surprised by much but this one…",
+      "url": "https://x.com/HaileyLennonBTC/status/2088387386187116825",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 36,
+        "retweets": 0,
+        "replies": 18,
+        "quotes": 1,
+        "views": "4284"
+      }
+    },
+    {
+      "id": "2088383605001068636",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T21:53:46+00:00",
+      "text": "RT @EleanorTerrett: 🚨NEW: Adding to Eleanor’s reporting here: SEC Chairman Paul Atkins will also be in attendance at Wednesday’s White House event. Also invited: executives from Kraken, Gemini, the NYSE and NASDAQ.",
+      "summary": "RT @EleanorTerrett: 🚨NEW: Adding to Eleanor’s reporting here: SEC Chairman Paul Atkins will also be in attendance at Wednesday’s White House event.…",
+      "url": "https://x.com/HaileyLennonBTC/status/2088383605001068636",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 376,
+        "replies": 0,
+        "quotes": 0,
+        "views": "253"
       }
     },
     {
@@ -296,6 +526,31 @@
       }
     },
     {
+      "id": "2088353410168828032",
+      "is_retweet": true,
+      "original_author": "frankcorva",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T19:53:47+00:00",
+      "text": "RT @frankcorva: NY gubernatorial candidate Bruce Blakeman (@NassauExec), tells @PubKey crowd he’ll end the BitLicense if elected governor and says New York will no longer be the financial capital of the world if it doesn’t embrace Bitcoin and crypto. More in my latest for @ForbesCrypto https://t.co/7ixOGaD1VQ",
+      "summary": "RT @frankcorva: NY gubernatorial candidate Bruce Blakeman (@NassauExec), tells @PubKey crowd he’ll end the BitLicense if elected governor and says…",
+      "url": "https://x.com/HaileyLennonBTC/status/2088353410168828032",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "297"
+      }
+    },
+    {
       "id": "2088351678177136777",
       "is_retweet": false,
       "original_author": null,
@@ -393,6 +648,56 @@
         "replies": 4,
         "quotes": 0,
         "views": "826"
+      }
+    },
+    {
+      "id": "2088323341216010742",
+      "is_retweet": true,
+      "original_author": "banamlas",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:54:18+00:00",
+      "text": "RT @banamlas: @theblockprof Crypto is the way out from suffocating dependency on legacy core banking software vendors.",
+      "summary": "RT @banamlas: @theblockprof Crypto is the way out from suffocating dependency on legacy core banking software vendors.",
+      "url": "https://x.com/theblockprof/status/2088323341216010742",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "101"
+      }
+    },
+    {
+      "id": "2088323275558375632",
+      "is_retweet": true,
+      "original_author": "NeerajKA",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:54:02+00:00",
+      "text": "RT @NeerajKA: It’s easy to love the idea of watermarking AI text in an effort to fight spam or slop. But the encoding of secret information unknown even to you into your work is concerning. https://t.co/ZJkSnqe3Wc",
+      "summary": "RT @NeerajKA: It’s easy to love the idea of watermarking AI text in an effort to fight spam or slop. But the encoding of secret information unknown…",
+      "url": "https://x.com/theblockprof/status/2088323275558375632",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "88"
       }
     },
     {
@@ -793,6 +1098,31 @@
         "replies": 5,
         "quotes": 1,
         "views": "3967"
+      }
+    },
+    {
+      "id": "2088298491093103028",
+      "is_retweet": true,
+      "original_author": "NetChoice",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T16:15:33+00:00",
+      "text": "RT @NetChoice: Instead of delivering the more competitive, consumer-friendly internet Brussels promised, the DMA has made everyday tools slower &amp; less useful, hidden small businesses from the customers who rely on them, delayed major product launches, &amp; introduced new security vulnerabilities. https://t.co/EFszbSL7Br",
+      "summary": "RT @NetChoice: Instead of delivering the more competitive, consumer-friendly internet Brussels promised, the DMA has made everyday tools slower &amp;…",
+      "url": "https://x.com/prestonjbyrne/status/2088298491093103028",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "318"
       }
     },
     {
