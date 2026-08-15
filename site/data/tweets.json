@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-08-15T09:06:32.831420+00:00",
-  "generated_at_unix": 1786784792,
+  "generated_at": "2026-08-15T12:05:09.389460+00:00",
+  "generated_at_unix": 1786795509,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-14T16:00:00+00:00",
-  "window_end": "2026-08-15T09:06:32.831420+00:00",
-  "new_this_run": 4,
-  "total_recent": 17,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "jchervinsky",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-15T12:05:09.389460+00:00",
+  "new_this_run": 16,
+  "total_recent": 33,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088587177626149334",
+      "is_retweet": true,
+      "original_author": "_prestwich",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T11:22:41+00:00",
+      "text": "RT @_prestwich: @lightclients @macrosam remember how we spent years on BLS aggregation stuff to avoid capping the validator set?",
+      "summary": "RT @_prestwich: @lightclients @macrosam remember how we spent years on BLS aggregation stuff to avoid capping the validator set?",
+      "url": "https://x.com/lex_node/status/2088587177626149334",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "465"
+      }
+    },
+    {
+      "id": "2088587128636641355",
+      "is_retweet": true,
+      "original_author": "lightclients",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T11:22:30+00:00",
+      "text": "RT @lightclients: @macrosam they used to want your smart watch to be able to stake. the plan has not \"always\" been to cap the validator set",
+      "summary": "RT @lightclients: @macrosam they used to want your smart watch to be able to stake. the plan has not \"always\" been to cap the validator set",
+      "url": "https://x.com/lex_node/status/2088587128636641355",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "395"
+      }
+    },
+    {
+      "id": "2088414711465365645",
+      "is_retweet": true,
+      "original_author": "UncleRewards",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T23:57:22+00:00",
+      "text": "RT @UncleRewards: Fun fact: 57% of USD is staked in treasuries vs 43% in unstaked money supply Makes you think about the max $ETH stake 🤔",
+      "summary": "RT @UncleRewards: Fun fact: 57% of USD is staked in treasuries vs 43% in unstaked money supply Makes you think about the max $ETH stake 🤔",
+      "url": "https://x.com/lex_node/status/2088414711465365645",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "691"
+      }
+    },
+    {
+      "id": "2088413686343889291",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T23:53:18+00:00",
+      "text": "okay now how do I leverage this onchain to buy more ETH? https://t.co/Axv6WzC3yk",
+      "summary": "okay now how do I leverage this onchain to buy more ETH? https://t.co/Axv6WzC3yk",
+      "url": "https://x.com/lex_node/status/2088413686343889291",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 85,
+        "retweets": 1,
+        "replies": 20,
+        "quotes": 0,
+        "views": "4497"
+      }
+    },
     {
       "id": "2088413141436977465",
       "is_retweet": false,
@@ -180,6 +271,31 @@
       }
     },
     {
+      "id": "2088356297926185021",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T20:05:15+00:00",
+      "text": "RT @banteg: 50% was chosen arbitrarily. this 2021 study argues in a very simple and intuitive way that even far higher total staked would only strictly increase ethereum's economic security. https://t.co/7FyBx8Azg3 https://t.co/X3VRfpsBmj",
+      "summary": "RT @banteg: 50% was chosen arbitrarily. this 2021 study argues in a very simple and intuitive way that even far higher total staked would only…",
+      "url": "https://x.com/lex_node/status/2088356297926185021",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "657"
+      }
+    },
+    {
       "id": "2088351678177136777",
       "is_retweet": false,
       "original_author": null,
@@ -202,6 +318,31 @@
         "replies": 15,
         "quotes": 0,
         "views": "2959"
+      }
+    },
+    {
+      "id": "2088347810043162957",
+      "is_retweet": true,
+      "original_author": "Uniswap",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T19:31:32+00:00",
+      "text": "RT @Uniswap: Uniswap is the venue for tokenized value Next stop: @arc 🦄",
+      "summary": "RT @Uniswap: Uniswap is the venue for tokenized value Next stop: @arc 🦄",
+      "url": "https://x.com/N0th1n3/status/2088347810043162957",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 62,
+        "replies": 0,
+        "quotes": 0,
+        "views": "18"
       }
     },
     {
@@ -305,6 +446,31 @@
       }
     },
     {
+      "id": "2088320803951517721",
+      "is_retweet": true,
+      "original_author": "lienfiapp",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:44:13+00:00",
+      "text": "RT @lienfiapp: The first tokenized Texas redeemable tax deeds are now live on LienFi in private beta. Unlike most tax lien certificates, the redemption value on these assets is fixed rather than accruing over time. Whether the property owner redeems tomorrow or six months from now, the payout is the same. What you see on the page is what you get.",
+      "summary": "RT @lienfiapp: The first tokenized Texas redeemable tax deeds are now live on LienFi in private beta. Unlike most tax lien certificates, the…",
+      "url": "https://x.com/lex_node/status/2088320803951517721",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 45,
+        "replies": 0,
+        "quotes": 0,
+        "views": "706"
+      }
+    },
+    {
       "id": "2088317074527473893",
       "is_retweet": true,
       "original_author": "WHFraudTF",
@@ -327,6 +493,231 @@
         "replies": 0,
         "quotes": 0,
         "views": "8593"
+      }
+    },
+    {
+      "id": "2088316815730500039",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:28:22+00:00",
+      "text": "RT @banteg: pintail, i mostly remember you from your excellent 2019-2022 work, and it's a bit sad to see you resort to fear-based persuasion rhetoric and language. i miss the old pintail who would admit that his modeling is based on assumptions rather than selling one policy intervention that inevitably leads to utopia with no serious trade-offs as \"the battle for ethereum's soul\". nobody has a definite answer and it's not an existential battle.",
+      "summary": "RT @banteg: pintail, i mostly remember you from your excellent 2019-2022 work, and it's a bit sad to see you resort to fear-based persuasion rhetoric…",
+      "url": "https://x.com/lex_node/status/2088316815730500039",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "653"
+      }
+    },
+    {
+      "id": "2088316029130637328",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:25:15+00:00",
+      "text": "RT @banteg: similar to my argument, lido says that eip-8363 claims to improve the composition of the staking set, while controlling staking ratio. but these variables belong on a different axes. moreover, there was a jan 2025 paper that has modeled a pool of 100 validators vs a solo validators as having 12% higher mean return. i modeled that under eip-8363 this gap raises to 18.4% immediately after activation, raising to 19.4% after 18 months. this achieves the opposite of the stated goal, further dwindling the solo staker population.",
+      "summary": "RT @banteg: similar to my argument, lido says that eip-8363 claims to improve the composition of the staking set, while controlling staking ratio.…",
+      "url": "https://x.com/lex_node/status/2088316029130637328",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "659"
+      }
+    },
+    {
+      "id": "2088314480811769919",
+      "is_retweet": true,
+      "original_author": "LidoFinance",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:19:05+00:00",
+      "text": "RT @LidoFinance: A group of Lido contributors have posted their view on EIP-8363, and the broader issuance discussion, on ETH Magicians. https://t.co/3RzhUR6rDm",
+      "summary": "RT @LidoFinance: A group of Lido contributors have posted their view on EIP-8363, and the broader issuance discussion, on ETH Magicians.…",
+      "url": "https://x.com/lex_node/status/2088314480811769919",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": "655"
+      }
+    },
+    {
+      "id": "2088314451124518929",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:18:58+00:00",
+      "text": "RT @banteg: 50% max stake is superstitious at most. it doesn't follow from any analysis or a model, it's just made up. there is no inherent need for a large unstaked eth base.",
+      "summary": "RT @banteg: 50% max stake is superstitious at most. it doesn't follow from any analysis or a model, it's just made up. there is no inherent need for…",
+      "url": "https://x.com/lex_node/status/2088314451124518929",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "590"
+      }
+    },
+    {
+      "id": "2088314003361591503",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T17:17:12+00:00",
+      "text": "RT @lex_node: finally some actual arguments! I previously had to steelman my way into this one (https://t.co/lJ1ZYasTVg), flagging it as the strongest possible argument the tapered-issuance side has. The worry is real in theory: if a huge fraction of ETH ends up staked through a handful of large intermediaries (ETFs, DATs, exchanges), then slashing them starts to look like punishing a big slice of “involuntary” holders, and the social will to enforce the penalty (or to coordinate a rescue fork the other way) could evaporate. At that point the deterrence softens and censorship resistance weakens. Where I diverge is on urgency and side-effects: We’re still only ~34% staked. The scenario that makes social slashing non-credible sits much higher — I’d guess 60-80% before it becomes a real political problem, and even that is speculative. No one really knows at % staked the political argument against social slashing \"tips\" into social slashing being politically unfeasible--and the answer may differ depending on the particular social slashing scenario facts at issue in a given case. Whatever the 'bad level' is, if it's much higher than current, there is good reason to think we may never get there. Chains that offered far higher APRs and carried less real slashing or intermediation risk (Solana is the clearest example) still stabilized well below 70%. Ethereum already has meaningful slashing risk and a much lower base APR even under the current curve. Restaking was once expected to drive significantly higher participation and has not done so. Meanwhile, Ethereum has never executed a social slash, and pretty much no other major chain has either. If maintaining a credible threat of social slashing is the problem this proposal solves, it should be accompanied by a careful examination of when we would actually use it and whether a high overall staking ratio would truly deter it in those scenarios. The closest serious discussion (post-Tornado Cash OFAC sanctions) focused on the relative stake weight of a censoring majority, not the absolute percentage of ETH staked. Vitalik’s “Don’t overload Ethereum’s social consensus” essay (https://t.co/qQtpKnIvre) likewise does not treat total stake percentage as the key variable. People who use staking-as-a-service or delegation already accept that they can be impacted by operator faults. So there is at best speculative and theoretical upside to reducing stake weight in corner-case scenarios that have never happened. Meanwhile, changing the curve now carries much more likely and proximal risks. Most importantly, it risks making the centralization problem worse, not better. Large exchanges can cross-subsidize thin staking margins with other business lines, MEV, bundled products, etc. Pure liquid-staking protocols and solo stakers cannot. The participants most likely to exit first are the more decentralized ones, leaving a higher relative share controlled by the entities that are hardest to slash socially. That moves us toward the bad equilibrium faster, not slower. On top of that, the Ethereum roadmap still has major consensus-role changes coming (attester-includer separation and related work). Whatever issuance policy we land on will probably need to be revisited once those are live (see https://t.co/aGiRYJ6Ll6). Doing a significant monetary-policy intervention now, only to reopen the question a year or two later, feels premature. I’d rather treat high staking ratios as a symptom and attack the actual drivers of intermediation and concentration more directly, instead of using the issuance curve as a blunt preemptive instrument against a future that hasn’t arrived yet. Proposals more specifically aimed at social-slashing robustness, reducing intermediation, or supporting solo staking would make more sense — the stake ratio is at most a symptom of some of these issues, and simply disincentivizing staking in general will not solve them and is not even guaranteed to mitigate them. Happy to be wrong if the data starts showing the credibility of penalties actually eroding. Right now I just don’t see the urgency that justifies the downside risk to solo and decentralized stakers, or the disruption to the consistency and economic properties that institutions and DeFi builders currently rely on.",
+      "summary": "RT @lex_node: finally some actual arguments! I previously had to steelman my way into this one (https://t.co/lJ1ZYasTVg), flagging it as the…",
+      "url": "https://x.com/lex_node/status/2088314003361591503",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088306628676219225",
+      "is_retweet": true,
+      "original_author": "Alexintosh",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T16:47:53+00:00",
+      "text": "RT @Alexintosh: @trent_vanepps So the argument is: at high staking rates we cannot slash them because DATs and ETFs aggregate a lot of \"involuntary stakers\" trying to not be diluted. Is that it? Because there is nothing technically stopping the option to slash them either way.",
+      "summary": "RT @Alexintosh: @trent_vanepps So the argument is: at high staking rates we cannot slash them because DATs and ETFs aggregate a lot of \"involuntary…",
+      "url": "https://x.com/lex_node/status/2088306628676219225",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "692"
+      }
+    },
+    {
+      "id": "2088306567431000074",
+      "is_retweet": true,
+      "original_author": "donnoh_eth",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T16:47:39+00:00",
+      "text": "RT @donnoh_eth: @trent_vanepps honestly i don’t buy this argument. if a validator needs to be slashed i’d do it regardless of the amount of stake it has. delegating stake has obvious risks. i wouldn’t feel bad at all if those that delegated would lose the money…",
+      "summary": "RT @donnoh_eth: @trent_vanepps honestly i don’t buy this argument. if a validator needs to be slashed i’d do it regardless of the amount of stake it…",
+      "url": "https://x.com/lex_node/status/2088306567431000074",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "652"
+      }
+    },
+    {
+      "id": "2088306455925444666",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T16:47:12+00:00",
+      "text": "RT @banteg: staked percentage and concentration lie on different axes. you can have less total staked with higher institutional concentration, which is the likely outcome of the proposed regime. social slashing has never been an unstaked eth holder referendum, neither it was a staked eth vote. so the requirement for a large unstaked eth base is superstitious at most. ejecting a bad actor requires a massively wide coordination, and ultimately it's the users of the chain who decide which fork is valuable.",
+      "summary": "RT @banteg: staked percentage and concentration lie on different axes. you can have less total staked with higher institutional concentration, which…",
+      "url": "https://x.com/lex_node/status/2088306455925444666",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "619"
+      }
+    },
+    {
+      "id": "2088305062628004192",
+      "is_retweet": true,
+      "original_author": "matty_",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-14T16:41:40+00:00",
+      "text": "RT @matty_: Founders want control over their secondary market. LPs want proof they're not being scammed. GPs want to offer secondaries without burning the company. Programmable equity gives all three at once. In this video: what programmable SPVs are, how they work, and what they fix. Covered: - Why private markets are the perfect conditions for fraud: no disclosures, no standard docs, verification so expensive deals die - How a seller programmatically proves their exposure while the rest of the cap table stays private - What a company-sanctioned secondary looks like vs. a trade the company can void after the fact - The three checks to keep running today while the market catches up If you're building in this space or investing through SPVs and want to go deeper, my DMs are open.",
+      "summary": "RT @matty_: Founders want control over their secondary market. LPs want proof they're not being scammed. GPs want to offer secondaries without…",
+      "url": "https://x.com/lex_node/status/2088305062628004192",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "772"
       }
     },
     {
