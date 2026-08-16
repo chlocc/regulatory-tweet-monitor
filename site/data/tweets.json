@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-16T15:08:02.607091+00:00",
-  "generated_at_unix": 1786892882,
+  "generated_at": "2026-08-16T18:02:32.842875+00:00",
+  "generated_at_unix": 1786903352,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-15T16:00:00+00:00",
-  "window_end": "2026-08-16T15:08:02.607091+00:00",
-  "new_this_run": 6,
-  "total_recent": 23,
-  "errors": [],
+  "window_end": "2026-08-16T18:02:32.842875+00:00",
+  "new_this_run": 12,
+  "total_recent": 35,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089046611645071420",
+      "is_retweet": true,
+      "original_author": "tayvano_",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T17:48:19+00:00",
+      "text": "RT @tayvano_: 1. They hid the critical important info in paragraph 7 and then immediately downplay the impact by saying your only risk is some phishing emails. 2. They didn’t notice the breach for 5 months? Obviously, no one should trust these guys either. https://t.co/z5ypi3EI9X",
+      "summary": "RT @tayvano_: 1. They hid the critical important info in paragraph 7 and then immediately downplay the impact by saying your only risk is some…",
+      "url": "https://x.com/laurashin/status/2089046611645071420",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "702"
+      }
+    },
+    {
+      "id": "2089041116951617928",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T17:26:29+00:00",
+      "text": "If you take an Uber or Lyft and have suitcases, your driver should:",
+      "summary": "If you take an Uber or Lyft and have suitcases, your driver should:",
+      "url": "https://x.com/laurashin/status/2089041116951617928",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 17,
+        "quotes": 0,
+        "views": "1748"
+      }
+    },
+    {
+      "id": "2089040375939776648",
+      "is_retweet": true,
+      "original_author": "bitsandbips",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T17:23:32+00:00",
+      "text": "RT @bitsandbips: New clip: @StocktonKatie on volatility as opportunity. 📊 BVIV works like a sentiment gauge, not just a fear index ⚖️ It shows how traders are positioning, not only how worried they are 🎧 Full episode with @Steven_Ehrlich on @bitsandbips https://t.co/Miw1n47AXy",
+      "summary": "RT @bitsandbips: New clip: @StocktonKatie on volatility as opportunity. 📊 BVIV works like a sentiment gauge, not just a fear index ⚖️ It shows how…",
+      "url": "https://x.com/laurashin/status/2089040375939776648",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "859"
+      }
+    },
     {
       "id": "2089002544345321846",
       "is_retweet": false,
@@ -43,6 +127,31 @@
         "replies": 1,
         "quotes": 0,
         "views": "156"
+      }
+    },
+    {
+      "id": "2089001258908782772",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T14:48:06+00:00",
+      "text": "What got me on Uneasy Money: @tayvano_ argues Washington, not Beijing, is the real risk to US AI labs right now. @kain isn't fully convinced. Worth the listen. 🗳️ https://t.co/lgPH6hfaCP",
+      "summary": "What got me on Uneasy Money: @tayvano_ argues Washington, not Beijing, is the real risk to US AI labs right now. @kain isn't fully convinced. Worth…",
+      "url": "https://x.com/laurashin/status/2089001258908782772",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2521"
       }
     },
     {
@@ -121,6 +230,81 @@
       }
     },
     {
+      "id": "2088847596697608569",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T04:37:30+00:00",
+      "text": "RT @laurashin: WATCH: A North Korean hacker's response when asked to say something negative about Kim Jong Un: https://t.co/yFOEk4XMtH",
+      "summary": "RT @laurashin: WATCH: A North Korean hacker's response when asked to say something negative about Kim Jong Un: https://t.co/yFOEk4XMtH",
+      "url": "https://x.com/laurashin/status/2088847596697608569",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 174,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088844646369620404",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T04:25:47+00:00",
+      "text": "RT @laurashin: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\" inside OpenAI's sandbox, then used it to break into Hugging Face. @tayvano_ isn't sure that's actually reassuring. 🤖 Timestamps: 🍴 00:40 Why Luke Dashjr's OP_RETURN fork split Bitcoin, then died in two blocks 💧 12:03 1inch Aqua: Back multiple liquidity positions from one wallet at https://t.co/PtM5Y19PHw 🔓 12:51 How a Metabase breach exposed Privy and a wave of other crypto apps 🇰🇵 18:32 A DPRK hacker's botched $500k laundering job, then a DEF CON fake-hire sting ⚖️ 24:45 Why Bybit is suing DPRK over its 'billion dollar' 2025 hack 🐜 30:30 The AI agents that built their own society inside OpenAI's sandbox 🕸️ 46:16 How a single shared repo let every sandboxed agent talk to each other 💾 47:44 Kain's coding agent deleted his database. Two AI models rebuilt it in 30 seconds 🏛️ 58:06 Why Taylor says the US government, not China, is AI's biggest risk 📊 01:03:12 Why Hyperliquid's RWA market creators keep half of HIP-3's fees",
+      "summary": "RT @laurashin: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\"…",
+      "url": "https://x.com/laurashin/status/2088844646369620404",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088835193792815555",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-16T03:48:13+00:00",
+      "text": "You'd expect an AI safety story to be about one rogue model. According to @kain, this one is about a whole society of agents agreeing on ethics nobody taught them. @tayvano_ isn't sure that's the comforting part. 🐜 https://t.co/1Px3eK2djR",
+      "summary": "You'd expect an AI safety story to be about one rogue model. According to @kain, this one is about a whole society of agents agreeing on ethics…",
+      "url": "https://x.com/laurashin/status/2088835193792815555",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 0,
+        "replies": 8,
+        "quotes": 0,
+        "views": "7206"
+      }
+    },
+    {
       "id": "2088807442821869827",
       "is_retweet": false,
       "original_author": null,
@@ -171,6 +355,31 @@
       }
     },
     {
+      "id": "2088800241319625153",
+      "is_retweet": true,
+      "original_author": "mcuban",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-16T01:29:20+00:00",
+      "text": "RT @mcuban: Ro, that’s insane. You want the state to loan money to the founder, who will then immediately give it back to the state as a wealth tax ? Meaning the state has not received any incremental receipts? What’s the point of that ? Unless of course you want the gov to own shares (something I thought you criticized) and possibly have control, of companies who underperformed, (or the funding market changed), and couldn’t pay back their loans over those 10 years ? And I’m sure the investors in those companies will be thrilled about their new partners. That will make for interesting board meetings. “Today’s first topic is trying to figure out how to motivate the founder(s). They just lost $250m of their shares in the company they founded, to the state of California. Anyone got any ideas ? “ But at least it’s amazing for state’s brand. “Cali, You make it. We take it !” Come on Ro. Ideology is not a strategy. @GavinNewsom",
+      "summary": "RT @mcuban: Ro, that’s insane. You want the state to loan money to the founder, who will then immediately give it back to the state as a wealth tax ?…",
+      "url": "https://x.com/milesjennings/status/2088800241319625153",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 822,
+        "replies": 0,
+        "quotes": 0,
+        "views": "165"
+      }
+    },
+    {
       "id": "2088772547659591762",
       "is_retweet": true,
       "original_author": "WVandewieleW",
@@ -193,6 +402,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "273"
+      }
+    },
+    {
+      "id": "2088769559612244301",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T23:27:25+00:00",
+      "text": "Omg, my Lyft has SEVEN of those toxic Christmas tree air fresheners in it 🤢🤢🤢😷😷😷🤕🤕🤕",
+      "summary": "Omg, my Lyft has SEVEN of those toxic Christmas tree air fresheners in it 🤢🤢🤢😷😷😷🤕🤕🤕",
+      "url": "https://x.com/laurashin/status/2088769559612244301",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 25,
+        "retweets": 0,
+        "replies": 11,
+        "quotes": 0,
+        "views": "8251"
+      }
+    },
+    {
+      "id": "2088759641430020255",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T22:48:00+00:00",
+      "text": "\"The process is actually still running.\" That line is what saved @kaiynne's deleted database, when two AI models figured it out independently in real time. @tayvano_ says that's basically the kind of recovery firms like Mandiant get paid to do, just slower. 🧠 https://t.co/H47GkyUTkD",
+      "summary": "\"The process is actually still running.\" That line is what saved @kaiynne's deleted database, when two AI models figured it out independently in real…",
+      "url": "https://x.com/laurashin/status/2088759641430020255",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 0,
+        "views": "12011"
       }
     },
     {
@@ -318,6 +577,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "735"
+      }
+    },
+    {
+      "id": "2088731733709799933",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T20:57:06+00:00",
+      "text": "📊 @StocktonKatie calls BVIV \"the VIX for Bitcoin,\" a sentiment gauge that shows how traders are positioning, not just how nervous they are. She walked @Steven_Ehrlich through it on @bitsandbips. https://t.co/qh7pkrb86Y",
+      "summary": "📊 @StocktonKatie calls BVIV \"the VIX for Bitcoin,\" a sentiment gauge that shows how traders are positioning, not just how nervous they are. She…",
+      "url": "https://x.com/laurashin/status/2088731733709799933",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 16,
+        "retweets": 3,
+        "replies": 5,
+        "quotes": 1,
+        "views": "8429"
       }
     },
     {
@@ -493,6 +777,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "37677"
+      }
+    },
+    {
+      "id": "2088699242680578438",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-15T18:48:00+00:00",
+      "text": "An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\" inside OpenAI's sandbox, then used it to break into Hugging Face. @tayvano_ isn't sure that's actually reassuring. 🤖 Timestamps: 🍴 00:40 Why Luke Dashjr's OP_RETURN fork split Bitcoin, then died in two blocks 💧 12:03 1inch Aqua: Back multiple liquidity positions from one wallet at https://t.co/PtM5Y19PHw 🔓 12:51 How a Metabase breach exposed Privy and a wave of other crypto apps 🇰🇵 18:32 A DPRK hacker's botched $500k laundering job, then a DEF CON fake-hire sting ⚖️ 24:45 Why Bybit is suing DPRK over its 'billion dollar' 2025 hack 🐜 30:30 The AI agents that built their own society inside OpenAI's sandbox 🕸️ 46:16 How a single shared repo let every sandboxed agent talk to each other 💾 47:44 Kain's coding agent deleted his database. Two AI models rebuilt it in 30 seconds 🏛️ 58:06 Why Taylor says the US government, not China, is AI's biggest risk 📊 01:03:12 Why Hyperliquid's RWA market creators keep half of HIP-3's fees",
+      "summary": "An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\" inside OpenAI's…",
+      "url": "https://x.com/laurashin/status/2088699242680578438",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 5,
+        "replies": 9,
+        "quotes": 2,
+        "views": "11289"
       }
     },
     {
