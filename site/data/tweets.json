@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-16T06:09:30.190090+00:00",
-  "generated_at_unix": 1786860570,
+  "generated_at": "2026-08-16T09:07:09.665832+00:00",
+  "generated_at_unix": 1786871229,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-15T16:00:00+00:00",
-  "window_end": "2026-08-16T06:09:30.190090+00:00",
-  "new_this_run": 6,
-  "total_recent": 8,
-  "errors": [],
+  "window_end": "2026-08-16T09:07:09.665832+00:00",
+  "new_this_run": 2,
+  "total_recent": 10,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "LindaJeng1",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088772547659591762",
+      "is_retweet": true,
+      "original_author": "WVandewieleW",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-15T23:39:17+00:00",
+      "text": "RT @WVandewieleW: interesting 1st amendment perpective from @valkenburgh “The developer must write software they’d otherwise not, and the user’s words must carry the software’s secret message without their knowledge. We should be wary of that conscription and its effect on privacy and liberty”",
+      "summary": "RT @WVandewieleW: interesting 1st amendment perpective from @valkenburgh “The developer must write software they’d otherwise not, and the user’s…",
+      "url": "https://x.com/valkenburgh/status/2088772547659591762",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "273"
+      }
+    },
+    {
+      "id": "2088757487264481438",
+      "is_retweet": true,
+      "original_author": "CoinMarketCap",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T22:39:26+00:00",
+      "text": "RT @CoinMarketCap: LATEST: 🇺🇸 Franklin Templeton's Chris Perkins says crypto will be \"just fine\" even if the CLARITY Act doesn't pass, thanks to the next three years of SEC and CFTC precedent under Atkins and Selig. https://t.co/EEubnrfyq1",
+      "summary": "RT @CoinMarketCap: LATEST: 🇺🇸 Franklin Templeton's Chris Perkins says crypto will be \"just fine\" even if the CLARITY Act doesn't pass, thanks to the…",
+      "url": "https://x.com/jchervinsky/status/2088757487264481438",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 195,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1146"
+      }
+    },
     {
       "id": "2088727146290122758",
       "is_retweet": true,
