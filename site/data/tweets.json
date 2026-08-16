@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-08-16T09:07:09.665832+00:00",
-  "generated_at_unix": 1786871229,
+  "generated_at": "2026-08-16T12:06:02.554225+00:00",
+  "generated_at_unix": 1786881962,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-15T16:00:00+00:00",
-  "window_end": "2026-08-16T09:07:09.665832+00:00",
-  "new_this_run": 2,
-  "total_recent": 10,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "LindaJeng1",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-16T12:06:02.554225+00:00",
+  "new_this_run": 7,
+  "total_recent": 17,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2088926202786349475",
+      "is_retweet": true,
+      "original_author": "chang_defi",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T09:49:51+00:00",
+      "text": "RT @chang_defi: it used to be that L1s were charity for devs but now all it really takes for a chain to succeed is to give up all of its token supply to devs no one wants to admit this b/c builders and users will win and VCs lose",
+      "summary": "RT @chang_defi: it used to be that L1s were charity for devs but now all it really takes for a chain to succeed is to give up all of its token supply…",
+      "url": "https://x.com/lex_node/status/2088926202786349475",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "558"
+      }
+    },
+    {
+      "id": "2088880423522664541",
+      "is_retweet": true,
+      "original_author": "kassandraETH",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T06:47:57+00:00",
+      "text": "RT @kassandraETH: &gt; FOCIL is already set as a headliner for Hegotá. I think Frame Transactions (EIP-8141) should join it. Together with Keyed Nonces (EIP-8250) and Root References (EIP-8272), they unlock native privacy, allowing privacy apps to work without having to rely on intermediaries. YES!",
+      "summary": "RT @kassandraETH: &gt; FOCIL is already set as a headliner for Hegotá. I think Frame Transactions (EIP-8141) should join it. Together with Keyed…",
+      "url": "https://x.com/lex_node/status/2088880423522664541",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "655"
+      }
+    },
     {
       "id": "2088772547659591762",
       "is_retweet": true,
@@ -77,6 +118,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "1146"
+      }
+    },
+    {
+      "id": "2088747334049886524",
+      "is_retweet": true,
+      "original_author": "fomocapdao",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T21:59:06+00:00",
+      "text": "RT @fomocapdao: we don’t need to onboard “retail”. financially broken. unmotivated. not tech savvy. crypto’s real direction isn’t mass adoption theater. it’s collapsing every middleman until only the chain remains. self-hosting intermediaries. no apps. no dapps. no VC layers. no gatekeepers perched on top of the blockchain fleecing users. that’s the stronger path.",
+      "summary": "RT @fomocapdao: we don’t need to onboard “retail”. financially broken. unmotivated. not tech savvy. crypto’s real direction isn’t mass adoption…",
+      "url": "https://x.com/lex_node/status/2088747334049886524",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "648"
+      }
+    },
+    {
+      "id": "2088747198255169841",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T21:58:33+00:00",
+      "text": "I used to be a huge skeptic of Ethereum's 'rough social consensus' governance model. I'd cite 'The Tyranny of Structurelessness' etc. But when a potential major insider-driven mistake like EIP 8363 come along you realize the benefits. No coin-voting DAO can get that level & quality of participation from extrinsic parties. And as for normal companies, well their debates on such issues are usually completely closed and they can fall into various forms of corporate psychosis.",
+      "summary": "I used to be a huge skeptic of Ethereum's 'rough social consensus' governance model. I'd cite 'The Tyranny of Structurelessness' etc. But when a…",
+      "url": "https://x.com/lex_node/status/2088747198255169841",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 100,
+        "retweets": 7,
+        "replies": 15,
+        "quotes": 0,
+        "views": "5417"
+      }
+    },
+    {
+      "id": "2088742009372598576",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T21:37:56+00:00",
+      "text": "RT @lex_node: yeah, again, it seems the problem for which this EIP is a solution is very much in the eye of the beholder some seem focused on 'intermediation' others on 'credibility of social slashing' still others on improving ETH's monetary properties/competing with BTC it's not a very good solution to any of those problems, I suggest just focusing on these individual \"problems\" and creating bespoke solutions for them",
+      "summary": "RT @lex_node: yeah, again, it seems the problem for which this EIP is a solution is very much in the eye of the beholder some seem focused on…",
+      "url": "https://x.com/lex_node/status/2088742009372598576",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2088737919435485619",
+      "is_retweet": true,
+      "original_author": "donnoh_eth",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T21:21:41+00:00",
+      "text": "RT @donnoh_eth: > The larger portion of ETH is staked, and the tighter staked ETH is integrated into DeFi, the more credibility of slashing is at risk. this is largely a made up issue. staking has risks and we should never pretend otherwise, especially with delegated staking. if some defi protocol mostly relies on delegated stake and that stake gets slashed then it’s on them 🤷‍♂️",
+      "summary": "RT @donnoh_eth: > The larger portion of ETH is staked, and the tighter staked ETH is integrated into DeFi, the more credibility of slashing is at…",
+      "url": "https://x.com/lex_node/status/2088737919435485619",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "735"
       }
     },
     {
@@ -227,6 +368,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "37677"
+      }
+    },
+    {
+      "id": "2088677137133793747",
+      "is_retweet": true,
+      "original_author": "Justin_Bons",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-15T17:20:09+00:00",
+      "text": "RT @Justin_Bons: Canton reports $326 BILLION in RWA TVL: Independent aggregators can locate approximately none of it. Somewhere between the press release &amp; the block explorer, three hundred billion dollars entered witness protection!",
+      "summary": "RT @Justin_Bons: Canton reports $326 BILLION in RWA TVL: Independent aggregators can locate approximately none of it. Somewhere between the press…",
+      "url": "https://x.com/lex_node/status/2088677137133793747",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "725"
       }
     },
     {
