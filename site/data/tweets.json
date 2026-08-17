@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-08-16T18:02:32.842875+00:00",
-  "generated_at_unix": 1786903352,
+  "generated_at": "2026-08-17T06:02:41.662656+00:00",
+  "generated_at_unix": 1786946561,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-08-15T16:00:00+00:00",
-  "window_end": "2026-08-16T18:02:32.842875+00:00",
-  "new_this_run": 12,
-  "total_recent": 35,
-  "errors": [
-    {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    },
-    {
-      "username": "RegulatoryJason",
-      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    }
-  ],
+  "window_start": "2026-08-16T16:00:00+00:00",
+  "window_end": "2026-08-17T06:02:41.662656+00:00",
+  "new_this_run": 5,
+  "total_recent": 8,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 75,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089145408173822287",
+      "is_retweet": true,
+      "original_author": "SecretaryBurgum",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-17T00:20:54+00:00",
+      "text": "RT @SecretaryBurgum: Enforcing the law WORKS. https://t.co/Nc2pykCilj",
+      "summary": "RT @SecretaryBurgum: Enforcing the law WORKS. https://t.co/Nc2pykCilj",
+      "url": "https://x.com/WhiteHouse/status/2089145408173822287",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 120,
+        "replies": 0,
+        "quotes": 0,
+        "views": "40828"
+      }
+    },
+    {
+      "id": "2089145383335153950",
+      "is_retweet": true,
+      "original_author": "SecDuffy",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-17T00:20:48+00:00",
+      "text": "RT @SecDuffy: 🚨🚨WATCH TO GET PUMPED FOR RACE WEEK 🚨🚨 The Freedom 250 Grand Prix is HERE. It's never been done, and it's a once-in-a-lifetime event you can't miss 🏎️ 250 LAPS 💨 200+ MPH 🦅 100% PURE FREEDOM Can't wait to see all you PATRIOTS there 🇺🇸 @Freedom250 @Interior @IndyCar @Freedom250GP",
+      "summary": "RT @SecDuffy: 🚨🚨WATCH TO GET PUMPED FOR RACE WEEK 🚨🚨 The Freedom 250 Grand Prix is HERE. It's never been done, and it's a once-in-a-lifetime event…",
+      "url": "https://x.com/WhiteHouse/status/2089145383335153950",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 240,
+        "replies": 0,
+        "quotes": 0,
+        "views": "35112"
+      }
+    },
+    {
+      "id": "2089080307773272243",
+      "is_retweet": true,
+      "original_author": "SecDuffy",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-16T20:02:13+00:00",
+      "text": "RT @SecDuffy: 💵 $5 BILLION INVESTMENT IN THE GOLDEN AGE OF RAIL Under @POTUS’ leadership, we are putting money where it matters, and delivering results for the American people. Bye, bye boondoggle projects! Hello, big, beautiful infrastructure 👋 https://t.co/pOuVdPapMs",
+      "summary": "RT @SecDuffy: 💵 $5 BILLION INVESTMENT IN THE GOLDEN AGE OF RAIL Under @POTUS’ leadership, we are putting money where it matters, and delivering…",
+      "url": "https://x.com/WhiteHouse/status/2089080307773272243",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 688,
+        "replies": 0,
+        "quotes": 0,
+        "views": "40712"
+      }
+    },
+    {
+      "id": "2089080276022337955",
+      "is_retweet": true,
+      "original_author": "FBIDirectorKash",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-16T20:02:05+00:00",
+      "text": "RT @FBIDirectorKash: This FBI is taking the fight to fentanyl at EVERY level — from Chinese precursors, to the cartels, to the dealers, to the dirty money financing it all. 🇺🇸 3,200+ kg of fentanyl seized 🇺🇸 247+ MILLION potentially lethal doses 🇺🇸 Nearly 10% more seized than the final 18 months of the Biden administration 🇺🇸 $200+ MILLION in assets confiscated 🇺🇸 Thousands arrested 🇺🇸 Thousands of weapons seized 🇺🇸 59 Homeland Security Task Forces with 9,000+ personnel We’re not just taking fentanyl off the streets — we’re dismantling the entire network from top to bottom. These historic results are made possible through the leadership and direction of @POTUS , who has made it clear: put the American people FIRST. -DKP🇺🇸",
+      "summary": "RT @FBIDirectorKash: This FBI is taking the fight to fentanyl at EVERY level — from Chinese precursors, to the cartels, to the dealers, to the dirty…",
+      "url": "https://x.com/WhiteHouse/status/2089080276022337955",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1461,
+        "replies": 0,
+        "quotes": 0,
+        "views": "37915"
+      }
+    },
     {
       "id": "2089046611645071420",
       "is_retweet": true,
@@ -105,41 +196,16 @@
       }
     },
     {
-      "id": "2089002544345321846",
+      "id": "2089030676406509929",
       "is_retweet": false,
       "original_author": null,
-      "username": "JacobRobinsonJD",
-      "display_name": "Jacob Robinson",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-16T14:53:13+00:00",
-      "text": "Canada’s brain drain is brutal. I can count 15 founders I know personally who left. (per @UWaterloo researchers, it’s specifically the top percentile of students that leave). No one is asking me for a solution, to be clear, but I have one suggestion. The simple, obvious, Canada-must-change this immediately: uncompetitive marginal tax rates. Many Canadians don’t realize that Canada asks high earners and founders to pay top marginal rates at much lower income levels than even the highest-tax U.S. jurisdictions like NYC or California. The top marginal tax rates in Canada are above 50% in Ontario (53.5%), Quebec (53.3%), and BC (53.5%), with Alberta slightly below (48%). Meanwhile, even in the highest tax jurisdictions of California and NYC, the top marginal tax rate sits lower at 50.3%, and 52%, respectively. But it gets worse. Much worse. These high marginal rates in the U.S. hit at commensurately high levels of income ($25M in NYC, $1M in Cali). Canada’s highest marginal rate? That started at the highest federal income threshold of $218K for the 2025 tax year. $218K!!!??? (In CAD too. Thats about $157K in USD). That means the marginal tax rate for similarly-earning Americans in the highest-tax jurisdictions like California and NYC is actually around 45%. So Canadians pay significantly higher tax rates at lower levels of income. And it’s not close, even when compared to the highest-tax U.S. jurisdictions (which themselves are losing hundreds of thousands of builders). It’s obviously more nuanced than just tax, but this is one way to start solving this problem. Let the brightest, hardest-working and highest-earning Canadians keep more of what they earn. Cc @lucyhargreaves4",
-      "summary": "Canada’s brain drain is brutal. I can count 15 founders I know personally who left. (per @UWaterloo researchers, it’s specifically the top percentile…",
-      "url": "https://x.com/JacobRobinsonJD/status/2089002544345321846",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 1,
-        "quotes": 0,
-        "views": "156"
-      }
-    },
-    {
-      "id": "2089001258908782772",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-16T14:48:06+00:00",
-      "text": "What got me on Uneasy Money: @tayvano_ argues Washington, not Beijing, is the real risk to US AI labs right now. @kain isn't fully convinced. Worth the listen. 🗳️ https://t.co/lgPH6hfaCP",
-      "summary": "What got me on Uneasy Money: @tayvano_ argues Washington, not Beijing, is the real risk to US AI labs right now. @kain isn't fully convinced. Worth…",
-      "url": "https://x.com/laurashin/status/2089001258908782772",
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-16T16:45:00+00:00",
+      "text": "Was so much fun to be back in Douglas yesterday for the State Fair parade. Seeing so many friends and familiar faces, and feeling that great hometown spirit, never gets old. This parade is a celebration of the community and heritage that makes Wyoming so wonderful. https://t.co/uz0V5yI56a",
+      "summary": "Was so much fun to be back in Douglas yesterday for the State Fair parade. Seeing so many friends and familiar faces, and feeling that great hometown…",
+      "url": "https://x.com/SenLummis/status/2089030676406509929",
       "type": "original",
       "categories": [
         "other"
@@ -147,761 +213,11 @@
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 3,
-        "retweets": 0,
-        "replies": 5,
-        "quotes": 0,
-        "views": "2521"
-      }
-    },
-    {
-      "id": "2088978656076951970",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JacobRobinsonJD",
-      "display_name": "Jacob Robinson",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-16T13:18:17+00:00",
-      "text": "What really impresses me about @z0r0zzz is that he sees where the risks of capture are (like a lawyer) and builds relentlessly to eliminate them. So many solutions in this thread that are obvious once you dig in. We need more builders like Ross.",
-      "summary": "What really impresses me about @z0r0zzz is that he sees where the risks of capture are (like a lawyer) and builds relentlessly to eliminate them. So…",
-      "url": "https://x.com/JacobRobinsonJD/status/2088978656076951970",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 28,
-        "retweets": 1,
-        "replies": 1,
+        "likes": 608,
+        "retweets": 53,
+        "replies": 43,
         "quotes": 1,
-        "views": "2468"
-      }
-    },
-    {
-      "id": "2088926202786349475",
-      "is_retweet": true,
-      "original_author": "chang_defi",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-16T09:49:51+00:00",
-      "text": "RT @chang_defi: it used to be that L1s were charity for devs but now all it really takes for a chain to succeed is to give up all of its token supply to devs no one wants to admit this b/c builders and users will win and VCs lose",
-      "summary": "RT @chang_defi: it used to be that L1s were charity for devs but now all it really takes for a chain to succeed is to give up all of its token supply…",
-      "url": "https://x.com/lex_node/status/2088926202786349475",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "558"
-      }
-    },
-    {
-      "id": "2088880423522664541",
-      "is_retweet": true,
-      "original_author": "kassandraETH",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-16T06:47:57+00:00",
-      "text": "RT @kassandraETH: &gt; FOCIL is already set as a headliner for Hegotá. I think Frame Transactions (EIP-8141) should join it. Together with Keyed Nonces (EIP-8250) and Root References (EIP-8272), they unlock native privacy, allowing privacy apps to work without having to rely on intermediaries. YES!",
-      "summary": "RT @kassandraETH: &gt; FOCIL is already set as a headliner for Hegotá. I think Frame Transactions (EIP-8141) should join it. Together with Keyed…",
-      "url": "https://x.com/lex_node/status/2088880423522664541",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 5,
-        "replies": 0,
-        "quotes": 0,
-        "views": "655"
-      }
-    },
-    {
-      "id": "2088847596697608569",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-16T04:37:30+00:00",
-      "text": "RT @laurashin: WATCH: A North Korean hacker's response when asked to say something negative about Kim Jong Un: https://t.co/yFOEk4XMtH",
-      "summary": "RT @laurashin: WATCH: A North Korean hacker's response when asked to say something negative about Kim Jong Un: https://t.co/yFOEk4XMtH",
-      "url": "https://x.com/laurashin/status/2088847596697608569",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 174,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2088844646369620404",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-16T04:25:47+00:00",
-      "text": "RT @laurashin: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\" inside OpenAI's sandbox, then used it to break into Hugging Face. @tayvano_ isn't sure that's actually reassuring. 🤖 Timestamps: 🍴 00:40 Why Luke Dashjr's OP_RETURN fork split Bitcoin, then died in two blocks 💧 12:03 1inch Aqua: Back multiple liquidity positions from one wallet at https://t.co/PtM5Y19PHw 🔓 12:51 How a Metabase breach exposed Privy and a wave of other crypto apps 🇰🇵 18:32 A DPRK hacker's botched $500k laundering job, then a DEF CON fake-hire sting ⚖️ 24:45 Why Bybit is suing DPRK over its 'billion dollar' 2025 hack 🐜 30:30 The AI agents that built their own society inside OpenAI's sandbox 🕸️ 46:16 How a single shared repo let every sandboxed agent talk to each other 💾 47:44 Kain's coding agent deleted his database. Two AI models rebuilt it in 30 seconds 🏛️ 58:06 Why Taylor says the US government, not China, is AI's biggest risk 📊 01:03:12 Why Hyperliquid's RWA market creators keep half of HIP-3's fees",
-      "summary": "RT @laurashin: An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\"…",
-      "url": "https://x.com/laurashin/status/2088844646369620404",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 5,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2088835193792815555",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-16T03:48:13+00:00",
-      "text": "You'd expect an AI safety story to be about one rogue model. According to @kain, this one is about a whole society of agents agreeing on ethics nobody taught them. @tayvano_ isn't sure that's the comforting part. 🐜 https://t.co/1Px3eK2djR",
-      "summary": "You'd expect an AI safety story to be about one rogue model. According to @kain, this one is about a whole society of agents agreeing on ethics…",
-      "url": "https://x.com/laurashin/status/2088835193792815555",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 8,
-        "quotes": 0,
-        "views": "7206"
-      }
-    },
-    {
-      "id": "2088807442821869827",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-16T01:57:57+00:00",
-      "text": "It’s not John Dutton from Yellowstone, and I’m certainly no Rip, but I’ll outride @sethmoulton & @EdMarkey anytime. It was great being in Lowell at a community gathering where local leaders provide food, music, and free backpacks for kids headed back to school. I used to be one of those kids hoping to receive a free backpack filled with school supplies and I’ll never forget where I come from.",
-      "summary": "It’s not John Dutton from Yellowstone, and I’m certainly no Rip, but I’ll outride @sethmoulton & @EdMarkey anytime. It was great being in Lowell at a…",
-      "url": "https://x.com/JohnEDeaton1/status/2088807442821869827",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 86,
-        "retweets": 9,
-        "replies": 8,
-        "quotes": 0,
-        "views": "10361"
-      }
-    },
-    {
-      "id": "2088806513670246404",
-      "is_retweet": true,
-      "original_author": "MDBitcoin",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-16T01:54:15+00:00",
-      "text": "RT @MDBitcoin: My biggest lesson from Bitcoin is that it changes you so deeply that your life can be divided into pre-Bitcoin and post-Bitcoin.",
-      "summary": "RT @MDBitcoin: My biggest lesson from Bitcoin is that it changes you so deeply that your life can be divided into pre-Bitcoin and post-Bitcoin.",
-      "url": "https://x.com/HaileyLennonBTC/status/2088806513670246404",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 27,
-        "replies": 0,
-        "quotes": 0,
-        "views": "300"
-      }
-    },
-    {
-      "id": "2088800241319625153",
-      "is_retweet": true,
-      "original_author": "mcuban",
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-08-16T01:29:20+00:00",
-      "text": "RT @mcuban: Ro, that’s insane. You want the state to loan money to the founder, who will then immediately give it back to the state as a wealth tax ? Meaning the state has not received any incremental receipts? What’s the point of that ? Unless of course you want the gov to own shares (something I thought you criticized) and possibly have control, of companies who underperformed, (or the funding market changed), and couldn’t pay back their loans over those 10 years ? And I’m sure the investors in those companies will be thrilled about their new partners. That will make for interesting board meetings. “Today’s first topic is trying to figure out how to motivate the founder(s). They just lost $250m of their shares in the company they founded, to the state of California. Anyone got any ideas ? “ But at least it’s amazing for state’s brand. “Cali, You make it. We take it !” Come on Ro. Ideology is not a strategy. @GavinNewsom",
-      "summary": "RT @mcuban: Ro, that’s insane. You want the state to loan money to the founder, who will then immediately give it back to the state as a wealth tax ?…",
-      "url": "https://x.com/milesjennings/status/2088800241319625153",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 822,
-        "replies": 0,
-        "quotes": 0,
-        "views": "165"
-      }
-    },
-    {
-      "id": "2088772547659591762",
-      "is_retweet": true,
-      "original_author": "WVandewieleW",
-      "username": "valkenburgh",
-      "display_name": "Peter Van Valkenburgh",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-15T23:39:17+00:00",
-      "text": "RT @WVandewieleW: interesting 1st amendment perpective from @valkenburgh “The developer must write software they’d otherwise not, and the user’s words must carry the software’s secret message without their knowledge. We should be wary of that conscription and its effect on privacy and liberty”",
-      "summary": "RT @WVandewieleW: interesting 1st amendment perpective from @valkenburgh “The developer must write software they’d otherwise not, and the user’s…",
-      "url": "https://x.com/valkenburgh/status/2088772547659591762",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "273"
-      }
-    },
-    {
-      "id": "2088769559612244301",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-15T23:27:25+00:00",
-      "text": "Omg, my Lyft has SEVEN of those toxic Christmas tree air fresheners in it 🤢🤢🤢😷😷😷🤕🤕🤕",
-      "summary": "Omg, my Lyft has SEVEN of those toxic Christmas tree air fresheners in it 🤢🤢🤢😷😷😷🤕🤕🤕",
-      "url": "https://x.com/laurashin/status/2088769559612244301",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 25,
-        "retweets": 0,
-        "replies": 11,
-        "quotes": 0,
-        "views": "8251"
-      }
-    },
-    {
-      "id": "2088759641430020255",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-15T22:48:00+00:00",
-      "text": "\"The process is actually still running.\" That line is what saved @kaiynne's deleted database, when two AI models figured it out independently in real time. @tayvano_ says that's basically the kind of recovery firms like Mandiant get paid to do, just slower. 🧠 https://t.co/H47GkyUTkD",
-      "summary": "\"The process is actually still running.\" That line is what saved @kaiynne's deleted database, when two AI models figured it out independently in real…",
-      "url": "https://x.com/laurashin/status/2088759641430020255",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 15,
-        "retweets": 0,
-        "replies": 10,
-        "quotes": 0,
-        "views": "12011"
-      }
-    },
-    {
-      "id": "2088757487264481438",
-      "is_retweet": true,
-      "original_author": "CoinMarketCap",
-      "username": "jchervinsky",
-      "display_name": "Jake Chervinsky",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T22:39:26+00:00",
-      "text": "RT @CoinMarketCap: LATEST: 🇺🇸 Franklin Templeton's Chris Perkins says crypto will be \"just fine\" even if the CLARITY Act doesn't pass, thanks to the next three years of SEC and CFTC precedent under Atkins and Selig. https://t.co/EEubnrfyq1",
-      "summary": "RT @CoinMarketCap: LATEST: 🇺🇸 Franklin Templeton's Chris Perkins says crypto will be \"just fine\" even if the CLARITY Act doesn't pass, thanks to the…",
-      "url": "https://x.com/jchervinsky/status/2088757487264481438",
-      "type": "retweet",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 195,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1146"
-      }
-    },
-    {
-      "id": "2088747334049886524",
-      "is_retweet": true,
-      "original_author": "fomocapdao",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T21:59:06+00:00",
-      "text": "RT @fomocapdao: we don’t need to onboard “retail”. financially broken. unmotivated. not tech savvy. crypto’s real direction isn’t mass adoption theater. it’s collapsing every middleman until only the chain remains. self-hosting intermediaries. no apps. no dapps. no VC layers. no gatekeepers perched on top of the blockchain fleecing users. that’s the stronger path.",
-      "summary": "RT @fomocapdao: we don’t need to onboard “retail”. financially broken. unmotivated. not tech savvy. crypto’s real direction isn’t mass adoption…",
-      "url": "https://x.com/lex_node/status/2088747334049886524",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 3,
-        "replies": 0,
-        "quotes": 0,
-        "views": "648"
-      }
-    },
-    {
-      "id": "2088747198255169841",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T21:58:33+00:00",
-      "text": "I used to be a huge skeptic of Ethereum's 'rough social consensus' governance model. I'd cite 'The Tyranny of Structurelessness' etc. But when a potential major insider-driven mistake like EIP 8363 come along you realize the benefits. No coin-voting DAO can get that level & quality of participation from extrinsic parties. And as for normal companies, well their debates on such issues are usually completely closed and they can fall into various forms of corporate psychosis.",
-      "summary": "I used to be a huge skeptic of Ethereum's 'rough social consensus' governance model. I'd cite 'The Tyranny of Structurelessness' etc. But when a…",
-      "url": "https://x.com/lex_node/status/2088747198255169841",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 100,
-        "retweets": 7,
-        "replies": 15,
-        "quotes": 0,
-        "views": "5417"
-      }
-    },
-    {
-      "id": "2088742009372598576",
-      "is_retweet": true,
-      "original_author": "lex_node",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T21:37:56+00:00",
-      "text": "RT @lex_node: yeah, again, it seems the problem for which this EIP is a solution is very much in the eye of the beholder some seem focused on 'intermediation' others on 'credibility of social slashing' still others on improving ETH's monetary properties/competing with BTC it's not a very good solution to any of those problems, I suggest just focusing on these individual \"problems\" and creating bespoke solutions for them",
-      "summary": "RT @lex_node: yeah, again, it seems the problem for which this EIP is a solution is very much in the eye of the beholder some seem focused on…",
-      "url": "https://x.com/lex_node/status/2088742009372598576",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2088737919435485619",
-      "is_retweet": true,
-      "original_author": "donnoh_eth",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T21:21:41+00:00",
-      "text": "RT @donnoh_eth: > The larger portion of ETH is staked, and the tighter staked ETH is integrated into DeFi, the more credibility of slashing is at risk. this is largely a made up issue. staking has risks and we should never pretend otherwise, especially with delegated staking. if some defi protocol mostly relies on delegated stake and that stake gets slashed then it’s on them 🤷‍♂️",
-      "summary": "RT @donnoh_eth: > The larger portion of ETH is staked, and the tighter staked ETH is integrated into DeFi, the more credibility of slashing is at…",
-      "url": "https://x.com/lex_node/status/2088737919435485619",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 3,
-        "replies": 0,
-        "quotes": 0,
-        "views": "735"
-      }
-    },
-    {
-      "id": "2088731733709799933",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-15T20:57:06+00:00",
-      "text": "📊 @StocktonKatie calls BVIV \"the VIX for Bitcoin,\" a sentiment gauge that shows how traders are positioning, not just how nervous they are. She walked @Steven_Ehrlich through it on @bitsandbips. https://t.co/qh7pkrb86Y",
-      "summary": "📊 @StocktonKatie calls BVIV \"the VIX for Bitcoin,\" a sentiment gauge that shows how traders are positioning, not just how nervous they are. She…",
-      "url": "https://x.com/laurashin/status/2088731733709799933",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 16,
-        "retweets": 3,
-        "replies": 5,
-        "quotes": 1,
-        "views": "8429"
-      }
-    },
-    {
-      "id": "2088728606688035158",
-      "is_retweet": true,
-      "original_author": "lukemulks",
-      "username": "prestonjbyrne",
-      "display_name": "Preston Byrne",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T20:44:41+00:00",
-      "text": "RT @lukemulks: Absolutely 🧡🦁 the new tab promo for the @Brave Technologist episode 131 where @prestonjbyrne joins me to discuss free speech, censorship and how there are times when thug life hamster memes are the most appropriate proportional response to regulatory overreach. Tune into episode 131: https://t.co/VsSthysoJP",
-      "summary": "RT @lukemulks: Absolutely 🧡🦁 the new tab promo for the @Brave Technologist episode 131 where @prestonjbyrne joins me to discuss free speech,…",
-      "url": "https://x.com/prestonjbyrne/status/2088728606688035158",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "quotes": 0,
-        "views": "331"
-      }
-    },
-    {
-      "id": "2088727146290122758",
-      "is_retweet": true,
-      "original_author": "SecKennedy",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-15T20:38:53+00:00",
-      "text": "RT @SecKennedy: Last month, I recognized the exceptional public servants at @HHSGov receiving the Secretary’s Extraordinary Service Awards. These men and women—career staff and political appointees alike—serve the American people with discipline, integrity, and a deep sense of duty. Together, we are transforming HHS, advancing President Trump’s vision for a healthier nation, and delivering on our promise to Make America Healthy Again. We have important work ahead—and we’re just getting started.",
-      "summary": "RT @SecKennedy: Last month, I recognized the exceptional public servants at @HHSGov receiving the Secretary’s Extraordinary Service Awards. These men…",
-      "url": "https://x.com/WhiteHouse/status/2088727146290122758",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 329,
-        "replies": 0,
-        "quotes": 0,
-        "views": "43296"
-      }
-    },
-    {
-      "id": "2088727123137540270",
-      "is_retweet": true,
-      "original_author": "SBAgov",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-15T20:38:47+00:00",
-      "text": "RT @SBAgov: Small business optimism just reached its highest level in nearly a year – as more small businesses say they plan to hire in the months ahead. The Main Street comeback is underway! https://t.co/2fjeb6idLa https://t.co/KJXghz8cwh",
-      "summary": "RT @SBAgov: Small business optimism just reached its highest level in nearly a year – as more small businesses say they plan to hire in the months…",
-      "url": "https://x.com/WhiteHouse/status/2088727123137540270",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 95,
-        "replies": 0,
-        "quotes": 0,
-        "views": "39571"
-      }
-    },
-    {
-      "id": "2088727103805993363",
-      "is_retweet": true,
-      "original_author": "SecRollins",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-15T20:38:42+00:00",
-      "text": "RT @SecRollins: Wildfire response starts long before a fire begins. In Boise, Idaho, @SecretaryBurgum and I met with the men and women on the front lines to discuss how we strengthen prevention, improve forest health, reduce hazardous fuels, strategically stage aviation assets, and ensure our firefighters have the resources they need. As part of that effort, USDA and DOI are accelerating and improving fire prevention techniques to make our forests safer and less susceptible to uncontrolled wildfires through mechanical thinning, prescribed fire, and active forest management. These proactive steps support the more than 30,000 federal firefighters, 400+ aircraft, and all our state and local partners working to protect communities across the country. Under @POTUS, @USDA, @Interior, and @forestservice are working together to keep communities safe, protect our firefighters, and put fires out quickly. God bless our wildland firefighters—and all those working behind the scenes to support them. 🇺🇸",
-      "summary": "RT @SecRollins: Wildfire response starts long before a fire begins. In Boise, Idaho, @SecretaryBurgum and I met with the men and women on the front…",
-      "url": "https://x.com/WhiteHouse/status/2088727103805993363",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 117,
-        "replies": 0,
-        "quotes": 0,
-        "views": "39896"
-      }
-    },
-    {
-      "id": "2088726538925621446",
-      "is_retweet": true,
-      "original_author": "PressSec",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-15T20:36:28+00:00",
-      "text": "RT @PressSec: Must Read: “I arrested Laken Riley’s killer in NYC 6 months before her murder — sanctuary cities failed her and all Americans” https://t.co/H1uXUVklF7",
-      "summary": "RT @PressSec: Must Read: “I arrested Laken Riley’s killer in NYC 6 months before her murder — sanctuary cities failed her and all Americans”…",
-      "url": "https://x.com/WhiteHouse/status/2088726538925621446",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2686,
-        "replies": 0,
-        "quotes": 0,
-        "views": "37195"
-      }
-    },
-    {
-      "id": "2088726480284987543",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-15T20:36:14+00:00",
-      "text": "RT @SecretaryBurgum: Last year, @POTUS launched the Surge to Make D.C. Safe &amp; Beautiful. Today, streets are safer, parks are cleaner and the city is a worthy capital of the greatest country on earth. Thank you @POTUS for your leadership and to @usparkpolicepio &amp; all law enforcement serving D.C.! https://t.co/8Oc4oOKfy3",
-      "summary": "RT @SecretaryBurgum: Last year, @POTUS launched the Surge to Make D.C. Safe &amp; Beautiful. Today, streets are safer, parks are cleaner and the city…",
-      "url": "https://x.com/WhiteHouse/status/2088726480284987543",
-      "type": "retweet",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 158,
-        "replies": 0,
-        "quotes": 0,
-        "views": "40419"
-      }
-    },
-    {
-      "id": "2088726273627459845",
-      "is_retweet": true,
-      "original_author": "FBIDirectorKash",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-15T20:35:24+00:00",
-      "text": "RT @FBIDirectorKash: .@AGToddBlanche Under President Trump’s leadership, America saw the largest single-year decrease in violent crime and murder since 1937. (FBI⁠) The DOJ is dismantling foreign terrorist organizations and drug cartels — and this FBI is delivering on the mission to Make America Safe Again. And the message is clear: touch a federal law enforcement officer, and you will be prosecuted to the fullest extent of the law. This is what happens when you have a President who empowers law enforcement and BACKS THE BLUE every step of the way. Thank you, President Trump, for your leadership. -DKP🇺🇸",
-      "summary": "RT @FBIDirectorKash: .@AGToddBlanche Under President Trump’s leadership, America saw the largest single-year decrease in violent crime and murder…",
-      "url": "https://x.com/WhiteHouse/status/2088726273627459845",
-      "type": "retweet",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 679,
-        "replies": 0,
-        "quotes": 0,
-        "views": "37677"
-      }
-    },
-    {
-      "id": "2088699242680578438",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-15T18:48:00+00:00",
-      "text": "An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\" inside OpenAI's sandbox, then used it to break into Hugging Face. @tayvano_ isn't sure that's actually reassuring. 🤖 Timestamps: 🍴 00:40 Why Luke Dashjr's OP_RETURN fork split Bitcoin, then died in two blocks 💧 12:03 1inch Aqua: Back multiple liquidity positions from one wallet at https://t.co/PtM5Y19PHw 🔓 12:51 How a Metabase breach exposed Privy and a wave of other crypto apps 🇰🇵 18:32 A DPRK hacker's botched $500k laundering job, then a DEF CON fake-hire sting ⚖️ 24:45 Why Bybit is suing DPRK over its 'billion dollar' 2025 hack 🐜 30:30 The AI agents that built their own society inside OpenAI's sandbox 🕸️ 46:16 How a single shared repo let every sandboxed agent talk to each other 💾 47:44 Kain's coding agent deleted his database. Two AI models rebuilt it in 30 seconds 🏛️ 58:06 Why Taylor says the US government, not China, is AI's biggest risk 📊 01:03:12 Why Hyperliquid's RWA market creators keep half of HIP-3's fees",
-      "summary": "An Agent Deleted Kain's Database. Two AI Models Rebuilt It in 30 Seconds 🤖 @kaiynne says AI testing agents built their own \"society\" inside OpenAI's…",
-      "url": "https://x.com/laurashin/status/2088699242680578438",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 19,
-        "retweets": 5,
-        "replies": 9,
-        "quotes": 2,
-        "views": "11289"
-      }
-    },
-    {
-      "id": "2088677137133793747",
-      "is_retweet": true,
-      "original_author": "Justin_Bons",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T17:20:09+00:00",
-      "text": "RT @Justin_Bons: Canton reports $326 BILLION in RWA TVL: Independent aggregators can locate approximately none of it. Somewhere between the press release &amp; the block explorer, three hundred billion dollars entered witness protection!",
-      "summary": "RT @Justin_Bons: Canton reports $326 BILLION in RWA TVL: Independent aggregators can locate approximately none of it. Somewhere between the press…",
-      "url": "https://x.com/lex_node/status/2088677137133793747",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 10,
-        "replies": 0,
-        "quotes": 0,
-        "views": "725"
-      }
-    },
-    {
-      "id": "2088669798674891178",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-15T16:51:00+00:00",
-      "text": "A pet peeve of mine: when you’re at the baggage claim and people stand right up to the edge of the baggage claim, hogging the space to get the luggage and blocking the view of the suitcases for everyone not right at the edge. Fwiw, I noticed that Americans do this more than other countries 👀 IMO, it’s more polite to stand back a foot or two to keep the view clear and give people space to get their bags 🧳",
-      "summary": "A pet peeve of mine: when you’re at the baggage claim and people stand right up to the edge of the baggage claim, hogging the space to get the…",
-      "url": "https://x.com/laurashin/status/2088669798674891178",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 23,
-        "retweets": 0,
-        "replies": 10,
-        "quotes": 0,
-        "views": "2460"
-      }
-    },
-    {
-      "id": "2088663109221437815",
-      "is_retweet": true,
-      "original_author": "bitsandbips",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-15T16:24:25+00:00",
-      "text": "RT @bitsandbips: 🎧 @StocktonKatie on when an oversold Bitcoin chart actually becomes a buy signal: 📉 Stochastics need to clear 20%, decisively ⏳ The signal comes with a built-in lag, by design 🎯 The goal is catching inflection points, not noise Full conversation with @Steven_Ehrlich on @bitsandbips. 🎧",
-      "summary": "RT @bitsandbips: 🎧 @StocktonKatie on when an oversold Bitcoin chart actually becomes a buy signal: 📉 Stochastics need to clear 20%, decisively ⏳ The…",
-      "url": "https://x.com/laurashin/status/2088663109221437815",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1041"
-      }
-    },
-    {
-      "id": "2088661472326885441",
-      "is_retweet": true,
-      "original_author": "ReclaimTheNetHQ",
-      "username": "prestonjbyrne",
-      "display_name": "Preston Byrne",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-15T16:17:55+00:00",
-      "text": "RT @ReclaimTheNetHQ: An \"elite\" UK police squad has spent six months watching social media posts. 106 posts referred to local forces but half of them were in June alone, the month public anger at the police ran hottest. They won't say which posts and they never tell the person they flagged. https://t.co/Rk95CaO7S1",
-      "summary": "RT @ReclaimTheNetHQ: An \"elite\" UK police squad has spent six months watching social media posts. 106 posts referred to local forces but half of them…",
-      "url": "https://x.com/prestonjbyrne/status/2088661472326885441",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 61,
-        "replies": 0,
-        "quotes": 0,
-        "views": "318"
+        "views": "34993"
       }
     }
   ]
