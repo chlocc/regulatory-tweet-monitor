@@ -1,27 +1,18 @@
 {
-  "generated_at": "2026-08-17T09:08:59.820753+00:00",
-  "generated_at_unix": 1786957739,
+  "generated_at": "2026-08-17T12:03:09.509509+00:00",
+  "generated_at_unix": 1786968189,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-16T16:00:00+00:00",
-  "window_end": "2026-08-17T09:08:59.820753+00:00",
-  "new_this_run": 1,
-  "total_recent": 9,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "NeerajKA",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-17T12:03:09.509509+00:00",
+  "new_this_run": 8,
+  "total_recent": 17,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +20,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089320279394676805",
+      "is_retweet": true,
+      "original_author": "polyfactual",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T11:55:46+00:00",
+      "text": "RT @polyfactual: Private equity in virtually any startup could become liquid onchain sooner than most people think. @lex_node explains how @MetaLeX_Labs is turning private securities into onchain positions that can eventually become ERC-20s and trade OTC or on AMMs. In other words: bringing DeFi liquidity rails to the entire private startup market.",
+      "summary": "RT @polyfactual: Private equity in virtually any startup could become liquid onchain sooner than most people think. @lex_node explains how…",
+      "url": "https://x.com/lex_node/status/2089320279394676805",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "390"
+      }
+    },
+    {
+      "id": "2089191563691798945",
+      "is_retweet": true,
+      "original_author": "NateGeraci",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T03:24:18+00:00",
+      "text": "RT @NateGeraci: White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman Selig, & executives from across crypto industry including Coinbase, Polymarket, Ripple, Gemini, etc. Also expected to include major tradfi players like Nasdaq, NYSE, CME, DTCC, etc. IMO, administration not waiting around for Clarity Act. Garnering support for that would be great, but think they’ve already made decision to power ahead regardless. Predict this meeting will strongly reinforce that message.",
+      "summary": "RT @NateGeraci: White House hosting major crypto meeting this week… Expected attendance from President Trump, SEC Chairman Atkins, CFTC Chairman…",
+      "url": "https://x.com/lex_node/status/2089191563691798945",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 113,
+        "replies": 0,
+        "quotes": 0,
+        "views": "667"
+      }
+    },
     {
       "id": "2089145408173822287",
       "is_retweet": true,
@@ -155,6 +196,56 @@
       }
     },
     {
+      "id": "2089057182855709112",
+      "is_retweet": true,
+      "original_author": "_julianma",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T18:30:19+00:00",
+      "text": "RT @_julianma: @AvgJoesCrypto @lex_node Agree ETH-native institutions should be top priority for Ethereum",
+      "summary": "RT @_julianma: @AvgJoesCrypto @lex_node Agree ETH-native institutions should be top priority for Ethereum",
+      "url": "https://x.com/lex_node/status/2089057182855709112",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "743"
+      }
+    },
+    {
+      "id": "2089048262044975345",
+      "is_retweet": true,
+      "original_author": "RailgunIntern",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T17:54:52+00:00",
+      "text": "RT @RailgunIntern: The best fully open source privacy wallets with RAILGUN integration are currently Terminal and @railoxide, with Kohaku closing the gap. Best UX + DeFi integration is @anondotinc. Most time tested is @Railway_xyz. After Reloaded SDK, MANY will emerge. RAILGUN eco is up only. https://t.co/JjazbBstYA",
+      "summary": "RT @RailgunIntern: The best fully open source privacy wallets with RAILGUN integration are currently Terminal and @railoxide, with Kohaku closing the…",
+      "url": "https://x.com/lex_node/status/2089048262044975345",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "767"
+      }
+    },
+    {
       "id": "2089046611645071420",
       "is_retweet": true,
       "original_author": "tayvano_",
@@ -177,6 +268,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "702"
+      }
+    },
+    {
+      "id": "2089045689183432749",
+      "is_retweet": true,
+      "original_author": "Justin_Bons",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T17:44:39+00:00",
+      "text": "RT @Justin_Bons: BTC dominance will continue to fall in the long run As the utility of crypto is far more valuable than speculation alone! The cypherpunk revolution depends on it; only the mass adoption of crypto apps can change the world BTC is technically incapable of supporting that future!",
+      "summary": "RT @Justin_Bons: BTC dominance will continue to fall in the long run As the utility of crypto is far more valuable than speculation alone! The…",
+      "url": "https://x.com/lex_node/status/2089045689183432749",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "750"
       }
     },
     {
@@ -230,6 +346,31 @@
       }
     },
     {
+      "id": "2089036921351668002",
+      "is_retweet": true,
+      "original_author": "_julianma",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T17:09:49+00:00",
+      "text": "RT @_julianma: Look I understand old token models force buybacks and buybacks are bad for growth. However, tokens can also be insanely good for growth. If done well, it creates a community of people who care about your product and governance. Do you think ethereum:native , MORPHO or HYPE would have been as large as they are without a token? If you create a token, you must create a good token. Talk to @lex_node from @MetaLeX_Labs and @nftboi_ from @umia_finance and make a token that benefits your project and your community. Launching a token is a big responsibility and I agree it shouldn't be for every project. The most important part is to create one that works for you.",
+      "summary": "RT @_julianma: Look I understand old token models force buybacks and buybacks are bad for growth. However, tokens can also be insanely good for…",
+      "url": "https://x.com/lex_node/status/2089036921351668002",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "772"
+      }
+    },
+    {
       "id": "2089030676406509929",
       "is_retweet": false,
       "original_author": null,
@@ -252,6 +393,56 @@
         "replies": 43,
         "quotes": 1,
         "views": "34993"
+      }
+    },
+    {
+      "id": "2089022102661730441",
+      "is_retweet": true,
+      "original_author": "AvgJoesCrypto",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T16:10:56+00:00",
+      "text": "RT @AvgJoesCrypto: “Relatedly, ETH KOLs etc. have focused way too much on \"institutional\" adoption and \"hard money\" use cases instead of great startups, often missing out that \"institutions\" may not want/need CROPS and may prefer things like Canton” I wish I could RT this 100 times",
+      "summary": "RT @AvgJoesCrypto: “Relatedly, ETH KOLs etc. have focused way too much on \"institutional\" adoption and \"hard money\" use cases instead of great…",
+      "url": "https://x.com/lex_node/status/2089022102661730441",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "744"
+      }
+    },
+    {
+      "id": "2089019444915745118",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T16:00:22+00:00",
+      "text": "a lot of very legit points here, though overall I remain maxi-ish on ETH/Ethereum. It's a problem for Ethereum that Solana has many more \"shots on goal\" of getting the next https://t.co/hc9RflBXUY due to its startup ecosystem. Ethereum may still outperform just because its credible neutrality attracts cracked devs despite lack of ecosystem support (https://t.co/8UmICCRTBA is a great recent example of this), but it would be far better off having a strong startup ecosystem as well Relatedly, ETH KOLs etc. have focused way too much on \"institutional\" adoption and \"hard money\" use cases instead of great startups, often missing out that \"institutions\" may not want/need CROPS and may prefer things like Canton",
+      "summary": "a lot of very legit points here, though overall I remain maxi-ish on ETH/Ethereum. It's a problem for Ethereum that Solana has many more \"shots on…",
+      "url": "https://x.com/lex_node/status/2089019444915745118",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 146,
+        "retweets": 5,
+        "replies": 42,
+        "quotes": 1,
+        "views": "24691"
       }
     }
   ]
