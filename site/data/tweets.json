@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-17T06:02:41.662656+00:00",
-  "generated_at_unix": 1786946561,
+  "generated_at": "2026-08-17T09:08:59.820753+00:00",
+  "generated_at_unix": 1786957739,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-16T16:00:00+00:00",
-  "window_end": "2026-08-17T06:02:41.662656+00:00",
-  "new_this_run": 5,
-  "total_recent": 8,
-  "errors": [],
+  "window_end": "2026-08-17T09:08:59.820753+00:00",
+  "new_this_run": 1,
+  "total_recent": 9,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "NeerajKA",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -68,6 +77,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "35112"
+      }
+    },
+    {
+      "id": "2089109263595761982",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "iampaulgrewal",
+      "display_name": "Paul Grewal",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-16T21:57:16+00:00",
+      "text": "The intensity of competition among AI firms is the stuff of Adam Smith’s dreams. Hand to hand combat every minute of every day that works to expand consumer surplus.",
+      "summary": "The intensity of competition among AI firms is the stuff of Adam Smith’s dreams. Hand to hand combat every minute of every day that works to expand…",
+      "url": "https://x.com/iampaulgrewal/status/2089109263595761982",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 0,
+        "replies": 5,
+        "quotes": 1,
+        "views": "5780"
       }
     },
     {
