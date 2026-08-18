@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-18T12:02:58.389209+00:00",
-  "generated_at_unix": 1787054578,
+  "generated_at": "2026-08-18T15:01:15.377030+00:00",
+  "generated_at_unix": 1787065275,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-17T16:00:00+00:00",
-  "window_end": "2026-08-18T12:02:58.389209+00:00",
-  "new_this_run": 10,
-  "total_recent": 33,
+  "window_end": "2026-08-18T15:01:15.377030+00:00",
+  "new_this_run": 4,
+  "total_recent": 37,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 45,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +20,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089725586914644312",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T14:46:19+00:00",
+      "text": "If I were a Democrat on the @USHouseFSC, I would look into Chainalysis and TRM and the fight they are having to get an ICE contract. Crypto is about empowering families to send money home. Crypto isn’t about whatever this is.",
+      "summary": "If I were a Democrat on the @USHouseFSC, I would look into Chainalysis and TRM and the fight they are having to get an ICE contract. Crypto is about…",
+      "url": "https://x.com/theblockprof/status/2089725586914644312",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "188"
+      }
+    },
     {
       "id": "2089681623000272963",
       "is_retweet": true,
@@ -71,6 +96,31 @@
       }
     },
     {
+      "id": "2089673915031273890",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T11:21:00+00:00",
+      "text": "Canadian securities regulators took jurisdiction over crypto exchanges without finding that the tokens traded were securities. \"Even if it's not a security or a derivative, securities legislation will apply where there isn't immediate delivery to an external wallet.\" @ryanjclements explains the Crypto Contract, the concept Canadian securities regulators created to get crypto exchanges within their jurisdiction (after Quadriga's collapse).",
+      "summary": "Canadian securities regulators took jurisdiction over crypto exchanges without finding that the tokens traded were securities. \"Even if it's not a…",
+      "url": "https://x.com/JacobRobinsonJD/status/2089673915031273890",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "405"
+      }
+    },
+    {
       "id": "2089557005904077305",
       "is_retweet": true,
       "original_author": "Bitcoineo",
@@ -118,6 +168,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "762"
+      }
+    },
+    {
+      "id": "2089529177787564071",
+      "is_retweet": true,
+      "original_author": "mikebelshe",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T01:45:52+00:00",
+      "text": "RT @mikebelshe: Even if you are skeptical about crypto, you can't deny our industry's innovations have already made real change in traditional markets: - NYSE going 23x5 - will eventually be 24x7 - Perps - simply better futures - stablecoins - simply better payments - tokenized loans - e.g. Figure - faster, more liquid, safer There are a million more innovations, and many of them will be standard practice in a decade. You can't hate crypto. It's awesome.",
+      "summary": "RT @mikebelshe: Even if you are skeptical about crypto, you can't deny our industry's innovations have already made real change in traditional…",
+      "url": "https://x.com/HaileyLennonBTC/status/2089529177787564071",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 30,
+        "replies": 0,
+        "quotes": 0,
+        "views": "266"
       }
     },
     {
@@ -293,6 +368,31 @@
         "replies": 3,
         "quotes": 0,
         "views": "5193"
+      }
+    },
+    {
+      "id": "2089487653527855169",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T23:00:52+00:00",
+      "text": "RT @ReclaimTheNetHQ: California published its proposed rules for proving you're not a child. Among the approved methods: facial analysis, hand-gesture or gait patterns, vocal analysis, or a government ID. That could mean a camera at your face, a microphone at your voice, or uploading a government ID just to speak online. The state is facing a legal challenge. https://t.co/UshJPMCoqG",
+      "summary": "RT @ReclaimTheNetHQ: California published its proposed rules for proving you're not a child. Among the approved methods: facial analysis,…",
+      "url": "https://x.com/prestonjbyrne/status/2089487653527855169",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 125,
+        "replies": 0,
+        "quotes": 0,
+        "views": "282"
       }
     },
     {
