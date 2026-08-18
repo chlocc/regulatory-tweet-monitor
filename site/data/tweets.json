@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-08-18T15:01:15.377030+00:00",
-  "generated_at_unix": 1787065275,
+  "generated_at": "2026-08-18T18:02:50.283725+00:00",
+  "generated_at_unix": 1787076170,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-17T16:00:00+00:00",
-  "window_end": "2026-08-18T15:01:15.377030+00:00",
-  "new_this_run": 4,
-  "total_recent": 37,
-  "errors": [],
+  "window_end": "2026-08-18T18:02:50.283725+00:00",
+  "new_this_run": 21,
+  "total_recent": 58,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "sander_lutz",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 12,
+    "successful_this_run": 12,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +33,506 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089775588634456395",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T18:05:01+00:00",
+      "text": "\"The one never really hits your achievable balance,\" @jdetychey on tax concerns around EIP-8363 https://t.co/7h1ujOVYwV",
+      "summary": "\"The one never really hits your achievable balance,\" @jdetychey on tax concerns around EIP-8363 https://t.co/7h1ujOVYwV",
+      "url": "https://x.com/laurashin/status/2089775588634456395",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2089774976396324900",
+      "is_retweet": true,
+      "original_author": "crypto_council",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-18T18:02:35+00:00",
+      "text": "RT @crypto_council: 1/ We support the SEC's efforts to modernize securities laws, promote innovation and competition, and expand investor choice. That’s why CCI filed comments supporting @SECGov’s proposed rescission of Rule 611 and Rule 610(e) of Regulation NMS. https://t.co/ea2968QkEQ",
+      "summary": "RT @crypto_council: 1/ We support the SEC's efforts to modernize securities laws, promote innovation and competition, and expand investor choice.…",
+      "url": "https://x.com/milesjennings/status/2089774976396324900",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "59"
+      }
+    },
+    {
+      "id": "2089774414003106166",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T18:00:21+00:00",
+      "text": "This is the moment I had been building toward the entire interview. I asked Justin Lim to criticize Kim Jong Un, and the silence that followed told me more than any answer could have. 🇰🇵 https://t.co/xhEWAVTxjY",
+      "summary": "This is the moment I had been building toward the entire interview. I asked Justin Lim to criticize Kim Jong Un, and the silence that followed told…",
+      "url": "https://x.com/laurashin/status/2089774414003106166",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "633"
+      }
+    },
+    {
+      "id": "2089774349637054632",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T18:00:05+00:00",
+      "text": "\"If we don't change anything ... we are just going to continue the growth of the staking ratio to 50%, 60% ... that's not good for the market of ETH,\" @jdetychey on the need for EIP-8363. https://t.co/nRWocxe52J",
+      "summary": "\"If we don't change anything ... we are just going to continue the growth of the staking ratio to 50%, 60% ... that's not good for the market of…",
+      "url": "https://x.com/laurashin/status/2089774349637054632",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "548"
+      }
+    },
+    {
+      "id": "2089771203854565809",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:47:35+00:00",
+      "text": "\"We don't have a cascade model,\" @jdetychey on EIP-8363's impact on DeFi. https://t.co/7h1ujOVYwV",
+      "summary": "\"We don't have a cascade model,\" @jdetychey on EIP-8363's impact on DeFi. https://t.co/7h1ujOVYwV",
+      "url": "https://x.com/laurashin/status/2089771203854565809",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1005"
+      }
+    },
+    {
+      "id": "2089770852472512708",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:46:11+00:00",
+      "text": "\"If we tapered the borrowing case for ETH, it is also pretty good for the asset,\" @jdetychey on EIP-8363. https://t.co/7h1ujOVYwV",
+      "summary": "\"If we tapered the borrowing case for ETH, it is also pretty good for the asset,\" @jdetychey on EIP-8363. https://t.co/7h1ujOVYwV",
+      "url": "https://x.com/laurashin/status/2089770852472512708",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "931"
+      }
+    },
+    {
+      "id": "2089770516961706402",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:44:51+00:00",
+      "text": "\"The curve and issuance and overall how the consensus function on Ethereum was bound to change,\" @jdetychey to businesses rejecting EIP-8363 because they built around ETH yield. https://t.co/7h1ujOVYwV",
+      "summary": "\"The curve and issuance and overall how the consensus function on Ethereum was bound to change,\" @jdetychey to businesses rejecting EIP-8363 because…",
+      "url": "https://x.com/laurashin/status/2089770516961706402",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "939"
+      }
+    },
+    {
+      "id": "2089768826053202001",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:38:08+00:00",
+      "text": "\"ACD has never really passed something with this level of contentiousness,\" @owocki on EIP-8363 https://t.co/7h1ujOVYwV",
+      "summary": "\"ACD has never really passed something with this level of contentiousness,\" @owocki on EIP-8363 https://t.co/7h1ujOVYwV",
+      "url": "https://x.com/laurashin/status/2089768826053202001",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "1084"
+      }
+    },
+    {
+      "id": "2089768563074642094",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:37:06+00:00",
+      "text": "\"This is a political economy problem,\" @owocki on what EIP-8363 is trying to solve https://t.co/nRWocxe52J",
+      "summary": "\"This is a political economy problem,\" @owocki on what EIP-8363 is trying to solve https://t.co/nRWocxe52J",
+      "url": "https://x.com/laurashin/status/2089768563074642094",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "983"
+      }
+    },
+    {
+      "id": "2089768079475503511",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:35:10+00:00",
+      "text": "\"I am undecided about this EIP,\" @owocki on EIP-8363 . https://t.co/7h1ujOVYwV",
+      "summary": "\"I am undecided about this EIP,\" @owocki on EIP-8363 . https://t.co/7h1ujOVYwV",
+      "url": "https://x.com/laurashin/status/2089768079475503511",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1088"
+      }
+    },
+    {
+      "id": "2089768028703735980",
+      "is_retweet": true,
+      "original_author": "BankXRP",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-18T17:34:58+00:00",
+      "text": "RT @BankXRP: Tim Scott says Elizabeth Warren’s team wants to run crypto out of the country. Period. Scott says Democrats keep moving the goalposts on the CLARITY Act, which has grown from under 300 pages to over 600. The message is clear: it’s time for a vote. 🇺🇸 #CLARITYAct #Crypto #XRP https://t.co/smkczCZzrp",
+      "summary": "RT @BankXRP: Tim Scott says Elizabeth Warren’s team wants to run crypto out of the country. Period. Scott says Democrats keep moving the goalposts on…",
+      "url": "https://x.com/milesjennings/status/2089768028703735980",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 49,
+        "replies": 0,
+        "quotes": 0,
+        "views": "97"
+      }
+    },
+    {
+      "id": "2089766588941586471",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:29:15+00:00",
+      "text": "\"We don't really have a $100 billion in security, we really have like $5 million a day at the current curve and depending on what people think about equilibrium for this new one, it might be a million dollars a day or less,\" @OisinKyne on the risks of EIP-8363 . https://t.co/5aC8Kz6kQD",
+      "summary": "\"We don't really have a $100 billion in security, we really have like $5 million a day at the current curve and depending on what people think about…",
+      "url": "https://x.com/laurashin/status/2089766588941586471",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "414"
+      }
+    },
+    {
+      "id": "2089763546745704844",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:17:10+00:00",
+      "text": "\"The main reason I am not super happy with at least the current proposed curve is this idea of it like going to zero,\" @OisinKyne on concerns with EIP-8363. https://t.co/7h1ujOVYwV",
+      "summary": "\"The main reason I am not super happy with at least the current proposed curve is this idea of it like going to zero,\" @OisinKyne on concerns with…",
+      "url": "https://x.com/laurashin/status/2089763546745704844",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1286"
+      }
+    },
+    {
+      "id": "2089762355127505152",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:12:26+00:00",
+      "text": "Invoked six times in history, twice in the last month for Kalshi Jessi on the CFTC emergency power historically reserved for market catastrophes \"I did a little history research, and it seems like this has been invoked six times throughout history\" \"Two in the last month or so by the CFTC for Kalshi\" \"Every other time was for a big market event, to prevent what was seen as catastrophe\"",
+      "summary": "Invoked six times in history, twice in the last month for Kalshi Jessi on the CFTC emergency power historically reserved for market catastrophes \"I…",
+      "url": "https://x.com/laurashin/status/2089762355127505152",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2329"
+      }
+    },
+    {
+      "id": "2089761886820536461",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T17:10:34+00:00",
+      "text": "\"We want to implement a mechanism that burns a rising portion of the validator rewards so that as the staking ratio climbs, the reward actually gets lower till the market finds an equilibrium,\" @jdetychey on EIP-8363. https://t.co/7h1ujOVYwV",
+      "summary": "\"We want to implement a mechanism that burns a rising portion of the validator rewards so that as the staking ratio climbs, the reward actually gets…",
+      "url": "https://x.com/laurashin/status/2089761886820536461",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1403"
+      }
+    },
+    {
+      "id": "2089758196705402910",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T16:55:54+00:00",
+      "text": "Six researchers proposed burning Ethereum's staking issuance to zero. Aave, Lido, Ether[.]fi and SharpLink lined up against it within 48 hours. @jdetychey co-wrote it. @OisinKyne runs a staking company that opposes it. @owocki wonders how the community builds consensus They all join me on the show today at 1pm ET DON'T MISS IT! Tune in 🎧 https://t.co/mpOg4VcsPU",
+      "summary": "Six researchers proposed burning Ethereum's staking issuance to zero. Aave, Lido, Ether[.]fi and SharpLink lined up against it within 48 hours.…",
+      "url": "https://x.com/laurashin/status/2089758196705402910",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 1,
+        "views": "1852"
+      }
+    },
+    {
+      "id": "2089755601374970170",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T16:45:35+00:00",
+      "text": "\"A hammer when you need a scaffold\" — Jane on DEX in the City on the EU's forced AI watermarking. It won't stop scammers, she says: \"my grandparents … aren't going to be looking for the watermark\" before the scam text lands. https://t.co/lV4fJCl13Z",
+      "summary": "\"A hammer when you need a scaffold\" — Jane on DEX in the City on the EU's forced AI watermarking. It won't stop scammers, she says: \"my grandparents…",
+      "url": "https://x.com/laurashin/status/2089755601374970170",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1480"
+      }
+    },
+    {
+      "id": "2089752141581705395",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T16:31:50+00:00",
+      "text": "The real fight over prediction markets isn't states vs. feds, argues Jacob: \"Who is being harmed here? Is it actually residents of New York, or is it the tribes, the gaming commissions, the people who currently have some form of power?\" https://t.co/lV4fJCl13Z",
+      "summary": "The real fight over prediction markets isn't states vs. feds, argues Jacob: \"Who is being harmed here? Is it actually residents of New York, or is it…",
+      "url": "https://x.com/laurashin/status/2089752141581705395",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1604"
+      }
+    },
+    {
+      "id": "2089748274785722801",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-18T16:16:29+00:00",
+      "text": "The whole prediction-market fight in one line, per Jacob Robinson on DEX in the City: States say Kalshi's contracts \"are bets,\" while the exchanges say \"these might look like bets, but they're actually exchanges.\" His call: \"We'll see this in the Supreme Court before long.\" https://t.co/mpOg4VcsPU",
+      "summary": "The whole prediction-market fight in one line, per Jacob Robinson on DEX in the City: States say Kalshi's contracts \"are bets,\" while the exchanges…",
+      "url": "https://x.com/laurashin/status/2089748274785722801",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2381"
+      }
+    },
+    {
+      "id": "2089728496868499696",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-18T14:57:53+00:00",
+      "text": "The SEC proposal to rescind Rule 611 is a big deal. Not only will it help modernize U.S. market structure, but it paves the way for securities markets to move onchain. Yesterday, @a16zcrypto filed a letter of support. https://t.co/0ZKap9j15P",
+      "summary": "The SEC proposal to rescind Rule 611 is a big deal. Not only will it help modernize U.S. market structure, but it paves the way for securities…",
+      "url": "https://x.com/milesjennings/status/2089728496868499696",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 45,
+        "retweets": 11,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3735"
+      }
+    },
     {
       "id": "2089725586914644312",
       "is_retweet": false,
@@ -468,6 +981,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "32"
+      }
+    },
+    {
+      "id": "2089457967729148319",
+      "is_retweet": true,
+      "original_author": "neil_chilson",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-17T21:02:54+00:00",
+      "text": "RT @neil_chilson: Properly framed, however, Amodei's analogy captures something important. Tort claims turn on legally cognizable harm, which can level the field. A company of any size may be liable when it harms someone. An unconventional technology that fits no regulatory category can deliver enormous benefits without tort liability if it harms no one. 5/",
+      "summary": "RT @neil_chilson: Properly framed, however, Amodei's analogy captures something important. Tort claims turn on legally cognizable harm, which can…",
+      "url": "https://x.com/gabriel_weil/status/2089457967729148319",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6"
       }
     },
     {
