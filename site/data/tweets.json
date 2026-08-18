@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-18T09:05:28.535537+00:00",
-  "generated_at_unix": 1787043928,
+  "generated_at": "2026-08-18T12:02:58.389209+00:00",
+  "generated_at_unix": 1787054578,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-17T16:00:00+00:00",
-  "window_end": "2026-08-18T09:05:28.535537+00:00",
-  "new_this_run": 11,
-  "total_recent": 23,
-  "errors": [
-    {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-18T12:02:58.389209+00:00",
+  "new_this_run": 10,
+  "total_recent": 33,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089681623000272963",
+      "is_retweet": true,
+      "original_author": "ziskvm",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T11:51:37+00:00",
+      "text": "RT @ziskvm: ZisK v1.1.0-alpha release 🚀 Ethereum proven in real time on 4x5090 GPUs with a p99 of 9.62s. All providing 128-bit provable security, powered by Poseidon1, and post-quantum secure. This release pushes the prover further and fixes bugs, without trading soundness for benchmarks. Release notes: https://t.co/J8tSAalTMi",
+      "summary": "RT @ziskvm: ZisK v1.1.0-alpha release 🚀 Ethereum proven in real time on 4x5090 GPUs with a p99 of 9.62s. All providing 128-bit provable security,…",
+      "url": "https://x.com/lex_node/status/2089681623000272963",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "408"
+      }
+    },
+    {
+      "id": "2089681228790469020",
+      "is_retweet": true,
+      "original_author": "_TalkingTokens",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T11:50:04+00:00",
+      "text": "RT @_TalkingTokens: Buy-side equity traders don't think the current securities markets need fixing. Rather, the case for tokenization comes from stablecoin adoption, as all pieces of the financial stack need to level up at once, according to @RebeccaRettig1, COO &amp; CLO at @Jito_Labs. https://t.co/ebefXOUm4v",
+      "summary": "RT @_TalkingTokens: Buy-side equity traders don't think the current securities markets need fixing. Rather, the case for tokenization comes from…",
+      "url": "https://x.com/RebeccaRettig1/status/2089681228790469020",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "59"
+      }
+    },
+    {
+      "id": "2089557005904077305",
+      "is_retweet": true,
+      "original_author": "Bitcoineo",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T03:36:26+00:00",
+      "text": "RT @Bitcoineo: This is exactly why you don’t buy tokens which valuations are under book value. Crypto will come back once we get rid of these looters (or when dino project treasuries are depleted). 🤡🤡🤡",
+      "summary": "RT @Bitcoineo: This is exactly why you don’t buy tokens which valuations are under book value. Crypto will come back once we get rid of these looters…",
+      "url": "https://x.com/lex_node/status/2089557005904077305",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "665"
+      }
+    },
     {
       "id": "2089535937663610955",
       "is_retweet": true,
@@ -73,6 +143,56 @@
         "replies": 1,
         "quotes": 0,
         "views": "5717"
+      }
+    },
+    {
+      "id": "2089508739095151063",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T00:24:39+00:00",
+      "text": "another DAO goes private a corporation does not easily allow these insider transactions, which is why I'm much more bullish on cyberCORPs than DAOs https://t.co/2uIVdKcU1n",
+      "summary": "another DAO goes private a corporation does not easily allow these insider transactions, which is why I'm much more bullish on cyberCORPs than DAOs…",
+      "url": "https://x.com/lex_node/status/2089508739095151063",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 50,
+        "retweets": 5,
+        "replies": 6,
+        "quotes": 0,
+        "views": "5519"
+      }
+    },
+    {
+      "id": "2089507787185271018",
+      "is_retweet": true,
+      "original_author": "DCinvestor",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T00:20:52+00:00",
+      "text": "RT @DCinvestor: it’s been a long while since i’ve seen people associated with research and core dev speak clearly and consistently about doing things to meet real market needs and opportunities with urgency it’s a big and very necessary shift for the next era of Ethereum glad to have @ethlabs_org involved in the space",
+      "summary": "RT @DCinvestor: it’s been a long while since i’ve seen people associated with research and core dev speak clearly and consistently about doing things…",
+      "url": "https://x.com/lex_node/status/2089507787185271018",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "558"
       }
     },
     {
@@ -151,6 +271,56 @@
       }
     },
     {
+      "id": "2089492314821435758",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T23:19:23+00:00",
+      "text": "many projects will do this a reminder that @MetaLeX_Labs 's ACE (asset to equity) conversion program is designed specifically for token to equity conversions (partial or full). . . we've automated much of this to remove painpoints etc.... hit up @spynter if you're interested",
+      "summary": "many projects will do this a reminder that @MetaLeX_Labs 's ACE (asset to equity) conversion program is designed specifically for token to equity…",
+      "url": "https://x.com/lex_node/status/2089492314821435758",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 39,
+        "retweets": 6,
+        "replies": 3,
+        "quotes": 0,
+        "views": "5193"
+      }
+    },
+    {
+      "id": "2089487208143045092",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T22:59:05+00:00",
+      "text": "if everything is legal you really don't need decentralization. . .you can run this shit on SQL...that's great for the VCs who pivoted to stuff like Kalshi, not so great for cypherpunks...",
+      "summary": "if everything is legal you really don't need decentralization. . .you can run this shit on SQL...that's great for the VCs who pivoted to stuff like…",
+      "url": "https://x.com/lex_node/status/2089487208143045092",
+      "type": "quote",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 25,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 2,
+        "views": "2733"
+      }
+    },
+    {
       "id": "2089460412219617426",
       "is_retweet": false,
       "original_author": null,
@@ -173,6 +343,81 @@
         "replies": 1,
         "quotes": 0,
         "views": "2458"
+      }
+    },
+    {
+      "id": "2089459268726452689",
+      "is_retweet": true,
+      "original_author": "JasonYanowitz",
+      "username": "N0th1n3",
+      "display_name": "Brian",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T21:08:04+00:00",
+      "text": "RT @JasonYanowitz: Fantastic chat with @haydenzadams I didn’t realize how much Uniswap has changed. From B2C to B2B… which means updating the business model, strategy, products, people, $UNI and more. If you like DeFi with fundamentals, you’ll like this podcast. https://t.co/xCXjJ5UuNl",
+      "summary": "RT @JasonYanowitz: Fantastic chat with @haydenzadams I didn’t realize how much Uniswap has changed. From B2C to B2B… which means updating the…",
+      "url": "https://x.com/N0th1n3/status/2089459268726452689",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "32"
+      }
+    },
+    {
+      "id": "2089454863331533047",
+      "is_retweet": true,
+      "original_author": "neuralunlock",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T20:50:34+00:00",
+      "text": "RT @neuralunlock: Build something that you want to build, that you have an advantage in building. Appeasing investors by trying to pursue the hot thing is a waste of time. Most of the time VCs are fomo driven and will change their mind at the nearest market downturn.",
+      "summary": "RT @neuralunlock: Build something that you want to build, that you have an advantage in building. Appeasing investors by trying to pursue the hot…",
+      "url": "https://x.com/lex_node/status/2089454863331533047",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "673"
+      }
+    },
+    {
+      "id": "2089450178965049809",
+      "is_retweet": true,
+      "original_author": "lmrankhan",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T20:31:57+00:00",
+      "text": "RT @lmrankhan: It’s likely that onchain products will split into two worlds. One builds for the real world compliant on/off ramps, KYC, regulated entities and deep integration with banks etc The other is credibly neutral, completely onchain protocols that can run indefinitely, are permissionless and will require no company to run them The interesting end state for the latter is that the protocols could become economically aligned with the underlying L1. Meaning instead of having a separate token with a company, they could continuously route fees toward buying and or burning the L1 token effectively becoming a revenue source for L1s that will compound value to the network forever. I believe this is a good thing. It keeps L1s economically protected from regulated products built on top eventually leaving, while pushing the underlying apps to keep growing, acquiring users, and creating more value for the network.",
+      "summary": "RT @lmrankhan: It’s likely that onchain products will split into two worlds. One builds for the real world compliant on/off ramps, KYC, regulated…",
+      "url": "https://x.com/lex_node/status/2089450178965049809",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "641"
       }
     },
     {
