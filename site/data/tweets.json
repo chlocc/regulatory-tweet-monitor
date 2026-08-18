@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-18T06:11:43.494371+00:00",
-  "generated_at_unix": 1787033503,
+  "generated_at": "2026-08-18T09:05:28.535537+00:00",
+  "generated_at_unix": 1787043928,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-17T16:00:00+00:00",
-  "window_end": "2026-08-18T06:11:43.494371+00:00",
-  "new_this_run": 10,
-  "total_recent": 12,
-  "errors": [],
+  "window_end": "2026-08-18T09:05:28.535537+00:00",
+  "new_this_run": 11,
+  "total_recent": 23,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089535937663610955",
+      "is_retweet": true,
+      "original_author": "ChairmanSelig",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-18T02:12:43+00:00",
+      "text": "RT @ChairmanSelig: In just a few days, we're bringing some of the brightest minds in innovation together to challenge old assumptions, tackle new questions, and chart what comes next. The new frontier of finance is ours to build. https://t.co/hy0Zp1IzgC",
+      "summary": "RT @ChairmanSelig: In just a few days, we're bringing some of the brightest minds in innovation together to challenge old assumptions, tackle new…",
+      "url": "https://x.com/patrickjwitt/status/2089535937663610955",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 96,
+        "replies": 0,
+        "quotes": 0,
+        "views": "762"
+      }
+    },
+    {
+      "id": "2089525695261364718",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-18T01:32:01+00:00",
+      "text": "1/ Today, we submitted a comment letter to the @SECGov supporting its proposal to rescind outdated provisions of Regulation NMS – Rules 611 and 610(e). These rules were built for markets of 2005. It’s time for market structure to catch up with technology. 🧵 https://t.co/ElmEmSCymE",
+      "summary": "1/ Today, we submitted a comment letter to the @SECGov supporting its proposal to rescind outdated provisions of Regulation NMS – Rules 611 and…",
+      "url": "https://x.com/BlockchainAssn/status/2089525695261364718",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 68,
+        "retweets": 17,
+        "replies": 1,
+        "quotes": 0,
+        "views": "5717"
+      }
+    },
     {
       "id": "2089502536424460509",
       "is_retweet": false,
@@ -43,6 +98,31 @@
         "replies": 5,
         "quotes": 1,
         "views": "16975"
+      }
+    },
+    {
+      "id": "2089501891889869066",
+      "is_retweet": true,
+      "original_author": "LevyAntoine",
+      "username": "katiebiber",
+      "display_name": "Katie Biber",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T23:57:26+00:00",
+      "text": "RT @LevyAntoine: Elizabeth Warren comes out strongly against happy hour",
+      "summary": "RT @LevyAntoine: Elizabeth Warren comes out strongly against happy hour",
+      "url": "https://x.com/katiebiber/status/2089501891889869066",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 272,
+        "replies": 0,
+        "quotes": 0,
+        "views": "50"
       }
     },
     {
@@ -196,6 +276,131 @@
       }
     },
     {
+      "id": "2089438919255347584",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-17T19:47:12+00:00",
+      "text": "Stand With Crypto WY State Chapter President @heystephchan 👇",
+      "summary": "Stand With Crypto WY State Chapter President @heystephchan 👇",
+      "url": "https://x.com/standwithcrypto/status/2089438919255347584",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 6,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2805"
+      }
+    },
+    {
+      "id": "2089432882863345853",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-17T19:23:13+00:00",
+      "text": "If you're headed to @SALTConference in Jackson Hole, reach out to @Mara_Abiera to connect with the BA team. We look forward to meeting with our members in Wyoming. https://t.co/VtlRhbfCve",
+      "summary": "If you're headed to @SALTConference in Jackson Hole, reach out to @Mara_Abiera to connect with the BA team. We look forward to meeting with our…",
+      "url": "https://x.com/BlockchainAssn/status/2089432882863345853",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 1,
+        "views": "2272"
+      }
+    },
+    {
+      "id": "2089431570050388230",
+      "is_retweet": true,
+      "original_author": "SpeakerJohnson",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-17T19:18:00+00:00",
+      "text": "RT @SpeakerJohnson: REMINDER. Democrats VOTED AGAINST: ➡️ Lower Taxes ➡️ Border Security ➡️ No Tax on Tips ➡️ Lower Costs for Prescription Drugs ➡️ Secure Elections ➡️ Safer Cities ➡️ Trump Accounts for children ➡️ Keeping Men OUT of Women's Sports",
+      "summary": "RT @SpeakerJohnson: REMINDER. Democrats VOTED AGAINST: ➡️ Lower Taxes ➡️ Border Security ➡️ No Tax on Tips ➡️ Lower Costs for Prescription Drugs ➡️…",
+      "url": "https://x.com/GOPMajorityWhip/status/2089431570050388230",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 816,
+        "replies": 0,
+        "quotes": 0,
+        "views": "711"
+      }
+    },
+    {
+      "id": "2089429463985528918",
+      "is_retweet": true,
+      "original_author": "mdomcahill",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T19:09:38+00:00",
+      "text": "RT @mdomcahill: 24/7 markets need a best execution framework that reflects how they actually trade. Great work from @DouroLabs and @HyperliquidPC engaging with the SEC on Rule 611, including the role networks like @PythNetwork can play in providing reliable reference prices for onchain markets.",
+      "summary": "RT @mdomcahill: 24/7 markets need a best execution framework that reflects how they actually trade. Great work from @DouroLabs and @HyperliquidPC…",
+      "url": "https://x.com/jchervinsky/status/2089429463985528918",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1322"
+      }
+    },
+    {
+      "id": "2089427421070070249",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-17T19:01:31+00:00",
+      "text": "The CLARITY Act delivers real protections: clear disclosures, customer funds kept separate from company funds, and the right to self-custody. SWC New Mexico State Chapter President @tefiteusmc lays it out in @thenewmexican. Read the full Op-Ed: https://t.co/M8LigOOTdF",
+      "summary": "The CLARITY Act delivers real protections: clear disclosures, customer funds kept separate from company funds, and the right to self-custody. SWC New…",
+      "url": "https://x.com/standwithcrypto/status/2089427421070070249",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 97,
+        "retweets": 19,
+        "replies": 8,
+        "quotes": 0,
+        "views": "3389"
+      }
+    },
+    {
       "id": "2089427111572394062",
       "is_retweet": false,
       "original_author": null,
@@ -296,6 +501,56 @@
       }
     },
     {
+      "id": "2089403572458807739",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-17T17:26:45+00:00",
+      "text": "1/ Happy Monday – if you're in Jackson Hole for the @SALTConference Wyoming Blockchain Symposium, please say hi! There are 78 days until the midterms, and the Senate is out until Sept. 14. Here's the latest from Washington: 🧵",
+      "summary": "1/ Happy Monday – if you're in Jackson Hole for the @SALTConference Wyoming Blockchain Symposium, please say hi! There are 78 days until the…",
+      "url": "https://x.com/KristinSmith/status/2089403572458807739",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2500"
+      }
+    },
+    {
+      "id": "2089400476231995615",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BillHughesDC",
+      "display_name": "Bill Hughes",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-17T17:14:27+00:00",
+      "text": "Robotics and physical AI show up in the broader “AI and autonomy” critical-and-emerging-technology (CET) area of this OSTP report: •AI and autonomy is named as one of three priority areas for battlefield dominance, alongside undersea and space, described as competitive advantage in the rapidly evolving area of military and other national security applications of AI and autonomy. •In the Appendix A technical breakout of that CET area, the subfields explicitly include robotics and embodied intelligence, plus adjacent items like autonomous systems for surface, air, maritime, space, and cyber domains and multi-agent systems and swarm intelligence. •The “advanced manufacturing and materials” CET area also touches physical AI, listing materials by design utilizing AI and autonomous development and production. •Appendix B’s alignment matrix marks “AI & autonomy” as touching essentially every strategic priority column (battlefield advantage across space/air/long-range strike, undersea, national security AI, border security, nuclear deterrence/missile defense, cyber defense, and BW defense), more than any other CET category.",
+      "summary": "Robotics and physical AI show up in the broader “AI and autonomy” critical-and-emerging-technology (CET) area of this OSTP report: •AI and autonomy…",
+      "url": "https://x.com/BillHughesDC/status/2089400476231995615",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "549"
+      }
+    },
+    {
       "id": "2089397557034455221",
       "is_retweet": true,
       "original_author": "matthuang",
@@ -318,6 +573,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "217"
+      }
+    },
+    {
+      "id": "2089384238177030568",
+      "is_retweet": true,
+      "original_author": "HouseCommerce",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-17T16:09:55+00:00",
+      "text": "RT @HouseCommerce: Democratic Socialists are celebrating 100 years since Fidel Castro’s birth. But what have the last 100 years of communist rule gotten Cuba? ❌ Energy and infrastructure collapse. ❌ Rampant inflation and unemployment. ❌ Crippling poverty. The same failed policies that destroyed Cuba are the DSA’s pipe dream for America.",
+      "summary": "RT @HouseCommerce: Democratic Socialists are celebrating 100 years since Fidel Castro’s birth. But what have the last 100 years of communist rule…",
+      "url": "https://x.com/GOPMajorityWhip/status/2089384238177030568",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "831"
       }
     }
   ]
