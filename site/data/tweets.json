@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-19T06:01:40.751318+00:00",
-  "generated_at_unix": 1787119300,
+  "generated_at": "2026-08-19T09:02:23.492026+00:00",
+  "generated_at_unix": 1787130143,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-18T16:00:00+00:00",
-  "window_end": "2026-08-19T06:01:40.751318+00:00",
-  "new_this_run": 13,
-  "total_recent": 32,
+  "window_end": "2026-08-19T09:02:23.492026+00:00",
+  "new_this_run": 11,
+  "total_recent": 43,
   "errors": [
     {
-      "username": "SECGov",
+      "username": "BlockchainAssn",
       "error": "The read operation timed out"
     },
     {
-      "username": "RepFrenchHill",
+      "username": "katiebiber",
       "error": "The read operation timed out"
     },
     {
-      "username": "SenRubenGallego",
+      "username": "LindaJeng1",
       "error": "The read operation timed out"
     }
   ],
@@ -25,7 +25,7 @@
     "total_accounts": 76,
     "attempted_this_run": 12,
     "successful_this_run": 12,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +33,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089903872525394141",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T02:34:46+00:00",
+      "text": "What if AI lets us do for intellectual endeavors what DNA did for taxonomy? We categorize thought by its visible traits: law, math, philosophy, programming, history. But those may be like classifying species by appearance. If seemingly unrelated tasks consistently activate the same internal routes in neural networks, we may discover a deeper taxonomy based on the underlying operations of thought itself. Statutory interpretation might turn out to be computationally closer to debugging software than to other kinds of legal reasoning, just as DNA revealed unexpected relationships between species that looked nothing alike. AI may not just learn our categories. It teach us how we misdrew them from the start.",
+      "summary": "What if AI lets us do for intellectual endeavors what DNA did for taxonomy? We categorize thought by its visible traits: law, math, philosophy,…",
+      "url": "https://x.com/valkenburgh/status/2089903872525394141",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "1122"
+      }
+    },
     {
       "id": "2089901462742569352",
       "is_retweet": false,
@@ -56,6 +81,106 @@
         "replies": 861,
         "quotes": 217,
         "views": "448385"
+      }
+    },
+    {
+      "id": "2089848367274950781",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-18T22:54:12+00:00",
+      "text": "Latino business leaders like Mario Guerrero regret voting for Trump. They didn’t vote for ICE to target their neighbors and workers. Abolish ICE and replace it with an enforcement agency that targets criminals, not families. https://t.co/FJjVvVAJsE",
+      "summary": "Latino business leaders like Mario Guerrero regret voting for Trump. They didn’t vote for ICE to target their neighbors and workers. Abolish ICE and…",
+      "url": "https://x.com/RoKhanna/status/2089848367274950781",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 810,
+        "retweets": 129,
+        "replies": 224,
+        "quotes": 14,
+        "views": "34937"
+      }
+    },
+    {
+      "id": "2089843556974281012",
+      "is_retweet": true,
+      "original_author": "millercwl",
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T22:35:06+00:00",
+      "text": "RT @millercwl: For years, developers faced a binary choice: register as a full securities offering or risk enforcement, with no path that reflected how tokens actually mature. Today the @SECGov changed that, giving builders a real, workable path to raise capital and launch in the U.S.",
+      "summary": "RT @millercwl: For years, developers faced a binary choice: register as a full securities offering or risk enforcement, with no path that reflected…",
+      "url": "https://x.com/amandatums/status/2089843556974281012",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "47"
+      }
+    },
+    {
+      "id": "2089832463539515510",
+      "is_retweet": true,
+      "original_author": "SECPaulSAtkins",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-18T21:51:01+00:00",
+      "text": "RT @SECPaulSAtkins: With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto assets. As the Crypto Capital of the World, the U.S. must and will lead. Regulation Crypto Assets will ensure that we do. 🇺🇸 https://t.co/z0MmDF4doV",
+      "summary": "RT @SECPaulSAtkins: With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto…",
+      "url": "https://x.com/patrickjwitt/status/2089832463539515510",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1807,
+        "replies": 0,
+        "quotes": 0,
+        "views": "729"
+      }
+    },
+    {
+      "id": "2089831123274568085",
+      "is_retweet": true,
+      "original_author": "fund_defi",
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T21:45:41+00:00",
+      "text": "RT @fund_defi: Thank you to Chairman @SECPaulSAtkins, Commissioner @HesterPeirce, and the SEC for today’s thoughtful proposal. It is encouraging to see the Commission recognize that blockchain networks can become more decentralized over time, and that this evolution matters under the federal securities laws. This is an important step toward a regulatory framework that better reflects how this technology actually works, and we look forward to future guidance on decentralized networks.",
+      "summary": "RT @fund_defi: Thank you to Chairman @SECPaulSAtkins, Commissioner @HesterPeirce, and the SEC for today’s thoughtful proposal. It is encouraging to…",
+      "url": "https://x.com/amandatums/status/2089831123274568085",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "32"
       }
     },
     {
@@ -234,6 +359,31 @@
       }
     },
     {
+      "id": "2089809515394846879",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-18T20:19:49+00:00",
+      "text": "Today, the @SECGov proposed \"Regulation Crypto Assets,\" its first tailored framework for raising capital with crypto under federal securities law. What it would do: → Create clear pathways to raise capital in the U.S. → Offer two new exemptions ($5M / $75M tiers) → Add a conditional safe harbor once a project is built out → Set one federal standard over 50 state rules → Bring builders back onshore It's a proposal. The comment period is open for 60 days.",
+      "summary": "Today, the @SECGov proposed \"Regulation Crypto Assets,\" its first tailored framework for raising capital with crypto under federal securities law.…",
+      "url": "https://x.com/standwithcrypto/status/2089809515394846879",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 98,
+        "retweets": 22,
+        "replies": 6,
+        "quotes": 2,
+        "views": "6004"
+      }
+    },
+    {
       "id": "2089795314760740992",
       "is_retweet": true,
       "original_author": "SecretaryTurner",
@@ -256,6 +406,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "42042"
+      }
+    },
+    {
+      "id": "2089789227831570760",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T18:59:12+00:00",
+      "text": "It's great to see the SEC move forward with Reg Crypto, which (among other things) would create exemptions for public token sales and a safe harbor from \"investment contract\" classification. This is a critical step toward clarity for the crypto industry and not one day too soon.",
+      "summary": "It's great to see the SEC move forward with Reg Crypto, which (among other things) would create exemptions for public token sales and a safe harbor…",
+      "url": "https://x.com/jchervinsky/status/2089789227831570760",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 140,
+        "retweets": 12,
+        "replies": 8,
+        "quotes": 1,
+        "views": "8936"
       }
     },
     {
@@ -306,6 +481,31 @@
         "replies": 81,
         "quotes": 62,
         "views": "151043"
+      }
+    },
+    {
+      "id": "2089779227335836011",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-18T18:19:28+00:00",
+      "text": "well it's been a year and I'm sad to report that my cholesterol is basically unchanged, slightly worse but very much within typical variation. I still use the filters and will continue because they definitely do improve espresso quality and the east of keeping the machine clean. https://t.co/lOZBu79ZpI",
+      "summary": "well it's been a year and I'm sad to report that my cholesterol is basically unchanged, slightly worse but very much within typical variation. I…",
+      "url": "https://x.com/valkenburgh/status/2089779227335836011",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2067"
       }
     },
     {
@@ -409,6 +609,31 @@
       }
     },
     {
+      "id": "2089774317122834791",
+      "is_retweet": true,
+      "original_author": "FBIDirectorKash",
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-18T17:59:57+00:00",
+      "text": "RT @FBIDirectorKash: 🔻Violent crime DOWN 10.6% 🔻Murder DOWN 23% 🔻Rape DOWN 18.6% 🔻Robbery DOWN 19.6% 🔻Aggravated assault DOWN 7.2% This is what happens when you back law enforcement, empower our cops, and relentlessly pursue violent criminals. @Potus promised to Make America Safe Again — this FBI is helping deliver on that promise. -DKP🇺🇸",
+      "summary": "RT @FBIDirectorKash: 🔻Violent crime DOWN 10.6% 🔻Murder DOWN 23% 🔻Rape DOWN 18.6% 🔻Robbery DOWN 19.6% 🔻Aggravated assault DOWN 7.2% This is what…",
+      "url": "https://x.com/GOPMajorityWhip/status/2089774317122834791",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 851,
+        "replies": 0,
+        "quotes": 0,
+        "views": "666"
+      }
+    },
+    {
       "id": "2089771203854565809",
       "is_retweet": false,
       "original_author": null,
@@ -481,6 +706,56 @@
         "replies": 3,
         "quotes": 0,
         "views": "939"
+      }
+    },
+    {
+      "id": "2089770189990826366",
+      "is_retweet": true,
+      "original_author": "TheBlockCo",
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T17:43:34+00:00",
+      "text": "RT @TheBlockCo: [SALT WBS 2026] Stuart Alderoty – There's a viable path to Clarity and Ripple supports the bill. Ripple is uniquely situated and has already received legal clarity.",
+      "summary": "RT @TheBlockCo: [SALT WBS 2026] Stuart Alderoty – There's a viable path to Clarity and Ripple supports the bill. Ripple is uniquely situated and has…",
+      "url": "https://x.com/s_alderoty/status/2089770189990826366",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 32,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5549"
+      }
+    },
+    {
+      "id": "2089770173821841645",
+      "is_retweet": true,
+      "original_author": "TheBlockCo",
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T17:43:30+00:00",
+      "text": "RT @TheBlockCo: [SALT WBS 2026] Stuart Alderoty – Crypto is having a significant economic impact on everyday people. More people in the United States own crypto than own dogs.",
+      "summary": "RT @TheBlockCo: [SALT WBS 2026] Stuart Alderoty – Crypto is having a significant economic impact on everyday people. More people in the United States…",
+      "url": "https://x.com/s_alderoty/status/2089770173821841645",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 10,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5028"
       }
     },
     {
