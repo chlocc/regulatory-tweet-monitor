@@ -1,31 +1,18 @@
 {
-  "generated_at": "2026-08-19T09:02:23.492026+00:00",
-  "generated_at_unix": 1787130143,
+  "generated_at": "2026-08-19T12:00:01.794810+00:00",
+  "generated_at_unix": 1787140801,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-18T16:00:00+00:00",
-  "window_end": "2026-08-19T09:02:23.492026+00:00",
-  "new_this_run": 11,
-  "total_recent": 43,
-  "errors": [
-    {
-      "username": "BlockchainAssn",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "katiebiber",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "LindaJeng1",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-19T12:00:01.794810+00:00",
+  "new_this_run": 23,
+  "total_recent": 66,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -59,6 +46,31 @@
       }
     },
     {
+      "id": "2089902147689484660",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "TuongvyLe12",
+      "display_name": "TuongVy Le",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T02:27:55+00:00",
+      "text": "This is a cool account of what changes when tokenization moves beyond wrappers. Once assets share a programmable settlement layer, markets can organize around the economic relationships among those assets, instead of routing everything through dollars because legacy infrastructure requires it. Correlated pairs explain where liquidity should sit, but the next (and more interesting IMO) question is how capital gets there. A vault can take assets investors already want to own and allocate them across correlated AMM pairs, lending markets and bridge liquidity, subject to transparent risk limits. Idle capital can earn lending yield when it is not needed for swaps, and long-term holders can supply liquidity without recreating the balance sheet and infrastructure of a traditional market-making firm. Think about it - market making can become just a native portfolio function. Meaning the same capital can serve as an investment position, trading liquidity, and collateral. Tokenization and infra like vaults will change how capital itself is organized and used.",
+      "summary": "This is a cool account of what changes when tokenization moves beyond wrappers. Once assets share a programmable settlement layer, markets can…",
+      "url": "https://x.com/TuongvyLe12/status/2089902147689484660",
+      "type": "quote",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1797"
+      }
+    },
+    {
       "id": "2089901462742569352",
       "is_retweet": false,
       "original_author": null,
@@ -81,6 +93,181 @@
         "replies": 861,
         "quotes": 217,
         "views": "448385"
+      }
+    },
+    {
+      "id": "2089895898042057028",
+      "is_retweet": true,
+      "original_author": "alpha_co",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T02:03:05+00:00",
+      "text": "RT @alpha_co: let builders build cool shit without everyone automatically labeling them scammers for trying new shit we need more innovation and novelty in crypto",
+      "summary": "RT @alpha_co: let builders build cool shit without everyone automatically labeling them scammers for trying new shit we need more innovation and…",
+      "url": "https://x.com/lex_node/status/2089895898042057028",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 15,
+        "replies": 0,
+        "quotes": 0,
+        "views": "605"
+      }
+    },
+    {
+      "id": "2089879027766931838",
+      "is_retweet": true,
+      "original_author": "MeatEsq",
+      "username": "SH_Brennan",
+      "display_name": "Sarah Brennan",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T00:56:02+00:00",
+      "text": "RT @MeatEsq: Still working through the provisions, but unfortunately fundraising provisions limiting eligible issuers to only United States entities renders the exemption extremely impractical absent tax reform. While a company issuing its own equity is generally exempted from tax, under current law sales of tokens that do not represent equity in the issuer would be subject to U.S. tax and carry a significant drag, making it more difficult and less capital efficient to raise via token sale.",
+      "summary": "RT @MeatEsq: Still working through the provisions, but unfortunately fundraising provisions limiting eligible issuers to only United States entities…",
+      "url": "https://x.com/SH_Brennan/status/2089879027766931838",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "12"
+      }
+    },
+    {
+      "id": "2089870793899405500",
+      "is_retweet": true,
+      "original_author": "d_gusakov",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T00:23:19+00:00",
+      "text": "RT @d_gusakov: Community Staking Module keeps growing. Home Staking is the key for @ethereum decentralization and censorship resistance!",
+      "summary": "RT @d_gusakov: Community Staking Module keeps growing. Home Staking is the key for @ethereum decentralization and censorship resistance!",
+      "url": "https://x.com/lex_node/status/2089870793899405500",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "628"
+      }
+    },
+    {
+      "id": "2089864504423199038",
+      "is_retweet": true,
+      "original_author": "MarcGoldich",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T23:58:20+00:00",
+      "text": "RT @MarcGoldich: 8 citations to LeXpunK’s Gensler-Era “Regulation X Proposal” in the SEC’s new Regulation Crypto Assets release. Good company alongside many of our frens’ work too.",
+      "summary": "RT @MarcGoldich: 8 citations to LeXpunK’s Gensler-Era “Regulation X Proposal” in the SEC’s new Regulation Crypto Assets release. Good company…",
+      "url": "https://x.com/lex_node/status/2089864504423199038",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "620"
+      }
+    },
+    {
+      "id": "2089856180885553644",
+      "is_retweet": true,
+      "original_author": "asglidden",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T23:25:15+00:00",
+      "text": "RT @asglidden: Most blockchain apps should just be run as companies using the native network token as a fee instead of this dog and pony show.",
+      "summary": "RT @asglidden: Most blockchain apps should just be run as companies using the native network token as a fee instead of this dog and pony show.",
+      "url": "https://x.com/lex_node/status/2089856180885553644",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "661"
+      }
+    },
+    {
+      "id": "2089852227313623111",
+      "is_retweet": true,
+      "original_author": "rleshner",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T23:09:33+00:00",
+      "text": "RT @rleshner: The Reg-Crypto proposal is the culmination of years of effort. Congratulations to the entire SEC staff and commission on defining a clear framework for token capital formation 🇺🇸",
+      "summary": "RT @rleshner: The Reg-Crypto proposal is the culmination of years of effort. Congratulations to the entire SEC staff and commission on defining a…",
+      "url": "https://x.com/NYcryptolawyer/status/2089852227313623111",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "99"
+      }
+    },
+    {
+      "id": "2089852151161905306",
+      "is_retweet": true,
+      "original_author": "BirdnalsLAW",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T23:09:15+00:00",
+      "text": "RT @BirdnalsLAW: 82+ SEC staff across 8 offices/divisions at the SEC had a hand in this 402 page rulemaking proposal. We are all still working to pass Clarity, odds be damned, but the SEC is \"ensuring American markets, not foreign jurisdictions, write the next chapter of financial innovation.\"",
+      "summary": "RT @BirdnalsLAW: 82+ SEC staff across 8 offices/divisions at the SEC had a hand in this 402 page rulemaking proposal. We are all still working to…",
+      "url": "https://x.com/NYcryptolawyer/status/2089852151161905306",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "99"
       }
     },
     {
@@ -109,6 +296,31 @@
       }
     },
     {
+      "id": "2089847554246619606",
+      "is_retweet": true,
+      "original_author": "asglidden",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T22:50:59+00:00",
+      "text": "RT @asglidden: Probably nothing. (But if it means something to you, consider hiring @MetaLeX_Labs/@lex_node/me) https://t.co/1DbIpSMqqL",
+      "summary": "RT @asglidden: Probably nothing. (But if it means something to you, consider hiring @MetaLeX_Labs/@lex_node/me) https://t.co/1DbIpSMqqL",
+      "url": "https://x.com/lex_node/status/2089847554246619606",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "671"
+      }
+    },
+    {
       "id": "2089843556974281012",
       "is_retweet": true,
       "original_author": "millercwl",
@@ -131,6 +343,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "47"
+      }
+    },
+    {
+      "id": "2089843221497000297",
+      "is_retweet": true,
+      "original_author": "milesjennings",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T22:33:46+00:00",
+      "text": "RT @milesjennings: This is a huge step forward for the crypto industry — one that provides a new path for builders of blockchain tech to raise capital and operate transparently. The window for Congress to influence crypto regulation is closing. Pass CLARITY or abdicate.",
+      "summary": "RT @milesjennings: This is a huge step forward for the crypto industry — one that provides a new path for builders of blockchain tech to raise…",
+      "url": "https://x.com/lex_node/status/2089843221497000297",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "651"
       }
     },
     {
@@ -284,6 +521,81 @@
       }
     },
     {
+      "id": "2089822870197109170",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T21:12:53+00:00",
+      "text": "RT @laurashin: \"We don't really have 100 billion dollars of security, we really have 5 million a day\" EIP-8363 critic Oisin Kyne on the censorship risk he says the proposal underrates \"The main reason I'm not happy with the current proposed curve is this idea of it going to zero. There's more than one metric that matters for Ethereum security. The one put up front is finality, we have this amount of ETH that will be guaranteed burned if a transaction ever becomes undone, and I agree the research says tens of billions of dollars getting destroyed is probably enough disincentive\" \"Where we diverge is that's not the only thing that can go wrong. We also have this risk where the people staking their ETH decide to be particular about what they include in a block, saying we're only going to attest to blocks that do what we want, that don't have people we don't like in them. If they do that there's no penalty, so long as there's 51% of them or more doing it, it costs them nothing\" \"The plan we have is, oh no, maybe we'll coordinate as a group and destroy all their ether for doing so, but I think that's a very big risk to hedge all of Ethereum security on. I don't think we should be sacrificing censorship resistance for the staking ratio\" \"The fancy word is the Nakamoto coefficient, which comes from Bitcoin, this idea of how few orgs make up 50% of hash power or stake weight. We don't really have 100 billion dollars of security, we really have 5 million a day at the current curve, and depending on where the equilibrium lands it might be a million dollars a day or less. I don't know if that's enough to protect a trillion dollar computer\"",
+      "summary": "RT @laurashin: \"We don't really have 100 billion dollars of security, we really have 5 million a day\" EIP-8363 critic Oisin Kyne on the censorship…",
+      "url": "https://x.com/lex_node/status/2089822870197109170",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "589"
+      }
+    },
+    {
+      "id": "2089819234435993809",
+      "is_retweet": true,
+      "original_author": "mollyisonchain",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T20:58:27+00:00",
+      "text": "RT @mollyisonchain: Words can't totally describe the surreal feeling of supporting a single company through a period where we petitioned for rules (and were ignored), received a Wells notice and got sued by the SEC, only to see the SEC now deliver 402(!) pages of Reg Crypto. Have never been so excited or inspired to dig in. Thank you to the @SECGov and @SECPaulSAtkins for the huge amount of work to release this.",
+      "summary": "RT @mollyisonchain: Words can't totally describe the surreal feeling of supporting a single company through a period where we petitioned for rules…",
+      "url": "https://x.com/NYcryptolawyer/status/2089819234435993809",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "101"
+      }
+    },
+    {
+      "id": "2089819228488577334",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T20:58:25+00:00",
+      "text": "also I def agree with @laurashin story, SIFMA or Citadel or \"Better Markets\" whoever will sue the SEC over these proposed rules...should be interesting...",
+      "summary": "also I def agree with @laurashin story, SIFMA or Citadel or \"Better Markets\" whoever will sue the SEC over these proposed rules...should be…",
+      "url": "https://x.com/lex_node/status/2089819228488577334",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2681"
+      }
+    },
+    {
       "id": "2089815124336955723",
       "is_retweet": true,
       "original_author": "zerolore",
@@ -334,6 +646,31 @@
       }
     },
     {
+      "id": "2089813765483028971",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T20:36:43+00:00",
+      "text": "the SEC could've cabined things either by going with the Cohen doctrine (secondary sales are not part of the investment contract scheme) or by requiring the \"promises or representations\" to be fairly explicit (rejecting LBRY incentive alignment reasoning)...either one would (imo) depart from Howey, but it had to be cabined somehow to make this manageable...they went with the latter...so teams will be incentivized to promise/represent very little from now on...question is how limited they can be while still making the token attractive to buy. . .",
+      "summary": "the SEC could've cabined things either by going with the Cohen doctrine (secondary sales are not part of the investment contract scheme) or by…",
+      "url": "https://x.com/lex_node/status/2089813765483028971",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 57,
+        "retweets": 0,
+        "replies": 13,
+        "quotes": 6,
+        "views": "8851"
+      }
+    },
+    {
       "id": "2089810679402520848",
       "is_retweet": false,
       "original_author": null,
@@ -356,6 +693,31 @@
         "replies": 137,
         "quotes": 24,
         "views": "111805"
+      }
+    },
+    {
+      "id": "2089810348379697325",
+      "is_retweet": true,
+      "original_author": "JBSDC",
+      "username": "MTCoppel",
+      "display_name": "Marisa Tashman Coppel",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T20:23:08+00:00",
+      "text": "RT @JBSDC: Cheat sheet for everyone: - Rule text starts on page 320 and ends on 355, everything before that is commentary, after is paperwork/appendices. - Crypto asset (324) is defined as any digital representation of value recorded on a cryptographically-secured distribution layer, but this only applies to subject crypto assets, which are those subject to a \"covered investment contract.\" @NYcryptolawyer's ineluctable modalities point is now in regulation - SEC is saying that a firm attempting to comply with this regulation in good faith shouldn't face enforcement actions (325). - Up to $75 million of a covered crypto security can be sold each year (333).",
+      "summary": "RT @JBSDC: Cheat sheet for everyone: - Rule text starts on page 320 and ends on 355, everything before that is commentary, after is…",
+      "url": "https://x.com/MTCoppel/status/2089810348379697325",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "34"
       }
     },
     {
@@ -384,6 +746,131 @@
       }
     },
     {
+      "id": "2089808847628079245",
+      "is_retweet": true,
+      "original_author": "z0r0zzz",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T20:17:10+00:00",
+      "text": "RT @z0r0zzz: ok. Going to be like 2 days of crypto lawyers summarizing things. Just pop it into claude.",
+      "summary": "RT @z0r0zzz: ok. Going to be like 2 days of crypto lawyers summarizing things. Just pop it into claude.",
+      "url": "https://x.com/lex_node/status/2089808847628079245",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "661"
+      }
+    },
+    {
+      "id": "2089804416077451522",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:59:34+00:00",
+      "text": "given we're about to have actual laws for crypto offerings, they were mostly as I predicted, and I'm cited a few times in the release, if any BigLaw firms or launchpads want to give me a 7-fig deal to navigate this, my DMs are open, perhaps it's time https://t.co/zebg33kns8",
+      "summary": "given we're about to have actual laws for crypto offerings, they were mostly as I predicted, and I'm cited a few times in the release, if any BigLaw…",
+      "url": "https://x.com/lex_node/status/2089804416077451522",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 153,
+        "retweets": 8,
+        "replies": 13,
+        "quotes": 0,
+        "views": "8292"
+      }
+    },
+    {
+      "id": "2089802811454394690",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:53:11+00:00",
+      "text": "blitzed the SEC release with AI and skimming....,it's crazy that after so many years of tweeting, arguing with other lawyers, writing random letters and giving talks, the rules turned out almost exactly as I thought they should, with secondary transactions still being deemed part of the investment contract scheme, unless the investment contract has been fulfilled (with decentralization being one way to do that, if the point of the project was to create something decentralized...though importantly non-decentralized projects can theoretically qualify). . .",
+      "summary": "blitzed the SEC release with AI and skimming....,it's crazy that after so many years of tweeting, arguing with other lawyers, writing random letters…",
+      "url": "https://x.com/lex_node/status/2089802811454394690",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 120,
+        "retweets": 4,
+        "replies": 13,
+        "quotes": 0,
+        "views": "6136"
+      }
+    },
+    {
+      "id": "2089797805426565337",
+      "is_retweet": true,
+      "original_author": "JBSDC",
+      "username": "NYcryptolawyer",
+      "display_name": "Lewis Cohen",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:33:18+00:00",
+      "text": "RT @JBSDC: Cheat sheet for everyone: - Rule text starts on page 320 and ends on 355, everything before that is commentary, after is paperwork/appendices. - Crypto asset (324) is defined as any digital representation of value recorded on a cryptographically-secured distribution layer, but this only applies to subject crypto assets, which are those subject to a \"covered investment contract.\" @NYcryptolawyer's ineluctable modalities point is now in regulation - SEC is saying that a firm attempting to comply with this regulation in good faith shouldn't face enforcement actions (325). - Up to $75 million of a covered crypto security can be sold each year (333).",
+      "summary": "RT @JBSDC: Cheat sheet for everyone: - Rule text starts on page 320 and ends on 355, everything before that is commentary, after is…",
+      "url": "https://x.com/NYcryptolawyer/status/2089797805426565337",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "102"
+      }
+    },
+    {
+      "id": "2089797768735044090",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "MTCoppel",
+      "display_name": "Marisa Tashman Coppel",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:33:09+00:00",
+      "text": "1/ We've been waiting for this. The SEC proposed \"Regulation Crypto Assets,\" which relates to token offerings. If you ship token products, this is the framework that's been missing. A few thoughts from the product counsel perspective. https://t.co/5t7dSijd8m",
+      "summary": "1/ We've been waiting for this. The SEC proposed \"Regulation Crypto Assets,\" which relates to token offerings. If you ship token products, this is…",
+      "url": "https://x.com/MTCoppel/status/2089797768735044090",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": "719"
+      }
+    },
+    {
       "id": "2089795314760740992",
       "is_retweet": true,
       "original_author": "SecretaryTurner",
@@ -406,6 +893,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "42042"
+      }
+    },
+    {
+      "id": "2089789766023668007",
+      "is_retweet": true,
+      "original_author": "SECPaulSAtkins",
+      "username": "RSSH273",
+      "display_name": "Rodrigo",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:01:21+00:00",
+      "text": "RT @SECPaulSAtkins: With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto assets. As the Crypto Capital of the World, the U.S. must and will lead. Regulation Crypto Assets will ensure that we do. 🇺🇸 https://t.co/z0MmDF4doV",
+      "summary": "RT @SECPaulSAtkins: With our new proposal, the SEC is taking the most historic step yet to modernize federal securities regulations for crypto…",
+      "url": "https://x.com/RSSH273/status/2089789766023668007",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1861,
+        "replies": 0,
+        "quotes": 0,
+        "views": "63"
       }
     },
     {
@@ -481,6 +993,56 @@
         "replies": 81,
         "quotes": 62,
         "views": "151043"
+      }
+    },
+    {
+      "id": "2089786910084321575",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RSSH273",
+      "display_name": "Rodrigo",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T18:50:00+00:00",
+      "text": "After a last minute cancellation of the planned open meeting last Friday, the SEC just posted the long awaited Reg Crypto rule This is every crypto lawyer's Superbowl... time do dig in!",
+      "summary": "After a last minute cancellation of the planned open meeting last Friday, the SEC just posted the long awaited Reg Crypto rule This is every crypto…",
+      "url": "https://x.com/RSSH273/status/2089786910084321575",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 81,
+        "retweets": 6,
+        "replies": 3,
+        "quotes": 1,
+        "views": "15814"
+      }
+    },
+    {
+      "id": "2089783394330980635",
+      "is_retweet": true,
+      "original_author": "ethos_network",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T18:36:02+00:00",
+      "text": "RT @ethos_network: sorry, the sticker packs were not real you'll probably like this better anyways https://t.co/uWE0VDnVLz",
+      "summary": "RT @ethos_network: sorry, the sticker packs were not real you'll probably like this better anyways https://t.co/uWE0VDnVLz",
+      "url": "https://x.com/lex_node/status/2089783394330980635",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 41,
+        "replies": 0,
+        "quotes": 0,
+        "views": "683"
       }
     },
     {
