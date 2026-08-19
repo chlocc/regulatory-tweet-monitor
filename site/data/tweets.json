@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-19T12:00:01.794810+00:00",
-  "generated_at_unix": 1787140801,
+  "generated_at": "2026-08-19T15:00:50.587379+00:00",
+  "generated_at_unix": 1787151650,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-18T16:00:00+00:00",
-  "window_end": "2026-08-19T12:00:01.794810+00:00",
-  "new_this_run": 23,
-  "total_recent": 66,
-  "errors": [],
+  "window_end": "2026-08-19T15:00:50.587379+00:00",
+  "new_this_run": 29,
+  "total_recent": 95,
+  "errors": [
+    {
+      "username": "JohnEDeaton1",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 45,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,281 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2090089467071664220",
+      "is_retweet": true,
+      "original_author": "KhurramDara",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T14:52:15+00:00",
+      "text": "RT @KhurramDara: The Reg Crypto release spills A LOT of ink on the history/background here and the sequence of events leading up to this proposal. Many folks will understandably gloss over it but it's pretty important because it can help reduce litigation/political/narrative risk. We'll probably see some headlines or spin from critics that characterizes Reg Crypto as an industry \"giveaway\" or somehow ties it to CLARITY and implies this was done on a whim. Very, very far from it... The release explains the SEC's approach to crypto pre-2025 and the \"regulation by enforcement\" era, and then lays out how beginning in 2025 the SEC: -Established the crypto task force -Held a series of roundtables and took meetings with the public -Solicited written public input on specific questions (re security status, what should be scoped out, public offerings, safe harbor from registration, among others) -Began issuing staff statements to provide clarity on a range of topics (e.g. memecoins, mining, staking, liquid staking, tokenized securities) -Participated in the PWG which specifically recommended the SEC develop fit for purpose rules and a safe harbor -Launched Project Crypto -Then in 2026 released interpretive guidance on the application of securities laws to crypto assets All of this led up to yesterday's release of Regulation Crypto Assets. And even in this release, there are 140+ questions the SEC is seeking comment from the public on. The SEC is making it clear that this is a thoughtful and deliberative proposal that was a product of a transparent and public process, not just something they threw up because commission leadership or this admin wants them to be \"pro crypto.\" Will be extremely helpful in case Reg Crypto becomes a political football or other industry groups attempt to challenge it.",
+      "summary": "RT @KhurramDara: The Reg Crypto release spills A LOT of ink on the history/background here and the sequence of events leading up to this proposal.…",
+      "url": "https://x.com/KhurramDara/status/2090089467071664220",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090089442467881230",
+      "is_retweet": true,
+      "original_author": "brendanpmalone",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T14:52:09+00:00",
+      "text": "RT @brendanpmalone: If you're unsure whether talking to the government has an actual impact on policy/regulation, I am here to tell you it does. Here's an analysis of citations in the SEC's new Reg Crypto, which it released yesterday. https://t.co/w7YWKDhBSj",
+      "summary": "RT @brendanpmalone: If you're unsure whether talking to the government has an actual impact on policy/regulation, I am here to tell you it does.…",
+      "url": "https://x.com/KhurramDara/status/2090089442467881230",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1"
+      }
+    },
+    {
+      "id": "2090089162544185633",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T14:51:02+00:00",
+      "text": "The Reg Crypto release spills A LOT of ink on the history/background here and the sequence of events leading up to this proposal. Many folks will understandably gloss over it but it's pretty important because it can help reduce litigation/political/narrative risk. We'll probably see some headlines or spin from critics that characterizes Reg Crypto as an industry \"giveaway\" or somehow ties it to CLARITY and implies this was done on a whim. Very, very far from it... The release explains the SEC's approach to crypto pre-2025 and the \"regulation by enforcement\" era, and then lays out how beginning in 2025 the SEC: -Established the crypto task force -Held a series of roundtables and took meetings with the public -Solicited written public input on specific questions (re security status, what should be scoped out, public offerings, safe harbor from registration, among others) -Began issuing staff statements to provide clarity on a range of topics (e.g. memecoins, mining, staking, liquid staking, tokenized securities) -Participated in the PWG which specifically recommended the SEC develop fit for purpose rules and a safe harbor -Launched Project Crypto -Then in 2026 released interpretive guidance on the application of securities laws to crypto assets All of this led up to yesterday's release of Regulation Crypto Assets. And even in this release, there are 140+ questions the SEC is seeking comment from the public on. The SEC is making it clear that this is a thoughtful and deliberative proposal that was a product of a transparent and public process, not just something they threw up because commission leadership or this admin wants them to be \"pro crypto.\" Will be extremely helpful in case Reg Crypto becomes a political football or other industry groups attempt to challenge it.",
+      "summary": "The Reg Crypto release spills A LOT of ink on the history/background here and the sequence of events leading up to this proposal. Many folks will…",
+      "url": "https://x.com/KhurramDara/status/2090089162544185633",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "87"
+      }
+    },
+    {
+      "id": "2090082486604677398",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T14:24:31+00:00",
+      "text": "\"The Marmotcoin has become real. Not Preston’s Marmotcoin exactly, but something remarkably close to the joke he started all those years ago.\" - @Chris_Skinner on solana:HBrfYZgeLKdSvBBGnGkvAK4563pq8oBGpgNFAaespump https://t.co/Lwi2bgeere",
+      "summary": "\"The Marmotcoin has become real. Not Preston’s Marmotcoin exactly, but something remarkably close to the joke he started all those years ago.\" -…",
+      "url": "https://x.com/prestonjbyrne/status/2090082486604677398",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 51,
+        "retweets": 17,
+        "replies": 18,
+        "quotes": 9,
+        "views": "2752"
+      }
+    },
+    {
+      "id": "2090068196946530669",
+      "is_retweet": true,
+      "original_author": "arctotherium42",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T13:27:44+00:00",
+      "text": "RT @arctotherium42: The most prominent members of the US censorship-industrial complex have largely moved overseas during Trump II, to lobby Canada, the EU, and Britain to treat the US as an \"autocracy\" for no longer censoring the Internet as much as pre-2024. https://t.co/A5hNb4AQBy",
+      "summary": "RT @arctotherium42: The most prominent members of the US censorship-industrial complex have largely moved overseas during Trump II, to lobby Canada,…",
+      "url": "https://x.com/prestonjbyrne/status/2090068196946530669",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 162,
+        "replies": 0,
+        "quotes": 0,
+        "views": "205"
+      }
+    },
+    {
+      "id": "2090036302972596519",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T11:21:00+00:00",
+      "text": "A new report found that 92% of Canada's regulations are compliance-related. Less than 20% were aimed at efficiency, growth or innovation. @BlairWiley of @Wealthsimple on how regulators can better support innovation in Canada: \"If Canadian regulators are going to support Canadian innovation, they have to enable innovators to move at the speed necessary to be competitive.\"",
+      "summary": "A new report found that 92% of Canada's regulations are compliance-related. Less than 20% were aimed at efficiency, growth or innovation. @BlairWiley…",
+      "url": "https://x.com/JacobRobinsonJD/status/2090036302972596519",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "513"
+      }
+    },
+    {
+      "id": "2090031410929078500",
+      "is_retweet": true,
+      "original_author": "arctotherium42",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T11:01:33+00:00",
+      "text": "RT @arctotherium42: Like Britain, the German government is planning to force tech platforms to algorithmically prioritize approved sources/outlets. https://t.co/VAfZa3TZ4i",
+      "summary": "RT @arctotherium42: Like Britain, the German government is planning to force tech platforms to algorithmically prioritize approved sources/outlets.…",
+      "url": "https://x.com/prestonjbyrne/status/2090031410929078500",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 16,
+        "replies": 0,
+        "quotes": 0,
+        "views": "246"
+      }
+    },
+    {
+      "id": "2090027036135821567",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T10:44:10+00:00",
+      "text": "The United States needs a robust censorship shield law because foreign political parties, with interests not necessarily aligned with ours, are increasingly emboldened these days to use state power to control information Americans can see and exchange about their countries.",
+      "summary": "The United States needs a robust censorship shield law because foreign political parties, with interests not necessarily aligned with ours, are…",
+      "url": "https://x.com/prestonjbyrne/status/2090027036135821567",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 110,
+        "retweets": 27,
+        "replies": 2,
+        "quotes": 1,
+        "views": "2489"
+      }
+    },
+    {
+      "id": "2090021382595723537",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T10:21:42+00:00",
+      "text": "Love that line in Blind Melon’s Change “And I know we can’t all stay here forever, so I’m gonna write my words on the face of today…and then they’ll paint it.” Man I gotta finish that book on crypto privacy for MIT. It came back with a ton of revisions (and lucky I have so many clients rn that need stuff!) But gotta get back to it.",
+      "summary": "Love that line in Blind Melon’s Change “And I know we can’t all stay here forever, so I’m gonna write my words on the face of today…and then they’ll…",
+      "url": "https://x.com/theblockprof/status/2090021382595723537",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "221"
+      }
+    },
+    {
+      "id": "2090012436652818690",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T09:46:10+00:00",
+      "text": "RT @theblockprof: IOSCO are puppets manipulated by the SEC pass it on. They make a little puppet man with their fingers who says “regulate DeFi” then say “you see, the international community says to regulate DeFi” https://t.co/IAaKmzeD7O",
+      "summary": "RT @theblockprof: IOSCO are puppets manipulated by the SEC pass it on. They make a little puppet man with their fingers who says “regulate DeFi” then…",
+      "url": "https://x.com/theblockprof/status/2090012436652818690",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090011975866634332",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T09:44:20+00:00",
+      "text": "RT @theblockprof: Heres how I feel reading the reference to my advocacy in FN 27 of Reg Crypto today. https://t.co/m1mURG8Zhv",
+      "summary": "RT @theblockprof: Heres how I feel reading the reference to my advocacy in FN 27 of Reg Crypto today. https://t.co/m1mURG8Zhv",
+      "url": "https://x.com/theblockprof/status/2090011975866634332",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
     {
       "id": "2089903872525394141",
       "is_retweet": false,
@@ -121,6 +401,56 @@
       }
     },
     {
+      "id": "2089880370955026448",
+      "is_retweet": true,
+      "original_author": "cantbesilentcal",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T01:01:23+00:00",
+      "text": "RT @cantbesilentcal: I'm looking forward to filing the GRANITE Act during the next legislative session in the Granite State. New Hampshire should be the world's granite fortress of free speech!",
+      "summary": "RT @cantbesilentcal: I'm looking forward to filing the GRANITE Act during the next legislative session in the Granite State. New Hampshire should be…",
+      "url": "https://x.com/prestonjbyrne/status/2089880370955026448",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "311"
+      }
+    },
+    {
+      "id": "2089880310762614901",
+      "is_retweet": true,
+      "original_author": "Paul_Taske",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T01:01:08+00:00",
+      "text": "RT @Paul_Taske: The internet is the greatest tool for free expression since the printing press. Censorship remains a tool of bullies and totalitarians. Fundamentally, it is a tool rooted in fear. Fear of truth, fear of education, enlightenment, and human connection. It is no wonder that the first move of any authoritarian regime is usually to place severe restrictions on speech--or to cause a communications blackout. It's about siezing power, centralizing control, and making it more difficult for dissenters to be heard (e.g., Iran, North Korea, China, Russia, etc.) Fortunately, the United States is uniquely positioned to stave off the censorship creep. Our First Amendment is not just symbolic puffery. It is a bulwark against domestic censorship, whether homegrown or imported. But foreign countries are not so well-positioned. The UK, Australia, Spain, and the EU broadly, are all flirting with censorship regimes of one form or another. It's always encouraging when we see pushback against censorship's most extreme forms. For example, @Starlink has been instrumental in combatting media blackouts in Ukraine (Russian war tactic) and recently Iran(!!). But the global censorship cartels aren't giving up. The U.S. remains a beacon of freedom the world over. Our commitment to free expression is strong, and we should not cede an inch. Any avenue to fortify our own speech protections are worth exploring -- including, but not necessarily limited to, @prestonjbyrne's efforts with the GRANITE Act. Censors the world over need to receive a clear message: Pound sand.",
+      "summary": "RT @Paul_Taske: The internet is the greatest tool for free expression since the printing press. Censorship remains a tool of bullies and…",
+      "url": "https://x.com/prestonjbyrne/status/2089880310762614901",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 49,
+        "replies": 0,
+        "quotes": 0,
+        "views": "293"
+      }
+    },
+    {
       "id": "2089879027766931838",
       "is_retweet": true,
       "original_author": "MeatEsq",
@@ -168,6 +498,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "628"
+      }
+    },
+    {
+      "id": "2089870547471523948",
+      "is_retweet": true,
+      "original_author": "MarcGoldich",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T00:22:21+00:00",
+      "text": "RT @MarcGoldich: 8 citations to LeXpunK’s Gensler-Era “Regulation X Proposal” in the SEC’s new Regulation Crypto Assets release. Good company alongside many of our frens’ work too.",
+      "summary": "RT @MarcGoldich: 8 citations to LeXpunK’s Gensler-Era “Regulation X Proposal” in the SEC’s new Regulation Crypto Assets release. Good company…",
+      "url": "https://x.com/theblockprof/status/2089870547471523948",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "108"
+      }
+    },
+    {
+      "id": "2089870168503595262",
+      "is_retweet": true,
+      "original_author": "NateGeraci",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T00:20:50+00:00",
+      "text": "RT @NateGeraci: SEC Commissioner Hester Peirce off the top rope… “A whole generation has struggled with the SEC’s insistence, without regard for adverse effects on investors & entrepreneurs, that people apply a set of inapt rules to crypto.” In less than two years, SEC’s approach to crypto has gone from harsh regulation by enforcement to commonsense regulation aimed at fostering innovation. Love to see it.",
+      "summary": "RT @NateGeraci: SEC Commissioner Hester Peirce off the top rope… “A whole generation has struggled with the SEC’s insistence, without regard for…",
+      "url": "https://x.com/HaileyLennonBTC/status/2089870168503595262",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 19,
+        "replies": 0,
+        "quotes": 0,
+        "views": "238"
+      }
+    },
+    {
+      "id": "2089866401175453770",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T00:05:52+00:00",
+      "text": "RT @ReclaimTheNetHQ: Five groups that campaigned for Britain's Online Safety Act are now pushing age verification and digital ID bills in 21 US states and Congress. Four of them are British. One of them is the trade association for the companies that sell the age checks.",
+      "summary": "RT @ReclaimTheNetHQ: Five groups that campaigned for Britain's Online Safety Act are now pushing age verification and digital ID bills in 21 US…",
+      "url": "https://x.com/prestonjbyrne/status/2089866401175453770",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 430,
+        "replies": 0,
+        "quotes": 0,
+        "views": "301"
       }
     },
     {
@@ -421,6 +826,31 @@
       }
     },
     {
+      "id": "2089830436738392452",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T21:42:57+00:00",
+      "text": "RT @ReclaimTheNetHQ: Report: British Groups Push Age Verification Bills in 21 US States https://t.co/Zi4jSMP5dY",
+      "summary": "RT @ReclaimTheNetHQ: Report: British Groups Push Age Verification Bills in 21 US States https://t.co/Zi4jSMP5dY",
+      "url": "https://x.com/prestonjbyrne/status/2089830436738392452",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 166,
+        "replies": 0,
+        "quotes": 0,
+        "views": "312"
+      }
+    },
+    {
       "id": "2089824553958523270",
       "is_retweet": true,
       "original_author": "SecretaryBurgum",
@@ -521,6 +951,56 @@
       }
     },
     {
+      "id": "2089823382879477982",
+      "is_retweet": true,
+      "original_author": "L0laL33tz",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T21:14:56+00:00",
+      "text": "RT @L0laL33tz: You’ve heard of Chainalysis suing the US over an ICE surveillance contract. What you haven’t heard is what the task force that set out the contract is actually about. The US used to dismantle drug networks by prosecuting them. For 40 years that was OCDETF, a Justice Department program that put federal prosecutors at the center of every major transnational crime investigation. It was shut down last year. 30 permanent Homeland Security Task Forces replaced it, created by executive order, with the governing role delegated to Homeland Security Investigations, the law enforcement arm of ICE, and the second largest investigative agency in the US. The new model, in the words of OCDETF's former director Thomas Padden, \"eliminates the role of prosecutors.” Its termination, Padden wrote, \"comes as the Trump Administration ceases the United States' lawful maritime drug interdiction mission in favor of its questionable use of military strikes against alleged drug smuggling vessels.\" Padden warned Congress in March that with prosecutors out of the loop, information sharing between law enforcement, the intelligence community and the military is \"unclear.\" Now the task forces that inherited the OCDETF’s casework are buying blockchain surveillance tools at a record level. The ICE contract Chainalysis is suing over is the largest such contract in US history and roughly three-quarters of everything the US government has ever spent on blockchain tracing with a single contractor. According to ICE’s statement of need, the tools are meant to help the task forces Cybercrime Disruption Center (CDC) to combat cybercrime. But the CDC doesn’t even seem to have a website, nor are cybercrime disruptions listed as a core responsibility of the HSTF. In effect, it seems that the CDC does not exist at all in public view apart from its procurement records. For context, ICE’s HSI is the same agency Senator Ron Wyden asked the DOJ to investigate in 2023 after it obtained millions of Americans' money transfer records, which he described as “mass surveillance.” The same agency documented monitoring lawful protests, pulling demonstrators into unmarked vans, accused of unproportionately targeting people of color, and painting immigrant youth as gang members with questionable evidence. Whoever wins the contract battle, an HSI cybercrime center without a website now has close to $100M in blockchain surveillance capabilities.",
+      "summary": "RT @L0laL33tz: You’ve heard of Chainalysis suing the US over an ICE surveillance contract. What you haven’t heard is what the task force that set out…",
+      "url": "https://x.com/theblockprof/status/2089823382879477982",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 19,
+        "replies": 0,
+        "quotes": 0,
+        "views": "118"
+      }
+    },
+    {
+      "id": "2089823306367033584",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T21:14:37+00:00",
+      "text": "This is just getting comical at this point",
+      "summary": "This is just getting comical at this point",
+      "url": "https://x.com/HaileyLennonBTC/status/2089823306367033584",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 2,
+        "replies": 4,
+        "quotes": 0,
+        "views": "3289"
+      }
+    },
+    {
       "id": "2089822870197109170",
       "is_retweet": true,
       "original_author": "laurashin",
@@ -543,6 +1023,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "589"
+      }
+    },
+    {
+      "id": "2089822500926435681",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T21:11:25+00:00",
+      "text": "Heres how I feel reading the reference to my advocacy in FN 27 of Reg Crypto today. https://t.co/m1mURG8Zhv",
+      "summary": "Heres how I feel reading the reference to my advocacy in FN 27 of Reg Crypto today. https://t.co/m1mURG8Zhv",
+      "url": "https://x.com/theblockprof/status/2089822500926435681",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "617"
       }
     },
     {
@@ -721,6 +1226,31 @@
       }
     },
     {
+      "id": "2089810317207376048",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T20:23:01+00:00",
+      "text": "Reg Crypto fact sheet👇 https://t.co/upODZzQEoH",
+      "summary": "Reg Crypto fact sheet👇 https://t.co/upODZzQEoH",
+      "url": "https://x.com/JacobRobinsonJD/status/2089810317207376048",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1653"
+      }
+    },
+    {
       "id": "2089809515394846879",
       "is_retweet": false,
       "original_author": null,
@@ -821,6 +1351,31 @@
       }
     },
     {
+      "id": "2089800589660078167",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:44:21+00:00",
+      "text": "The banks are building on the misconceptions around crypto to try to win the fight in Washington. It's critical to debunk these myths now more than ever.",
+      "summary": "The banks are building on the misconceptions around crypto to try to win the fight in Washington. It's critical to debunk these myths now more than…",
+      "url": "https://x.com/CryptoLawUS/status/2089800589660078167",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 1,
+        "views": "5441"
+      }
+    },
+    {
       "id": "2089797805426565337",
       "is_retweet": true,
       "original_author": "JBSDC",
@@ -871,6 +1426,31 @@
       }
     },
     {
+      "id": "2089796907132412252",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:29:43+00:00",
+      "text": "Proposed SEC regulations 👇",
+      "summary": "Proposed SEC regulations 👇",
+      "url": "https://x.com/HaileyLennonBTC/status/2089796907132412252",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2802"
+      }
+    },
+    {
       "id": "2089795314760740992",
       "is_retweet": true,
       "original_author": "SecretaryTurner",
@@ -893,6 +1473,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "42042"
+      }
+    },
+    {
+      "id": "2089794962363744637",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:22:00+00:00",
+      "text": "Tokenized securities in Canada are legal. Have been for a while. @BurgoyneMatt has helped clients issue them. \"The real issue is liquidity and lack of interest. But that has changed.\" https://t.co/hWdFAfH2sK",
+      "summary": "Tokenized securities in Canada are legal. Have been for a while. @BurgoyneMatt has helped clients issue them. \"The real issue is liquidity and lack…",
+      "url": "https://x.com/JacobRobinsonJD/status/2089794962363744637",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "497"
+      }
+    },
+    {
+      "id": "2089794605080367131",
+      "is_retweet": true,
+      "original_author": "KhurramDara",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:20:35+00:00",
+      "text": "RT @KhurramDara: Regulation Crypto Assets just dropped 👀 https://t.co/beSODpdtd8 https://t.co/j5EDnreLKz",
+      "summary": "RT @KhurramDara: Regulation Crypto Assets just dropped 👀 https://t.co/beSODpdtd8 https://t.co/j5EDnreLKz",
+      "url": "https://x.com/KhurramDara/status/2089794605080367131",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2089790243188682957",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T19:03:15+00:00",
+      "text": "Regulation Crypto Assets just dropped 👀 https://t.co/beSODpdtd8 https://t.co/j5EDnreLKz",
+      "summary": "Regulation Crypto Assets just dropped 👀 https://t.co/beSODpdtd8 https://t.co/j5EDnreLKz",
+      "url": "https://x.com/KhurramDara/status/2089790243188682957",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "162"
       }
     },
     {
@@ -1196,6 +1851,31 @@
       }
     },
     {
+      "id": "2089774066324357299",
+      "is_retweet": true,
+      "original_author": "tyler",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T17:58:58+00:00",
+      "text": "RT @tyler: Zcash is the most exciting and undiscovered opportunity in crypto. It is encrypted bitcoin. It is pioneering privacy technology, quantum resistance, and AI-hardening. There is nothing out there even close to it and it's just beginning. Bookmark this tweet.",
+      "summary": "RT @tyler: Zcash is the most exciting and undiscovered opportunity in crypto. It is encrypted bitcoin. It is pioneering privacy technology, quantum…",
+      "url": "https://x.com/theblockprof/status/2089774066324357299",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 220,
+        "replies": 0,
+        "quotes": 0,
+        "views": "91"
+      }
+    },
+    {
       "id": "2089771203854565809",
       "is_retweet": false,
       "original_author": null,
@@ -1318,6 +1998,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "5028"
+      }
+    },
+    {
+      "id": "2089769001131897057",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T17:38:50+00:00",
+      "text": "RT @CoinDesk: JUST IN: @Visa is searching for a new stablecoin settlement partner after @Mastercard acquired BVNK, requiring licensing across the U.S., Canada, UK and Singapore. @IanAllison123 reports. https://t.co/QkDvkBxByU",
+      "summary": "RT @CoinDesk: JUST IN: @Visa is searching for a new stablecoin settlement partner after @Mastercard acquired BVNK, requiring licensing across the…",
+      "url": "https://x.com/HaileyLennonBTC/status/2089769001131897057",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 82,
+        "replies": 0,
+        "quotes": 0,
+        "views": "208"
       }
     },
     {
@@ -1643,6 +2348,31 @@
         "replies": 63,
         "quotes": 43,
         "views": "111449"
+      }
+    },
+    {
+      "id": "2089751501019271222",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-18T16:29:18+00:00",
+      "text": "Filed a comment letter on the SEC’s OPR making three points 1) the Atkins dissent on Reg NMS was prescient, he was right and Bill Donaldson’s central planning regulation was wrong 2) critics who’ve built tech based on it might sue citing reliance interests, consider transition mechanisms raised during roundtables to defend the effort but most important 3) Reg NMS and OPR DO NOT APPLY TO DEFI AND NEVER DID by definition of what type of trade is covered, what type of entity is covered, and as a result of two Gensler era litigations in Texas. SEC T&M staff have crypto convinced that recission is the only way to get this headache out of the way, an easier way is for the SEC to recognize this obvious truth in the final rule that OPR is irrelevant to tokenized equity trading in DeFi. That way, even if TradFi is litigating this bigger question, it will be the case that crypto firms building DeFi native tokenized equity don’t have to care about that fight at all. https://t.co/eQyQ0zNwjc",
+      "summary": "Filed a comment letter on the SEC’s OPR making three points 1) the Atkins dissent on Reg NMS was prescient, he was right and Bill Donaldson’s central…",
+      "url": "https://x.com/theblockprof/status/2089751501019271222",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "543"
       }
     },
     {
