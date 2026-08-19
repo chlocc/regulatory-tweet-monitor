@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-18T18:02:50.283725+00:00",
-  "generated_at_unix": 1787076170,
+  "generated_at": "2026-08-19T06:01:40.751318+00:00",
+  "generated_at_unix": 1787119300,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-08-17T16:00:00+00:00",
-  "window_end": "2026-08-18T18:02:50.283725+00:00",
-  "new_this_run": 21,
-  "total_recent": 58,
+  "window_start": "2026-08-18T16:00:00+00:00",
+  "window_end": "2026-08-19T06:01:40.751318+00:00",
+  "new_this_run": 13,
+  "total_recent": 32,
   "errors": [
     {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    },
-    {
-      "username": "sander_lutz",
+      "username": "SECGov",
       "error": "The read operation timed out"
     },
     {
-      "username": "RegulatoryJason",
-      "error": "RegulatoryJason: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+      "username": "RepFrenchHill",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "SenRubenGallego",
+      "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 12,
     "successful_this_run": 12,
-    "next_index": 75,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +33,281 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2089901462742569352",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-19T02:25:11+00:00",
+      "text": "\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada and the U.S.A., subject to the finalization of documents, have a DEAL! The great Keystone XL Pipeline, long ago killed by Sleepy Joe Biden, may be awoken from the grave!\" - President Donald J. Trump 🇺🇸",
+      "summary": "\"I have paused the 50% Tariffs against Canada, that were scheduled to kick in tomorrow morning for a three day period, based on the fact that Canada…",
+      "url": "https://x.com/WhiteHouse/status/2089901462742569352",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11838,
+        "retweets": 2083,
+        "replies": 861,
+        "quotes": 217,
+        "views": "448385"
+      }
+    },
+    {
+      "id": "2089824553958523270",
+      "is_retweet": true,
+      "original_author": "SecretaryBurgum",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T21:19:35+00:00",
+      "text": "RT @SecretaryBurgum: Grateful to @michiganstateu and @RepTomBarrett for a fascinating look at the Facility for Rare Isotope Beams. Earlier this year, @POTUS signed legislation providing a historic investment in this cutting-edge facility - fueling American innovation, energy and manufacturing. https://t.co/G36EK7SuAc",
+      "summary": "RT @SecretaryBurgum: Grateful to @michiganstateu and @RepTomBarrett for a fascinating look at the Facility for Rare Isotope Beams. Earlier this year,…",
+      "url": "https://x.com/WhiteHouse/status/2089824553958523270",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 82,
+        "replies": 0,
+        "quotes": 0,
+        "views": "43558"
+      }
+    },
+    {
+      "id": "2089824471582425186",
+      "is_retweet": true,
+      "original_author": "ZachNunn",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T21:19:15+00:00",
+      "text": "RT @ZachNunn: At the @IowaStateFair, we celebrate the best of Iowa. Today, the Grand Concourse belonged to the men and women who served our country and defended our freedoms. Proud to welcome @SecVetAffairs Doug Collins to Iowa, standing alongside veterans from across our state who wore the uniform proudly during the Veterans Day Parade. Iowa never forgets its heroes, and we’ll keep fighting to make sure every veteran receives the support they’ve earned. 🇺🇸",
+      "summary": "RT @ZachNunn: At the @IowaStateFair, we celebrate the best of Iowa. Today, the Grand Concourse belonged to the men and women who served our country…",
+      "url": "https://x.com/WhiteHouse/status/2089824471582425186",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 56,
+        "replies": 0,
+        "quotes": 0,
+        "views": "39294"
+      }
+    },
+    {
+      "id": "2089824406860173677",
+      "is_retweet": true,
+      "original_author": "RepVanOrden",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T21:19:00+00:00",
+      "text": "RT @RepVanOrden: No better place to announce 111 new hunting and fishing opportunities across our National Wildlife Refuge System than right here at Trempealeau National Wildlife Refuge! Great to be with @SecretaryBurgum in #WI03 to expand opportunities for Wisconsin sportsmen, anglers, and families to enjoy Wisconsin’s great outdoors.",
+      "summary": "RT @RepVanOrden: No better place to announce 111 new hunting and fishing opportunities across our National Wildlife Refuge System than right here at…",
+      "url": "https://x.com/WhiteHouse/status/2089824406860173677",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 55,
+        "replies": 0,
+        "quotes": 0,
+        "views": "38896"
+      }
+    },
+    {
+      "id": "2089824361616167197",
+      "is_retweet": true,
+      "original_author": "RepPfluger",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T21:18:49+00:00",
+      "text": "RT @RepPfluger: Joined @SecretaryWright today in Midland to showcase why the Permian Basin fuels the world. Always proud to represent this region and the men and women who power our nation's economy. 🇺🇸🛢️ https://t.co/wjK4Ldy9Se",
+      "summary": "RT @RepPfluger: Joined @SecretaryWright today in Midland to showcase why the Permian Basin fuels the world. Always proud to represent this region and…",
+      "url": "https://x.com/WhiteHouse/status/2089824361616167197",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 43,
+        "replies": 0,
+        "quotes": 0,
+        "views": "38560"
+      }
+    },
+    {
+      "id": "2089815124336955723",
+      "is_retweet": true,
+      "original_author": "zerolore",
+      "username": "BoHines",
+      "display_name": "Bo Hines",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T20:42:07+00:00",
+      "text": "RT @zerolore: The dollar became global because it gave markets a common language. Software is now becoming where those conversations take place. Working closely with @BoHines, we are helping bring that language into next gen financial products. @USAT brings the American dollar into software, and USDT0 carries it wherever finance builds next.",
+      "summary": "RT @zerolore: The dollar became global because it gave markets a common language. Software is now becoming where those conversations take place.…",
+      "url": "https://x.com/BoHines/status/2089815124336955723",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1371"
+      }
+    },
+    {
+      "id": "2089814979729908026",
+      "is_retweet": true,
+      "original_author": "zerokevo",
+      "username": "BoHines",
+      "display_name": "Bo Hines",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T20:41:32+00:00",
+      "text": "RT @zerokevo: If American software is going to serve global markets, its dollar cannot stop at a bank account or single network. Since launch, we’ve been working closely with @BoHines and the @USAT team to bring the American dollar into the future. USDT0 is what makes it possible for that dollar to move everywhere.",
+      "summary": "RT @zerokevo: If American software is going to serve global markets, its dollar cannot stop at a bank account or single network. Since launch, we’ve…",
+      "url": "https://x.com/BoHines/status/2089814979729908026",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1268"
+      }
+    },
+    {
+      "id": "2089810679402520848",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "SenLummis",
+      "display_name": "Senator Cynthia Lummis",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-18T20:24:27+00:00",
+      "text": "Take it to the bank!",
+      "summary": "Take it to the bank!",
+      "url": "https://x.com/SenLummis/status/2089810679402520848",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2917,
+        "retweets": 362,
+        "replies": 137,
+        "quotes": 24,
+        "views": "111805"
+      }
+    },
+    {
+      "id": "2089795314760740992",
+      "is_retweet": true,
+      "original_author": "SecretaryTurner",
+      "username": "WhiteHouse",
+      "display_name": "The White House",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T19:23:24+00:00",
+      "text": "RT @SecretaryTurner: 75% of our homeless Americans are addicted to drugs. 78% suffer from mental illness. Providing a bed doesn’t address the root cause of homelessness. We must put Treatment First. https://t.co/bisZzVFnNJ",
+      "summary": "RT @SecretaryTurner: 75% of our homeless Americans are addicted to drugs. 78% suffer from mental illness. Providing a bed doesn’t address the root…",
+      "url": "https://x.com/WhiteHouse/status/2089795314760740992",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1000,
+        "replies": 0,
+        "quotes": 0,
+        "views": "42042"
+      }
+    },
+    {
+      "id": "2089787387253494238",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HesterPeirce",
+      "display_name": "Hester Peirce",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T18:51:54+00:00",
+      "text": "My statement on Reg Crypto Assets: https://t.co/IncP7vCJsv",
+      "summary": "My statement on Reg Crypto Assets: https://t.co/IncP7vCJsv",
+      "url": "https://x.com/HesterPeirce/status/2089787387253494238",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 232,
+        "retweets": 51,
+        "replies": 19,
+        "quotes": 6,
+        "views": "14410"
+      }
+    },
+    {
+      "id": "2089787247423893754",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HesterPeirce",
+      "display_name": "Hester Peirce",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T18:51:20+00:00",
+      "text": "Reg Crypto is out! https://t.co/v3sGe6SNUQ",
+      "summary": "Reg Crypto is out! https://t.co/v3sGe6SNUQ",
+      "url": "https://x.com/HesterPeirce/status/2089787247423893754",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2062,
+        "retweets": 477,
+        "replies": 81,
+        "quotes": 62,
+        "views": "151043"
+      }
+    },
     {
       "id": "2089775588634456395",
       "is_retweet": false,
@@ -359,6 +634,31 @@
       }
     },
     {
+      "id": "2089763089184874989",
+      "is_retweet": true,
+      "original_author": "HHSGov",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T17:15:21+00:00",
+      "text": "RT @HHSGov: HHS’ Wolves in White Coats report exposes how calculated financial and political efforts left children irreversibly harmed and abandoned at the very moments when they needed real support. Thank you to @VP and @SecKennedy for taking action to ensure accountability. https://t.co/KcsHYPvYeq",
+      "summary": "RT @HHSGov: HHS’ Wolves in White Coats report exposes how calculated financial and political efforts left children irreversibly harmed and abandoned…",
+      "url": "https://x.com/VP/status/2089763089184874989",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 115,
+        "replies": 0,
+        "quotes": 0,
+        "views": "7995"
+      }
+    },
+    {
       "id": "2089762355127505152",
       "is_retweet": false,
       "original_author": null,
@@ -484,6 +784,31 @@
       }
     },
     {
+      "id": "2089751965010198839",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ChairmanSelig",
+      "display_name": "Mike Selig",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-18T16:31:08+00:00",
+      "text": "For years, anti-crypto armies, doomers, and decelerationists stifled innovation, regulating by enforcement and driving transformational technologies like blockchain, AI, and prediction markets overseas. On August 20, the @CFTC is turning the page and charting a course for the new frontier of finance as innovators, builders, thinkers, and entrepreneurs descend upon Washington for the inaugural meeting of the Innovation Advisory Committee.",
+      "summary": "For years, anti-crypto armies, doomers, and decelerationists stifled innovation, regulating by enforcement and driving transformational technologies…",
+      "url": "https://x.com/ChairmanSelig/status/2089751965010198839",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1568,
+        "retweets": 349,
+        "replies": 63,
+        "quotes": 43,
+        "views": "111449"
+      }
+    },
+    {
       "id": "2089748274785722801",
       "is_retweet": false,
       "original_author": null,
@@ -506,981 +831,6 @@
         "replies": 3,
         "quotes": 0,
         "views": "2381"
-      }
-    },
-    {
-      "id": "2089728496868499696",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "milesjennings",
-      "display_name": "miles jennings",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-08-18T14:57:53+00:00",
-      "text": "The SEC proposal to rescind Rule 611 is a big deal. Not only will it help modernize U.S. market structure, but it paves the way for securities markets to move onchain. Yesterday, @a16zcrypto filed a letter of support. https://t.co/0ZKap9j15P",
-      "summary": "The SEC proposal to rescind Rule 611 is a big deal. Not only will it help modernize U.S. market structure, but it paves the way for securities…",
-      "url": "https://x.com/milesjennings/status/2089728496868499696",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 45,
-        "retweets": 11,
-        "replies": 5,
-        "quotes": 0,
-        "views": "3735"
-      }
-    },
-    {
-      "id": "2089725586914644312",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "theblockprof",
-      "display_name": "BlockProf",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T14:46:19+00:00",
-      "text": "If I were a Democrat on the @USHouseFSC, I would look into Chainalysis and TRM and the fight they are having to get an ICE contract. Crypto is about empowering families to send money home. Crypto isn’t about whatever this is.",
-      "summary": "If I were a Democrat on the @USHouseFSC, I would look into Chainalysis and TRM and the fight they are having to get an ICE contract. Crypto is about…",
-      "url": "https://x.com/theblockprof/status/2089725586914644312",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "188"
-      }
-    },
-    {
-      "id": "2089681623000272963",
-      "is_retweet": true,
-      "original_author": "ziskvm",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T11:51:37+00:00",
-      "text": "RT @ziskvm: ZisK v1.1.0-alpha release 🚀 Ethereum proven in real time on 4x5090 GPUs with a p99 of 9.62s. All providing 128-bit provable security, powered by Poseidon1, and post-quantum secure. This release pushes the prover further and fixes bugs, without trading soundness for benchmarks. Release notes: https://t.co/J8tSAalTMi",
-      "summary": "RT @ziskvm: ZisK v1.1.0-alpha release 🚀 Ethereum proven in real time on 4x5090 GPUs with a p99 of 9.62s. All providing 128-bit provable security,…",
-      "url": "https://x.com/lex_node/status/2089681623000272963",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 13,
-        "replies": 0,
-        "quotes": 0,
-        "views": "408"
-      }
-    },
-    {
-      "id": "2089681228790469020",
-      "is_retweet": true,
-      "original_author": "_TalkingTokens",
-      "username": "RebeccaRettig1",
-      "display_name": "Rebecca Rettig",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T11:50:04+00:00",
-      "text": "RT @_TalkingTokens: Buy-side equity traders don't think the current securities markets need fixing. Rather, the case for tokenization comes from stablecoin adoption, as all pieces of the financial stack need to level up at once, according to @RebeccaRettig1, COO &amp; CLO at @Jito_Labs. https://t.co/ebefXOUm4v",
-      "summary": "RT @_TalkingTokens: Buy-side equity traders don't think the current securities markets need fixing. Rather, the case for tokenization comes from…",
-      "url": "https://x.com/RebeccaRettig1/status/2089681228790469020",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "quotes": 0,
-        "views": "59"
-      }
-    },
-    {
-      "id": "2089673915031273890",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JacobRobinsonJD",
-      "display_name": "Jacob Robinson",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T11:21:00+00:00",
-      "text": "Canadian securities regulators took jurisdiction over crypto exchanges without finding that the tokens traded were securities. \"Even if it's not a security or a derivative, securities legislation will apply where there isn't immediate delivery to an external wallet.\" @ryanjclements explains the Crypto Contract, the concept Canadian securities regulators created to get crypto exchanges within their jurisdiction (after Quadriga's collapse).",
-      "summary": "Canadian securities regulators took jurisdiction over crypto exchanges without finding that the tokens traded were securities. \"Even if it's not a…",
-      "url": "https://x.com/JacobRobinsonJD/status/2089673915031273890",
-      "type": "quote",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "405"
-      }
-    },
-    {
-      "id": "2089557005904077305",
-      "is_retweet": true,
-      "original_author": "Bitcoineo",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T03:36:26+00:00",
-      "text": "RT @Bitcoineo: This is exactly why you don’t buy tokens which valuations are under book value. Crypto will come back once we get rid of these looters (or when dino project treasuries are depleted). 🤡🤡🤡",
-      "summary": "RT @Bitcoineo: This is exactly why you don’t buy tokens which valuations are under book value. Crypto will come back once we get rid of these looters…",
-      "url": "https://x.com/lex_node/status/2089557005904077305",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "665"
-      }
-    },
-    {
-      "id": "2089535937663610955",
-      "is_retweet": true,
-      "original_author": "ChairmanSelig",
-      "username": "patrickjwitt",
-      "display_name": "Patrick Witt",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-18T02:12:43+00:00",
-      "text": "RT @ChairmanSelig: In just a few days, we're bringing some of the brightest minds in innovation together to challenge old assumptions, tackle new questions, and chart what comes next. The new frontier of finance is ours to build. https://t.co/hy0Zp1IzgC",
-      "summary": "RT @ChairmanSelig: In just a few days, we're bringing some of the brightest minds in innovation together to challenge old assumptions, tackle new…",
-      "url": "https://x.com/patrickjwitt/status/2089535937663610955",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 96,
-        "replies": 0,
-        "quotes": 0,
-        "views": "762"
-      }
-    },
-    {
-      "id": "2089529177787564071",
-      "is_retweet": true,
-      "original_author": "mikebelshe",
-      "username": "HaileyLennonBTC",
-      "display_name": "Hailey Lennon",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T01:45:52+00:00",
-      "text": "RT @mikebelshe: Even if you are skeptical about crypto, you can't deny our industry's innovations have already made real change in traditional markets: - NYSE going 23x5 - will eventually be 24x7 - Perps - simply better futures - stablecoins - simply better payments - tokenized loans - e.g. Figure - faster, more liquid, safer There are a million more innovations, and many of them will be standard practice in a decade. You can't hate crypto. It's awesome.",
-      "summary": "RT @mikebelshe: Even if you are skeptical about crypto, you can't deny our industry's innovations have already made real change in traditional…",
-      "url": "https://x.com/HaileyLennonBTC/status/2089529177787564071",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 30,
-        "replies": 0,
-        "quotes": 0,
-        "views": "266"
-      }
-    },
-    {
-      "id": "2089525695261364718",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-18T01:32:01+00:00",
-      "text": "1/ Today, we submitted a comment letter to the @SECGov supporting its proposal to rescind outdated provisions of Regulation NMS – Rules 611 and 610(e). These rules were built for markets of 2005. It’s time for market structure to catch up with technology. 🧵 https://t.co/ElmEmSCymE",
-      "summary": "1/ Today, we submitted a comment letter to the @SECGov supporting its proposal to rescind outdated provisions of Regulation NMS – Rules 611 and…",
-      "url": "https://x.com/BlockchainAssn/status/2089525695261364718",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 68,
-        "retweets": 17,
-        "replies": 1,
-        "quotes": 0,
-        "views": "5717"
-      }
-    },
-    {
-      "id": "2089508739095151063",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T00:24:39+00:00",
-      "text": "another DAO goes private a corporation does not easily allow these insider transactions, which is why I'm much more bullish on cyberCORPs than DAOs https://t.co/2uIVdKcU1n",
-      "summary": "another DAO goes private a corporation does not easily allow these insider transactions, which is why I'm much more bullish on cyberCORPs than DAOs…",
-      "url": "https://x.com/lex_node/status/2089508739095151063",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 50,
-        "retweets": 5,
-        "replies": 6,
-        "quotes": 0,
-        "views": "5519"
-      }
-    },
-    {
-      "id": "2089507787185271018",
-      "is_retweet": true,
-      "original_author": "DCinvestor",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-18T00:20:52+00:00",
-      "text": "RT @DCinvestor: it’s been a long while since i’ve seen people associated with research and core dev speak clearly and consistently about doing things to meet real market needs and opportunities with urgency it’s a big and very necessary shift for the next era of Ethereum glad to have @ethlabs_org involved in the space",
-      "summary": "RT @DCinvestor: it’s been a long while since i’ve seen people associated with research and core dev speak clearly and consistently about doing things…",
-      "url": "https://x.com/lex_node/status/2089507787185271018",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 8,
-        "replies": 0,
-        "quotes": 0,
-        "views": "558"
-      }
-    },
-    {
-      "id": "2089502536424460509",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-18T00:00:00+00:00",
-      "text": "It's always a privilege to attend the Centennial Farm and Ranch Awards Ceremony in Douglas, honoring farm and ranch families in operation for 100+ years. Proud to celebrate the hard work and legacy that continues to shape Wyoming's agricultural heritage. https://t.co/7dFlzqktFL",
-      "summary": "It's always a privilege to attend the Centennial Farm and Ranch Awards Ceremony in Douglas, honoring farm and ranch families in operation for 100+…",
-      "url": "https://x.com/SenLummis/status/2089502536424460509",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 167,
-        "retweets": 20,
-        "replies": 5,
-        "quotes": 1,
-        "views": "16975"
-      }
-    },
-    {
-      "id": "2089501891889869066",
-      "is_retweet": true,
-      "original_author": "LevyAntoine",
-      "username": "katiebiber",
-      "display_name": "Katie Biber",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T23:57:26+00:00",
-      "text": "RT @LevyAntoine: Elizabeth Warren comes out strongly against happy hour",
-      "summary": "RT @LevyAntoine: Elizabeth Warren comes out strongly against happy hour",
-      "url": "https://x.com/katiebiber/status/2089501891889869066",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 272,
-        "replies": 0,
-        "quotes": 0,
-        "views": "50"
-      }
-    },
-    {
-      "id": "2089493726368559261",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BoHines",
-      "display_name": "Bo Hines",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T23:24:59+00:00",
-      "text": "From stablecoins to building a more stable world. We’re just getting started. The future is stable.",
-      "summary": "From stablecoins to building a more stable world. We’re just getting started. The future is stable.",
-      "url": "https://x.com/BoHines/status/2089493726368559261",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 62,
-        "retweets": 9,
-        "replies": 14,
-        "quotes": 0,
-        "views": "14081"
-      }
-    },
-    {
-      "id": "2089492314821435758",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T23:19:23+00:00",
-      "text": "many projects will do this a reminder that @MetaLeX_Labs 's ACE (asset to equity) conversion program is designed specifically for token to equity conversions (partial or full). . . we've automated much of this to remove painpoints etc.... hit up @spynter if you're interested",
-      "summary": "many projects will do this a reminder that @MetaLeX_Labs 's ACE (asset to equity) conversion program is designed specifically for token to equity…",
-      "url": "https://x.com/lex_node/status/2089492314821435758",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 39,
-        "retweets": 6,
-        "replies": 3,
-        "quotes": 0,
-        "views": "5193"
-      }
-    },
-    {
-      "id": "2089487653527855169",
-      "is_retweet": true,
-      "original_author": "ReclaimTheNetHQ",
-      "username": "prestonjbyrne",
-      "display_name": "Preston Byrne",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T23:00:52+00:00",
-      "text": "RT @ReclaimTheNetHQ: California published its proposed rules for proving you're not a child. Among the approved methods: facial analysis, hand-gesture or gait patterns, vocal analysis, or a government ID. That could mean a camera at your face, a microphone at your voice, or uploading a government ID just to speak online. The state is facing a legal challenge. https://t.co/UshJPMCoqG",
-      "summary": "RT @ReclaimTheNetHQ: California published its proposed rules for proving you're not a child. Among the approved methods: facial analysis,…",
-      "url": "https://x.com/prestonjbyrne/status/2089487653527855169",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 125,
-        "replies": 0,
-        "quotes": 0,
-        "views": "282"
-      }
-    },
-    {
-      "id": "2089487208143045092",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T22:59:05+00:00",
-      "text": "if everything is legal you really don't need decentralization. . .you can run this shit on SQL...that's great for the VCs who pivoted to stuff like Kalshi, not so great for cypherpunks...",
-      "summary": "if everything is legal you really don't need decentralization. . .you can run this shit on SQL...that's great for the VCs who pivoted to stuff like…",
-      "url": "https://x.com/lex_node/status/2089487208143045092",
-      "type": "quote",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 25,
-        "retweets": 0,
-        "replies": 7,
-        "quotes": 2,
-        "views": "2733"
-      }
-    },
-    {
-      "id": "2089460412219617426",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "ChairmanSelig",
-      "display_name": "Mike Selig",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T21:12:37+00:00",
-      "text": "Visited the Phillips 66 Sweeny refinery and Freeport terminal today to see firsthand how they fuel America and export products across the world. The @CFTC is working to reduce burdens on our energy producers to ensure that the U.S. returns to being the world’s leading energy producer.",
-      "summary": "Visited the Phillips 66 Sweeny refinery and Freeport terminal today to see firsthand how they fuel America and export products across the world. The…",
-      "url": "https://x.com/ChairmanSelig/status/2089460412219617426",
-      "type": "original",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 39,
-        "retweets": 2,
-        "replies": 1,
-        "quotes": 0,
-        "views": "2458"
-      }
-    },
-    {
-      "id": "2089459268726452689",
-      "is_retweet": true,
-      "original_author": "JasonYanowitz",
-      "username": "N0th1n3",
-      "display_name": "Brian",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T21:08:04+00:00",
-      "text": "RT @JasonYanowitz: Fantastic chat with @haydenzadams I didn’t realize how much Uniswap has changed. From B2C to B2B… which means updating the business model, strategy, products, people, $UNI and more. If you like DeFi with fundamentals, you’ll like this podcast. https://t.co/xCXjJ5UuNl",
-      "summary": "RT @JasonYanowitz: Fantastic chat with @haydenzadams I didn’t realize how much Uniswap has changed. From B2C to B2B… which means updating the…",
-      "url": "https://x.com/N0th1n3/status/2089459268726452689",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 18,
-        "replies": 0,
-        "quotes": 0,
-        "views": "32"
-      }
-    },
-    {
-      "id": "2089457967729148319",
-      "is_retweet": true,
-      "original_author": "neil_chilson",
-      "username": "gabriel_weil",
-      "display_name": "Gabriel Weil",
-      "group": "Academics & Researchers",
-      "created_at": "2026-08-17T21:02:54+00:00",
-      "text": "RT @neil_chilson: Properly framed, however, Amodei's analogy captures something important. Tort claims turn on legally cognizable harm, which can level the field. A company of any size may be liable when it harms someone. An unconventional technology that fits no regulatory category can deliver enormous benefits without tort liability if it harms no one. 5/",
-      "summary": "RT @neil_chilson: Properly framed, however, Amodei's analogy captures something important. Tort claims turn on legally cognizable harm, which can…",
-      "url": "https://x.com/gabriel_weil/status/2089457967729148319",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "6"
-      }
-    },
-    {
-      "id": "2089454863331533047",
-      "is_retweet": true,
-      "original_author": "neuralunlock",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T20:50:34+00:00",
-      "text": "RT @neuralunlock: Build something that you want to build, that you have an advantage in building. Appeasing investors by trying to pursue the hot thing is a waste of time. Most of the time VCs are fomo driven and will change their mind at the nearest market downturn.",
-      "summary": "RT @neuralunlock: Build something that you want to build, that you have an advantage in building. Appeasing investors by trying to pursue the hot…",
-      "url": "https://x.com/lex_node/status/2089454863331533047",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 3,
-        "replies": 0,
-        "quotes": 0,
-        "views": "673"
-      }
-    },
-    {
-      "id": "2089450178965049809",
-      "is_retweet": true,
-      "original_author": "lmrankhan",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T20:31:57+00:00",
-      "text": "RT @lmrankhan: It’s likely that onchain products will split into two worlds. One builds for the real world compliant on/off ramps, KYC, regulated entities and deep integration with banks etc The other is credibly neutral, completely onchain protocols that can run indefinitely, are permissionless and will require no company to run them The interesting end state for the latter is that the protocols could become economically aligned with the underlying L1. Meaning instead of having a separate token with a company, they could continuously route fees toward buying and or burning the L1 token effectively becoming a revenue source for L1s that will compound value to the network forever. I believe this is a good thing. It keeps L1s economically protected from regulated products built on top eventually leaving, while pushing the underlying apps to keep growing, acquiring users, and creating more value for the network.",
-      "summary": "RT @lmrankhan: It’s likely that onchain products will split into two worlds. One builds for the real world compliant on/off ramps, KYC, regulated…",
-      "url": "https://x.com/lex_node/status/2089450178965049809",
-      "type": "retweet",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 4,
-        "replies": 0,
-        "quotes": 0,
-        "views": "641"
-      }
-    },
-    {
-      "id": "2089442668103254526",
-      "is_retweet": true,
-      "original_author": "PressSec",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T20:02:06+00:00",
-      "text": "RT @PressSec: The Trump Effect: \"DHS and CBP announced 15 consecutive months of zero releases at the border, continuing the unprecedented trend of historically low border crossings.\" https://t.co/G9V2tsfsIy",
-      "summary": "RT @PressSec: The Trump Effect: \"DHS and CBP announced 15 consecutive months of zero releases at the border, continuing the unprecedented trend of…",
-      "url": "https://x.com/WhiteHouse/status/2089442668103254526",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 290,
-        "replies": 0,
-        "quotes": 0,
-        "views": "41362"
-      }
-    },
-    {
-      "id": "2089440025914036672",
-      "is_retweet": true,
-      "original_author": "DOJFraudDiv",
-      "username": "VP",
-      "display_name": "Vice President JD Vance",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T19:51:36+00:00",
-      "text": "RT @DOJFraudDiv: Assistant Attorney General Colin McDonald joined @Newsmax this morning and discussed the work to combat home health care fraud schemes happening across the country: “It is a matter of vital importance, not only because of the billions of dollars that taxpayers are losing, but also because of the patients that are not receiving the care that these programs are intended to cover.”",
-      "summary": "RT @DOJFraudDiv: Assistant Attorney General Colin McDonald joined @Newsmax this morning and discussed the work to combat home health care fraud…",
-      "url": "https://x.com/VP/status/2089440025914036672",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 115,
-        "replies": 0,
-        "quotes": 0,
-        "views": "7599"
-      }
-    },
-    {
-      "id": "2089439868938002769",
-      "is_retweet": true,
-      "original_author": "SLOTUS",
-      "username": "VP",
-      "display_name": "Vice President JD Vance",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T19:50:59+00:00",
-      "text": "RT @SLOTUS: Storytime with the Second Lady's new episode is tailor-made for fashionistas! Watch as author and television host @MeghanMcCain follows Pip's fashionable adventures around New York City in 'Dressing Up.' https://t.co/EIrIAxC0kM",
-      "summary": "RT @SLOTUS: Storytime with the Second Lady's new episode is tailor-made for fashionistas! Watch as author and television host @MeghanMcCain follows…",
-      "url": "https://x.com/VP/status/2089439868938002769",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 86,
-        "replies": 0,
-        "quotes": 0,
-        "views": "7771"
-      }
-    },
-    {
-      "id": "2089439831696822396",
-      "is_retweet": true,
-      "original_author": "WhiteHouse",
-      "username": "VP",
-      "display_name": "Vice President JD Vance",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T19:50:50+00:00",
-      "text": "RT @WhiteHouse: 🇺🇸 @POTUS is standing with law enforcement against the radical left’s sanctuary city policies &amp; failed immigration enforcement that endanger EVERY American. This is for Laken Riley, Sheridan Gorman, Jocelyn Nungaray, &amp; the countless other Americans killed by criminal illegals. https://t.co/HqZWx0H9SA",
-      "summary": "RT @WhiteHouse: 🇺🇸 @POTUS is standing with law enforcement against the radical left’s sanctuary city policies &amp; failed immigration enforcement…",
-      "url": "https://x.com/VP/status/2089439831696822396",
-      "type": "retweet",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 672,
-        "replies": 0,
-        "quotes": 0,
-        "views": "3815"
-      }
-    },
-    {
-      "id": "2089438919255347584",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-17T19:47:12+00:00",
-      "text": "Stand With Crypto WY State Chapter President @heystephchan 👇",
-      "summary": "Stand With Crypto WY State Chapter President @heystephchan 👇",
-      "url": "https://x.com/standwithcrypto/status/2089438919255347584",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 22,
-        "retweets": 6,
-        "replies": 4,
-        "quotes": 0,
-        "views": "2805"
-      }
-    },
-    {
-      "id": "2089432882863345853",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BlockchainAssn",
-      "display_name": "Blockchain Association",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-17T19:23:13+00:00",
-      "text": "If you're headed to @SALTConference in Jackson Hole, reach out to @Mara_Abiera to connect with the BA team. We look forward to meeting with our members in Wyoming. https://t.co/VtlRhbfCve",
-      "summary": "If you're headed to @SALTConference in Jackson Hole, reach out to @Mara_Abiera to connect with the BA team. We look forward to meeting with our…",
-      "url": "https://x.com/BlockchainAssn/status/2089432882863345853",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 15,
-        "retweets": 5,
-        "replies": 0,
-        "quotes": 1,
-        "views": "2272"
-      }
-    },
-    {
-      "id": "2089431570050388230",
-      "is_retweet": true,
-      "original_author": "SpeakerJohnson",
-      "username": "GOPMajorityWhip",
-      "display_name": "Tom Emmer",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-17T19:18:00+00:00",
-      "text": "RT @SpeakerJohnson: REMINDER. Democrats VOTED AGAINST: ➡️ Lower Taxes ➡️ Border Security ➡️ No Tax on Tips ➡️ Lower Costs for Prescription Drugs ➡️ Secure Elections ➡️ Safer Cities ➡️ Trump Accounts for children ➡️ Keeping Men OUT of Women's Sports",
-      "summary": "RT @SpeakerJohnson: REMINDER. Democrats VOTED AGAINST: ➡️ Lower Taxes ➡️ Border Security ➡️ No Tax on Tips ➡️ Lower Costs for Prescription Drugs ➡️…",
-      "url": "https://x.com/GOPMajorityWhip/status/2089431570050388230",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 816,
-        "replies": 0,
-        "quotes": 0,
-        "views": "711"
-      }
-    },
-    {
-      "id": "2089429463985528918",
-      "is_retweet": true,
-      "original_author": "mdomcahill",
-      "username": "jchervinsky",
-      "display_name": "Jake Chervinsky",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T19:09:38+00:00",
-      "text": "RT @mdomcahill: 24/7 markets need a best execution framework that reflects how they actually trade. Great work from @DouroLabs and @HyperliquidPC engaging with the SEC on Rule 611, including the role networks like @PythNetwork can play in providing reliable reference prices for onchain markets.",
-      "summary": "RT @mdomcahill: 24/7 markets need a best execution framework that reflects how they actually trade. Great work from @DouroLabs and @HyperliquidPC…",
-      "url": "https://x.com/jchervinsky/status/2089429463985528918",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 7,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1322"
-      }
-    },
-    {
-      "id": "2089427421070070249",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "standwithcrypto",
-      "display_name": "Stand With Crypto🛡️",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-17T19:01:31+00:00",
-      "text": "The CLARITY Act delivers real protections: clear disclosures, customer funds kept separate from company funds, and the right to self-custody. SWC New Mexico State Chapter President @tefiteusmc lays it out in @thenewmexican. Read the full Op-Ed: https://t.co/M8LigOOTdF",
-      "summary": "The CLARITY Act delivers real protections: clear disclosures, customer funds kept separate from company funds, and the right to self-custody. SWC New…",
-      "url": "https://x.com/standwithcrypto/status/2089427421070070249",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 97,
-        "retweets": 19,
-        "replies": 8,
-        "quotes": 0,
-        "views": "3389"
-      }
-    },
-    {
-      "id": "2089427111572394062",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-17T19:00:17+00:00",
-      "text": "🇺🇸 @POTUS is standing with law enforcement against the radical left’s sanctuary city policies &amp; failed immigration enforcement that endanger EVERY American. This is for Laken Riley, Sheridan Gorman, Jocelyn Nungaray, &amp; the countless other Americans killed by criminal illegals. https://t.co/HqZWx0H9SA",
-      "summary": "🇺🇸 @POTUS is standing with law enforcement against the radical left’s sanctuary city policies &amp; failed immigration enforcement that endanger…",
-      "url": "https://x.com/WhiteHouse/status/2089427111572394062",
-      "type": "original",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 3132,
-        "retweets": 672,
-        "replies": 380,
-        "quotes": 27,
-        "views": "187144"
-      }
-    },
-    {
-      "id": "2089412403331260662",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-17T18:01:51+00:00",
-      "text": "Of course - we must get this passed and across the finish line.",
-      "summary": "Of course - we must get this passed and across the finish line.",
-      "url": "https://x.com/SenLummis/status/2089412403331260662",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 506,
-        "retweets": 61,
-        "replies": 13,
-        "quotes": 1,
-        "views": "40585"
-      }
-    },
-    {
-      "id": "2089407309181047075",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "SenLummis",
-      "display_name": "Senator Cynthia Lummis",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-17T17:41:36+00:00",
-      "text": "A heartbreaking op-ed from the NYPD officer who arrested Laken Riley's killer months before her murder, only to see him released under New York's sanctuary city policies. New York's sanctuary city policies let him go free, and he later moved to Georgia and killed a bright young college student out for a run. Sanctuary policies don't just affect one city, they put the whole country at risk. https://t.co/VvfUztA0jl",
-      "summary": "A heartbreaking op-ed from the NYPD officer who arrested Laken Riley's killer months before her murder, only to see him released under New York's…",
-      "url": "https://x.com/SenLummis/status/2089407309181047075",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 195,
-        "retweets": 25,
-        "replies": 7,
-        "quotes": 0,
-        "views": "24096"
-      }
-    },
-    {
-      "id": "2089405902608867645",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-17T17:36:01+00:00",
-      "text": "📜 Treasury just proposed the rule that decides which offshore stablecoins U.S. exchanges can even list. Starting January 2027, platforms will need to vet foreign issuers themselves or risk breaking the law. https://t.co/mdNbciemf5",
-      "summary": "📜 Treasury just proposed the rule that decides which offshore stablecoins U.S. exchanges can even list. Starting January 2027, platforms will need to…",
-      "url": "https://x.com/laurashin/status/2089405902608867645",
-      "type": "original",
-      "categories": [
-        "stablecoins"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 4,
-        "retweets": 1,
-        "replies": 6,
-        "quotes": 0,
-        "views": "1370"
-      }
-    },
-    {
-      "id": "2089403572458807739",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "KristinSmith",
-      "display_name": "Kristin Smith",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-17T17:26:45+00:00",
-      "text": "1/ Happy Monday – if you're in Jackson Hole for the @SALTConference Wyoming Blockchain Symposium, please say hi! There are 78 days until the midterms, and the Senate is out until Sept. 14. Here's the latest from Washington: 🧵",
-      "summary": "1/ Happy Monday – if you're in Jackson Hole for the @SALTConference Wyoming Blockchain Symposium, please say hi! There are 78 days until the…",
-      "url": "https://x.com/KristinSmith/status/2089403572458807739",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 23,
-        "retweets": 3,
-        "replies": 3,
-        "quotes": 0,
-        "views": "2500"
-      }
-    },
-    {
-      "id": "2089400476231995615",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "BillHughesDC",
-      "display_name": "Bill Hughes",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-17T17:14:27+00:00",
-      "text": "Robotics and physical AI show up in the broader “AI and autonomy” critical-and-emerging-technology (CET) area of this OSTP report: •AI and autonomy is named as one of three priority areas for battlefield dominance, alongside undersea and space, described as competitive advantage in the rapidly evolving area of military and other national security applications of AI and autonomy. •In the Appendix A technical breakout of that CET area, the subfields explicitly include robotics and embodied intelligence, plus adjacent items like autonomous systems for surface, air, maritime, space, and cyber domains and multi-agent systems and swarm intelligence. •The “advanced manufacturing and materials” CET area also touches physical AI, listing materials by design utilizing AI and autonomous development and production. •Appendix B’s alignment matrix marks “AI & autonomy” as touching essentially every strategic priority column (battlefield advantage across space/air/long-range strike, undersea, national security AI, border security, nuclear deterrence/missile defense, cyber defense, and BW defense), more than any other CET category.",
-      "summary": "Robotics and physical AI show up in the broader “AI and autonomy” critical-and-emerging-technology (CET) area of this OSTP report: •AI and autonomy…",
-      "url": "https://x.com/BillHughesDC/status/2089400476231995615",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 1,
-        "retweets": 0,
-        "replies": 0,
-        "quotes": 0,
-        "views": "549"
-      }
-    },
-    {
-      "id": "2089397557034455221",
-      "is_retweet": true,
-      "original_author": "matthuang",
-      "username": "danrobinson",
-      "display_name": "Dan Robinson",
-      "group": "Other / Policy Adjacent",
-      "created_at": "2026-08-17T17:02:51+00:00",
-      "text": "RT @matthuang: It's been awesome to see Deel's stablecoin offering take off on @tempo in Argentina. Now live in 80+ countries.",
-      "summary": "RT @matthuang: It's been awesome to see Deel's stablecoin offering take off on @tempo in Argentina. Now live in 80+ countries.",
-      "url": "https://x.com/danrobinson/status/2089397557034455221",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 10,
-        "replies": 0,
-        "quotes": 0,
-        "views": "217"
-      }
-    },
-    {
-      "id": "2089384238177030568",
-      "is_retweet": true,
-      "original_author": "HouseCommerce",
-      "username": "GOPMajorityWhip",
-      "display_name": "Tom Emmer",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-17T16:09:55+00:00",
-      "text": "RT @HouseCommerce: Democratic Socialists are celebrating 100 years since Fidel Castro’s birth. But what have the last 100 years of communist rule gotten Cuba? ❌ Energy and infrastructure collapse. ❌ Rampant inflation and unemployment. ❌ Crippling poverty. The same failed policies that destroyed Cuba are the DSA’s pipe dream for America.",
-      "summary": "RT @HouseCommerce: Democratic Socialists are celebrating 100 years since Fidel Castro’s birth. But what have the last 100 years of communist rule…",
-      "url": "https://x.com/GOPMajorityWhip/status/2089384238177030568",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 7,
-        "replies": 0,
-        "quotes": 0,
-        "views": "831"
       }
     }
   ]
