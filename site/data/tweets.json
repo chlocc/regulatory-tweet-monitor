@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-20T06:10:46.454156+00:00",
-  "generated_at_unix": 1787206246,
+  "generated_at": "2026-08-20T09:02:22.924619+00:00",
+  "generated_at_unix": 1787216542,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-19T16:00:00+00:00",
-  "window_end": "2026-08-20T06:10:46.454156+00:00",
-  "new_this_run": 23,
-  "total_recent": 25,
-  "errors": [],
+  "window_end": "2026-08-20T09:02:22.924619+00:00",
+  "new_this_run": 12,
+  "total_recent": 37,
+  "errors": [
+    {
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "iampaulgrewal",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -196,6 +205,56 @@
       }
     },
     {
+      "id": "2090216294796640387",
+      "is_retweet": true,
+      "original_author": "business",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-19T23:16:13+00:00",
+      "text": "RT @business: President Trump pressed Congress to pass digital asset market structure legislation that is a top priority for the industry, as he hosted cryptocurrency executives at the White House on Wednesday https://t.co/ArusOsL899 https://t.co/adhUskUmy6",
+      "summary": "RT @business: President Trump pressed Congress to pass digital asset market structure legislation that is a top priority for the industry, as he…",
+      "url": "https://x.com/patrickjwitt/status/2090216294796640387",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 31,
+        "replies": 0,
+        "quotes": 0,
+        "views": "829"
+      }
+    },
+    {
+      "id": "2090206073508487320",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T22:35:36+00:00",
+      "text": "It was wonderful to join @milesjennings, @LindaLacewell, @Julie_Stitzel, + @cows2crypto for a conversation on Clarity, agency action, and the path ahead in Washington. Incredible event as always here in Wyoming – congratulations to @SALTConference and John Darsie!",
+      "summary": "It was wonderful to join @milesjennings, @LindaLacewell, @Julie_Stitzel, + @cows2crypto for a conversation on Clarity, agency action, and the path…",
+      "url": "https://x.com/KristinSmith/status/2090206073508487320",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1579"
+      }
+    },
+    {
       "id": "2090204032988029273",
       "is_retweet": false,
       "original_author": null,
@@ -221,6 +280,31 @@
       }
     },
     {
+      "id": "2090201654880600143",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T22:18:03+00:00",
+      "text": "1/ @CatoInstitute recently made the case for the Clarity Act while citing our CEO @SummerMersinger’s op-ed on what’s at stake. With a Senate vote set for Sept. 15, now is the time to deliver clear rules for consumers, businesses, and innovators. 🧵 https://t.co/9MUEjUcO8k",
+      "summary": "1/ @CatoInstitute recently made the case for the Clarity Act while citing our CEO @SummerMersinger’s op-ed on what’s at stake. With a Senate vote set…",
+      "url": "https://x.com/BlockchainAssn/status/2090201654880600143",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2095"
+      }
+    },
+    {
       "id": "2090192079137698063",
       "is_retweet": false,
       "original_author": null,
@@ -243,6 +327,56 @@
         "replies": 36,
         "quotes": 6,
         "views": "58622"
+      }
+    },
+    {
+      "id": "2090191454421319699",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-19T21:37:31+00:00",
+      "text": "American hegemony rests on three pillars: a lethal military, equal justice under law, and the strength of the U.S. dollar backed by deep, liquid capital markets. Under President Trump’s leadership, we are rebuilding our military, restoring fairness in our justice system, and cementing dollar dominance with the GENIUS Act. Now it’s time to pass the CLARITY Act to modernize our capital markets and ensure American financial leadership for decades to come. It was an honor to join @POTUS and the business leaders who are making that vision a reality.",
+      "summary": "American hegemony rests on three pillars: a lethal military, equal justice under law, and the strength of the U.S. dollar backed by deep, liquid…",
+      "url": "https://x.com/patrickjwitt/status/2090191454421319699",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 697,
+        "retweets": 115,
+        "replies": 25,
+        "quotes": 9,
+        "views": "50372"
+      }
+    },
+    {
+      "id": "2090182762145919235",
+      "is_retweet": true,
+      "original_author": "aave",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T21:02:58+00:00",
+      "text": "RT @aave: A new proposal from @Securitize seeks to onboard HINC, the tokenized share class of the Neuberger Securitize High Income Tokenized Fund, as collateral on Aave Horizon. Sub-advised by Neuberger Berman, the fund holds high yield corporate bonds, CLO tranches, and bank loans. https://t.co/zSl1rWqJ8K",
+      "summary": "RT @aave: A new proposal from @Securitize seeks to onboard HINC, the tokenized share class of the Neuberger Securitize High Income Tokenized Fund, as…",
+      "url": "https://x.com/LindaJeng1/status/2090182762145919235",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3"
       }
     },
     {
@@ -321,6 +455,31 @@
       }
     },
     {
+      "id": "2090168576909189195",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T20:06:36+00:00",
+      "text": "RT @CryptoAmerica_: We're loving @SALTConference Wyoming Symposium and just sat down with @Ripple Chief Legal Officer @s_alderoty. We discussed Ripple, $XRP, his almost 8-year journey at the company and his thoughts on the latest with the SEC, CFTC and more. Episode to come soon🤫 https://t.co/MAU0jUgYry",
+      "summary": "RT @CryptoAmerica_: We're loving @SALTConference Wyoming Symposium and just sat down with @Ripple Chief Legal Officer @s_alderoty. We discussed…",
+      "url": "https://x.com/s_alderoty/status/2090168576909189195",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5329"
+      }
+    },
+    {
       "id": "2090168205994349002",
       "is_retweet": false,
       "original_author": null,
@@ -346,6 +505,31 @@
       }
     },
     {
+      "id": "2090166929457602962",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T20:00:04+00:00",
+      "text": "The following statement is attributed to Blockchain Association CEO @SummerMersinger after today’s meeting with President Trump at the @WhiteHouse: https://t.co/ckVl0FPyy8",
+      "summary": "The following statement is attributed to Blockchain Association CEO @SummerMersinger after today’s meeting with President Trump at the @WhiteHouse:…",
+      "url": "https://x.com/BlockchainAssn/status/2090166929457602962",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 14,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1598"
+      }
+    },
+    {
       "id": "2090163909248372862",
       "is_retweet": true,
       "original_author": "RapidResponse47",
@@ -368,6 +552,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "266"
+      }
+    },
+    {
+      "id": "2090163368082497659",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T19:45:54+00:00",
+      "text": "Our NJ Chapter President, @cimerino80, to Sens. Booker &amp; Kim: New Jersey families use crypto to save &amp; send money home. They need clear rules The CLARITY Act delivers: federal registration, separated customer funds, custody standards. https://t.co/px2Deflp8Z",
+      "summary": "Our NJ Chapter President, @cimerino80, to Sens. Booker &amp; Kim: New Jersey families use crypto to save &amp; send money home. They need clear rules…",
+      "url": "https://x.com/standwithcrypto/status/2090163368082497659",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 1,
+        "views": "2395"
       }
     },
     {
@@ -471,6 +680,31 @@
       }
     },
     {
+      "id": "2090156179653615996",
+      "is_retweet": true,
+      "original_author": "Yueqi_Yang",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T19:17:21+00:00",
+      "text": "RT @Yueqi_Yang: Trump says the CFTC is working to bring Hyperliquid to the US, in remarks at White House crypto summit today. Trump: \"I understand that Mike (Selig) is also working to bring Hyperliquid into the United States in a fully compliant and legal fashion.\"",
+      "summary": "RT @Yueqi_Yang: Trump says the CFTC is working to bring Hyperliquid to the US, in remarks at White House crypto summit today. Trump: \"I understand…",
+      "url": "https://x.com/jchervinsky/status/2090156179653615996",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1220"
+      }
+    },
+    {
       "id": "2090153651855818752",
       "is_retweet": false,
       "original_author": null,
@@ -493,6 +727,81 @@
         "replies": 23,
         "quotes": 3,
         "views": "25575"
+      }
+    },
+    {
+      "id": "2090152650977202620",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "GOPMajorityWhip",
+      "display_name": "Tom Emmer",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-19T19:03:19+00:00",
+      "text": "Another day, another absolutely idiotic decision by Minnesota Mao",
+      "summary": "Another day, another absolutely idiotic decision by Minnesota Mao",
+      "url": "https://x.com/GOPMajorityWhip/status/2090152650977202620",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 314,
+        "retweets": 49,
+        "replies": 77,
+        "quotes": 4,
+        "views": "13002"
+      }
+    },
+    {
+      "id": "2090144928324096356",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T18:32:38+00:00",
+      "text": "Tune in live as @SummerMersinger joins other tech leaders at the White House where President Trump will deliver remarks: https://t.co/Gyx7ZwSnnE",
+      "summary": "Tune in live as @SummerMersinger joins other tech leaders at the White House where President Trump will deliver remarks: https://t.co/Gyx7ZwSnnE",
+      "url": "https://x.com/BlockchainAssn/status/2090144928324096356",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 21,
+        "retweets": 5,
+        "replies": 2,
+        "quotes": 2,
+        "views": "2696"
+      }
+    },
+    {
+      "id": "2090121906066165807",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-19T17:01:09+00:00",
+      "text": "\"We've created something. We're telling you all about it. And we would like to be regulated.\" Congressman @RepGregLandsman on why the crypto industry asking for Clarity is the opposite of the risky Wall Street products that dodged regulation and \"obliterated lives and homes.\" https://t.co/5PWaf8ZRmm",
+      "summary": "\"We've created something. We're telling you all about it. And we would like to be regulated.\" Congressman @RepGregLandsman on why the crypto industry…",
+      "url": "https://x.com/standwithcrypto/status/2090121906066165807",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 26,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5214"
       }
     },
     {
