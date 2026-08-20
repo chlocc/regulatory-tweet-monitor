@@ -1,35 +1,27 @@
 {
-  "generated_at": "2026-08-20T15:00:03.086780+00:00",
-  "generated_at_unix": 1787238003,
+  "generated_at": "2026-08-20T18:00:00.291871+00:00",
+  "generated_at_unix": 1787248800,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-19T16:00:00+00:00",
-  "window_end": "2026-08-20T15:00:03.086780+00:00",
-  "new_this_run": 34,
-  "total_recent": 84,
+  "window_end": "2026-08-20T18:00:00.291871+00:00",
+  "new_this_run": 24,
+  "total_recent": 108,
   "errors": [
     {
-      "username": "JohnReedStark",
+      "username": "wassielawyer",
       "error": "The read operation timed out"
     },
     {
-      "username": "0xlawyoor",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "NYCStein",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "Drew_Morris",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 11,
-    "successful_this_run": 11,
-    "next_index": 60,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -37,6 +29,331 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2090498389968588928",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T17:57:10+00:00",
+      "text": "If federal agencies can invoke \"emergency\" powers whenever a case is sympathetic, Jessi Brooks argues the precedent could reach far beyond crypto. ⚖️ Watch the moment on DEX in the City https://t.co/7wUUHUvkho",
+      "summary": "If federal agencies can invoke \"emergency\" powers whenever a case is sympathetic, Jessi Brooks argues the precedent could reach far beyond crypto. ⚖️…",
+      "url": "https://x.com/laurashin/status/2090498389968588928",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "669"
+      }
+    },
+    {
+      "id": "2090480304515428449",
+      "is_retweet": true,
+      "original_author": "CryptoTaxFixer",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T16:45:18+00:00",
+      "text": "RT @CryptoTaxFixer: 🚨CRYPTO INVESTORS: DO NOT SCAN THIS QR CODE A fake IRS notice is being mailed to crypto holders directing them to a bogus “Digital Asset Compliance Portal.” It looks very convincing. It isn’t real. Please spread the word.",
+      "summary": "RT @CryptoTaxFixer: 🚨CRYPTO INVESTORS: DO NOT SCAN THIS QR CODE A fake IRS notice is being mailed to crypto holders directing them to a bogus…",
+      "url": "https://x.com/laurashin/status/2090480304515428449",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 760,
+        "replies": 0,
+        "quotes": 0,
+        "views": "897"
+      }
+    },
+    {
+      "id": "2090468922772598788",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T16:00:04+00:00",
+      "text": "This afternoon at 1:00 PM ET, the @CFTC will kick off the inaugural meeting of its Innovation Advisory Committee to discuss crypto, AI and prediction markets. Many of the executives who attended yesterday’s White House event will be there, including additional leaders from across crypto, traditional finance, academia and prediction markets.",
+      "summary": "This afternoon at 1:00 PM ET, the @CFTC will kick off the inaugural meeting of its Innovation Advisory Committee to discuss crypto, AI and prediction…",
+      "url": "https://x.com/EleanorTerrett/status/2090468922772598788",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2062,
+        "retweets": 486,
+        "replies": 59,
+        "quotes": 48,
+        "views": "82155"
+      }
+    },
+    {
+      "id": "2090466951965372573",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:52:15+00:00",
+      "text": "RT @laurashin: \"I think it's a hammer when you need a scalpel.\" Jane Khodarkovsky on the EU's new watermark mandate for Claude, which Jessi Brooks walks through and @JacobRobinsonJD calls compelled speech. 🔍 New DEX in the City clip. https://t.co/h8OqOiYOLb",
+      "summary": "RT @laurashin: \"I think it's a hammer when you need a scalpel.\" Jane Khodarkovsky on the EU's new watermark mandate for Claude, which Jessi Brooks…",
+      "url": "https://x.com/laurashin/status/2090466951965372573",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466941559300244",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:52:12+00:00",
+      "text": "RT @laurashin: Arthur Hayes says $FLOP is meant to be a unit of compute — food for your AI agent, no presale, no VCs, airdrop in Q4. He explains the design to @laurashin, plus his yen trade, the AI credit bubble, MSTR's preferred problem, and why BitMEX is closing. @CryptoHayes joins in today at 3pm ET",
+      "summary": "RT @laurashin: Arthur Hayes says $FLOP is meant to be a unit of compute — food for your AI agent, no presale, no VCs, airdrop in Q4. He explains the…",
+      "url": "https://x.com/laurashin/status/2090466941559300244",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466935238500723",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:52:11+00:00",
+      "text": "RT @laurashin: Stripe just bought OpenRouter, the router much of crypto-AI runs on. @ErikVoorhees of Venice joins @kain and @tayvano_ to ask who really owns the AI stack now, and why Venice raised equity while leaving its token alone. Today at 4pm ET",
+      "summary": "RT @laurashin: Stripe just bought OpenRouter, the router much of crypto-AI runs on. @ErikVoorhees of Venice joins @kain and @tayvano_ to ask who…",
+      "url": "https://x.com/laurashin/status/2090466935238500723",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466919706947667",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:52:07+00:00",
+      "text": "RT @laurashin: ⚖️ The CFTC just closed its FTX cases against Caroline Ellison and Gary Wang, handing down trading bans but zero financial penalties. Here's why: https://t.co/yFymrK5jty",
+      "summary": "RT @laurashin: ⚖️ The CFTC just closed its FTX cases against Caroline Ellison and Gary Wang, handing down trading bans but zero financial penalties.…",
+      "url": "https://x.com/laurashin/status/2090466919706947667",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466909393191329",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:52:04+00:00",
+      "text": "RT @laurashin: ⚡ HYPE surged as much as 25% after Trump said the CFTC is working to bring Hyperliquid onshore. Full breakdown: https://t.co/VvpEXzQs33",
+      "summary": "RT @laurashin: ⚡ HYPE surged as much as 25% after Trump said the CFTC is working to bring Hyperliquid onshore. Full breakdown: https://t.co/VvpEXzQs33",
+      "url": "https://x.com/laurashin/status/2090466909393191329",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466898118950916",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:52:02+00:00",
+      "text": "RT @laurashin: 🏛️ Trump gathered the CEOs of Coinbase, Ripple, Robinhood and Nasdaq at the White House and pushed Congress to pass a \"fair version\" of the Clarity Act. What he said: https://t.co/oZJSyla0iz",
+      "summary": "RT @laurashin: 🏛️ Trump gathered the CEOs of Coinbase, Ripple, Robinhood and Nasdaq at the White House and pushed Congress to pass a \"fair version\"…",
+      "url": "https://x.com/laurashin/status/2090466898118950916",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466887943545282",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:51:59+00:00",
+      "text": "RT @laurashin: 🚨 Bitcoin just broke $70,000 for the first time in two months, and nearly $3 billion in short positions got liquidated in the process. Full story: https://t.co/ZP09JgHcHR",
+      "summary": "RT @laurashin: 🚨 Bitcoin just broke $70,000 for the first time in two months, and nearly $3 billion in short positions got liquidated in the process.…",
+      "url": "https://x.com/laurashin/status/2090466887943545282",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090466880532185220",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:51:57+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Bitcoin blows past $70,000 as $3 billion in shorts are liquidated 🏛️ Trump urged Congress to pass a \"fair version\" of the Clarity Act ⚡ HYPE surged after Trump said the CFTC wants Hyperliquid onshore ⚖️ Ellison and Wang got five-year trading bans and no financial penalty ⚡ Read today’s biggest crypto news… and subscribe for more! https://t.co/M1kmuZHTfl",
+      "summary": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Bitcoin blows past $70,000 as $3 billion in shorts are liquidated 🏛️ Trump urged Congress to…",
+      "url": "https://x.com/laurashin/status/2090466880532185220",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090465930274865615",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:48:11+00:00",
+      "text": "RT @laurashin: Is the CFTC's Kalshi Rescue a Dangerous Precedent? - DEX in the City Jessi Brooks says the CFTC's own logic could just as easily justify a federal agency overriding state law on something like abortion or guns tomorrow. Is crypto comfortable with that trade? 🤔 @JacobRobinsonJD and Jane Khodarkovsky weigh in on DEX in the City. Timestamps: 🏛️ 02:40 Why Jacob calls the CFTC's Kalshi rescue inevitable, and Jessi disagrees ⚖️ 17:45 Why the reasons behind the SEC's shelved 400-page crypto rulemaking stay murky 💧 21:48 1inch Aqua: See how shared liquidity works at https://t.co/PjP6kyzgA0 🤖 22:34 Why Claude's new EU-mandated watermark reads as compelled speech to Jacob 🔪 23:24 Jane's take on the watermark rule: a hammer when you need a scalpel 🛰️ 35:21 Jessi previews the CFTC's first public meeting on AI in markets 🔐 36:41 Jane unpacks Trump's memo letting private firms fight cybercrime abroad 🏴‍☠️ 46:24 Why Jacob wants a modern \"letter of marque\" for crypto's hackers",
+      "summary": "RT @laurashin: Is the CFTC's Kalshi Rescue a Dangerous Precedent? - DEX in the City Jessi Brooks says the CFTC's own logic could just as easily…",
+      "url": "https://x.com/laurashin/status/2090465930274865615",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090458100138684660",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T15:17:04+00:00",
+      "text": "\"I think it's a hammer when you need a scalpel.\" Jane Khodarkovsky on the EU's new watermark mandate for Claude, which Jessi Brooks walks through and @JacobRobinsonJD calls compelled speech. 🔍 New DEX in the City clip. https://t.co/h8OqOiYOLb",
+      "summary": "\"I think it's a hammer when you need a scalpel.\" Jane Khodarkovsky on the EU's new watermark mandate for Claude, which Jessi Brooks walks through and…",
+      "url": "https://x.com/laurashin/status/2090458100138684660",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "2851"
+      }
+    },
     {
       "id": "2090450746726600844",
       "is_retweet": false,
@@ -88,6 +405,31 @@
       }
     },
     {
+      "id": "2090437698301329516",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T13:56:00+00:00",
+      "text": "Is the CFTC's Kalshi Rescue a Dangerous Precedent? - DEX in the City Jessi Brooks says the CFTC's own logic could just as easily justify a federal agency overriding state law on something like abortion or guns tomorrow. Is crypto comfortable with that trade? 🤔 @JacobRobinsonJD and Jane Khodarkovsky weigh in on DEX in the City. Timestamps: 🏛️ 02:40 Why Jacob calls the CFTC's Kalshi rescue inevitable, and Jessi disagrees ⚖️ 17:45 Why the reasons behind the SEC's shelved 400-page crypto rulemaking stay murky 💧 21:48 1inch Aqua: See how shared liquidity works at https://t.co/PjP6kyzgA0 🤖 22:34 Why Claude's new EU-mandated watermark reads as compelled speech to Jacob 🔪 23:24 Jane's take on the watermark rule: a hammer when you need a scalpel 🛰️ 35:21 Jessi previews the CFTC's first public meeting on AI in markets 🔐 36:41 Jane unpacks Trump's memo letting private firms fight cybercrime abroad 🏴‍☠️ 46:24 Why Jacob wants a modern \"letter of marque\" for crypto's hackers",
+      "summary": "Is the CFTC's Kalshi Rescue a Dangerous Precedent? - DEX in the City Jessi Brooks says the CFTC's own logic could just as easily justify a federal…",
+      "url": "https://x.com/laurashin/status/2090437698301329516",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 2,
+        "views": "3527"
+      }
+    },
+    {
       "id": "2090437080467832874",
       "is_retweet": true,
       "original_author": "intangiblecoins",
@@ -110,6 +452,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "184"
+      }
+    },
+    {
+      "id": "2090437076823228580",
+      "is_retweet": true,
+      "original_author": "HadickM",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T13:53:32+00:00",
+      "text": "RT @HadickM: This was such a great conversation, and there was tons of timely conversation in the wake of Regulation Crypto and the talk about bringing offshore exchanges like Hype onshore.",
+      "summary": "RT @HadickM: This was such a great conversation, and there was tons of timely conversation in the wake of Regulation Crypto and the talk about…",
+      "url": "https://x.com/EleanorTerrett/status/2090437076823228580",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8691"
+      }
+    },
+    {
+      "id": "2090418321665737134",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T12:39:00+00:00",
+      "text": "Arthur Hayes says $FLOP is meant to be a unit of compute — food for your AI agent, no presale, no VCs, airdrop in Q4. He explains the design to @laurashin, plus his yen trade, the AI credit bubble, MSTR's preferred problem, and why BitMEX is closing. @CryptoHayes joins in today at 3pm ET",
+      "summary": "Arthur Hayes says $FLOP is meant to be a unit of compute — food for your AI agent, no presale, no VCs, airdrop in Q4. He explains the design to…",
+      "url": "https://x.com/laurashin/status/2090418321665737134",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 1,
+        "views": "3837"
+      }
+    },
+    {
+      "id": "2090418321195934189",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T12:39:00+00:00",
+      "text": "Stripe just bought OpenRouter, the router much of crypto-AI runs on. @ErikVoorhees of Venice joins @kain and @tayvano_ to ask who really owns the AI stack now, and why Venice raised equity while leaving its token alone. Today at 4pm ET",
+      "summary": "Stripe just bought OpenRouter, the router much of crypto-AI runs on. @ErikVoorhees of Venice joins @kain and @tayvano_ to ask who really owns the AI…",
+      "url": "https://x.com/laurashin/status/2090418321195934189",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3690"
+      }
+    },
+    {
+      "id": "2090412286364278986",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T12:15:01+00:00",
+      "text": "⚖️ The CFTC just closed its FTX cases against Caroline Ellison and Gary Wang, handing down trading bans but zero financial penalties. Here's why: https://t.co/yFymrK5jty",
+      "summary": "⚖️ The CFTC just closed its FTX cases against Caroline Ellison and Gary Wang, handing down trading bans but zero financial penalties. Here's why:…",
+      "url": "https://x.com/laurashin/status/2090412286364278986",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "3787"
       }
     },
     {
@@ -163,6 +605,56 @@
       }
     },
     {
+      "id": "2090404732754174439",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T11:45:00+00:00",
+      "text": "⚡ HYPE surged as much as 25% after Trump said the CFTC is working to bring Hyperliquid onshore. Full breakdown: https://t.co/VvpEXzQs33",
+      "summary": "⚡ HYPE surged as much as 25% after Trump said the CFTC is working to bring Hyperliquid onshore. Full breakdown: https://t.co/VvpEXzQs33",
+      "url": "https://x.com/laurashin/status/2090404732754174439",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 1,
+        "replies": 10,
+        "quotes": 0,
+        "views": "4032"
+      }
+    },
+    {
+      "id": "2090400705102397763",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T11:29:00+00:00",
+      "text": "🏛️ Trump gathered the CEOs of Coinbase, Ripple, Robinhood and Nasdaq at the White House and pushed Congress to pass a \"fair version\" of the Clarity Act. What he said: https://t.co/oZJSyla0iz",
+      "summary": "🏛️ Trump gathered the CEOs of Coinbase, Ripple, Robinhood and Nasdaq at the White House and pushed Congress to pass a \"fair version\" of the Clarity…",
+      "url": "https://x.com/laurashin/status/2090400705102397763",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "4195"
+      }
+    },
+    {
       "id": "2090395899079909488",
       "is_retweet": true,
       "original_author": "UnderSecPD",
@@ -185,6 +677,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "250"
+      }
+    },
+    {
+      "id": "2090294017913413658",
+      "is_retweet": true,
+      "original_author": "TheBlockCo",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T04:25:04+00:00",
+      "text": "RT @TheBlockCo: NEW: A group of crypto execs met with US Commerce Secretary Howard Lutnick today ahead of President Trump's speech, according to Eleanor Terrett. The conversation, which included Coinbase CEO Brian Armstrong and Ripple CEO Brad Garlinghouse, focused mainly on the Clarity Act. https://t.co/8FPNm0GUJB",
+      "summary": "RT @TheBlockCo: NEW: A group of crypto execs met with US Commerce Secretary Howard Lutnick today ahead of President Trump's speech, according to…",
+      "url": "https://x.com/EleanorTerrett/status/2090294017913413658",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9281"
       }
     },
     {
@@ -535,6 +1052,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "31971"
+      }
+    },
+    {
+      "id": "2090236038367326653",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T00:34:40+00:00",
+      "text": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstrong, @cdixon, @bgarlinghouse and @arjunsethi. The conversation focused broadly on the importance of passing the Clarity Act and what it could mean for U.S. jobs, economic growth and bringing crypto entrepreneurs and companies back onshore. The group also discussed the remaining hurdles to passage, including ethics, and how the White House could help find a path to bipartisan agreement.",
+      "summary": "🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and…",
+      "url": "https://x.com/EleanorTerrett/status/2090236038367326653",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2206,
+        "retweets": 373,
+        "replies": 46,
+        "quotes": 36,
+        "views": "212286"
       }
     },
     {
@@ -1163,6 +1705,31 @@
       }
     },
     {
+      "id": "2090171491120025909",
+      "is_retweet": true,
+      "original_author": "Yueqi_Yang",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-19T20:18:11+00:00",
+      "text": "RT @Yueqi_Yang: Trump says the CFTC is working to bring Hyperliquid to the US, in remarks at White House crypto summit today. Trump: \"I understand that Mike (Selig) is also working to bring Hyperliquid into the United States in a fully compliant and legal fashion.\"",
+      "summary": "RT @Yueqi_Yang: Trump says the CFTC is working to bring Hyperliquid to the US, in remarks at White House crypto summit today. Trump: \"I understand…",
+      "url": "https://x.com/EleanorTerrett/status/2090171491120025909",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 33,
+        "replies": 0,
+        "quotes": 0,
+        "views": "10138"
+      }
+    },
+    {
       "id": "2090168576909189195",
       "is_retweet": true,
       "original_author": "CryptoAmerica_",
@@ -1585,6 +2152,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "545"
+      }
+    },
+    {
+      "id": "2090154344410984551",
+      "is_retweet": true,
+      "original_author": "WhiteHouse",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-19T19:10:03+00:00",
+      "text": "RT @WhiteHouse: President Trump Delivers Remarks with Technology Leaders https://t.co/trcxingmGi",
+      "summary": "RT @WhiteHouse: President Trump Delivers Remarks with Technology Leaders https://t.co/trcxingmGi",
+      "url": "https://x.com/EleanorTerrett/status/2090154344410984551",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 998,
+        "replies": 0,
+        "quotes": 0,
+        "views": "8702"
       }
     },
     {
