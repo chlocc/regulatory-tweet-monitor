@@ -1,27 +1,35 @@
 {
-  "generated_at": "2026-08-20T12:04:46.415457+00:00",
-  "generated_at_unix": 1787227486,
+  "generated_at": "2026-08-20T15:00:03.086780+00:00",
+  "generated_at_unix": 1787238003,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-19T16:00:00+00:00",
-  "window_end": "2026-08-20T12:04:46.415457+00:00",
-  "new_this_run": 13,
-  "total_recent": 50,
+  "window_end": "2026-08-20T15:00:03.086780+00:00",
+  "new_this_run": 34,
+  "total_recent": 84,
   "errors": [
     {
-      "username": "kspaglia",
+      "username": "JohnReedStark",
       "error": "The read operation timed out"
     },
     {
-      "username": "SH_Brennan",
+      "username": "0xlawyoor",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "NYCStein",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "Drew_Morris",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 45,
+    "attempted_this_run": 11,
+    "successful_this_run": 11,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +37,81 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2090450746726600844",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T14:47:51+00:00",
+      "text": "It is big David. But I don’t love that FASB requires the company to have a direct redemption right with Circle or Tether in order to treat stablecoins as cash equivalents. That won’t work for most companies.",
+      "summary": "It is big David. But I don’t love that FASB requires the company to have a direct redemption right with Circle or Tether in order to treat…",
+      "url": "https://x.com/theblockprof/status/2090450746726600844",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "119"
+      }
+    },
+    {
+      "id": "2090447499282571524",
+      "is_retweet": true,
+      "original_author": "RSSH273",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T14:34:57+00:00",
+      "text": "RT @RSSH273: Tune in later today to hear the inestimables @JBSDC and @KhurramDara and yourstruly discuss the SEC's Reg Crypto",
+      "summary": "RT @RSSH273: Tune in later today to hear the inestimables @JBSDC and @KhurramDara and yourstruly discuss the SEC's Reg Crypto",
+      "url": "https://x.com/KhurramDara/status/2090447499282571524",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5"
+      }
+    },
+    {
+      "id": "2090437080467832874",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T13:53:33+00:00",
+      "text": "RT @intangiblecoins: more coins have changed hands between $62-65 k than any other price band (except $0-1200).. this area now sets a firm cost basis support as BTC moves higher https://t.co/PUeaj0nxKR",
+      "summary": "RT @intangiblecoins: more coins have changed hands between $62-65 k than any other price band (except $0-1200).. this area now sets a firm cost basis…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090437080467832874",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 34,
+        "replies": 0,
+        "quotes": 0,
+        "views": "184"
+      }
+    },
     {
       "id": "2090409480517214715",
       "is_retweet": true,
@@ -52,6 +135,106 @@
         "replies": 0,
         "quotes": 0,
         "views": "28"
+      }
+    },
+    {
+      "id": "2090406240463782295",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T11:51:00+00:00",
+      "text": "Will Canadian securities regulators change their approach to stablecoins once the federal Stablecoin Act is in effect? I asked Grant Vingoe, CEO of the Ontario Securities Commission. \"We continue to impose terms and conditions on regulated platforms that utilize stablecoins... [ensuring] the one-to-one backing, quality of reserves, audited financial statements and the rest. So we'll continue to do that.\" \"No one wants duplicative regulation, but there's a space for securities regulators.\"",
+      "summary": "Will Canadian securities regulators change their approach to stablecoins once the federal Stablecoin Act is in effect? I asked Grant Vingoe, CEO of…",
+      "url": "https://x.com/JacobRobinsonJD/status/2090406240463782295",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "406"
+      }
+    },
+    {
+      "id": "2090395899079909488",
+      "is_retweet": true,
+      "original_author": "UnderSecPD",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T11:09:54+00:00",
+      "text": "RT @UnderSecPD: Large portions of civil society have lost their minds on censorship. Darkly funny to even imagine how this would work. Would the government auction chits allowing journalists to report on controversies of public concern? License preapproved outlets with favored viewpoints? Maybe a cap-and-trade scheme.",
+      "summary": "RT @UnderSecPD: Large portions of civil society have lost their minds on censorship. Darkly funny to even imagine how this would work. Would the…",
+      "url": "https://x.com/prestonjbyrne/status/2090395899079909488",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 116,
+        "replies": 0,
+        "quotes": 0,
+        "views": "250"
+      }
+    },
+    {
+      "id": "2090288362833805554",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T04:02:36+00:00",
+      "text": "This is incredibly positive for both America and the future of tokenized assets. Hey @ewarren, do America (and the world) a favor and listen and learn from one of the smartest people involved in financial markets today - @CaitlinLong_",
+      "summary": "This is incredibly positive for both America and the future of tokenized assets. Hey @ewarren, do America (and the world) a favor and listen and…",
+      "url": "https://x.com/JohnEDeaton1/status/2090288362833805554",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 609,
+        "retweets": 103,
+        "replies": 12,
+        "quotes": 1,
+        "views": "27973"
+      }
+    },
+    {
+      "id": "2090256955730182462",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T01:57:47+00:00",
+      "text": "RT @lex_node: this will be the sixth time we have become accredited investors due to a single intraday pump, and we have become exceedingly efficient at it https://t.co/nmbcTkpf1A",
+      "summary": "RT @lex_node: this will be the sixth time we have become accredited investors due to a single intraday pump, and we have become exceedingly efficient…",
+      "url": "https://x.com/prestonjbyrne/status/2090256955730182462",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "299"
       }
     },
     {
@@ -152,6 +335,81 @@
         "replies": 3,
         "quotes": 0,
         "views": "454"
+      }
+    },
+    {
+      "id": "2090242532688965780",
+      "is_retweet": true,
+      "original_author": "WatcherGuru",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T01:00:29+00:00",
+      "text": "RT @WatcherGuru: JUST IN: $190,000,000,000 added to the crypto market cap in the past 24 hours. https://t.co/VWXibqrxHL",
+      "summary": "RT @WatcherGuru: JUST IN: $190,000,000,000 added to the crypto market cap in the past 24 hours. https://t.co/VWXibqrxHL",
+      "url": "https://x.com/HaileyLennonBTC/status/2090242532688965780",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1039,
+        "replies": 0,
+        "quotes": 0,
+        "views": "174"
+      }
+    },
+    {
+      "id": "2090242354259067045",
+      "is_retweet": true,
+      "original_author": "NateGeraci",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T00:59:46+00:00",
+      "text": "RT @NateGeraci: Less than two years ago… SEC had open lawsuits against Coinbase, Gemini, Binance, Kraken, Robinhood, Uniswap, Consensys, &amp; others. We now have the sitting US President talking about bringing a decentralized exchange like Hyperliquid onshore. Absolutely wild turn of events.",
+      "summary": "RT @NateGeraci: Less than two years ago… SEC had open lawsuits against Coinbase, Gemini, Binance, Kraken, Robinhood, Uniswap, Consensys, &amp;…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090242354259067045",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 12,
+        "replies": 0,
+        "quotes": 0,
+        "views": "209"
+      }
+    },
+    {
+      "id": "2090242315575067027",
+      "is_retweet": true,
+      "original_author": "EleanorTerrett",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T00:59:37+00:00",
+      "text": "RT @EleanorTerrett: 🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by President Trump and industry leaders, according to two sources familiar with the meeting. In the room were @brian_armstrong, @cdixon, @bgarlinghouse and @arjunsethi. The conversation focused broadly on the importance of passing the Clarity Act and what it could mean for U.S. jobs, economic growth and bringing crypto entrepreneurs and companies back onshore. The group also discussed the remaining hurdles to passage, including ethics, and how the White House could help find a path to bipartisan agreement.",
+      "summary": "RT @EleanorTerrett: 🚨SCOOP: A small group of crypto executives met with Commerce Secretary @howardlutnick ahead of today’s White House remarks by…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090242315575067027",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 361,
+        "replies": 0,
+        "quotes": 0,
+        "views": "173"
       }
     },
     {
@@ -280,6 +538,106 @@
       }
     },
     {
+      "id": "2090231601393258909",
+      "is_retweet": true,
+      "original_author": "TheProdiJake",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T00:17:03+00:00",
+      "text": "RT @TheProdiJake: .@JudiciaryGOP helped shine a light on S. Korea's new online censorship law targeting Americans. States can protect their users' free speech by enacting the @ALEC_states GRANITE Act, prohibiting agencies from cooperating with or assisting enforcement of foreign censorship laws.",
+      "summary": "RT @TheProdiJake: .@JudiciaryGOP helped shine a light on S. Korea's new online censorship law targeting Americans. States can protect their users'…",
+      "url": "https://x.com/prestonjbyrne/status/2090231601393258909",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "305"
+      }
+    },
+    {
+      "id": "2090230448966303866",
+      "is_retweet": true,
+      "original_author": "WatcherGuru",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-20T00:12:28+00:00",
+      "text": "RT @WatcherGuru: 🇺🇸 White House Crypto Summit recap: • President Trump says US considers buying \"sizable\" amounts of Bitcoin & other crypto. • Trump calls on Congress to pass Crypto Clarity Act. • Trump says US is ensuring it remains the \"undisputed leader\" in $BTC & crypto. • Hyperliquid $HYPE pumps 15% to $69 after Trump says CFTC is working to bring it to US. • SEC Chair Paul Atkins says \"we will ensure that the greatest advances of the technological frontier are realized right here in America.\" • Gemini co-founders say \"America should lead in crypto and win in market.\" • Trump says he \"ended the war on crypto once and for all.\"",
+      "summary": "RT @WatcherGuru: 🇺🇸 White House Crypto Summit recap: • President Trump says US considers buying \"sizable\" amounts of Bitcoin & other crypto. • Trump…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090230448966303866",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1653,
+        "replies": 0,
+        "quotes": 0,
+        "views": "173"
+      }
+    },
+    {
+      "id": "2090224681949302862",
+      "is_retweet": true,
+      "original_author": "AutismCapital",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T23:49:33+00:00",
+      "text": "RT @AutismCapital: Crypto people starting to feel they can reemerge into society after one day of green. https://t.co/dnYgerlwWM",
+      "summary": "RT @AutismCapital: Crypto people starting to feel they can reemerge into society after one day of green. https://t.co/dnYgerlwWM",
+      "url": "https://x.com/prestonjbyrne/status/2090224681949302862",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 193,
+        "replies": 0,
+        "quotes": 0,
+        "views": "275"
+      }
+    },
+    {
+      "id": "2090220490832900478",
+      "is_retweet": true,
+      "original_author": "KaceeRAllen",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T23:32:54+00:00",
+      "text": "RT @KaceeRAllen: A Clermont County man who faced felony vandalism charges for allegedly destroying a Flock safety camera in Union Township has had his case dismissed. Cody Morelock was accused of damaging the camera system located on Mount Carmel-Tobasco Road near Glenrose Lane on June 13, according to Union Township police. Investigators claimed he removed the bolts holding the equipment in place, causing the camera, solar panel, and support pole to fall before he destroyed them. Police said footage from other nearby cameras helped identify him as the suspect. The Flock camera was leased by the Union Township Police Department, and authorities estimated the damage at more than $1,000. A Clermont County grand jury ultimately declined to indict Morelock on the felony charges. Ohio is anti-Flock!",
+      "summary": "RT @KaceeRAllen: A Clermont County man who faced felony vandalism charges for allegedly destroying a Flock safety camera in Union Township has had…",
+      "url": "https://x.com/theblockprof/status/2090220490832900478",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2579,
+        "replies": 0,
+        "quotes": 0,
+        "views": "121"
+      }
+    },
+    {
       "id": "2090217756234748308",
       "is_retweet": true,
       "original_author": "RichJWidmann",
@@ -330,6 +688,31 @@
       }
     },
     {
+      "id": "2090214889750991309",
+      "is_retweet": true,
+      "original_author": "KhurramDara",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T23:10:38+00:00",
+      "text": "RT @KhurramDara: Will be chatting Reg Crypto with @JBSDC and @RSSH273 tomorrow at 1pm ET. Join us! https://t.co/yDCkj1t9Fc",
+      "summary": "RT @KhurramDara: Will be chatting Reg Crypto with @JBSDC and @RSSH273 tomorrow at 1pm ET. Join us! https://t.co/yDCkj1t9Fc",
+      "url": "https://x.com/KhurramDara/status/2090214889750991309",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2090213304480518173",
       "is_retweet": true,
       "original_author": "ProffEtherPrint",
@@ -377,6 +760,31 @@
         "replies": 1,
         "quotes": 0,
         "views": "1579"
+      }
+    },
+    {
+      "id": "2090205811704250666",
+      "is_retweet": true,
+      "original_author": "HaileyLennonBTC",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T22:34:34+00:00",
+      "text": "RT @HaileyLennonBTC: Colleges are out here just being legal crime organizations? https://t.co/c4VwZ8Sh8y",
+      "summary": "RT @HaileyLennonBTC: Colleges are out here just being legal crime organizations? https://t.co/c4VwZ8Sh8y",
+      "url": "https://x.com/HaileyLennonBTC/status/2090205811704250666",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
       }
     },
     {
@@ -455,6 +863,31 @@
       }
     },
     {
+      "id": "2090193520782934278",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T21:45:43+00:00",
+      "text": "We’re back to discussions of a strategic bitcoin reserve and the US actually buying bitcoin, not just keeping confiscated bitcoin. Let’s make it happen! 🔥",
+      "summary": "We’re back to discussions of a strategic bitcoin reserve and the US actually buying bitcoin, not just keeping confiscated bitcoin. Let’s make it…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090193520782934278",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 82,
+        "retweets": 4,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2820"
+      }
+    },
+    {
       "id": "2090192079137698063",
       "is_retweet": false,
       "original_author": null,
@@ -502,6 +935,81 @@
         "replies": 25,
         "quotes": 9,
         "views": "50372"
+      }
+    },
+    {
+      "id": "2090190650985664561",
+      "is_retweet": true,
+      "original_author": "brendanpmalone",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T21:34:19+00:00",
+      "text": "RT @brendanpmalone: Don’t miss my three goats. Tomorrow. 1pm ET. Reg Crypto and fridge cigarettes.",
+      "summary": "RT @brendanpmalone: Don’t miss my three goats. Tomorrow. 1pm ET. Reg Crypto and fridge cigarettes.",
+      "url": "https://x.com/KhurramDara/status/2090190650985664561",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "13"
+      }
+    },
+    {
+      "id": "2090190302136996158",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T21:32:56+00:00",
+      "text": "Will be chatting Reg Crypto with @JBSDC and @RSSH273 tomorrow at 1pm ET. Join us! https://t.co/yDCkj1t9Fc",
+      "summary": "Will be chatting Reg Crypto with @JBSDC and @RSSH273 tomorrow at 1pm ET. Join us! https://t.co/yDCkj1t9Fc",
+      "url": "https://x.com/KhurramDara/status/2090190302136996158",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 2,
+        "views": "1786"
+      }
+    },
+    {
+      "id": "2090189576480403801",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T21:30:03+00:00",
+      "text": ".@sethmoulton makes millions trading defense stocks he oversees sitting on a House subcommittee. @RoKhanna seems to be the next @SpeakerPelosi when it comes to stock trading. It is NOT generational change - it’s generational same.",
+      "summary": ".@sethmoulton makes millions trading defense stocks he oversees sitting on a House subcommittee. @RoKhanna seems to be the next @SpeakerPelosi when…",
+      "url": "https://x.com/JohnEDeaton1/status/2090189576480403801",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 143,
+        "retweets": 27,
+        "replies": 2,
+        "quotes": 1,
+        "views": "12224"
       }
     },
     {
@@ -555,6 +1063,31 @@
       }
     },
     {
+      "id": "2090177290130878779",
+      "is_retweet": true,
+      "original_author": "DarrenBotelho",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T20:41:14+00:00",
+      "text": "RT @DarrenBotelho: NOW: guests arriving for today's White House meeting on tech and digital assets (open-ended agenda, per sources): • Paul Atkins (SEC Chair) • Michael Selig (CFTC Chair) • Brian Armstrong (Coinbase CEO) • Adena Friedman (Nasdaq CEO) • Cameron & Tyler Winklevoss (Gemini) • Vlad Tenev (Robinhood CEO), who spoke with @FoxBusiness and said of Pres. Trump: “Thank you for making America the center of our capital markets”",
+      "summary": "RT @DarrenBotelho: NOW: guests arriving for today's White House meeting on tech and digital assets (open-ended agenda, per sources): • Paul Atkins…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090177290130878779",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "234"
+      }
+    },
+    {
       "id": "2090175086296781150",
       "is_retweet": true,
       "original_author": "SECPaulSAtkins",
@@ -605,6 +1138,31 @@
       }
     },
     {
+      "id": "2090174698738876876",
+      "is_retweet": true,
+      "original_author": "KhurramDara",
+      "username": "KhurramDara",
+      "display_name": "Khurram Dara",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T20:30:56+00:00",
+      "text": "RT @KhurramDara: The Reg Crypto release spills A LOT of ink on the history/background here and the sequence of events leading up to this proposal. Many folks will understandably gloss over it but it's pretty important because it can help reduce litigation/political/narrative risk. We'll probably see some headlines or spin from critics that characterizes Reg Crypto as an industry \"giveaway\" or somehow ties it to CLARITY and implies this was done on a whim. Very, very far from it... The release explains the SEC's approach to crypto pre-2025 and the \"regulation by enforcement\" era, and then lays out how beginning in 2025 the SEC: -Established the crypto task force -Held a series of roundtables and took meetings with the public -Solicited written public input on specific questions (re security status, what should be scoped out, public offerings, safe harbor from registration, among others) -Began issuing staff statements to provide clarity on a range of topics (e.g. memecoins, mining, staking, liquid staking, tokenized securities) -Participated in the PWG which specifically recommended the SEC develop fit for purpose rules and a safe harbor -Launched Project Crypto -Then in 2026 released interpretive guidance on the application of securities laws to crypto assets All of this led up to yesterday's release of Regulation Crypto Assets. And even in this release, there are 140+ questions the SEC is seeking comment from the public on. The SEC is making it clear that this is a thoughtful and deliberative proposal that was a product of a transparent and public process, not just something they threw up because commission leadership or this admin wants them to be \"pro crypto.\" Will be extremely helpful in case Reg Crypto becomes a political football or other industry groups attempt to challenge it.",
+      "summary": "RT @KhurramDara: The Reg Crypto release spills A LOT of ink on the history/background here and the sequence of events leading up to this proposal.…",
+      "url": "https://x.com/KhurramDara/status/2090174698738876876",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2090168576909189195",
       "is_retweet": true,
       "original_author": "CryptoAmerica_",
@@ -627,6 +1185,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "5329"
+      }
+    },
+    {
+      "id": "2090168512065007691",
+      "is_retweet": true,
+      "original_author": "UnderSecPD",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T20:06:21+00:00",
+      "text": "RT @UnderSecPD: Paivi was prosecuted for quoting the Bible. A downstream effect of countries criminalizing speech is that systems designed to flag and filter “criminals” trigger rippling second-order punishments. Can lead to debanking, visa denials, and more.",
+      "summary": "RT @UnderSecPD: Paivi was prosecuted for quoting the Bible. A downstream effect of countries criminalizing speech is that systems designed to flag…",
+      "url": "https://x.com/prestonjbyrne/status/2090168512065007691",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 122,
+        "replies": 0,
+        "quotes": 0,
+        "views": "297"
       }
     },
     {
@@ -752,6 +1335,81 @@
         "replies": 15,
         "quotes": 8,
         "views": "75157"
+      }
+    },
+    {
+      "id": "2090162021257842899",
+      "is_retweet": true,
+      "original_author": "scottmelker",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T19:40:33+00:00",
+      "text": "RT @scottmelker: Bloomberg lol. Imagine thinking bitcoin went up because of a meeting at the White House. https://t.co/wS0dnmQqbR",
+      "summary": "RT @scottmelker: Bloomberg lol. Imagine thinking bitcoin went up because of a meeting at the White House. https://t.co/wS0dnmQqbR",
+      "url": "https://x.com/HaileyLennonBTC/status/2090162021257842899",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "172"
+      }
+    },
+    {
+      "id": "2090161856757350790",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T19:39:54+00:00",
+      "text": "All the questions to Trump with a room of crypto CEOs and Execs are completely off topics and unrelated to crypto lol",
+      "summary": "All the questions to Trump with a room of crypto CEOs and Execs are completely off topics and unrelated to crypto lol",
+      "url": "https://x.com/HaileyLennonBTC/status/2090161856757350790",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 32,
+        "retweets": 2,
+        "replies": 8,
+        "quotes": 0,
+        "views": "2478"
+      }
+    },
+    {
+      "id": "2090161381400002825",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T19:38:01+00:00",
+      "text": "Not to be a hater and this is cool to see but this really doesn’t mean much unless Clarity Act passes in September",
+      "summary": "Not to be a hater and this is cool to see but this really doesn’t mean much unless Clarity Act passes in September",
+      "url": "https://x.com/HaileyLennonBTC/status/2090161381400002825",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "3192"
       }
     },
     {
@@ -905,6 +1563,56 @@
       }
     },
     {
+      "id": "2090156092118708523",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T19:17:00+00:00",
+      "text": "\"This starts with an exercise in understanding how your team works independent of AI.\" I asked @mollyisonchain, Coinbase's GC, how she'd teach lawyers to best adopt AI. \"This is about how you run an organization, how you operate legal like a business. Once you frame it that way, the AI just happens to be the mechanism as to how you accomplish that, as opposed to 'How do I AI my legal team?'\"",
+      "summary": "\"This starts with an exercise in understanding how your team works independent of AI.\" I asked @mollyisonchain, Coinbase's GC, how she'd teach…",
+      "url": "https://x.com/JacobRobinsonJD/status/2090156092118708523",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "545"
+      }
+    },
+    {
+      "id": "2090153952213864918",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T19:08:30+00:00",
+      "text": "My Washington Clean Hands Act is desperately needed. PREDICTION: Tomorrow night’s debate between @sethmoulton and @EdMarkey will once again highlight 2 Career Politicians arguing over which one is the most corrupt. We will once again hear Ed Markey lie about not receiving PAC money. We will hear how Seth commits insider trading - making millions - trading stocks of companies who appear before the congressional subcommittee Seth sits on. Seth learns these companies will get defense contracts and buys them before the public learns, causing the stocks to skyrocket. Seth will come back with how Markey took $400K from telecom companies to deregulate the industry. Seth will also bring up how Markey is HIDING his wealth by Markey refusing to not disclose his wife’s tax returns. Markey will call Seth a “fake progressive who threw trans kids under the bus.” Seth will say: “Oh yea, well you’re in the Epstein files.” PLEASE WATCH THE DEBATE TOMORROW It will be free advertising to vote @DeatonforSenate.",
+      "summary": "My Washington Clean Hands Act is desperately needed. PREDICTION: Tomorrow night’s debate between @sethmoulton and @EdMarkey will once again highlight…",
+      "url": "https://x.com/JohnEDeaton1/status/2090153952213864918",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 49,
+        "retweets": 11,
+        "replies": 1,
+        "quotes": 0,
+        "views": "12606"
+      }
+    },
+    {
       "id": "2090153651855818752",
       "is_retweet": false,
       "original_author": null,
@@ -955,6 +1663,31 @@
       }
     },
     {
+      "id": "2090148016946581969",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T18:44:54+00:00",
+      "text": "If you substitute words like democrat and progressive with nonpartisan and common sense, the @BostonGlobe’s reasons for endorsing Seth become even more applicable when applied to me.",
+      "summary": "If you substitute words like democrat and progressive with nonpartisan and common sense, the @BostonGlobe’s reasons for endorsing Seth become even…",
+      "url": "https://x.com/JohnEDeaton1/status/2090148016946581969",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 3,
+        "replies": 2,
+        "quotes": 0,
+        "views": "12364"
+      }
+    },
+    {
       "id": "2090144928324096356",
       "is_retweet": false,
       "original_author": null,
@@ -977,6 +1710,56 @@
         "replies": 2,
         "quotes": 2,
         "views": "2696"
+      }
+    },
+    {
+      "id": "2090144777945981429",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T18:32:02+00:00",
+      "text": "Union Leadership may endorse you but that doesn’t mean individual members will vote for you. While you’ve spent 53 years collecting a taxpayer paycheck, I’ve been fighting for residential and commercial Roofers exposed to asbestos in Court against multibillion dollar corporations for decades. The same applies to Heat & Frost Insulators & Asbestos Workers, Electricians (Local 103, IBEW), Pipefitters/Plumbers, Boilermakers (Local 29), Truck Drivers (Teamsters). Same with Shipyard Workers, Iron Workers, heavy equipment operators, welders, auto-mechanics, and just about every other trade. I look forward to voters finding out who the real fighter is for working people. You talk about it - Iived it. #mapoli #MASen #Deaton",
+      "summary": "Union Leadership may endorse you but that doesn’t mean individual members will vote for you. While you’ve spent 53 years collecting a taxpayer…",
+      "url": "https://x.com/JohnEDeaton1/status/2090144777945981429",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 122,
+        "retweets": 32,
+        "replies": 7,
+        "quotes": 0,
+        "views": "12540"
+      }
+    },
+    {
+      "id": "2090130422126534941",
+      "is_retweet": true,
+      "original_author": "chooserich",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T17:35:00+00:00",
+      "text": "RT @chooserich: Ya’ll sold?!?! https://t.co/Izk2quasPX",
+      "summary": "RT @chooserich: Ya’ll sold?!?! https://t.co/Izk2quasPX",
+      "url": "https://x.com/theblockprof/status/2090130422126534941",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 382,
+        "replies": 0,
+        "quotes": 0,
+        "views": "99"
       }
     },
     {
@@ -1130,6 +1913,56 @@
       }
     },
     {
+      "id": "2090117474788212894",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T16:43:33+00:00",
+      "text": "Money printer ⬆️ Bitcoin price ⬇️⬆️⬆️",
+      "summary": "Money printer ⬆️ Bitcoin price ⬇️⬆️⬆️",
+      "url": "https://x.com/HaileyLennonBTC/status/2090117474788212894",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2945"
+      }
+    },
+    {
+      "id": "2090115325945610294",
+      "is_retweet": true,
+      "original_author": "z0r0zzz",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T16:35:00+00:00",
+      "text": "RT @z0r0zzz: zSwap v0.2 has been queued for DAO vote. Each version is its own immutable address that runs the exchange. If you hold shares, go ahead and participate. https://t.co/W3xe1fEkwC",
+      "summary": "RT @z0r0zzz: zSwap v0.2 has been queued for DAO vote. Each version is its own immutable address that runs the exchange. If you hold shares, go ahead…",
+      "url": "https://x.com/theblockprof/status/2090115325945610294",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "94"
+      }
+    },
+    {
       "id": "2090114911980400657",
       "is_retweet": false,
       "original_author": null,
@@ -1252,6 +2085,31 @@
         "replies": 14,
         "quotes": 8,
         "views": "45365"
+      }
+    },
+    {
+      "id": "2090108236473020491",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-19T16:06:50+00:00",
+      "text": "This chart also underscores the importance of public thought leadership. @milesjennings, @NYcryptolawyer, @lex_node &amp; many others spent years writing on crypto law for the benefit of us all here. It genuinely makes me happy to see it pay off. Advocate!",
+      "summary": "This chart also underscores the importance of public thought leadership. @milesjennings, @NYcryptolawyer, @lex_node &amp; many others spent years…",
+      "url": "https://x.com/JacobRobinsonJD/status/2090108236473020491",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 31,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1872"
       }
     },
     {
