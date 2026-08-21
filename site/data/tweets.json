@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-08-21T15:00:05.158518+00:00",
-  "generated_at_unix": 1787324405,
+  "generated_at": "2026-08-21T18:00:46.369557+00:00",
+  "generated_at_unix": 1787335246,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-20T16:00:00+00:00",
-  "window_end": "2026-08-21T15:00:05.158518+00:00",
-  "new_this_run": 20,
-  "total_recent": 53,
+  "window_end": "2026-08-21T18:00:46.369557+00:00",
+  "new_this_run": 21,
+  "total_recent": 74,
   "errors": [
     {
-      "username": "HaileyLennonBTC",
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "gabriel_weil",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "angela_walch",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 60,
+    "attempted_this_run": 11,
+    "successful_this_run": 11,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +37,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2090861256823410899",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T17:59:04+00:00",
+      "text": "🎁 Erik Voorhees says Venice is preparing a rewards program that would use a portion of user payments to buy VVV on the open market and distribute the tokens to loyal customers. The plan has not yet been deployed. https://t.co/2HKZK3j5uk",
+      "summary": "🎁 Erik Voorhees says Venice is preparing a rewards program that would use a portion of user payments to buy VVV on the open market and distribute the…",
+      "url": "https://x.com/laurashin/status/2090861256823410899",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "623"
+      }
+    },
+    {
+      "id": "2090823755023163418",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T15:30:03+00:00",
+      "text": "EIP-8363 has raised a lot of hackles: @jdetychey defends why Ethereum's new burn curve should push toward zero. @owocki says the DeFi business community isn't buying it, and @OisinKyne has concerns of his own. 🤔 https://t.co/Uoxq9eMgau",
+      "summary": "EIP-8363 has raised a lot of hackles: @jdetychey defends why Ethereum's new burn curve should push toward zero. @owocki says the DeFi business…",
+      "url": "https://x.com/laurashin/status/2090823755023163418",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2336"
+      }
+    },
     {
       "id": "2090810166450991507",
       "is_retweet": true,
@@ -76,6 +138,156 @@
       }
     },
     {
+      "id": "2090808644895940838",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T14:30:00+00:00",
+      "text": "EIP-8363: Should ETH Be Sound Money or a Productive Asset? Is ETH ultrasound money or a productive asset? I sat down with @owocki, @OisinKyne, and @jdetychey to dig into EIP-8363, the proposal that wants to cut Ethereum's staking yield toward zero. 🔥 Timestamps: 🏛️ 01:38 Jérôme lays out EIP-8363's validator reward burn curve 🔥 08:02 Oisín on why a 51% cartel could censor blocks for free ⚖️ 10:39 Jérôme's rebuttal: finality security versus censorship risk 📣 14:38 1inch: See how Aqua's shared liquidity pools work at https://t.co/PjP6kyzgA0 💼 16:13 Kevin on Aave, Bankless, and DeFi's backlash to the burn 🧾 33:18 Why solo stakers could see after-tax income near zero 🏦 45:39 Does killing ETH's yield scare off institutional buyers? ⚛️ 51:03 Ultrasound money versus productive asset: ETH's identity fight 🔐 56:41 Why Oisín is skeptical of an enshrined liquid staking token 🥇 59:34 Can ETH's shrinking yield compete with Solana and stablecoins? 🔮 01:05:27 Post-quantum costs, and when All Core Devs decides EIP-8363's fate",
+      "summary": "EIP-8363: Should ETH Be Sound Money or a Productive Asset? Is ETH ultrasound money or a productive asset? I sat down with @owocki, @OisinKyne, and…",
+      "url": "https://x.com/laurashin/status/2090808644895940838",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 0,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2554"
+      }
+    },
+    {
+      "id": "2090808025338597877",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "ddisparte",
+      "display_name": "Dante Disparte",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-21T14:27:33+00:00",
+      "text": "Agree with @jerallaire. Once legal and regulatory clarity set in for stablecoins, achieved with the GENIUS Act, MiCA, and other frameworks around the world. The next breakthrough would come from accounting standards and balance sheet treatment of stablecoins as cash equivalents.",
+      "summary": "Agree with @jerallaire. Once legal and regulatory clarity set in for stablecoins, achieved with the GENIUS Act, MiCA, and other frameworks around the…",
+      "url": "https://x.com/ddisparte/status/2090808025338597877",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 54,
+        "retweets": 6,
+        "replies": 4,
+        "quotes": 0,
+        "views": "4742"
+      }
+    },
+    {
+      "id": "2090804406056845620",
+      "is_retweet": true,
+      "original_author": "Matt_Hougan",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T14:13:10+00:00",
+      "text": "RT @Matt_Hougan: Arthur Hayers is right here. I said something similar today on the @scottmelker show. ETH is rallying hard because there is no one left to sell. Everyone who wanted to sell sold when the ETH Foundation went full CROPS. All that was left after that was the true believers. Now the sentiment has turned and relatively light buying moves prices much higher.",
+      "summary": "RT @Matt_Hougan: Arthur Hayers is right here. I said something similar today on the @scottmelker show. ETH is rallying hard because there is no one…",
+      "url": "https://x.com/laurashin/status/2090804406056845620",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 17,
+        "replies": 0,
+        "quotes": 0,
+        "views": "995"
+      }
+    },
+    {
+      "id": "2090790222845944064",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T13:16:48+00:00",
+      "text": "RT @laurashin: CFTC Chair Michael Selig says he has a backup plan. If the Clarity Act dies in the Senate, the agency will use its existing authority to build crypto market structure rules anyway. 🏛️ https://t.co/2zvz0qZMAF",
+      "summary": "RT @laurashin: CFTC Chair Michael Selig says he has a backup plan. If the Clarity Act dies in the Senate, the agency will use its existing authority…",
+      "url": "https://x.com/laurashin/status/2090790222845944064",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090790212368543888",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T13:16:46+00:00",
+      "text": "RT @laurashin: Two Binance employees were reportedly detained at airports in the UAE in recent weeks as police investigated possible financial crimes tied to the exchange. 🚨 https://t.co/TNkgv9WKrA",
+      "summary": "RT @laurashin: Two Binance employees were reportedly detained at airports in the UAE in recent weeks as police investigated possible financial crimes…",
+      "url": "https://x.com/laurashin/status/2090790212368543888",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090790203036189130",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T13:16:44+00:00",
+      "text": "RT @laurashin: Bitcoin just topped $75,000 for the first time in three months, up about 20% this week, its biggest weekly gain since March 2024. 🚀 https://t.co/z2LAZsj1ma",
+      "summary": "RT @laurashin: Bitcoin just topped $75,000 for the first time in three months, up about 20% this week, its biggest weekly gain since March 2024. 🚀…",
+      "url": "https://x.com/laurashin/status/2090790203036189130",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2090777055084286191",
       "is_retweet": true,
       "original_author": "CorySwan",
@@ -101,6 +313,31 @@
       }
     },
     {
+      "id": "2090771400831500779",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T12:02:01+00:00",
+      "text": "CME CEO Terrence Duffy clashed with CFTC Chair Michael Selig and Kalshi COO Luana Lopes Lara over prediction market manipulation at a CFTC advisory meeting Thursday. 🎤 https://t.co/RwiZ66Wq9m",
+      "summary": "CME CEO Terrence Duffy clashed with CFTC Chair Michael Selig and Kalshi COO Luana Lopes Lara over prediction market manipulation at a CFTC advisory…",
+      "url": "https://x.com/laurashin/status/2090771400831500779",
+      "type": "original",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "3034"
+      }
+    },
+    {
       "id": "2090770641548886165",
       "is_retweet": false,
       "original_author": null,
@@ -123,6 +360,131 @@
         "replies": 0,
         "quotes": 0,
         "views": "320"
+      }
+    },
+    {
+      "id": "2090767623265062913",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T11:47:00+00:00",
+      "text": "Bitcoin just topped $75,000 for the first time in three months, up about 20% this week, its biggest weekly gain since March 2024. 🚀 https://t.co/z2LAZsj1ma",
+      "summary": "Bitcoin just topped $75,000 for the first time in three months, up about 20% this week, its biggest weekly gain since March 2024. 🚀…",
+      "url": "https://x.com/laurashin/status/2090767623265062913",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 33,
+        "retweets": 2,
+        "replies": 14,
+        "quotes": 0,
+        "views": "3855"
+      }
+    },
+    {
+      "id": "2090764100305604919",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T11:33:00+00:00",
+      "text": "Two Binance employees were reportedly detained at airports in the UAE in recent weeks as police investigated possible financial crimes tied to the exchange. 🚨 https://t.co/TNkgv9WKrA",
+      "summary": "Two Binance employees were reportedly detained at airports in the UAE in recent weeks as police investigated possible financial crimes tied to the…",
+      "url": "https://x.com/laurashin/status/2090764100305604919",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3987"
+      }
+    },
+    {
+      "id": "2090760324685468147",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T11:18:00+00:00",
+      "text": "CFTC Chair Michael Selig says he has a backup plan. If the Clarity Act dies in the Senate, the agency will use its existing authority to build crypto market structure rules anyway. 🏛️ https://t.co/2zvz0qZMAF",
+      "summary": "CFTC Chair Michael Selig says he has a backup plan. If the Clarity Act dies in the Senate, the agency will use its existing authority to build crypto…",
+      "url": "https://x.com/laurashin/status/2090760324685468147",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 0,
+        "views": "4295"
+      }
+    },
+    {
+      "id": "2090756477539553406",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T11:02:43+00:00",
+      "text": "RT @laurashin: Arthur Hayes is betting AI agents will need their own money. His answer: $FLOP, a token built as a unit of compute, with no presale, no VCs, and an airdrop planned for Q4. He joins @laurashin to break it down, along with his yen trade, the AI credit bubble, MSTR’s preferred-stock dilemma, and why BitMEX is closing. @CryptoHayes join us live: X - https://t.co/AohKSQ4sNg",
+      "summary": "RT @laurashin: Arthur Hayes is betting AI agents will need their own money. His answer: $FLOP, a token built as a unit of compute, with no presale,…",
+      "url": "https://x.com/laurashin/status/2090756477539553406",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090756030133317744",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T11:00:56+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 CFTC's Selig directs staff to draft crypto market structure rules if Clarity Act fails 🇦🇪 Two Binance employees detained in the UAE amid police inquiries 📈 Bitcoin tops $75,000, on track for its best week since March 2024 🥊 CME's Duffy trades insults with Kalshi's Lopes Lara at CFTC meeting 📈 Read the latest update… and get more daily! Subscribe. https://t.co/ZxDc9p2tOi",
+      "summary": "In today's Unchained Daily newsletter: 🔥 CFTC's Selig directs staff to draft crypto market structure rules if Clarity Act fails 🇦🇪 Two Binance…",
+      "url": "https://x.com/laurashin/status/2090756030133317744",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "3182"
       }
     },
     {
@@ -176,6 +538,56 @@
       }
     },
     {
+      "id": "2090684792559780329",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T06:17:52+00:00",
+      "text": "RT @laurashin: Erik Voorhees on the crypto UX realisation that took 15 years \"Crypto has always had this UX challenge with humans. Every time you go to a crypto conference, whether it was back in 2011 or tomorrow, people talk about how do you make this stuff more usable to people\" \"It seems like perhaps it's just much more usable for robots and the machines and the AI, and that crypto is actually built for the machines and we didn't know it. The machines are now going to start running on the stuff and utilizing it\" \"They have no trouble with public key pairs, that's easy for them\" \"I don't see a future where the robots are using bank accounts at Wells Fargo. I do see a future where they're using crypto assets on decentralized rails\"",
+      "summary": "RT @laurashin: Erik Voorhees on the crypto UX realisation that took 15 years \"Crypto has always had this UX challenge with humans. Every time you go…",
+      "url": "https://x.com/laurashin/status/2090684792559780329",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 27,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2090684744065257691",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T06:17:40+00:00",
+      "text": "RT @laurashin: \"They're going to be agents of the government.\" Jane Khodarkovsky on what private companies actually sign up for under Trump's new cyber memo. 🔐 New DEX in the City clip https://t.co/wUfOpDzZuz",
+      "summary": "RT @laurashin: \"They're going to be agents of the government.\" Jane Khodarkovsky on what private companies actually sign up for under Trump's new…",
+      "url": "https://x.com/laurashin/status/2090684744065257691",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
       "id": "2090659154713030709",
       "is_retweet": false,
       "original_author": null,
@@ -198,6 +610,56 @@
         "replies": 3,
         "quotes": 0,
         "views": "12702"
+      }
+    },
+    {
+      "id": "2090657658785382828",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T04:30:03+00:00",
+      "text": "This is why enlightened authoritarian structures are far more effective than democracies, with the downside of course that absolute power tends to corrupt. You basically gamble generations of pain under a tyrant for a golden age leader, whereas in democracies it’s just all meh.",
+      "summary": "This is why enlightened authoritarian structures are far more effective than democracies, with the downside of course that absolute power tends to…",
+      "url": "https://x.com/wassielawyer/status/2090657658785382828",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 33,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "5583"
+      }
+    },
+    {
+      "id": "2090655616079724891",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T04:21:56+00:00",
+      "text": "Always wondered - would tokenholders still want permanent buybacks if they had legitimate equity or equity like interests in the project? Corporations do buybacks far more strategically but that’s bc shareholders don’t run a token rug risk.",
+      "summary": "Always wondered - would tokenholders still want permanent buybacks if they had legitimate equity or equity like interests in the project?…",
+      "url": "https://x.com/wassielawyer/status/2090655616079724891",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 1,
+        "replies": 11,
+        "quotes": 0,
+        "views": "4227"
       }
     },
     {
@@ -298,6 +760,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "580"
+      }
+    },
+    {
+      "id": "2090625206998212829",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T02:21:05+00:00",
+      "text": "\"They're going to be agents of the government.\" Jane Khodarkovsky on what private companies actually sign up for under Trump's new cyber memo. 🔐 New DEX in the City clip https://t.co/wUfOpDzZuz",
+      "summary": "\"They're going to be agents of the government.\" Jane Khodarkovsky on what private companies actually sign up for under Trump's new cyber memo. 🔐 New…",
+      "url": "https://x.com/laurashin/status/2090625206998212829",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "4973"
       }
     },
     {
@@ -423,6 +910,56 @@
         "replies": 1,
         "quotes": 1,
         "views": "10834"
+      }
+    },
+    {
+      "id": "2090572061580145087",
+      "is_retweet": true,
+      "original_author": "Polymarket",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T22:49:55+00:00",
+      "text": "RT @Polymarket: JUST IN: Man dressed as Darth Vader appears before San Diego City Council to defend its 550+ Flock cameras — declaring, “This is what the emperor needs.” https://t.co/VAu7geTq93",
+      "summary": "RT @Polymarket: JUST IN: Man dressed as Darth Vader appears before San Diego City Council to defend its 550+ Flock cameras — declaring, “This is what…",
+      "url": "https://x.com/laurashin/status/2090572061580145087",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2691,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1124"
+      }
+    },
+    {
+      "id": "2090571986632147109",
+      "is_retweet": true,
+      "original_author": "DAdvisoor",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-20T22:49:37+00:00",
+      "text": "RT @DAdvisoor: What does it say about us guys",
+      "summary": "RT @DAdvisoor: What does it say about us guys",
+      "url": "https://x.com/laurashin/status/2090571986632147109",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1238"
       }
     },
     {
