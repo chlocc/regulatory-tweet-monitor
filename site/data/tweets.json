@@ -1,31 +1,27 @@
 {
-  "generated_at": "2026-08-21T06:15:36.614185+00:00",
-  "generated_at_unix": 1787292936,
+  "generated_at": "2026-08-21T09:14:38.648072+00:00",
+  "generated_at_unix": 1787303678,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-20T16:00:00+00:00",
-  "window_end": "2026-08-21T06:15:36.614185+00:00",
+  "window_end": "2026-08-21T09:14:38.648072+00:00",
   "new_this_run": 11,
-  "total_recent": 14,
+  "total_recent": 25,
   "errors": [
     {
-      "username": "SECGov",
+      "username": "RoKhanna",
       "error": "The read operation timed out"
     },
     {
-      "username": "howardlutnick",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "USHouseFSC",
+      "username": "BillHughesDC",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 15,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +29,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2090632378263740627",
+      "is_retweet": true,
+      "original_author": "valkenburgh",
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T02:49:35+00:00",
+      "text": "RT @valkenburgh: A few weeks ago Coin Center started Peer to Peer . It's a newsletter about the rise of Technological Authoritarianism and how we can fight back with American Values, Open Tech, and the Constitution. Authors include @LazPieper @NeerajKA @jasonsomensatto and myself. I'm thrilled with how it has come together and feel lucky to have such a talented and ideologically based team.",
+      "summary": "RT @valkenburgh: A few weeks ago Coin Center started Peer to Peer . It's a newsletter about the rise of Technological Authoritarianism and how we can…",
+      "url": "https://x.com/NeerajKA/status/2090632378263740627",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 13,
+        "replies": 0,
+        "quotes": 0,
+        "views": "318"
+      }
+    },
     {
       "id": "2090617926076276977",
       "is_retweet": true,
@@ -59,6 +80,56 @@
       }
     },
     {
+      "id": "2090606029226815901",
+      "is_retweet": true,
+      "original_author": "JamesCBraid",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-21T01:04:53+00:00",
+      "text": "RT @JamesCBraid: I am profoundly grateful to President Trump and Vice President @JDVance for the opportunity to be a part of this extraordinary team, and to serve in an administration that has worked with the Congress to deliver the largest tax relief in American history, the resources necessary to secure the border and build the wall across two reconciliation bills, the fastest confirmation of the cabinet in twenty years, and defeating two Democratic shutdowns. I want to thank @SusieWiles47 and @JamesBlairUSA for their indomitable leadership, the incredible staff they have brought together, and to the extraordinary team at the Office of Legislative Affairs, who have contributed so much to the work of the administration with Congress, most especially the 47 OLA deputy directors past and present: Jeff Freeland, Pace McMullan, Jay Fields, Katie Bailey and Chad Yelinski.",
+      "summary": "RT @JamesCBraid: I am profoundly grateful to President Trump and Vice President @JDVance for the opportunity to be a part of this extraordinary team,…",
+      "url": "https://x.com/patrickjwitt/status/2090606029226815901",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 448,
+        "replies": 0,
+        "quotes": 0,
+        "views": "862"
+      }
+    },
+    {
+      "id": "2090605782278795453",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-21T01:03:54+00:00",
+      "text": "James is a patriot and a friend. I’m genuinely sad to see him go but excited for what’s next. James has been a huge asset to the administration and played a pivotal role in advancing President Trump’s pro-crypto agenda, including passage of the GENIUS Act, the CBDC ban, and soon, Clarity! @JamesCBraid",
+      "summary": "James is a patriot and a friend. I’m genuinely sad to see him go but excited for what’s next. James has been a huge asset to the administration and…",
+      "url": "https://x.com/patrickjwitt/status/2090605782278795453",
+      "type": "quote",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 181,
+        "retweets": 14,
+        "replies": 1,
+        "quotes": 1,
+        "views": "10834"
+      }
+    },
+    {
       "id": "2090570738843738215",
       "is_retweet": false,
       "original_author": null,
@@ -81,6 +152,56 @@
         "replies": 2,
         "quotes": 0,
         "views": "19242"
+      }
+    },
+    {
+      "id": "2090550457538073010",
+      "is_retweet": true,
+      "original_author": "BankingGOP",
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-20T21:24:04+00:00",
+      "text": "RT @BankingGOP: 📺 WATCH: Chairman @SenatorTimScott on how the Clarity Act will protect consumers, support innovation, and strengthen America’s leadership in the future of finance. https://t.co/ZPgyfTbi4S",
+      "summary": "RT @BankingGOP: 📺 WATCH: Chairman @SenatorTimScott on how the Clarity Act will protect consumers, support innovation, and strengthen America’s…",
+      "url": "https://x.com/BlockchainAssn/status/2090550457538073010",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "478"
+      }
+    },
+    {
+      "id": "2090548059373457893",
+      "is_retweet": true,
+      "original_author": "SenatorTimScott",
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-20T21:14:32+00:00",
+      "text": "RT @SenatorTimScott: The Clarity Act will become law. The only questions are how and when. I believe we have a real opportunity to get this done, and I’ll keep pushing to protect consumers and keep innovation in America. https://t.co/yhaTsuW9qm",
+      "summary": "RT @SenatorTimScott: The Clarity Act will become law. The only questions are how and when. I believe we have a real opportunity to get this done, and…",
+      "url": "https://x.com/patrickjwitt/status/2090548059373457893",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 116,
+        "replies": 0,
+        "quotes": 0,
+        "views": "832"
       }
     },
     {
@@ -184,6 +305,31 @@
       }
     },
     {
+      "id": "2090530624658436246",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "patrickjwitt",
+      "display_name": "Patrick Witt",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-20T20:05:15+00:00",
+      "text": ".@tyler is right. America is defined by its builders, not its bureaucrats. Smart regulators like @ChairmanSelig and @SECPaulSAtkins understand that protecting consumers and market integrity doesn’t have to mean stifling growth and innovation. Exciting to hear what’s in store at the CFTC and SEC in the coming months.",
+      "summary": ".@tyler is right. America is defined by its builders, not its bureaucrats. Smart regulators like @ChairmanSelig and @SECPaulSAtkins understand that…",
+      "url": "https://x.com/patrickjwitt/status/2090530624658436246",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 442,
+        "retweets": 79,
+        "replies": 10,
+        "quotes": 2,
+        "views": "19848"
+      }
+    },
+    {
       "id": "2090529301854880238",
       "is_retweet": false,
       "original_author": null,
@@ -231,6 +377,56 @@
         "replies": 50,
         "quotes": 27,
         "views": "46639"
+      }
+    },
+    {
+      "id": "2090514202603700375",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-20T19:00:00+00:00",
+      "text": "Joining us at the table tomorrow in Des Moines: Congressman @ZachNunn 🛡️ Crypto for your community, your neighborhood, your local small businesses. 🗓️ August 21, 2026 📍Des Moines, IO Moderated by @WadePreston. https://t.co/6VLGDECa5g",
+      "summary": "Joining us at the table tomorrow in Des Moines: Congressman @ZachNunn 🛡️ Crypto for your community, your neighborhood, your local small businesses.…",
+      "url": "https://x.com/standwithcrypto/status/2090514202603700375",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 2,
+        "views": "3828"
+      }
+    },
+    {
+      "id": "2090507295809507500",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-20T18:32:33+00:00",
+      "text": "A few weeks ago Coin Center started Peer to Peer . It's a newsletter about the rise of Technological Authoritarianism and how we can fight back with American Values, Open Tech, and the Constitution. Authors include @LazPieper @NeerajKA @jasonsomensatto and myself. I'm thrilled with how it has come together and feel lucky to have such a talented and ideologically based team.",
+      "summary": "A few weeks ago Coin Center started Peer to Peer . It's a newsletter about the rise of Technological Authoritarianism and how we can fight back with…",
+      "url": "https://x.com/valkenburgh/status/2090507295809507500",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 43,
+        "retweets": 13,
+        "replies": 2,
+        "quotes": 1,
+        "views": "3016"
       }
     },
     {
@@ -284,6 +480,56 @@
       }
     },
     {
+      "id": "2090486688187404745",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-20T17:10:40+00:00",
+      "text": "Thank you @ChairmanSelig for convening today's Innovation Advisory Committee meeting and for the agency’s work to ensure digital asset policy keeps pace with innovation. We’re proud to see a number of BA members represented on the IAC: @a16zcrypto @anchorage @bullish @chainlinklabs @Coinbase @consensys @cryptocom @DRWTrading @FalconXGlobal @hiFramework @grayscale @kraken @multicoin @okx @paradigm @ripple @Uniswap Tune in now to the livestream: https://t.co/QY18KYG8Y9",
+      "summary": "Thank you @ChairmanSelig for convening today's Innovation Advisory Committee meeting and for the agency’s work to ensure digital asset policy keeps…",
+      "url": "https://x.com/BlockchainAssn/status/2090486688187404745",
+      "type": "quote",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 4,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2118"
+      }
+    },
+    {
+      "id": "2090484546793849250",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-20T17:02:09+00:00",
+      "text": "CFTC Inaugural Innovation Advisory Committee Meeting https://t.co/9eFlTlPB2M",
+      "summary": "CFTC Inaugural Innovation Advisory Committee Meeting https://t.co/9eFlTlPB2M",
+      "url": "https://x.com/standwithcrypto/status/2090484546793849250",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 77,
+        "retweets": 25,
+        "replies": 3,
+        "quotes": 1,
+        "views": "24177"
+      }
+    },
+    {
       "id": "2090484372440744161",
       "is_retweet": true,
       "original_author": "CFTC",
@@ -306,6 +552,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "292"
+      }
+    },
+    {
+      "id": "2090483155639672981",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "NeerajKA",
+      "display_name": "Neeraj K. Agrawal",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-20T16:56:38+00:00",
+      "text": "No one believes the argument that Flock is just an extension of existing of surveillance cameras. As a whole, the system is something entirely new. https://t.co/mUOyiZqFWf",
+      "summary": "No one believes the argument that Flock is just an extension of existing of surveillance cameras. As a whole, the system is something entirely new.…",
+      "url": "https://x.com/NeerajKA/status/2090483155639672981",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 52,
+        "retweets": 10,
+        "replies": 5,
+        "quotes": 0,
+        "views": "3810"
       }
     },
     {
