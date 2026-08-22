@@ -1,27 +1,23 @@
 {
-  "generated_at": "2026-08-22T15:09:51.128849+00:00",
-  "generated_at_unix": 1787411391,
+  "generated_at": "2026-08-22T18:00:05.362042+00:00",
+  "generated_at_unix": 1787421605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-21T16:00:00+00:00",
-  "window_end": "2026-08-22T15:09:51.128849+00:00",
-  "new_this_run": 16,
-  "total_recent": 62,
+  "window_end": "2026-08-22T18:00:05.362042+00:00",
+  "new_this_run": 24,
+  "total_recent": 86,
   "errors": [
     {
-      "username": "KhurramDara",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "Drew_Morris",
-      "error": "The read operation timed out"
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 13,
-    "successful_this_run": 13,
-    "next_index": 60,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -29,6 +25,206 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091215011129524292",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T17:24:46+00:00",
+      "text": "RT @laurashin: Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts 🏗️ @CryptoHayes calls the AI CapEx boom \"just another boring real estate play\" and says it bursts the same way subprime did. My full conversation with him is live now. 🎧 Timestamps: 🏛️ 00:47 Why Arthur says the Treasury's buyback move is 'soft yield curve control' 📈 04:14 Why ETH is Maelstrom's largest position outside Bitcoin 🇯🇵 07:02 The yen quake: how Japan's repatriation could force the Fed's hand 📣 13:41 Visit 1inch to swap tokenized securities, crypto and more at https://t.co/PjP6kyzgA0 🤖 13:58 Why Arthur calls the AI boom 'just another boring real estate play' 💽 22:29 Inside Flop: Arthur's new currency for paying AI agents to compute ⚙️ 29:34 How Flop's miners and validators actually work 🪙 41:16 Flop's halving schedule and why Flop Labs only takes a cut for two years 📉 45:45 Why Arthur says don't buy MicroStrategy anymore 🔌 48:37 Why Arthur shut down BitMEX on his own terms",
+      "summary": "RT @laurashin: Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts 🏗️ @CryptoHayes calls the AI CapEx boom \"just another boring real estate play\"…",
+      "url": "https://x.com/laurashin/status/2091215011129524292",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2091213510025888012",
+      "is_retweet": true,
+      "original_author": "justinsuntron",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T17:18:48+00:00",
+      "text": "RT @justinsuntron: 关于我与World Liberty @worldlibertyfi 的官司,很多人以为它是一场商业纠纷。表面上确实是——4500万美元、40亿枚代币、一纸合同。 但打了这几个月,我越来越清楚它真正的性质:这是一场关于区块链初心的价值观之争。 我们这一代人创立区块链,只为一个朴素的信念:每个人都应当真正拥有自己的财产——不因你的身份、立场、国籍,不需要任何人的恩准。 私钥即所有权,这是整个行业的第一性原理。 而这场官司揭示的,恰恰是对这一初心的背叛: 一家以\"自由(Liberty)\"为名的公司,在WLFI与USD1合约里秘密植入了任意冻结任何用户资产的权力,不经披露、不经治理、不经任何程序——然后在我的代币解锁数日之内,对我使用了它。 以自由之名,行控制之实——这不只是对我一个人的侵害,它动摇的是这个行业存在的理由。 如果发行方可以随时没收任何持有者的资产,那么区块链和它试图取代的旧世界还有什么区别? 我们绕了一大圈,只是给任意没收换了一层技术的包装。 所以这场官司我会打到底。 不只为拿回属于我的东西,更为在法庭上确立一个先例: 在区块链的世界里,\"你的资产\"必须真正是你的——写在代码里,也写进判例里。 自由不是一个可以注册的商标。 它是一种可以在链上逐行验证的设计选择。 我的选择,任何人都可以去验证;他们的,法庭正在验证。",
+      "summary": "RT @justinsuntron: 关于我与World Liberty @worldlibertyfi 的官司,很多人以为它是一场商业纠纷。表面上确实是——4500万美元、40亿枚代币、一纸合同。 但打了这几个月,我越来越清楚它真正的性质:这是一场关于区块链初心的价值观之争。…",
+      "url": "https://x.com/laurashin/status/2091213510025888012",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 58,
+        "replies": 0,
+        "quotes": 0,
+        "views": "694"
+      }
+    },
+    {
+      "id": "2091210357809590280",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T17:06:16+00:00",
+      "text": "First American road trip! 🇺🇸 WY ➡️ NJ https://t.co/Cl6Frs2jPv",
+      "summary": "First American road trip! 🇺🇸 WY ➡️ NJ https://t.co/Cl6Frs2jPv",
+      "url": "https://x.com/EleanorTerrett/status/2091210357809590280",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 566,
+        "retweets": 13,
+        "replies": 57,
+        "quotes": 0,
+        "views": "16461"
+      }
+    },
+    {
+      "id": "2091208865954095410",
+      "is_retweet": true,
+      "original_author": "Unchained_pod",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T17:00:21+00:00",
+      "text": "RT @Unchained_pod: New episode with @CryptoHayes and @laurashin: 🏛️ Why the Treasury's buyback move looks like \"soft yield curve control\" 🤖 Why the AI CapEx boom could burst like 2008 all over again 💽 Flop, his new currency built to pay AI agents for compute 🎧 Watch now. https://t.co/MAdzJJpnpk",
+      "summary": "RT @Unchained_pod: New episode with @CryptoHayes and @laurashin: 🏛️ Why the Treasury's buyback move looks like \"soft yield curve control\" 🤖 Why the…",
+      "url": "https://x.com/laurashin/status/2091208865954095410",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "795"
+      }
+    },
+    {
+      "id": "2091206259974291921",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T16:49:59+00:00",
+      "text": "RT @laurashin: EIP-8363: Should ETH Be Sound Money or a Productive Asset? Is ETH ultrasound money or a productive asset? I sat down with @owocki, @OisinKyne, and @jdetychey to dig into EIP-8363, the proposal that wants to cut Ethereum's staking yield toward zero. 🔥 Timestamps: 🏛️ 01:38 Jérôme lays out EIP-8363's validator reward burn curve 🔥 08:02 Oisín on why a 51% cartel could censor blocks for free ⚖️ 10:39 Jérôme's rebuttal: finality security versus censorship risk 📣 14:38 1inch: See how Aqua's shared liquidity pools work at https://t.co/PjP6kyzgA0 💼 16:13 Kevin on Aave, Bankless, and DeFi's backlash to the burn 🧾 33:18 Why solo stakers could see after-tax income near zero 🏦 45:39 Does killing ETH's yield scare off institutional buyers? ⚛️ 51:03 Ultrasound money versus productive asset: ETH's identity fight 🔐 56:41 Why Oisín is skeptical of an enshrined liquid staking token 🥇 59:34 Can ETH's shrinking yield compete with Solana and stablecoins? 🔮 01:05:27 Post-quantum costs, and when All Core Devs decides EIP-8363's fate",
+      "summary": "RT @laurashin: EIP-8363: Should ETH Be Sound Money or a Productive Asset? Is ETH ultrasound money or a productive asset? I sat down with @owocki,…",
+      "url": "https://x.com/laurashin/status/2091206259974291921",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2091206231411061158",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T16:49:52+00:00",
+      "text": "RT @laurashin: EIP-8363 has raised a lot of hackles: @jdetychey defends why Ethereum's new burn curve should push toward zero. @owocki says the DeFi business community isn't buying it, and @OisinKyne has concerns of his own. 🤔 https://t.co/Uoxq9eMgau",
+      "summary": "RT @laurashin: EIP-8363 has raised a lot of hackles: @jdetychey defends why Ethereum's new burn curve should push toward zero. @owocki says the DeFi…",
+      "url": "https://x.com/laurashin/status/2091206231411061158",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4"
+      }
+    },
+    {
+      "id": "2091205948773740838",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T16:48:45+00:00",
+      "text": "RT @laurashin: 🎁 Erik Voorhees says Venice is preparing a rewards program that would use a portion of user payments to buy VVV on the open market and distribute the tokens to loyal customers. The plan has not yet been deployed. https://t.co/2HKZK3j5uk",
+      "summary": "RT @laurashin: 🎁 Erik Voorhees says Venice is preparing a rewards program that would use a portion of user payments to buy VVV on the open market and…",
+      "url": "https://x.com/laurashin/status/2091205948773740838",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 21,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1"
+      }
+    },
+    {
+      "id": "2091201235718451467",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T16:30:01+00:00",
+      "text": ".@CryptoHayes says AI agents won't hold a currency that a handful of people can print into oblivion. His answer is Flop, a currency with its own \"proof of useful inference\" mining model. ⚙️ https://t.co/1ARKjQC5Wz",
+      "summary": ".@CryptoHayes says AI agents won't hold a currency that a handful of people can print into oblivion. His answer is Flop, a currency with its own…",
+      "url": "https://x.com/laurashin/status/2091201235718451467",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 7,
+        "quotes": 0,
+        "views": "2160"
+      }
+    },
     {
       "id": "2091185510161019264",
       "is_retweet": true,
@@ -52,6 +248,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "19"
+      }
+    },
+    {
+      "id": "2091178911509909574",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T15:01:19+00:00",
+      "text": "Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts 🏗️ @CryptoHayes calls the AI CapEx boom \"just another boring real estate play\" and says it bursts the same way subprime did. My full conversation with him is live now. 🎧 Timestamps: 🏛️ 00:47 Why Arthur says the Treasury's buyback move is 'soft yield curve control' 📈 04:14 Why ETH is Maelstrom's largest position outside Bitcoin 🇯🇵 07:02 The yen quake: how Japan's repatriation could force the Fed's hand 📣 13:41 Visit 1inch to swap tokenized securities, crypto and more at https://t.co/PjP6kyzgA0 🤖 13:58 Why Arthur calls the AI boom 'just another boring real estate play' 💽 22:29 Inside Flop: Arthur's new currency for paying AI agents to compute ⚙️ 29:34 How Flop's miners and validators actually work 🪙 41:16 Flop's halving schedule and why Flop Labs only takes a cut for two years 📉 45:45 Why Arthur says don't buy MicroStrategy anymore 🔌 48:37 Why Arthur shut down BitMEX on his own terms",
+      "summary": "Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts 🏗️ @CryptoHayes calls the AI CapEx boom \"just another boring real estate play\" and says it…",
+      "url": "https://x.com/laurashin/status/2091178911509909574",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 2,
+        "replies": 6,
+        "quotes": 0,
+        "views": "4814"
+      }
+    },
+    {
+      "id": "2091149194400506262",
+      "is_retweet": true,
+      "original_author": "CryptoHayes",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T13:03:14+00:00",
+      "text": "RT @CryptoHayes: Just to be clear @flop_labs has not launched any token. There is no pre-sale. There is no memecoin. Don’t worry I will tell you when the airdrop has started in a few months. Don’t worry I will tell you when mainnet launches next year. There is no $FLOP token yet.",
+      "summary": "RT @CryptoHayes: Just to be clear @flop_labs has not launched any token. There is no pre-sale. There is no memecoin. Don’t worry I will tell you when…",
+      "url": "https://x.com/laurashin/status/2091149194400506262",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 32,
+        "replies": 0,
+        "quotes": 0,
+        "views": "869"
+      }
+    },
+    {
+      "id": "2091149133427949622",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T13:02:59+00:00",
+      "text": "I wish every single webpage on the internet came with the option to have it read to me with a non-automaton-ish voice. My phone has a reader but I don’t like the voice and it’s super buggy. And yes I know I can build this with AI but I also have 50 million other things to do",
+      "summary": "I wish every single webpage on the internet came with the option to have it read to me with a non-automaton-ish voice. My phone has a reader but I…",
+      "url": "https://x.com/laurashin/status/2091149133427949622",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 22,
+        "retweets": 0,
+        "replies": 10,
+        "quotes": 0,
+        "views": "3792"
       }
     },
     {
@@ -105,6 +376,56 @@
       }
     },
     {
+      "id": "2091132298435371368",
+      "is_retweet": true,
+      "original_author": "disk0x",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T11:56:05+00:00",
+      "text": "RT @disk0x: dang, still not too late",
+      "summary": "RT @disk0x: dang, still not too late",
+      "url": "https://x.com/laurashin/status/2091132298435371368",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1329"
+      }
+    },
+    {
+      "id": "2091132245423567136",
+      "is_retweet": true,
+      "original_author": "nikshepsvn",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T11:55:53+00:00",
+      "text": "RT @nikshepsvn: I think most people don't know about this so it's worth sharing. @AskVenice is planning to distribute $VVV to 4M+ users that use the site. I can't think of a better way to introduce so many people to crypto and the token at once. The amount of holders of $VVV is going to skyrocket and so is the attention the token will recieve. Imagine a regular person seeing their rewards just go up w/ time + gain value as the company does better. Which other company can make their users this aligned and loyal. With OpenAI and Anthropic all the benefits and returns go to the team + VCs, with Venice, for once, the customer who helped the team succeed will win with the company. Really really underrated information and IMO will make a huge difference. Read the article for more information.",
+      "summary": "RT @nikshepsvn: I think most people don't know about this so it's worth sharing. @AskVenice is planning to distribute $VVV to 4M+ users that use the…",
+      "url": "https://x.com/laurashin/status/2091132245423567136",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1239"
+      }
+    },
+    {
       "id": "2091091650793595199",
       "is_retweet": true,
       "original_author": "StaniKulechov",
@@ -127,6 +448,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "3"
+      }
+    },
+    {
+      "id": "2091091329547919699",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T09:13:18+00:00",
+      "text": "You just need to convince one sucker (or many suckers if you do an ICO) that your idea is worth something and you would actually be able to successfully farm an above market salary for a few years while doing close to nothing.",
+      "summary": "You just need to convince one sucker (or many suckers if you do an ICO) that your idea is worth something and you would actually be able to…",
+      "url": "https://x.com/wassielawyer/status/2091091329547919699",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 29,
+        "retweets": 0,
+        "replies": 6,
+        "quotes": 0,
+        "views": "6658"
+      }
+    },
+    {
+      "id": "2091014335107907824",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T04:07:21+00:00",
+      "text": "Endgame is nationalise Strategy and start printing against Bitcoin.",
+      "summary": "Endgame is nationalise Strategy and start printing against Bitcoin.",
+      "url": "https://x.com/wassielawyer/status/2091014335107907824",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 17,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "2491"
       }
     },
     {
@@ -305,6 +676,56 @@
       }
     },
     {
+      "id": "2090953717465899173",
+      "is_retweet": true,
+      "original_author": "TheZachHumpries",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T00:06:28+00:00",
+      "text": "RT @TheZachHumpries: This right here is how you turn passive holders into loyal investors $VVV 🚨",
+      "summary": "RT @TheZachHumpries: This right here is how you turn passive holders into loyal investors $VVV 🚨",
+      "url": "https://x.com/laurashin/status/2090953717465899173",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1358"
+      }
+    },
+    {
+      "id": "2090941910139441613",
+      "is_retweet": true,
+      "original_author": "jeffjohnroberts",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T23:19:33+00:00",
+      "text": "RT @jeffjohnroberts: Banks say Clarity Act will hurt consumers by triggering deposit flight, reducing capital for loans, etc Columbia prof @malekanoms says this is so much FUD—and that banks leave consumers worse off than fintechs and crypto firms New @FortuneMagazine op-ed: https://t.co/UF6sTUrB77",
+      "summary": "RT @jeffjohnroberts: Banks say Clarity Act will hurt consumers by triggering deposit flight, reducing capital for loans, etc Columbia prof…",
+      "url": "https://x.com/laurashin/status/2090941910139441613",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1338"
+      }
+    },
+    {
       "id": "2090935696823312629",
       "is_retweet": false,
       "original_author": null,
@@ -327,6 +748,31 @@
         "replies": 2,
         "quotes": 0,
         "views": "3771"
+      }
+    },
+    {
+      "id": "2090935249647919127",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T22:53:05+00:00",
+      "text": "Incredibly honored that @giancarloMKTS asked me to write the foreword to his upcoming book, The New Adventures of Crypto Dad. Chairman Giancarlo is an excellent storyteller who takes readers behind the scenes of some of crypto’s biggest moments in Washington while exploring the future of decentralized technology, all against the backdrop of America’s 250th anniversary. Pre-order your copy on Amazon now!",
+      "summary": "Incredibly honored that @giancarloMKTS asked me to write the foreword to his upcoming book, The New Adventures of Crypto Dad. Chairman Giancarlo is…",
+      "url": "https://x.com/EleanorTerrett/status/2090935249647919127",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 525,
+        "retweets": 58,
+        "replies": 27,
+        "quotes": 1,
+        "views": "47375"
       }
     },
     {
@@ -355,6 +801,31 @@
       }
     },
     {
+      "id": "2090933318770679901",
+      "is_retweet": true,
+      "original_author": "crypto_council",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-21T22:45:25+00:00",
+      "text": "RT @crypto_council: Today, @Crypto_Council and @BlockchinAssn filed a lawsuit challenging the State of Illinois’s Digital Asset Tax Act. A statement from CEOs @_jikim and @SummerMersinger follows. Press release: https://t.co/P7wYmOqDwM https://t.co/tu822s9aQs",
+      "summary": "RT @crypto_council: Today, @Crypto_Council and @BlockchinAssn filed a lawsuit challenging the State of Illinois’s Digital Asset Tax Act. A statement…",
+      "url": "https://x.com/milesjennings/status/2090933318770679901",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "163"
+      }
+    },
+    {
       "id": "2090929704656118036",
       "is_retweet": false,
       "original_author": null,
@@ -377,6 +848,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "380"
+      }
+    },
+    {
+      "id": "2090928837513343197",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T22:27:37+00:00",
+      "text": "Thank you to @Scaramucci, John Darsie and the entire @SALTConference team for putting on another stellar conference in Jackson Hole. ⛰️ I spoke with @krakenfx co-CEO @arjunsethi about @Payward’s vision for an open, global financial system, and we recorded a few @CryptoAmerica_ episodes with some brilliant guests. Looking forward to sharing them soon!",
+      "summary": "Thank you to @Scaramucci, John Darsie and the entire @SALTConference team for putting on another stellar conference in Jackson Hole. ⛰️ I spoke with…",
+      "url": "https://x.com/EleanorTerrett/status/2090928837513343197",
+      "type": "original",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 633,
+        "retweets": 62,
+        "replies": 11,
+        "quotes": 1,
+        "views": "38161"
       }
     },
     {
@@ -555,6 +1051,31 @@
       }
     },
     {
+      "id": "2090917386413293735",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T21:42:06+00:00",
+      "text": "🚨🗞️ Washington’s Crypto Policy Blitz: Trump Pushes the Clarity Act as Regulators Press Ahead With Rulemaking D.C.’s usual August lull gave way to a flurry of crypto policy activity this week. https://t.co/qIm4Pi8S9F",
+      "summary": "🚨🗞️ Washington’s Crypto Policy Blitz: Trump Pushes the Clarity Act as Regulators Press Ahead With Rulemaking D.C.’s usual August lull gave way to a…",
+      "url": "https://x.com/EleanorTerrett/status/2090917386413293735",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1908,
+        "retweets": 359,
+        "replies": 46,
+        "quotes": 21,
+        "views": "81004"
+      }
+    },
+    {
       "id": "2090913543432351785",
       "is_retweet": false,
       "original_author": null,
@@ -627,6 +1148,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "316"
+      }
+    },
+    {
+      "id": "2090904803023175781",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T20:52:06+00:00",
+      "text": "My guest @OisinKyne says Ethereum doesn't have $100 billion of security. \"We really have 5 million a day,\" he argues, and EIP-8363 could cut that further. https://t.co/ixFW7izfr6",
+      "summary": "My guest @OisinKyne says Ethereum doesn't have $100 billion of security. \"We really have 5 million a day,\" he argues, and EIP-8363 could cut that…",
+      "url": "https://x.com/laurashin/status/2090904803023175781",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 1,
+        "views": "6193"
       }
     },
     {
@@ -1052,6 +1598,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "276"
+      }
+    },
+    {
+      "id": "2090869578486403390",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T18:32:08+00:00",
+      "text": "🔥 @owocki says all core devs face \"an unstoppable force and an immovable object\" on EIP-8363. He argues Ethereum can't be both ultrasound money and a productive asset. https://t.co/8gxDhGEUq1",
+      "summary": "🔥 @owocki says all core devs face \"an unstoppable force and an immovable object\" on EIP-8363. He argues Ethereum can't be both ultrasound money and a…",
+      "url": "https://x.com/laurashin/status/2090869578486403390",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 6,
+        "retweets": 1,
+        "replies": 6,
+        "quotes": 0,
+        "views": "5135"
+      }
+    },
+    {
+      "id": "2090867531519087100",
+      "is_retweet": true,
+      "original_author": "sparkfinance",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-21T18:24:00+00:00",
+      "text": "RT @sparkfinance: Sam joined @Laurashin on @Unchained_pod for a wide-ranging conversation covering risk management, the @RobinhoodApp Earn launch and SPK. We'll be sharing a few key highlights over the coming days, starting with a breakdown of DCF valuation and what it potentially means for SPK. https://t.co/fRAf6Z1GFh",
+      "summary": "RT @sparkfinance: Sam joined @Laurashin on @Unchained_pod for a wide-ranging conversation covering risk management, the @RobinhoodApp Earn launch and…",
+      "url": "https://x.com/laurashin/status/2090867531519087100",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1324"
       }
     },
     {
