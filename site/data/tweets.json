@@ -1,31 +1,23 @@
 {
-  "generated_at": "2026-08-22T06:01:00.288499+00:00",
-  "generated_at_unix": 1787378460,
+  "generated_at": "2026-08-22T09:11:05.991873+00:00",
+  "generated_at_unix": 1787389865,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-21T16:00:00+00:00",
-  "window_end": "2026-08-22T06:01:00.288499+00:00",
-  "new_this_run": 22,
-  "total_recent": 23,
+  "window_end": "2026-08-22T09:11:05.991873+00:00",
+  "new_this_run": 21,
+  "total_recent": 44,
   "errors": [
     {
-      "username": "FinancialCmte",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "SenLummis",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "SenatorHagerty",
+      "username": "katiebiber",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091091650793595199",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T09:14:34+00:00",
+      "text": "RT @StaniKulechov: Aave V4 crossed another ATH. and... back to work again.",
+      "summary": "RT @StaniKulechov: Aave V4 crossed another ATH. and... back to work again.",
+      "url": "https://x.com/LindaJeng1/status/2091091650793595199",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3"
+      }
+    },
     {
       "id": "2090980076363911305",
       "is_retweet": false,
@@ -59,6 +76,31 @@
       }
     },
     {
+      "id": "2090971527130882055",
+      "is_retweet": true,
+      "original_author": "MondaireJones",
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-22T01:17:15+00:00",
+      "text": "RT @MondaireJones: Ro ate this quote, I fear.",
+      "summary": "RT @MondaireJones: Ro ate this quote, I fear.",
+      "url": "https://x.com/RoKhanna/status/2090971527130882055",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "996"
+      }
+    },
+    {
       "id": "2090971235974779285",
       "is_retweet": true,
       "original_author": "SecDuffy",
@@ -81,6 +123,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "38704"
+      }
+    },
+    {
+      "id": "2090935696823312629",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T22:54:52+00:00",
+      "text": "This tax doesn't just hit digital asset businesses — it hits the everyday users who transact in them. No one should pay more simply for using the blockchain.",
+      "summary": "This tax doesn't just hit digital asset businesses — it hits the everyday users who transact in them. No one should pay more simply for using the…",
+      "url": "https://x.com/standwithcrypto/status/2090935696823312629",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 39,
+        "retweets": 10,
+        "replies": 2,
+        "quotes": 0,
+        "views": "3771"
       }
     },
     {
@@ -259,6 +326,31 @@
       }
     },
     {
+      "id": "2090913543432351785",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T21:26:50+00:00",
+      "text": "Today, @Crypto_Council and @BlockchainAssn filed a lawsuit challenging the State of Illinois’s Digital Asset Tax Act. A statement from CEOs @_jikim and @SummerMersinger follows. Press release: https://t.co/HLCy1IaNg1 https://t.co/q3RsnkHeo3",
+      "summary": "Today, @Crypto_Council and @BlockchainAssn filed a lawsuit challenging the State of Illinois’s Digital Asset Tax Act. A statement from CEOs @_jikim…",
+      "url": "https://x.com/BlockchainAssn/status/2090913543432351785",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 34,
+        "retweets": 8,
+        "replies": 2,
+        "quotes": 1,
+        "views": "2467"
+      }
+    },
+    {
       "id": "2090906446896525645",
       "is_retweet": true,
       "original_author": "CFTC",
@@ -309,6 +401,206 @@
       }
     },
     {
+      "id": "2090892821511159956",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T20:04:30+00:00",
+      "text": "1/ I’m flying home after a great week at the @SALTConference Wyoming Blockchain Symposium and @AIPLeads Summit, where three things kept coming up: Clarity in September, whether the momentum is still there, and what comes next. A few thoughts (and pictures!) 🧵 https://t.co/yo07WuAIXD",
+      "summary": "1/ I’m flying home after a great week at the @SALTConference Wyoming Blockchain Symposium and @AIPLeads Summit, where three things kept coming up:…",
+      "url": "https://x.com/KristinSmith/status/2090892821511159956",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 46,
+        "retweets": 7,
+        "replies": 7,
+        "quotes": 1,
+        "views": "26700"
+      }
+    },
+    {
+      "id": "2090883529064481053",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T19:27:34+00:00",
+      "text": "8/ The guardrails Nichols says he wants are already in the bill: SEC/CFTC jurisdiction, mandatory reserves, custody rules, disclosure requirements. This change doesn't add protection — that comes from passing the bill. It takes away something 67 million Americans can already do today.",
+      "summary": "8/ The guardrails Nichols says he wants are already in the bill: SEC/CFTC jurisdiction, mandatory reserves, custody rules, disclosure requirements.…",
+      "url": "https://x.com/BlockchainAssn/status/2090883529064481053",
+      "type": "reply",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "45"
+      }
+    },
+    {
+      "id": "2090883523939037512",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T19:27:33+00:00",
+      "text": "5/ Scale matters here too. U.S. bank deposits are ~$19 trillion. The global stablecoin market is a fraction of that, even after years of growth. https://t.co/jC7Ib9Ebkb",
+      "summary": "5/ Scale matters here too. U.S. bank deposits are ~$19 trillion. The global stablecoin market is a fraction of that, even after years of growth.…",
+      "url": "https://x.com/BlockchainAssn/status/2090883523939037512",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "143"
+      }
+    },
+    {
+      "id": "2090883525884961267",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T19:27:33+00:00",
+      "text": "6/ And a CRA International analysis of 2019–2025 data found no statistically significant relationship between stablecoin growth and community bank deposit outflows. Worst case, under 7%. Realistically, under 1%. https://t.co/7DTlDNaE9g",
+      "summary": "6/ And a CRA International analysis of 2019–2025 data found no statistically significant relationship between stablecoin growth and community bank…",
+      "url": "https://x.com/BlockchainAssn/status/2090883525884961267",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 3,
+        "retweets": 1,
+        "replies": 2,
+        "quotes": 0,
+        "views": "144"
+      }
+    },
+    {
+      "id": "2090883519014654330",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T19:27:32+00:00",
+      "text": "3/ As @SenKevinCramer put it: \"If we're waiting for a moment when the banks are going to say, 'OK, now it's good enough,' that moment's not happening. No is their default.\" https://t.co/ErBcmu0CGN",
+      "summary": "3/ As @SenKevinCramer put it: \"If we're waiting for a moment when the banks are going to say, 'OK, now it's good enough,' that moment's not…",
+      "url": "https://x.com/BlockchainAssn/status/2090883519014654330",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": "86"
+      }
+    },
+    {
+      "id": "2090883516817121784",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T19:27:31+00:00",
+      "text": "2/ Nichols frames the ask as modest: swap in \"substantially similar,\" strike the word \"solely.\" Neither is modest. \"Substantially similar to interest\" is an elastic legal standard — banks' own cash-back and loyalty-tier programs could get caught in it. And \"solely\" is the word that limits GENIUS's yield ban to issuers, not everyone downstream. Remove it and the bill reaches conduct Congress deliberately left alone. https://t.co/zAO0xLXgJj",
+      "summary": "2/ Nichols frames the ask as modest: swap in \"substantially similar,\" strike the word \"solely.\" Neither is modest. \"Substantially similar to…",
+      "url": "https://x.com/BlockchainAssn/status/2090883516817121784",
+      "type": "reply",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 1,
+        "quotes": 0,
+        "views": "138"
+      }
+    },
+    {
+      "id": "2090883513860165698",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T19:27:31+00:00",
+      "text": "1/ @ABABankers president Rob Nichols (@BankersPrez) says banks want to \"strengthen\" the Clarity Act, not kill it. But four weeks from a vote, they're asking to reopen a provision negotiated and agreed upon months ago, with their own lobbyists at the table. Today, @SummerMersinger responded with an op-ed in CoinDesk which takes a look at what's actually being asked by the banks. 👇 https://t.co/RBi3Y6mDEA",
+      "summary": "1/ @ABABankers president Rob Nichols (@BankersPrez) says banks want to \"strengthen\" the Clarity Act, not kill it. But four weeks from a vote, they're…",
+      "url": "https://x.com/BlockchainAssn/status/2090883513860165698",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 15,
+        "retweets": 6,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1603"
+      }
+    },
+    {
+      "id": "2090881094967243173",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-21T19:17:54+00:00",
+      "text": "Congratulations @aishabbwahab on your decisive victory. I look forward to working with you on Medicare for All, a living wage, and ending the war in Iran.",
+      "summary": "Congratulations @aishabbwahab on your decisive victory. I look forward to working with you on Medicare for All, a living wage, and ending the war in…",
+      "url": "https://x.com/RoKhanna/status/2090881094967243173",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1074,
+        "retweets": 160,
+        "replies": 61,
+        "quotes": 9,
+        "views": "26752"
+      }
+    },
+    {
       "id": "2090879001820569633",
       "is_retweet": true,
       "original_author": "VPPressSec",
@@ -356,6 +648,31 @@
         "replies": 8,
         "quotes": 0,
         "views": "4462"
+      }
+    },
+    {
+      "id": "2090875171905126663",
+      "is_retweet": true,
+      "original_author": "izonline",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T18:54:22+00:00",
+      "text": "RT @izonline: I remember having to explain to our bank that although POAPs were NFTs, they were unlikely to be used as part of money laundering schemes or to defraud collectors. Happy to see we are entering brighter times.",
+      "summary": "RT @izonline: I remember having to explain to our bank that although POAPs were NFTs, they were unlikely to be used as part of money laundering…",
+      "url": "https://x.com/standwithcrypto/status/2090875171905126663",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1111"
       }
     },
     {
@@ -509,6 +826,31 @@
       }
     },
     {
+      "id": "2090862332503060610",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T18:03:21+00:00",
+      "text": "This week in Washington: two major moments for crypto market structure Here's the recap. 🛡️🧵",
+      "summary": "This week in Washington: two major moments for crypto market structure Here's the recap. 🛡️🧵",
+      "url": "https://x.com/standwithcrypto/status/2090862332503060610",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 53,
+        "retweets": 12,
+        "replies": 3,
+        "quotes": 0,
+        "views": "4748"
+      }
+    },
+    {
       "id": "2090861256823410899",
       "is_retweet": false,
       "original_author": null,
@@ -559,6 +901,31 @@
       }
     },
     {
+      "id": "2090852328395964740",
+      "is_retweet": true,
+      "original_author": "TheBlockCo",
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T17:23:35+00:00",
+      "text": "RT @TheBlockCo: 67 million Americans own crypto today. More of them work in construction than finance. Crypto-adjacent jobs generate $55 billion in economic activity. — @s_alderoty, @Ripple CLO &amp; @NatCryptoAssoc President, from SALT https://t.co/EShxjl2TLk",
+      "summary": "RT @TheBlockCo: 67 million Americans own crypto today. More of them work in construction than finance. Crypto-adjacent jobs generate $55 billion in…",
+      "url": "https://x.com/s_alderoty/status/2090852328395964740",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5582"
+      }
+    },
+    {
       "id": "2090846604639015409",
       "is_retweet": true,
       "original_author": "VPPressSec",
@@ -581,6 +948,156 @@
         "replies": 0,
         "quotes": 0,
         "views": "8236"
+      }
+    },
+    {
+      "id": "2090846330205741350",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T16:59:45+00:00",
+      "text": "\"Clear rules don't guarantee success, but ambiguity guarantees waste of energy.\" @izonline on the SEC's new Regulation Crypto Assets proposal, from someone who built @poapxyz through years of that ambiguity. CLARITY ends the guesswork: it defines what a digital asset is, what it isn't, and who regulates it, in law that lasts. Regulators are moving. Now Congress can too.",
+      "summary": "\"Clear rules don't guarantee success, but ambiguity guarantees waste of energy.\" @izonline on the SEC's new Regulation Crypto Assets proposal, from…",
+      "url": "https://x.com/standwithcrypto/status/2090846330205741350",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 59,
+        "retweets": 17,
+        "replies": 2,
+        "quotes": 2,
+        "views": "5627"
+      }
+    },
+    {
+      "id": "2090845155788005727",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T16:55:05+00:00",
+      "text": "1/ A worthwhile read from @malekanoms in @FortuneMagazine on the Big Bank lobby’s bad-faith campaign against the Clarity Act and what’s really at stake in the stablecoin rewards debate: competition. Consumers benefit when new technologies and products challenge incumbents to compete for their business. A few points worth highlighting. 🧵",
+      "summary": "1/ A worthwhile read from @malekanoms in @FortuneMagazine on the Big Bank lobby’s bad-faith campaign against the Clarity Act and what’s really at…",
+      "url": "https://x.com/BlockchainAssn/status/2090845155788005727",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 0,
+        "views": "1235"
+      }
+    },
+    {
+      "id": "2090844336590053472",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "KristinSmith",
+      "display_name": "Kristin Smith",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T16:51:50+00:00",
+      "text": "Thanks @b_scanlandTV for having me on. The message is clear: Congress needs to pass the Clarity Act to make the US the crypto capital of the world. https://t.co/BVLmlmTilu",
+      "summary": "Thanks @b_scanlandTV for having me on. The message is clear: Congress needs to pass the Clarity Act to make the US the crypto capital of the world.…",
+      "url": "https://x.com/KristinSmith/status/2090844336590053472",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1266"
+      }
+    },
+    {
+      "id": "2090843589194473848",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T16:48:52+00:00",
+      "text": "4/ @malekanoms continues: “Clarity wasn’t supposed to be about stablecoins at all, but the banks weren’t content with the protectionist measures they’d already won, so they held Clarity hostage.”",
+      "summary": "4/ @malekanoms continues: “Clarity wasn’t supposed to be about stablecoins at all, but the banks weren’t content with the protectionist measures…",
+      "url": "https://x.com/BlockchainAssn/status/2090843589194473848",
+      "type": "reply",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1,
+        "retweets": 0,
+        "replies": 1,
+        "quotes": 0,
+        "views": "175"
+      }
+    },
+    {
+      "id": "2090836724859506936",
+      "is_retweet": true,
+      "original_author": "gilbert787",
+      "username": "standwithcrypto",
+      "display_name": "Stand With Crypto🛡️",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T16:21:35+00:00",
+      "text": "RT @gilbert787: Thanks Brian @brian_armstrong . Clarity on the Horizon. We @standwithcrypto https://t.co/flpAoZP8I9",
+      "summary": "RT @gilbert787: Thanks Brian @brian_armstrong . Clarity on the Horizon. We @standwithcrypto https://t.co/flpAoZP8I9",
+      "url": "https://x.com/standwithcrypto/status/2090836724859506936",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1103"
+      }
+    },
+    {
+      "id": "2090834805025861815",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "BlockchainAssn",
+      "display_name": "Blockchain Association",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-21T16:13:58+00:00",
+      "text": "The Wyoming Stable Token Commission has selected BA member @chainlink's CCIP as the exclusive cross-chain infrastructure for its Frontier Stable Token, strengthening the security and infrastructure behind the first fiat-backed, fully reserved stable token issued by a U.S. public entity. Congratulations to the Chainlink team! https://t.co/JnRZ9sfDCV",
+      "summary": "The Wyoming Stable Token Commission has selected BA member @chainlink's CCIP as the exclusive cross-chain infrastructure for its Frontier Stable…",
+      "url": "https://x.com/BlockchainAssn/status/2090834805025861815",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 146,
+        "retweets": 35,
+        "replies": 1,
+        "quotes": 1,
+        "views": "6908"
       }
     },
     {
