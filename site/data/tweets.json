@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-22T09:11:05.991873+00:00",
-  "generated_at_unix": 1787389865,
+  "generated_at": "2026-08-22T12:09:26.698834+00:00",
+  "generated_at_unix": 1787400566,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-21T16:00:00+00:00",
-  "window_end": "2026-08-22T09:11:05.991873+00:00",
-  "new_this_run": 21,
-  "total_recent": 44,
-  "errors": [
-    {
-      "username": "katiebiber",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-22T12:09:26.698834+00:00",
+  "new_this_run": 2,
+  "total_recent": 46,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091143359859507688",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T12:40:03+00:00",
+      "text": "If you want an @ethos_network vouch from me AND I actually know you (met IRL for more than 5 minutes worked on something together remotely, etc.), reply below",
+      "summary": "If you want an @ethos_network vouch from me AND I actually know you (met IRL for more than 5 minutes worked on something together remotely, etc.),…",
+      "url": "https://x.com/lex_node/status/2091143359859507688",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "458"
+      }
+    },
     {
       "id": "2091091650793595199",
       "is_retweet": true,
@@ -48,6 +68,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "3"
+      }
+    },
+    {
+      "id": "2090996882226938313",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T02:58:00+00:00",
+      "text": "if ETH/Ethereum \"wins\" it will be despite nearly everyone 'in crypto' being a \"never-ETH'er\" for 4 years straight... https://t.co/l3K9D3jhN1",
+      "summary": "if ETH/Ethereum \"wins\" it will be despite nearly everyone 'in crypto' being a \"never-ETH'er\" for 4 years straight... https://t.co/l3K9D3jhN1",
+      "url": "https://x.com/lex_node/status/2090996882226938313",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 102,
+        "retweets": 5,
+        "replies": 14,
+        "quotes": 0,
+        "views": "3884"
       }
     },
     {
