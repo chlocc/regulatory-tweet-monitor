@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-22T12:09:26.698834+00:00",
-  "generated_at_unix": 1787400566,
+  "generated_at": "2026-08-22T15:09:51.128849+00:00",
+  "generated_at_unix": 1787411391,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-21T16:00:00+00:00",
-  "window_end": "2026-08-22T12:09:26.698834+00:00",
-  "new_this_run": 2,
-  "total_recent": 46,
-  "errors": [],
+  "window_end": "2026-08-22T15:09:51.128849+00:00",
+  "new_this_run": 16,
+  "total_recent": 62,
+  "errors": [
+    {
+      "username": "KhurramDara",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "Drew_Morris",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 45,
+    "attempted_this_run": 13,
+    "successful_this_run": 13,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +29,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091185510161019264",
+      "is_retweet": true,
+      "original_author": "MeatEsq",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T15:27:32+00:00",
+      "text": "RT @MeatEsq: This is some of the absolute best content on prediction markets you will find. We don’t appreciate @JacobRobinsonJD enough. Highly recommended listen (along with many other episodes).",
+      "summary": "RT @MeatEsq: This is some of the absolute best content on prediction markets you will find. We don’t appreciate @JacobRobinsonJD enough. Highly…",
+      "url": "https://x.com/JacobRobinsonJD/status/2091185510161019264",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "19"
+      }
+    },
+    {
+      "id": "2091147315650187444",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T12:55:46+00:00",
+      "text": "RT @laurashin: Is the CFTC's Kalshi Rescue a Dangerous Precedent? - DEX in the City Jessi Brooks says the CFTC's own logic could just as easily justify a federal agency overriding state law on something like abortion or guns tomorrow. Is crypto comfortable with that trade? 🤔 @JacobRobinsonJD and Jane Khodarkovsky weigh in on DEX in the City. Timestamps: 🏛️ 02:40 Why Jacob calls the CFTC's Kalshi rescue inevitable, and Jessi disagrees ⚖️ 17:45 Why the reasons behind the SEC's shelved 400-page crypto rulemaking stay murky 💧 21:48 1inch Aqua: See how shared liquidity works at https://t.co/PjP6kyzgA0 🤖 22:34 Why Claude's new EU-mandated watermark reads as compelled speech to Jacob 🔪 23:24 Jane's take on the watermark rule: a hammer when you need a scalpel 🛰️ 35:21 Jessi previews the CFTC's first public meeting on AI in markets 🔐 36:41 Jane unpacks Trump's memo letting private firms fight cybercrime abroad 🏴‍☠️ 46:24 Why Jacob wants a modern \"letter of marque\" for crypto's hackers",
+      "summary": "RT @laurashin: Is the CFTC's Kalshi Rescue a Dangerous Precedent? - DEX in the City Jessi Brooks says the CFTC's own logic could just as easily…",
+      "url": "https://x.com/JacobRobinsonJD/status/2091147315650187444",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "34"
+      }
+    },
     {
       "id": "2091143359859507688",
       "is_retweet": false,
@@ -171,6 +230,81 @@
       }
     },
     {
+      "id": "2090968754083463210",
+      "is_retweet": true,
+      "original_author": "jswihart",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T01:06:13+00:00",
+      "text": "RT @jswihart: Amazing to see Paul’s vision come together and so proud of what he’s built to ensure we have freedom in the land of the free. Read the entire thing to see the scope of what this involves. Massive. Also, the board is world class. I’m fortunate to know all of them personally. All stars. So good.",
+      "summary": "RT @jswihart: Amazing to see Paul’s vision come together and so proud of what he’s built to ensure we have freedom in the land of the free. Read the…",
+      "url": "https://x.com/theblockprof/status/2090968754083463210",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 8,
+        "replies": 0,
+        "quotes": 0,
+        "views": "101"
+      }
+    },
+    {
+      "id": "2090960749266891143",
+      "is_retweet": true,
+      "original_author": "zooko",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T00:34:25+00:00",
+      "text": "RT @zooko: Wow! Phenomenal optimization result (15X!), really neat technique (leveraging a cryptographic security reduction!), and I *think* it will actually make UX better for Zcash users! Way to go, Zakurans!",
+      "summary": "RT @zooko: Wow! Phenomenal optimization result (15X!), really neat technique (leveraging a cryptographic security reduction!), and I *think* it will…",
+      "url": "https://x.com/theblockprof/status/2090960749266891143",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "96"
+      }
+    },
+    {
+      "id": "2090954094038954340",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T00:07:58+00:00",
+      "text": "The is the future of crypto policy and part of Zcash’s future. Join, sign up, get a seat at the table.",
+      "summary": "The is the future of crypto policy and part of Zcash’s future. Join, sign up, get a seat at the table.",
+      "url": "https://x.com/theblockprof/status/2090954094038954340",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "990"
+      }
+    },
+    {
       "id": "2090935696823312629",
       "is_retweet": false,
       "original_author": null,
@@ -196,6 +330,31 @@
       }
     },
     {
+      "id": "2090934027356168382",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T22:48:14+00:00",
+      "text": "Maybe…don’t help government persecution of crypto privacy tool users? Maybe that would help. https://t.co/CNJQ1AtPF9",
+      "summary": "Maybe…don’t help government persecution of crypto privacy tool users? Maybe that would help. https://t.co/CNJQ1AtPF9",
+      "url": "https://x.com/theblockprof/status/2090934027356168382",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 0,
+        "quotes": 0,
+        "views": "673"
+      }
+    },
+    {
       "id": "2090929704656118036",
       "is_retweet": false,
       "original_author": null,
@@ -218,6 +377,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "380"
+      }
+    },
+    {
+      "id": "2090925883729097171",
+      "is_retweet": true,
+      "original_author": "zackvoell",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T22:15:52+00:00",
+      "text": "RT @zackvoell: You're probably asking why bitcoin is going up so fast and after many hours of analysis I’ve concluded the answer is because there are more buyers than sellers https://t.co/fiQ5lWbvg5",
+      "summary": "RT @zackvoell: You're probably asking why bitcoin is going up so fast and after many hours of analysis I’ve concluded the answer is because there are…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090925883729097171",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 9,
+        "replies": 0,
+        "quotes": 0,
+        "views": "237"
       }
     },
     {
@@ -396,6 +580,31 @@
       }
     },
     {
+      "id": "2090912356859589050",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T21:22:07+00:00",
+      "text": "Just saw bitcoin cash is up 30% today lmao",
+      "summary": "Just saw bitcoin cash is up 30% today lmao",
+      "url": "https://x.com/HaileyLennonBTC/status/2090912356859589050",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 39,
+        "retweets": 2,
+        "replies": 7,
+        "quotes": 1,
+        "views": "3252"
+      }
+    },
+    {
       "id": "2090906446896525645",
       "is_retweet": true,
       "original_author": "CFTC",
@@ -443,6 +652,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "1289"
+      }
+    },
+    {
+      "id": "2090900989884686772",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "CryptoLawUS",
+      "display_name": "CryptoLaw",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T20:36:57+00:00",
+      "text": "Innovation and consumer protections starts with clear rules. The XRP Army proved what happens when we show up and get loud - we win. Now's not the time to go silent. Don't stop until the Clarity Act is passed.",
+      "summary": "Innovation and consumer protections starts with clear rules. The XRP Army proved what happens when we show up and get loud - we win. Now's not the…",
+      "url": "https://x.com/CryptoLawUS/status/2090900989884686772",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 115,
+        "retweets": 26,
+        "replies": 6,
+        "quotes": 0,
+        "views": "7225"
+      }
+    },
+    {
+      "id": "2090896345284440072",
+      "is_retweet": true,
+      "original_author": "BlockchainAssn",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T20:18:30+00:00",
+      "text": "RT @BlockchainAssn: 1/ @ABABankers president Rob Nichols (@BankersPrez) says banks want to \"strengthen\" the Clarity Act, not kill it. But four weeks from a vote, they're asking to reopen a provision negotiated and agreed upon months ago, with their own lobbyists at the table. Today, @SummerMersinger responded with an op-ed in CoinDesk which takes a look at what's actually being asked by the banks. 👇 https://t.co/RBi3Y6mDEA",
+      "summary": "RT @BlockchainAssn: 1/ @ABABankers president Rob Nichols (@BankersPrez) says banks want to \"strengthen\" the Clarity Act, not kill it. But four weeks…",
+      "url": "https://x.com/theblockprof/status/2090896345284440072",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "91"
       }
     },
     {
@@ -696,6 +955,31 @@
       }
     },
     {
+      "id": "2090875280239808631",
+      "is_retweet": true,
+      "original_author": "DocumentingBTC",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T18:54:48+00:00",
+      "text": "RT @DocumentingBTC: On this day in history, 18 years ago, Satoshi Nakamoto emailed cryptographer Adam Back about the idea that would later be called “Bitcoin” https://t.co/0283I69lsv",
+      "summary": "RT @DocumentingBTC: On this day in history, 18 years ago, Satoshi Nakamoto emailed cryptographer Adam Back about the idea that would later be called…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090875280239808631",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 46,
+        "replies": 0,
+        "quotes": 0,
+        "views": "226"
+      }
+    },
+    {
       "id": "2090875171905126663",
       "is_retweet": true,
       "original_author": "izonline",
@@ -746,6 +1030,31 @@
       }
     },
     {
+      "id": "2090871805816852693",
+      "is_retweet": true,
+      "original_author": "Mandrik",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T18:40:59+00:00",
+      "text": "RT @Mandrik: This mindset remains undefeated: Bitcoiners can stay irrational longer than markets can.",
+      "summary": "RT @Mandrik: This mindset remains undefeated: Bitcoiners can stay irrational longer than markets can.",
+      "url": "https://x.com/HaileyLennonBTC/status/2090871805816852693",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 14,
+        "replies": 0,
+        "quotes": 0,
+        "views": "276"
+      }
+    },
+    {
       "id": "2090867102756335800",
       "is_retweet": true,
       "original_author": "SBAgov",
@@ -793,6 +1102,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "43031"
+      }
+    },
+    {
+      "id": "2090863056972591209",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T18:06:13+00:00",
+      "text": "The first crypto bull market of the AI era Should be fun",
+      "summary": "The first crypto bull market of the AI era Should be fun",
+      "url": "https://x.com/prestonjbyrne/status/2090863056972591209",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 18,
+        "retweets": 2,
+        "replies": 3,
+        "quotes": 0,
+        "views": "2427"
       }
     },
     {
@@ -921,6 +1255,31 @@
       }
     },
     {
+      "id": "2090859305801044472",
+      "is_retweet": true,
+      "original_author": "TheBlockCo",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T17:51:19+00:00",
+      "text": "RT @TheBlockCo: Over 100,000 merchants are accepting stablecoins from their customers today— and they don't even know. @raincards Co-Founder @rooqster at @SALTConference https://t.co/6z39dpZdmz",
+      "summary": "RT @TheBlockCo: Over 100,000 merchants are accepting stablecoins from their customers today— and they don't even know. @raincards Co-Founder…",
+      "url": "https://x.com/HaileyLennonBTC/status/2090859305801044472",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "231"
+      }
+    },
+    {
       "id": "2090856556824854723",
       "is_retweet": true,
       "original_author": "RapidResponse47",
@@ -943,6 +1302,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "5754"
+      }
+    },
+    {
+      "id": "2090855189062332920",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T17:34:57+00:00",
+      "text": "Unpopular take but fraud will still be able to occur. Clarity Act doesn’t eliminate crime",
+      "summary": "Unpopular take but fraud will still be able to occur. Clarity Act doesn’t eliminate crime",
+      "url": "https://x.com/HaileyLennonBTC/status/2090855189062332920",
+      "type": "quote",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 53,
+        "retweets": 4,
+        "replies": 9,
+        "quotes": 0,
+        "views": "3300"
+      }
+    },
+    {
+      "id": "2090853078543011983",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-21T17:26:34+00:00",
+      "text": "Bitcoin up 6% today, it’s Friday, it still summer. Go have the best weekend ever",
+      "summary": "Bitcoin up 6% today, it’s Friday, it still summer. Go have the best weekend ever",
+      "url": "https://x.com/HaileyLennonBTC/status/2090853078543011983",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 59,
+        "retweets": 2,
+        "replies": 1,
+        "quotes": 0,
+        "views": "2514"
       }
     },
     {
