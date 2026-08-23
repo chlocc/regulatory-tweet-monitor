@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-23T09:00:05.159059+00:00",
-  "generated_at_unix": 1787475605,
+  "generated_at": "2026-08-23T12:00:04.115724+00:00",
+  "generated_at_unix": 1787486404,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-22T16:00:00+00:00",
-  "window_end": "2026-08-23T09:00:05.159059+00:00",
-  "new_this_run": 2,
-  "total_recent": 19,
+  "window_end": "2026-08-23T12:00:04.115724+00:00",
+  "new_this_run": 3,
+  "total_recent": 22,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 30,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -68,6 +68,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "38185"
+      }
+    },
+    {
+      "id": "2091280188642344970",
+      "is_retweet": true,
+      "original_author": "metahacker_",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T21:43:45+00:00",
+      "text": "RT @metahacker_: I don't know about Silicon Valley But I mourn the crypto industry that we lost over the last 5 years When I entered this industry, it felt like home. It was filled with weirdos, strange anon nerds, and we even had an astrology reading witch The hottest thing someone could do in the industry was drop an innovative whitepaper People were happy when they made money - as they should - but everyone seemed to be motivated by a greater purpose and at least some iota of delusional idealism I've never really followed any norm or fit in anywhere. I never studied traditional majors, never even had a job, and never followed a standard career path And I felt right at home in this place. It was the most meritocratic space I'd ever been in - I could make friends, find work based simply on my skills I look around now and the entire industry has changed. The missions is largely forgotten. There is very little idealism. We cheer on the very thing we were supposed to fight - Wall Street Crypto paid for my house and I'll probably make a lot of money in the next two years But the thrill is gone",
+      "summary": "RT @metahacker_: I don't know about Silicon Valley But I mourn the crypto industry that we lost over the last 5 years When I entered this industry,…",
+      "url": "https://x.com/lex_node/status/2091280188642344970",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "693"
       }
     },
     {
@@ -193,6 +218,31 @@
         "replies": 0,
         "quotes": 0,
         "views": null
+      }
+    },
+    {
+      "id": "2091214780266651788",
+      "is_retweet": true,
+      "original_author": "CoinDesk",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T17:23:51+00:00",
+      "text": "RT @CoinDesk: The SEC just built “an exit door out of its own jurisdiction.” On The Policy Protocol, Superstate GC @AlexZozos joins @RebeccaRettig1 and @renato_mariotti to unpack the “Reg Crypto” rulemaking: the fundraising barbell, the “Hotel California” problem, and why the exit ramp still needs the CLARITY Act. Plus: Trump talks Hyperliquid, and Kalshi beats the CFTC again. Chapters/Timecodes: 00:00 Welcome to The Policy Protocol 01:54 Hot Topic: Trump Talks Hyperliquid at the White House 04:36 Renato's Hot Topic: Kalshi, the CFTC, and Loper Bright 06:34 The SEC Drops Its 'Reg Crypto' Rulemaking 06:42 Alexander Zozos of Superstate Joins the Show 06:55 What Is Reg Crypto? The 30,000-Foot View 10:04 Foundation or Window? The Rogue Regulator Question 12:16 Inside the SEC: How a 400-Page Rule Gets Made 17:40 Does the Exit Ramp Depend on the CLARITY Act? 20:04 Rebecca and Renato Debrief 21:44 Person of the Week: Crypto Lawyers",
+      "summary": "RT @CoinDesk: The SEC just built “an exit door out of its own jurisdiction.” On The Policy Protocol, Superstate GC @AlexZozos joins @RebeccaRettig1…",
+      "url": "https://x.com/RebeccaRettig1/status/2091214780266651788",
+      "type": "retweet",
+      "categories": [
+        "prediction_markets"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 39,
+        "replies": 0,
+        "quotes": 0,
+        "views": "80"
       }
     },
     {
@@ -368,6 +418,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "795"
+      }
+    },
+    {
+      "id": "2091206767933833256",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T16:52:00+00:00",
+      "text": "everything you wanted to know about Reg Crypto: https://t.co/t6kNTZKd8B",
+      "summary": "everything you wanted to know about Reg Crypto: https://t.co/t6kNTZKd8B",
+      "url": "https://x.com/lex_node/status/2091206767933833256",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 34,
+        "retweets": 6,
+        "replies": 5,
+        "quotes": 2,
+        "views": "4505"
       }
     },
     {
