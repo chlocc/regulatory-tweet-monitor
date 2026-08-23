@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-23T06:00:05.282671+00:00",
-  "generated_at_unix": 1787464805,
+  "generated_at": "2026-08-23T09:00:05.159059+00:00",
+  "generated_at_unix": 1787475605,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-22T16:00:00+00:00",
-  "window_end": "2026-08-23T06:00:05.282671+00:00",
-  "new_this_run": 9,
-  "total_recent": 17,
+  "window_end": "2026-08-23T09:00:05.159059+00:00",
+  "new_this_run": 2,
+  "total_recent": 19,
   "errors": [],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 15,
     "successful_this_run": 15,
-    "next_index": 15,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -143,6 +143,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "44409"
+      }
+    },
+    {
+      "id": "2091216657754513752",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RoKhanna",
+      "display_name": "Ro Khanna",
+      "group": "Legislators & Congressional Committees",
+      "created_at": "2026-08-22T17:31:18+00:00",
+      "text": "It was an honor to discuss Magnifica Humanitas with Pope Leo last week. More than any world leader, he has put forth an ethical framework for AI affirming human agency &amp; equality. I have since written to AI CEOs, calling on them to live up to these principles. https://t.co/MkoBYLCE77",
+      "summary": "It was an honor to discuss Magnifica Humanitas with Pope Leo last week. More than any world leader, he has put forth an ethical framework for AI…",
+      "url": "https://x.com/RoKhanna/status/2091216657754513752",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 876,
+        "retweets": 138,
+        "replies": 85,
+        "quotes": 11,
+        "views": "24540"
       }
     },
     {
@@ -418,6 +443,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "1"
+      }
+    },
+    {
+      "id": "2091204233479495893",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-22T16:41:56+00:00",
+      "text": "“More crypto holders in this country work in manufacturing and construction than in finance in tech.”",
+      "summary": "“More crypto holders in this country work in manufacturing and construction than in finance in tech.”",
+      "url": "https://x.com/s_alderoty/status/2091204233479495893",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 1836,
+        "retweets": 313,
+        "replies": 56,
+        "quotes": 20,
+        "views": "107090"
       }
     },
     {
