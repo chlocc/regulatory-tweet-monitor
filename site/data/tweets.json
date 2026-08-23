@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-08-23T15:00:05.325377+00:00",
-  "generated_at_unix": 1787497205,
+  "generated_at": "2026-08-23T18:06:35.670276+00:00",
+  "generated_at_unix": 1787508395,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-22T16:00:00+00:00",
-  "window_end": "2026-08-23T15:00:05.325377+00:00",
-  "new_this_run": 1,
-  "total_recent": 23,
-  "errors": [],
+  "window_end": "2026-08-23T18:06:35.670276+00:00",
+  "new_this_run": 8,
+  "total_recent": 31,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "EleanorTerrett",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "danrobinson",
+      "error": "Remote end closed connection without response"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 12,
+    "successful_this_run": 12,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +33,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091579486563115037",
+      "is_retweet": true,
+      "original_author": "nypost",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-23T17:33:03+00:00",
+      "text": "RT @nypost: Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum, Bitcoin: disclosures https://t.co/EMgXUTH7zE https://t.co/hsdYFkJLNz",
+      "summary": "RT @nypost: Crypto basher Rep. Rashida Tlaib stashes savings in Ethereum, Bitcoin: disclosures https://t.co/EMgXUTH7zE https://t.co/hsdYFkJLNz",
+      "url": "https://x.com/laurashin/status/2091579486563115037",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 286,
+        "replies": 0,
+        "quotes": 0,
+        "views": "880"
+      }
+    },
+    {
+      "id": "2091576910614524025",
+      "is_retweet": true,
+      "original_author": "Kaiz_294",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-23T17:22:49+00:00",
+      "text": "RT @Kaiz_294: Zcash brought privacy back into the center of the crypto conversation Mert connects the renewed interest in privacy directly to Zcash's rise from the top 100 into the top 10. \"Zcash, going from the top 100 to the top 10, played quite a large role in that.\" \"Crypto, attention, liquidity equals price action.\" \"It is one of the things left in finance that is player versus environment.\" \"If I have privacy, and Laura, you have privacy, that's good for both of us.\" Price action creates attention. Attention brings liquidity, new participants and more opportunities for teams building in the sector. That's where Mert's PvE idea becomes interesting. Most financial markets are fundamentally competitive. One participant's gain can come from another participant's loss. Privacy works differently. If two people gain stronger financial privacy, both benefit from it. The utility expands across the network instead of requiring users to compete against each other for the same outcome. Zcash's recent rise therefore did more than move the token higher. It put privacy back on the industry's radar and gave the entire sector a new source of attention. Zcash moved. Privacy got attention. A forgotten crypto primitive started becoming a market again. w/ @mert",
+      "summary": "RT @Kaiz_294: Zcash brought privacy back into the center of the crypto conversation Mert connects the renewed interest in privacy directly to Zcash's…",
+      "url": "https://x.com/laurashin/status/2091576910614524025",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": "911"
+      }
+    },
+    {
+      "id": "2091534202831503639",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-23T14:33:07+00:00",
+      "text": "No training. No data retention. No subpoena target. @erikvoorhees tells @kain how @AskVenice decides which AI models it will actually call private. 🔐 https://t.co/XeIMwmJVtF",
+      "summary": "No training. No data retention. No subpoena target. @erikvoorhees tells @kain how @AskVenice decides which AI models it will actually call private. 🔐…",
+      "url": "https://x.com/laurashin/status/2091534202831503639",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 25,
+        "retweets": 4,
+        "replies": 11,
+        "quotes": 0,
+        "views": "3466"
+      }
+    },
+    {
+      "id": "2091385317886452186",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-23T04:41:30+00:00",
+      "text": "RT @laurashin: Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe. @erikvoorhees says that was the mistake. The @AskVenice founder tells @kaiynne and @tayvano_ that crypto's real job is becoming the rails AI agents already prefer over a Wells Fargo account. 🏦 Timestamps: 🤝 01:51 Why Stripe buying OpenRouter is one of crypto's cleanest AI pivots 🪙 04:02 Why Erik says he can't pivot out of crypto even while building an AI company ⚖️ 12:43 Crypto has principles, AI didn't: unpacking the two industries' DC playbooks 💧 27:58 1inch Aqua: See how shared liquidity keeps LPs' tokens in their wallet at https://t.co/PjP6kyzgA0 💰 28:44 Why Erik sold Venice's equity but refuses to sell its VVV tokens 🧩 42:51 Inside Venice's strategy for aggregating every major AI model in one app 📉 49:15 Why Erik says labs are bleeding money on $200 plans, and how DeepSeek reset AI pricing 🌐 57:30 Why Erik says America doesn't deserve to win the AI race by default 🔓 01:02:41 Why Erik has 'zero faith' in politics and trusts decentralized tech instead 🕵️ 01:09:56 Why Erik calls the moderation layer inside AI models 'deceptive'",
+      "summary": "RT @laurashin: Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe.…",
+      "url": "https://x.com/laurashin/status/2091385317886452186",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 25,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
     {
       "id": "2091321066094313793",
       "is_retweet": true,
@@ -43,6 +156,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "38076"
+      }
+    },
+    {
+      "id": "2091314515073986692",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-23T00:00:09+00:00",
+      "text": "More intelligence should mean higher prices. @erikvoorhees says it's the opposite: he tells @kain the cost of intelligence is collapsing, and taking model providers' margins down with it. 📉 https://t.co/ggtYaCba6W",
+      "summary": "More intelligence should mean higher prices. @erikvoorhees says it's the opposite: he tells @kain the cost of intelligence is collapsing, and taking…",
+      "url": "https://x.com/laurashin/status/2091314515073986692",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 51,
+        "retweets": 9,
+        "replies": 11,
+        "quotes": 0,
+        "views": "9836"
+      }
+    },
+    {
+      "id": "2091309958432178608",
+      "is_retweet": true,
+      "original_author": "Unchained_pod",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T23:42:03+00:00",
+      "text": "RT @Unchained_pod: New Uneasy Money: @erikvoorhees says crypto's job was never to serve crypto people, it was to become AI's plumbing. 🔌 🤝 Why @stripe buying @OpenRouter is a clean crypto-to-AI pivot 💰 Why he sold @AskVenice's equity, not its tokens 🌍 Why he says America doesn't deserve to win the AI race by default With @kaiynne and @tayvano_ https://t.co/oK4Dbe5KtE",
+      "summary": "RT @Unchained_pod: New Uneasy Money: @erikvoorhees says crypto's job was never to serve crypto people, it was to become AI's plumbing. 🔌 🤝 Why…",
+      "url": "https://x.com/laurashin/status/2091309958432178608",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 2,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1360"
       }
     },
     {
@@ -121,6 +284,31 @@
       }
     },
     {
+      "id": "2091277481504367098",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T21:33:00+00:00",
+      "text": "Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe. @erikvoorhees says that was the mistake. The @AskVenice founder tells @kaiynne and @tayvano_ that crypto's real job is becoming the rails AI agents already prefer over a Wells Fargo account. 🏦 Timestamps: 🤝 01:51 Why Stripe buying OpenRouter is one of crypto's cleanest AI pivots 🪙 04:02 Why Erik says he can't pivot out of crypto even while building an AI company ⚖️ 12:43 Crypto has principles, AI didn't: unpacking the two industries' DC playbooks 💧 27:58 1inch Aqua: See how shared liquidity keeps LPs' tokens in their wallet at https://t.co/PjP6kyzgA0 💰 28:44 Why Erik sold Venice's equity but refuses to sell its VVV tokens 🧩 42:51 Inside Venice's strategy for aggregating every major AI model in one app 📉 49:15 Why Erik says labs are bleeding money on $200 plans, and how DeepSeek reset AI pricing 🌐 57:30 Why Erik says America doesn't deserve to win the AI race by default 🔓 01:02:41 Why Erik has 'zero faith' in politics and trusts decentralized tech instead 🕵️ 01:09:56 Why Erik calls the moderation layer inside AI models 'deceptive'",
+      "summary": "Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe. @erikvoorhees says that…",
+      "url": "https://x.com/laurashin/status/2091277481504367098",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 133,
+        "retweets": 25,
+        "replies": 20,
+        "quotes": 4,
+        "views": "15301"
+      }
+    },
+    {
       "id": "2091274892834435457",
       "is_retweet": true,
       "original_author": "SecretaryBurgum",
@@ -143,6 +331,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "44085"
+      }
+    },
+    {
+      "id": "2091243828439392515",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-22T19:19:16+00:00",
+      "text": "ETH is still Maelstrom's biggest position outside Bitcoin, according to @CryptoHayes, who says once ETH breaks through $3,000, the \"reflexive trade\" kicks in fast. 🚀Full clip below https://t.co/HBiQVF4KxV",
+      "summary": "ETH is still Maelstrom's biggest position outside Bitcoin, according to @CryptoHayes, who says once ETH breaks through $3,000, the \"reflexive trade\"…",
+      "url": "https://x.com/laurashin/status/2091243828439392515",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 32,
+        "retweets": 1,
+        "replies": 9,
+        "quotes": 0,
+        "views": "8908"
       }
     },
     {
