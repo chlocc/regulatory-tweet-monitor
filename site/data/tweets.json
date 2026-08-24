@@ -1,18 +1,39 @@
 {
-  "generated_at": "2026-08-24T15:05:00.072742+00:00",
-  "generated_at_unix": 1787583900,
+  "generated_at": "2026-08-24T18:13:18.383838+00:00",
+  "generated_at_unix": 1787595198,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-23T16:00:00+00:00",
-  "window_end": "2026-08-24T15:05:00.072742+00:00",
-  "new_this_run": 9,
-  "total_recent": 23,
-  "errors": [],
+  "window_end": "2026-08-24T18:13:18.383838+00:00",
+  "new_this_run": 3,
+  "total_recent": 26,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    },
+    {
+      "username": "laurashin",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "EleanorTerrett",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "RegulatoryJason",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "jessefried",
+      "error": "The read operation timed out"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 10,
+    "successful_this_run": 10,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +41,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091931488682181044",
+      "is_retweet": true,
+      "original_author": "RebeccaRettig1",
+      "username": "milesjennings",
+      "display_name": "miles jennings",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-24T16:51:47+00:00",
+      "text": "RT @RebeccaRettig1: 1/ Today, @m_mosier_ @malekanoms &amp; I are sharing a new paper: \"The Compatibility of Financial Integrity With Permissionless Networks\". Institutions say BSA &amp; sanctions laws prevent use of these networks. We debunk this &amp; provide a path forward. 🧵 https://t.co/8KAQH6UyDV",
+      "summary": "RT @RebeccaRettig1: 1/ Today, @m_mosier_ @malekanoms &amp; I are sharing a new paper: \"The Compatibility of Financial Integrity With Permissionless…",
+      "url": "https://x.com/milesjennings/status/2091931488682181044",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 20,
+        "replies": 0,
+        "quotes": 0,
+        "views": "125"
+      }
+    },
     {
       "id": "2091903092782670197",
       "is_retweet": false,
@@ -168,6 +214,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "216"
+      }
+    },
+    {
+      "id": "2091738330170040436",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "danrobinson",
+      "display_name": "Dan Robinson",
+      "group": "Other / Policy Adjacent",
+      "created_at": "2026-08-24T04:04:15+00:00",
+      "text": "This is pretty surprising to me and makes me rethink some assumptions Are so many enterprise use cases really saturated by Opus? I can't really imagine not wanting frontier intelligence even for simpler tasks https://t.co/Yhambllivr",
+      "summary": "This is pretty surprising to me and makes me rethink some assumptions Are so many enterprise use cases really saturated by Opus? I can't really…",
+      "url": "https://x.com/danrobinson/status/2091738330170040436",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 127,
+        "retweets": 7,
+        "replies": 93,
+        "quotes": 8,
+        "views": "30085"
+      }
+    },
+    {
+      "id": "2091733189559795739",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "wassielawyer",
+      "display_name": "wassieloyer",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T03:43:49+00:00",
+      "text": "Honestly a mid-curve, retarded but quintessentially Sinkie attempt at fixing the low TFR problem. If you want to solve for low birth rates, start from addressing the fucking first principles of why birth rates are low instead of casually chucking money at the problem.",
+      "summary": "Honestly a mid-curve, retarded but quintessentially Sinkie attempt at fixing the low TFR problem. If you want to solve for low birth rates, start…",
+      "url": "https://x.com/wassielawyer/status/2091733189559795739",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 133,
+        "retweets": 2,
+        "replies": 29,
+        "quotes": 1,
+        "views": "26785"
       }
     },
     {
