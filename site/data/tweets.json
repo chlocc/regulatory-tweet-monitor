@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-08-23T18:06:35.670276+00:00",
-  "generated_at_unix": 1787508395,
+  "generated_at": "2026-08-24T06:07:22.227037+00:00",
+  "generated_at_unix": 1787551642,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
-  "window_start": "2026-08-22T16:00:00+00:00",
-  "window_end": "2026-08-23T18:06:35.670276+00:00",
-  "new_this_run": 8,
-  "total_recent": 31,
+  "window_start": "2026-08-23T16:00:00+00:00",
+  "window_end": "2026-08-24T06:07:22.227037+00:00",
+  "new_this_run": 3,
+  "total_recent": 5,
   "errors": [
     {
-      "username": "CarloD_Angelo",
-      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
-    },
-    {
-      "username": "EleanorTerrett",
+      "username": "SECGov",
       "error": "The read operation timed out"
     },
     {
-      "username": "danrobinson",
-      "error": "Remote end closed connection without response"
+      "username": "ADGlobalMarket",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "SenatorHagerty",
+      "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
     "attempted_this_run": 12,
     "successful_this_run": 12,
-    "next_index": 75,
+    "next_index": 15,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -33,6 +33,56 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091659039994266006",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "howardlutnick",
+      "display_name": "Howard Lutnick",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-23T22:49:10+00:00",
+      "text": "Incredible to be in Washington, D.C. for Grand Prix 250 with Lip-Bu Tan of Intel and Zak Brown of McLaren. An entirely free race that could only have been put together by President Trump. Wow, what a day! https://t.co/GAyQS33QL1",
+      "summary": "Incredible to be in Washington, D.C. for Grand Prix 250 with Lip-Bu Tan of Intel and Zak Brown of McLaren. An entirely free race that could only have…",
+      "url": "https://x.com/howardlutnick/status/2091659039994266006",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 2031,
+        "retweets": 158,
+        "replies": 151,
+        "quotes": 12,
+        "views": "35459"
+      }
+    },
+    {
+      "id": "2091606582882672881",
+      "is_retweet": true,
+      "original_author": "VPPressSec",
+      "username": "VP",
+      "display_name": "Vice President JD Vance",
+      "group": "Regulators & Government Officials",
+      "created_at": "2026-08-23T19:20:44+00:00",
+      "text": "RT @VPPressSec: 📸 Vice President JD Vance visits Central Pastry Shop in Middletown, Ohio https://t.co/e98ze3zk9E",
+      "summary": "RT @VPPressSec: 📸 Vice President JD Vance visits Central Pastry Shop in Middletown, Ohio https://t.co/e98ze3zk9E",
+      "url": "https://x.com/VP/status/2091606582882672881",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 82,
+        "replies": 0,
+        "quotes": 0,
+        "views": "9548"
+      }
+    },
     {
       "id": "2091579486563115037",
       "is_retweet": true,
@@ -84,66 +134,16 @@
       }
     },
     {
-      "id": "2091534202831503639",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-23T14:33:07+00:00",
-      "text": "No training. No data retention. No subpoena target. @erikvoorhees tells @kain how @AskVenice decides which AI models it will actually call private. 🔐 https://t.co/XeIMwmJVtF",
-      "summary": "No training. No data retention. No subpoena target. @erikvoorhees tells @kain how @AskVenice decides which AI models it will actually call private. 🔐…",
-      "url": "https://x.com/laurashin/status/2091534202831503639",
-      "type": "original",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 25,
-        "retweets": 4,
-        "replies": 11,
-        "quotes": 0,
-        "views": "3466"
-      }
-    },
-    {
-      "id": "2091385317886452186",
+      "id": "2091576045656834091",
       "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-23T04:41:30+00:00",
-      "text": "RT @laurashin: Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe. @erikvoorhees says that was the mistake. The @AskVenice founder tells @kaiynne and @tayvano_ that crypto's real job is becoming the rails AI agents already prefer over a Wells Fargo account. 🏦 Timestamps: 🤝 01:51 Why Stripe buying OpenRouter is one of crypto's cleanest AI pivots 🪙 04:02 Why Erik says he can't pivot out of crypto even while building an AI company ⚖️ 12:43 Crypto has principles, AI didn't: unpacking the two industries' DC playbooks 💧 27:58 1inch Aqua: See how shared liquidity keeps LPs' tokens in their wallet at https://t.co/PjP6kyzgA0 💰 28:44 Why Erik sold Venice's equity but refuses to sell its VVV tokens 🧩 42:51 Inside Venice's strategy for aggregating every major AI model in one app 📉 49:15 Why Erik says labs are bleeding money on $200 plans, and how DeepSeek reset AI pricing 🌐 57:30 Why Erik says America doesn't deserve to win the AI race by default 🔓 01:02:41 Why Erik has 'zero faith' in politics and trusts decentralized tech instead 🕵️ 01:09:56 Why Erik calls the moderation layer inside AI models 'deceptive'",
-      "summary": "RT @laurashin: Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe.…",
-      "url": "https://x.com/laurashin/status/2091385317886452186",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 25,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2091321066094313793",
-      "is_retweet": true,
-      "original_author": "SecKennedy",
+      "original_author": "RapidResponse47",
       "username": "WhiteHouse",
       "display_name": "The White House",
       "group": "Regulators & Government Officials",
-      "created_at": "2026-08-23T00:26:11+00:00",
-      "text": "RT @SecKennedy: The mainstream media is so desperate to attack this Administration that it now attacks FDA for doing its job. @FDA identifies safety problems, gets unsafe products off the market, and protects American families. That’s public health in action. And the facts speak for themselves: FDA recalls remain among the lowest levels in more than a decade.",
-      "summary": "RT @SecKennedy: The mainstream media is so desperate to attack this Administration that it now attacks FDA for doing its job. @FDA identifies safety…",
-      "url": "https://x.com/WhiteHouse/status/2091321066094313793",
+      "created_at": "2026-08-23T17:19:23+00:00",
+      "text": "RT @RapidResponse47: .@SecretaryBurgum: \"GENTLEMEN, START YOUR ENGINES!\" https://t.co/D8EC1JDzVR",
+      "summary": "RT @RapidResponse47: .@SecretaryBurgum: \"GENTLEMEN, START YOUR ENGINES!\" https://t.co/D8EC1JDzVR",
+      "url": "https://x.com/WhiteHouse/status/2091576045656834091",
       "type": "retweet",
       "categories": [
         "other"
@@ -152,660 +152,10 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 714,
+        "retweets": 375,
         "replies": 0,
         "quotes": 0,
-        "views": "38076"
-      }
-    },
-    {
-      "id": "2091314515073986692",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-23T00:00:09+00:00",
-      "text": "More intelligence should mean higher prices. @erikvoorhees says it's the opposite: he tells @kain the cost of intelligence is collapsing, and taking model providers' margins down with it. 📉 https://t.co/ggtYaCba6W",
-      "summary": "More intelligence should mean higher prices. @erikvoorhees says it's the opposite: he tells @kain the cost of intelligence is collapsing, and taking…",
-      "url": "https://x.com/laurashin/status/2091314515073986692",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 51,
-        "retweets": 9,
-        "replies": 11,
-        "quotes": 0,
-        "views": "9836"
-      }
-    },
-    {
-      "id": "2091309958432178608",
-      "is_retweet": true,
-      "original_author": "Unchained_pod",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T23:42:03+00:00",
-      "text": "RT @Unchained_pod: New Uneasy Money: @erikvoorhees says crypto's job was never to serve crypto people, it was to become AI's plumbing. 🔌 🤝 Why @stripe buying @OpenRouter is a clean crypto-to-AI pivot 💰 Why he sold @AskVenice's equity, not its tokens 🌍 Why he says America doesn't deserve to win the AI race by default With @kaiynne and @tayvano_ https://t.co/oK4Dbe5KtE",
-      "summary": "RT @Unchained_pod: New Uneasy Money: @erikvoorhees says crypto's job was never to serve crypto people, it was to become AI's plumbing. 🔌 🤝 Why…",
-      "url": "https://x.com/laurashin/status/2091309958432178608",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1360"
-      }
-    },
-    {
-      "id": "2091299112096301565",
-      "is_retweet": true,
-      "original_author": "SecDuffy",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T22:58:57+00:00",
-      "text": "RT @SecDuffy: 🔊 VOLUME UP That’s the sound of 250 YEARS OF FREEDOM. Enjoy, Patriots! 🇺🇸🏁 @Freedom250GP @Freedom250 @IndyCar @FOXSports https://t.co/sMigSDeICQ",
-      "summary": "RT @SecDuffy: 🔊 VOLUME UP That’s the sound of 250 YEARS OF FREEDOM. Enjoy, Patriots! 🇺🇸🏁 @Freedom250GP @Freedom250 @IndyCar @FOXSports…",
-      "url": "https://x.com/WhiteHouse/status/2091299112096301565",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 395,
-        "replies": 0,
-        "quotes": 0,
-        "views": "38185"
-      }
-    },
-    {
-      "id": "2091280188642344970",
-      "is_retweet": true,
-      "original_author": "metahacker_",
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-22T21:43:45+00:00",
-      "text": "RT @metahacker_: I don't know about Silicon Valley But I mourn the crypto industry that we lost over the last 5 years When I entered this industry, it felt like home. It was filled with weirdos, strange anon nerds, and we even had an astrology reading witch The hottest thing someone could do in the industry was drop an innovative whitepaper People were happy when they made money - as they should - but everyone seemed to be motivated by a greater purpose and at least some iota of delusional idealism I've never really followed any norm or fit in anywhere. I never studied traditional majors, never even had a job, and never followed a standard career path And I felt right at home in this place. It was the most meritocratic space I'd ever been in - I could make friends, find work based simply on my skills I look around now and the entire industry has changed. The missions is largely forgotten. There is very little idealism. We cheer on the very thing we were supposed to fight - Wall Street Crypto paid for my house and I'll probably make a lot of money in the next two years But the thrill is gone",
-      "summary": "RT @metahacker_: I don't know about Silicon Valley But I mourn the crypto industry that we lost over the last 5 years When I entered this industry,…",
-      "url": "https://x.com/lex_node/status/2091280188642344970",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "693"
-      }
-    },
-    {
-      "id": "2091279687670439999",
-      "is_retweet": true,
-      "original_author": "SecretaryWright",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T21:41:46+00:00",
-      "text": "RT @SecretaryWright: American oil and gas workers have driven production to an all-time high, making the U.S. the world’s largest producer of oil and natural gas. Thanks to @POTUS’ agenda, we’re building on that success—unleashing American energy, strengthening our economy, and lowering costs. https://t.co/6SGppOMt3q",
-      "summary": "RT @SecretaryWright: American oil and gas workers have driven production to an all-time high, making the U.S. the world’s largest producer of oil and…",
-      "url": "https://x.com/WhiteHouse/status/2091279687670439999",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 251,
-        "replies": 0,
-        "quotes": 0,
-        "views": "44243"
-      }
-    },
-    {
-      "id": "2091277481504367098",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T21:33:00+00:00",
-      "text": "Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe. @erikvoorhees says that was the mistake. The @AskVenice founder tells @kaiynne and @tayvano_ that crypto's real job is becoming the rails AI agents already prefer over a Wells Fargo account. 🏦 Timestamps: 🤝 01:51 Why Stripe buying OpenRouter is one of crypto's cleanest AI pivots 🪙 04:02 Why Erik says he can't pivot out of crypto even while building an AI company ⚖️ 12:43 Crypto has principles, AI didn't: unpacking the two industries' DC playbooks 💧 27:58 1inch Aqua: See how shared liquidity keeps LPs' tokens in their wallet at https://t.co/PjP6kyzgA0 💰 28:44 Why Erik sold Venice's equity but refuses to sell its VVV tokens 🧩 42:51 Inside Venice's strategy for aggregating every major AI model in one app 📉 49:15 Why Erik says labs are bleeding money on $200 plans, and how DeepSeek reset AI pricing 🌐 57:30 Why Erik says America doesn't deserve to win the AI race by default 🔓 01:02:41 Why Erik has 'zero faith' in politics and trusts decentralized tech instead 🕵️ 01:09:56 Why Erik calls the moderation layer inside AI models 'deceptive'",
-      "summary": "Does America Deserve to Win the AI Race? Erik Voorhees Says No: Uneasy Money Crypto was supposed to need its own universe. @erikvoorhees says that…",
-      "url": "https://x.com/laurashin/status/2091277481504367098",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 133,
-        "retweets": 25,
-        "replies": 20,
-        "quotes": 4,
-        "views": "15301"
-      }
-    },
-    {
-      "id": "2091274892834435457",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T21:22:43+00:00",
-      "text": "RT @SecretaryBurgum: It’s never been quicker to get around our National Mall 🏁 https://t.co/vlJJB16AWx",
-      "summary": "RT @SecretaryBurgum: It’s never been quicker to get around our National Mall 🏁 https://t.co/vlJJB16AWx",
-      "url": "https://x.com/WhiteHouse/status/2091274892834435457",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 297,
-        "replies": 0,
-        "quotes": 0,
-        "views": "44085"
-      }
-    },
-    {
-      "id": "2091243828439392515",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T19:19:16+00:00",
-      "text": "ETH is still Maelstrom's biggest position outside Bitcoin, according to @CryptoHayes, who says once ETH breaks through $3,000, the \"reflexive trade\" kicks in fast. 🚀Full clip below https://t.co/HBiQVF4KxV",
-      "summary": "ETH is still Maelstrom's biggest position outside Bitcoin, according to @CryptoHayes, who says once ETH breaks through $3,000, the \"reflexive trade\"…",
-      "url": "https://x.com/laurashin/status/2091243828439392515",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 32,
-        "retweets": 1,
-        "replies": 9,
-        "quotes": 0,
-        "views": "8908"
-      }
-    },
-    {
-      "id": "2091227596411302118",
-      "is_retweet": true,
-      "original_author": "SecDuffy",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T18:14:46+00:00",
-      "text": "RT @SecDuffy: People said 250 @IndyCar laps around the heart of Washington, DC was impossible… They were WRONG! We’ve got sold out crowds celebrating AMERICA and witnessing HISTORY 🏁🇺🇸 @Freedom250GP @Freedom250 @aishahhasnie @FoxNews 🔥⬇️ https://t.co/GbJiZUPjkD",
-      "summary": "RT @SecDuffy: People said 250 @IndyCar laps around the heart of Washington, DC was impossible… They were WRONG! We’ve got sold out crowds celebrating…",
-      "url": "https://x.com/WhiteHouse/status/2091227596411302118",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 951,
-        "replies": 0,
-        "quotes": 0,
-        "views": "44409"
-      }
-    },
-    {
-      "id": "2091216657754513752",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "RoKhanna",
-      "display_name": "Ro Khanna",
-      "group": "Legislators & Congressional Committees",
-      "created_at": "2026-08-22T17:31:18+00:00",
-      "text": "It was an honor to discuss Magnifica Humanitas with Pope Leo last week. More than any world leader, he has put forth an ethical framework for AI affirming human agency &amp; equality. I have since written to AI CEOs, calling on them to live up to these principles. https://t.co/MkoBYLCE77",
-      "summary": "It was an honor to discuss Magnifica Humanitas with Pope Leo last week. More than any world leader, he has put forth an ethical framework for AI…",
-      "url": "https://x.com/RoKhanna/status/2091216657754513752",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 876,
-        "retweets": 138,
-        "replies": 85,
-        "quotes": 11,
-        "views": "24540"
-      }
-    },
-    {
-      "id": "2091215011129524292",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T17:24:46+00:00",
-      "text": "RT @laurashin: Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts 🏗️ @CryptoHayes calls the AI CapEx boom \"just another boring real estate play\" and says it bursts the same way subprime did. My full conversation with him is live now. 🎧 Timestamps: 🏛️ 00:47 Why Arthur says the Treasury's buyback move is 'soft yield curve control' 📈 04:14 Why ETH is Maelstrom's largest position outside Bitcoin 🇯🇵 07:02 The yen quake: how Japan's repatriation could force the Fed's hand 📣 13:41 Visit 1inch to swap tokenized securities, crypto and more at https://t.co/PjP6kyzgA0 🤖 13:58 Why Arthur calls the AI boom 'just another boring real estate play' 💽 22:29 Inside Flop: Arthur's new currency for paying AI agents to compute ⚙️ 29:34 How Flop's miners and validators actually work 🪙 41:16 Flop's halving schedule and why Flop Labs only takes a cut for two years 📉 45:45 Why Arthur says don't buy MicroStrategy anymore 🔌 48:37 Why Arthur shut down BitMEX on his own terms",
-      "summary": "RT @laurashin: Arthur Hayes Bets Crypto Wins When the AI Bubble Bursts 🏗️ @CryptoHayes calls the AI CapEx boom \"just another boring real estate play\"…",
-      "url": "https://x.com/laurashin/status/2091215011129524292",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2091214780266651788",
-      "is_retweet": true,
-      "original_author": "CoinDesk",
-      "username": "RebeccaRettig1",
-      "display_name": "Rebecca Rettig",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-22T17:23:51+00:00",
-      "text": "RT @CoinDesk: The SEC just built “an exit door out of its own jurisdiction.” On The Policy Protocol, Superstate GC @AlexZozos joins @RebeccaRettig1 and @renato_mariotti to unpack the “Reg Crypto” rulemaking: the fundraising barbell, the “Hotel California” problem, and why the exit ramp still needs the CLARITY Act. Plus: Trump talks Hyperliquid, and Kalshi beats the CFTC again. Chapters/Timecodes: 00:00 Welcome to The Policy Protocol 01:54 Hot Topic: Trump Talks Hyperliquid at the White House 04:36 Renato's Hot Topic: Kalshi, the CFTC, and Loper Bright 06:34 The SEC Drops Its 'Reg Crypto' Rulemaking 06:42 Alexander Zozos of Superstate Joins the Show 06:55 What Is Reg Crypto? The 30,000-Foot View 10:04 Foundation or Window? The Rogue Regulator Question 12:16 Inside the SEC: How a 400-Page Rule Gets Made 17:40 Does the Exit Ramp Depend on the CLARITY Act? 20:04 Rebecca and Renato Debrief 21:44 Person of the Week: Crypto Lawyers",
-      "summary": "RT @CoinDesk: The SEC just built “an exit door out of its own jurisdiction.” On The Policy Protocol, Superstate GC @AlexZozos joins @RebeccaRettig1…",
-      "url": "https://x.com/RebeccaRettig1/status/2091214780266651788",
-      "type": "retweet",
-      "categories": [
-        "prediction_markets"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 39,
-        "replies": 0,
-        "quotes": 0,
-        "views": "80"
-      }
-    },
-    {
-      "id": "2091214470261387472",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T17:22:37+00:00",
-      "text": "RT @SecretaryBurgum: Shoutout to @NatlParkService &amp; @usparkpolicepio for Making D.C. Safe, Beautiful &amp; ready to celebrate! From the UFC fight &amp; Great American State Fair to a world record-breaking fireworks show &amp; now @Freedom250GP, this summer’s celebrations wouldn’t be possible without them! 🇺🇸 https://t.co/GCDo85fLRS",
-      "summary": "RT @SecretaryBurgum: Shoutout to @NatlParkService &amp; @usparkpolicepio for Making D.C. Safe, Beautiful &amp; ready to celebrate! From the UFC fight…",
-      "url": "https://x.com/WhiteHouse/status/2091214470261387472",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 208,
-        "replies": 0,
-        "quotes": 0,
-        "views": "41851"
-      }
-    },
-    {
-      "id": "2091214460396396881",
-      "is_retweet": true,
-      "original_author": "SecretaryBurgum",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T17:22:34+00:00",
-      "text": "RT @SecretaryBurgum: From the @Freedom250GP racetrack in Washington, D.C. to the trails of our national parks, this week is all about celebrating what makes America exceptional. https://t.co/nNpQNp384k",
-      "summary": "RT @SecretaryBurgum: From the @Freedom250GP racetrack in Washington, D.C. to the trails of our national parks, this week is all about celebrating…",
-      "url": "https://x.com/WhiteHouse/status/2091214460396396881",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 175,
-        "replies": 0,
-        "quotes": 0,
-        "views": "42072"
-      }
-    },
-    {
-      "id": "2091214444202205419",
-      "is_retweet": true,
-      "original_author": "SecDuffy",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T17:22:31+00:00",
-      "text": "RT @SecDuffy: It’s official America, Washington, DC is NOW a racetrack! 🏎️ 🇺🇸",
-      "summary": "RT @SecDuffy: It’s official America, Washington, DC is NOW a racetrack! 🏎️ 🇺🇸",
-      "url": "https://x.com/WhiteHouse/status/2091214444202205419",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1783,
-        "replies": 0,
-        "quotes": 0,
-        "views": "42493"
-      }
-    },
-    {
-      "id": "2091213510025888012",
-      "is_retweet": true,
-      "original_author": "justinsuntron",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T17:18:48+00:00",
-      "text": "RT @justinsuntron: 关于我与World Liberty @worldlibertyfi 的官司,很多人以为它是一场商业纠纷。表面上确实是——4500万美元、40亿枚代币、一纸合同。 但打了这几个月,我越来越清楚它真正的性质:这是一场关于区块链初心的价值观之争。 我们这一代人创立区块链,只为一个朴素的信念:每个人都应当真正拥有自己的财产——不因你的身份、立场、国籍,不需要任何人的恩准。 私钥即所有权,这是整个行业的第一性原理。 而这场官司揭示的,恰恰是对这一初心的背叛: 一家以\"自由(Liberty)\"为名的公司,在WLFI与USD1合约里秘密植入了任意冻结任何用户资产的权力,不经披露、不经治理、不经任何程序——然后在我的代币解锁数日之内,对我使用了它。 以自由之名,行控制之实——这不只是对我一个人的侵害,它动摇的是这个行业存在的理由。 如果发行方可以随时没收任何持有者的资产,那么区块链和它试图取代的旧世界还有什么区别? 我们绕了一大圈,只是给任意没收换了一层技术的包装。 所以这场官司我会打到底。 不只为拿回属于我的东西,更为在法庭上确立一个先例: 在区块链的世界里,\"你的资产\"必须真正是你的——写在代码里,也写进判例里。 自由不是一个可以注册的商标。 它是一种可以在链上逐行验证的设计选择。 我的选择,任何人都可以去验证;他们的,法庭正在验证。",
-      "summary": "RT @justinsuntron: 关于我与World Liberty @worldlibertyfi 的官司,很多人以为它是一场商业纠纷。表面上确实是——4500万美元、40亿枚代币、一纸合同。 但打了这几个月,我越来越清楚它真正的性质:这是一场关于区块链初心的价值观之争。…",
-      "url": "https://x.com/laurashin/status/2091213510025888012",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 58,
-        "replies": 0,
-        "quotes": 0,
-        "views": "694"
-      }
-    },
-    {
-      "id": "2091211430741565872",
-      "is_retweet": true,
-      "original_author": "USTradeRep",
-      "username": "WhiteHouse",
-      "display_name": "The White House",
-      "group": "Regulators & Government Officials",
-      "created_at": "2026-08-22T17:10:32+00:00",
-      "text": "RT @USTradeRep: Tonight, Canada declined to finalize the trade deal under the terms agreed earlier this week. Despite the U.S. offer to Canada to receive the best treatment of any major exporter to our market, new demands and walk backs of other commitments by Canada have upended the careful balance reached in the past days. In addition, Canada is continuing to maintain its prolonged retaliation against the United States, including, among other things, flat-out prohibitions on certain American goods and services. For decades, Canada has enjoyed the most favorable access to the U.S. market of any country. And from the beginning of President Trump’s trade program, Canada has continued to enjoy the best treatment in the world, even after – like China – retaliating against the United States. This week, the United States agreed to provide even better treatment to Canada, offering significant tariff reductions on steel, aluminum, autos, and lumber. The U.S. offer was also forward looking, and included a historic economic and national security partnership to cooperate on export controls, combat transshipment, enhance digital trade, and align certain external tariffs. The offer would have led to supply chain coordination on aerospace, complementary actions to address unfair trade practices, critical minerals cooperation, increased enforcement against imports produced with forced labor, and the announcement of formal U.S.-Mexico-Canada Agreement (USMCA) negotiations. This is a missed opportunity for Canada to partner with the United States, which is the fastest growing economy in the G7.",
-      "summary": "RT @USTradeRep: Tonight, Canada declined to finalize the trade deal under the terms agreed earlier this week. Despite the U.S. offer to Canada to…",
-      "url": "https://x.com/WhiteHouse/status/2091211430741565872",
-      "type": "retweet",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 3853,
-        "replies": 0,
-        "quotes": 0,
-        "views": "50260"
-      }
-    },
-    {
-      "id": "2091210357809590280",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "EleanorTerrett",
-      "display_name": "Eleanor Terrett",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T17:06:16+00:00",
-      "text": "First American road trip! 🇺🇸 WY ➡️ NJ https://t.co/Cl6Frs2jPv",
-      "summary": "First American road trip! 🇺🇸 WY ➡️ NJ https://t.co/Cl6Frs2jPv",
-      "url": "https://x.com/EleanorTerrett/status/2091210357809590280",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 566,
-        "retweets": 13,
-        "replies": 57,
-        "quotes": 0,
-        "views": "16461"
-      }
-    },
-    {
-      "id": "2091208865954095410",
-      "is_retweet": true,
-      "original_author": "Unchained_pod",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T17:00:21+00:00",
-      "text": "RT @Unchained_pod: New episode with @CryptoHayes and @laurashin: 🏛️ Why the Treasury's buyback move looks like \"soft yield curve control\" 🤖 Why the AI CapEx boom could burst like 2008 all over again 💽 Flop, his new currency built to pay AI agents for compute 🎧 Watch now. https://t.co/MAdzJJpnpk",
-      "summary": "RT @Unchained_pod: New episode with @CryptoHayes and @laurashin: 🏛️ Why the Treasury's buyback move looks like \"soft yield curve control\" 🤖 Why the…",
-      "url": "https://x.com/laurashin/status/2091208865954095410",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": "795"
-      }
-    },
-    {
-      "id": "2091206767933833256",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "lex_node",
-      "display_name": "_gabrielShapir0",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-22T16:52:00+00:00",
-      "text": "everything you wanted to know about Reg Crypto: https://t.co/t6kNTZKd8B",
-      "summary": "everything you wanted to know about Reg Crypto: https://t.co/t6kNTZKd8B",
-      "url": "https://x.com/lex_node/status/2091206767933833256",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 34,
-        "retweets": 6,
-        "replies": 5,
-        "quotes": 2,
-        "views": "4505"
-      }
-    },
-    {
-      "id": "2091206259974291921",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T16:49:59+00:00",
-      "text": "RT @laurashin: EIP-8363: Should ETH Be Sound Money or a Productive Asset? Is ETH ultrasound money or a productive asset? I sat down with @owocki, @OisinKyne, and @jdetychey to dig into EIP-8363, the proposal that wants to cut Ethereum's staking yield toward zero. 🔥 Timestamps: 🏛️ 01:38 Jérôme lays out EIP-8363's validator reward burn curve 🔥 08:02 Oisín on why a 51% cartel could censor blocks for free ⚖️ 10:39 Jérôme's rebuttal: finality security versus censorship risk 📣 14:38 1inch: See how Aqua's shared liquidity pools work at https://t.co/PjP6kyzgA0 💼 16:13 Kevin on Aave, Bankless, and DeFi's backlash to the burn 🧾 33:18 Why solo stakers could see after-tax income near zero 🏦 45:39 Does killing ETH's yield scare off institutional buyers? ⚛️ 51:03 Ultrasound money versus productive asset: ETH's identity fight 🔐 56:41 Why Oisín is skeptical of an enshrined liquid staking token 🥇 59:34 Can ETH's shrinking yield compete with Solana and stablecoins? 🔮 01:05:27 Post-quantum costs, and when All Core Devs decides EIP-8363's fate",
-      "summary": "RT @laurashin: EIP-8363: Should ETH Be Sound Money or a Productive Asset? Is ETH ultrasound money or a productive asset? I sat down with @owocki,…",
-      "url": "https://x.com/laurashin/status/2091206259974291921",
-      "type": "retweet",
-      "categories": [
-        "defi"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 1,
-        "replies": 0,
-        "quotes": 0,
-        "views": null
-      }
-    },
-    {
-      "id": "2091206231411061158",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T16:49:52+00:00",
-      "text": "RT @laurashin: EIP-8363 has raised a lot of hackles: @jdetychey defends why Ethereum's new burn curve should push toward zero. @owocki says the DeFi business community isn't buying it, and @OisinKyne has concerns of his own. 🤔 https://t.co/Uoxq9eMgau",
-      "summary": "RT @laurashin: EIP-8363 has raised a lot of hackles: @jdetychey defends why Ethereum's new burn curve should push toward zero. @owocki says the DeFi…",
-      "url": "https://x.com/laurashin/status/2091206231411061158",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 2,
-        "replies": 0,
-        "quotes": 0,
-        "views": "4"
-      }
-    },
-    {
-      "id": "2091205948773740838",
-      "is_retweet": true,
-      "original_author": "laurashin",
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T16:48:45+00:00",
-      "text": "RT @laurashin: 🎁 Erik Voorhees says Venice is preparing a rewards program that would use a portion of user payments to buy VVV on the open market and distribute the tokens to loyal customers. The plan has not yet been deployed. https://t.co/2HKZK3j5uk",
-      "summary": "RT @laurashin: 🎁 Erik Voorhees says Venice is preparing a rewards program that would use a portion of user payments to buy VVV on the open market and…",
-      "url": "https://x.com/laurashin/status/2091205948773740838",
-      "type": "retweet",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 21,
-        "replies": 0,
-        "quotes": 0,
-        "views": "1"
-      }
-    },
-    {
-      "id": "2091204233479495893",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "s_alderoty",
-      "display_name": "Stuart Alderoty",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-22T16:41:56+00:00",
-      "text": "“More crypto holders in this country work in manufacturing and construction than in finance in tech.”",
-      "summary": "“More crypto holders in this country work in manufacturing and construction than in finance in tech.”",
-      "url": "https://x.com/s_alderoty/status/2091204233479495893",
-      "type": "quote",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 1836,
-        "retweets": 313,
-        "replies": 56,
-        "quotes": 20,
-        "views": "107090"
-      }
-    },
-    {
-      "id": "2091201235718451467",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "laurashin",
-      "display_name": "Laura Shin",
-      "group": "Journalists & Media",
-      "created_at": "2026-08-22T16:30:01+00:00",
-      "text": ".@CryptoHayes says AI agents won't hold a currency that a handful of people can print into oblivion. His answer is Flop, a currency with its own \"proof of useful inference\" mining model. ⚙️ https://t.co/1ARKjQC5Wz",
-      "summary": ".@CryptoHayes says AI agents won't hold a currency that a handful of people can print into oblivion. His answer is Flop, a currency with its own…",
-      "url": "https://x.com/laurashin/status/2091201235718451467",
-      "type": "original",
-      "categories": [
-        "other"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 11,
-        "retweets": 0,
-        "replies": 7,
-        "quotes": 0,
-        "views": "2160"
-      }
-    },
-    {
-      "id": "2091198054074597603",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "JohnEDeaton1",
-      "display_name": "John E Deaton",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-22T16:17:23+00:00",
-      "text": "EVERYONE: Meet Lloyd Blankfein - he’s one of the Wall Street Bankers (aka POS) @EdMarkey chose to bailout in 2008. Lloyd was CEO of @GoldmanSachs. His “risk management 101” back then was packaging toxic mortgage bonds - utter garbage - stamping AAA investment grade on it - then selling it to clients - WHILE SHORTING the absolute shit out of it. Therefore, DEAR LLOYD: On behalf of all the working families, widows and pension funds you screwed over: FUCK YOU and your advice. Spare us the sudden concern about “unlimited appetite for risk.” You didn’t manage risk. You ran a wealth-transfer operation from Main Street to your bonus pool and then pretended to be the adult in the room. Btw asshole, the Titanic sank. You sold intentional garbage to your clients - took the other side of the trade - BEHIND THEIR BACKS - betting they’d collapse - and - because of career-puppets in Washington like @SenMarkey - you walked away with a $9 billion TARP-Fed-taxpayer life raft. And you still had the gall to call it “God’s work.” Hence, the🖕 THE FACTS (for those who don’t know about the ABACUS SPECIAL): Goldman allowed hedge fund manager John Paulson, who was heavily shorting the housing market, to help secretly handpick specific high-risk, subprime mortgage-backed securities to populate the Abacus deal. Goldman then marketed and sold these AAA-rated Abacus deals to institutional clients across the world - including banks, U.S., state, and municipal pension funds, as well as state, teacher, and public employee retirement systems, including in MA. Goldman (and others) sold these mortgage-backed securities (that they knew would fail) as prime investment opportunities - without disclosing that Paulson helped choose the underlying assets specifically because he expected them to fail. Paulson bet against (shorted) the exact assets in Abacus. When the subprime market collapsed, Paulson personally made around $1 billion while Goldman’s massive short bets (on the very thing it sold) was over $3.7 billion in profits in 2007 alone. In 2010, the @SECGov charged Goldman Sachs with fraud over the Abacus deal. Goldman settled the lawsuit shortly after for $550 million - and although inadequate, it was - at the time - the largest penalty ever assessed against a Wall Street firm by the SEC. TO MA VOTERS, especially Voters who hear Markey claim that he fights against Wall Street greed. First, ask yourself, why are they always a top donor to his reelection campaigns? More importantly, he’s lying through his teeth. Bottom line: he bailed out the Lloyd Blankfein’s of the world and his vote directly HURT Massachusetts working families. For example, in MA, the Pension Reserves Investment Management (PRIM) Board, manages pension assets for MA state employees and teachers and they all were hit very hard. In 2009, Goldman paid MA an inadequate fine of $60 million to settle over its intentional packaging and selling of \"doomed to fail\" subprime mortgage securities that directly harmed MA families. To this day, Ed Markey has never answered for why he chose to bail these crooks out. Against me, however, he’s going to have to answer. If you want a real fighter for working people then vote for the guy who has spent the last 30 years actually fighting for working people against this rigged system: vote @DeatonforSenate. 👇 https://t.co/enLxxSt64Y",
-      "summary": "EVERYONE: Meet Lloyd Blankfein - he’s one of the Wall Street Bankers (aka POS) @EdMarkey chose to bailout in 2008. Lloyd was CEO of @GoldmanSachs.…",
-      "url": "https://x.com/JohnEDeaton1/status/2091198054074597603",
-      "type": "quote",
-      "categories": [
-        "enforcement"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 207,
-        "retweets": 50,
-        "replies": 11,
-        "quotes": 1,
-        "views": "19829"
+        "views": "42257"
       }
     }
   ]
