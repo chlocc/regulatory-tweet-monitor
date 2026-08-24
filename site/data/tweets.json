@@ -1,31 +1,23 @@
 {
-  "generated_at": "2026-08-24T06:07:22.227037+00:00",
-  "generated_at_unix": 1787551642,
+  "generated_at": "2026-08-24T09:10:47.635412+00:00",
+  "generated_at_unix": 1787562647,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-23T16:00:00+00:00",
-  "window_end": "2026-08-24T06:07:22.227037+00:00",
-  "new_this_run": 3,
-  "total_recent": 5,
+  "window_end": "2026-08-24T09:10:47.635412+00:00",
+  "new_this_run": 2,
+  "total_recent": 7,
   "errors": [
     {
-      "username": "SECGov",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "ADGlobalMarket",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "SenatorHagerty",
+      "username": "BillHughesDC",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 12,
-    "successful_this_run": 12,
-    "next_index": 15,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -56,6 +48,56 @@
         "replies": 151,
         "quotes": 12,
         "views": "35459"
+      }
+    },
+    {
+      "id": "2091628412670464033",
+      "is_retweet": true,
+      "original_author": "jchervinsky",
+      "username": "jchervinsky",
+      "display_name": "Jake Chervinsky",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T20:47:28+00:00",
+      "text": "RT @jchervinsky: Max pain is the four-year crypto market cycle predictably playing out over &amp; over again while everyone convinces themselves that each time is different.",
+      "summary": "RT @jchervinsky: Max pain is the four-year crypto market cycle predictably playing out over &amp; over again while everyone convinces themselves that…",
+      "url": "https://x.com/jchervinsky/status/2091628412670464033",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 237,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2091619973521146149",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-23T20:13:56+00:00",
+      "text": "RT @banteg: this wild defcon talk is finally out researchers created a fake defi startup, hired lazarus it workers, put them into a sandbox and recorded their tooling, workflows, and faces from inside the operation starts at 5:46:09 https://t.co/NBo6pw4nOl",
+      "summary": "RT @banteg: this wild defcon talk is finally out researchers created a fake defi startup, hired lazarus it workers, put them into a sandbox and…",
+      "url": "https://x.com/valkenburgh/status/2091619973521146149",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 187,
+        "replies": 0,
+        "quotes": 0,
+        "views": "258"
       }
     },
     {
