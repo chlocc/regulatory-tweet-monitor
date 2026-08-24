@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-24T09:10:47.635412+00:00",
-  "generated_at_unix": 1787562647,
+  "generated_at": "2026-08-24T12:10:46.496620+00:00",
+  "generated_at_unix": 1787573446,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-23T16:00:00+00:00",
-  "window_end": "2026-08-24T09:10:47.635412+00:00",
-  "new_this_run": 2,
-  "total_recent": 7,
-  "errors": [
-    {
-      "username": "BillHughesDC",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-24T12:10:46.496620+00:00",
+  "new_this_run": 7,
+  "total_recent": 14,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 30,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2091677018979000475",
+      "is_retweet": true,
+      "original_author": "fundstrat",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T00:00:37+00:00",
+      "text": "RT @fundstrat: This is nearly a decade in the making $ETH",
+      "summary": "RT @fundstrat: This is nearly a decade in the making $ETH",
+      "url": "https://x.com/lex_node/status/2091677018979000475",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 334,
+        "replies": 0,
+        "quotes": 0,
+        "views": "601"
+      }
+    },
     {
       "id": "2091659039994266006",
       "is_retweet": false,
@@ -48,6 +68,31 @@
         "replies": 151,
         "quotes": 12,
         "views": "35459"
+      }
+    },
+    {
+      "id": "2091641598266257788",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T21:39:52+00:00",
+      "text": "people like to ask \"does this need a token??!!!\" hacktivism is one of the few things that really needs a token they are doing socially-positive crimes, like robinhood, so they cannot solve trust problems by entering into legal agreements, they cannot provide upside by selling stock, they cannot get money through the banking system, etc. imagine if wikileaks had a token back in the Clinton era",
+      "summary": "people like to ask \"does this need a token??!!!\" hacktivism is one of the few things that really needs a token they are doing socially-positive…",
+      "url": "https://x.com/lex_node/status/2091641598266257788",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 136,
+        "retweets": 11,
+        "replies": 35,
+        "quotes": 8,
+        "views": "13043"
       }
     },
     {
@@ -76,6 +121,31 @@
       }
     },
     {
+      "id": "2091622480913789108",
+      "is_retweet": true,
+      "original_author": "pcaversaccio",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T20:23:54+00:00",
+      "text": "RT @pcaversaccio: the ultimate end goal of ethereum must be to give every individual the ability to become _ungovernable_.",
+      "summary": "RT @pcaversaccio: the ultimate end goal of ethereum must be to give every individual the ability to become _ungovernable_.",
+      "url": "https://x.com/lex_node/status/2091622480913789108",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "711"
+      }
+    },
+    {
       "id": "2091619973521146149",
       "is_retweet": true,
       "original_author": "banteg",
@@ -98,6 +168,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "258"
+      }
+    },
+    {
+      "id": "2091613518885716065",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "zackbshapiro",
+      "display_name": "Zack Shapiro",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T19:48:17+00:00",
+      "text": "Could even be something billable!",
+      "summary": "Could even be something billable!",
+      "url": "https://x.com/zackbshapiro/status/2091613518885716065",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 8,
+        "retweets": 0,
+        "replies": 2,
+        "quotes": 0,
+        "views": "3275"
+      }
+    },
+    {
+      "id": "2091612646843785358",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T19:44:49+00:00",
+      "text": "wow so solana:ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg is real",
+      "summary": "wow so solana:ApZuxdpzMrbEYTGEzeY9afh5pj9d6qPRJCTgQYiipbKg is real",
+      "url": "https://x.com/lex_node/status/2091612646843785358",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 74,
+        "retweets": 8,
+        "replies": 10,
+        "quotes": 1,
+        "views": "15819"
+      }
+    },
+    {
+      "id": "2091608506285613259",
+      "is_retweet": true,
+      "original_author": "banteg",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T19:28:22+00:00",
+      "text": "RT @banteg: this wild defcon talk is finally out researchers created a fake defi startup, hired lazarus it workers, put them into a sandbox and recorded their tooling, workflows, and faces from inside the operation starts at 5:46:09 https://t.co/NBo6pw4nOl",
+      "summary": "RT @banteg: this wild defcon talk is finally out researchers created a fake defi startup, hired lazarus it workers, put them into a sandbox and…",
+      "url": "https://x.com/lex_node/status/2091608506285613259",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 214,
+        "replies": 0,
+        "quotes": 0,
+        "views": "664"
       }
     },
     {
@@ -198,6 +343,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "42257"
+      }
+    },
+    {
+      "id": "2091565098846277938",
+      "is_retweet": true,
+      "original_author": "KeithGrossman",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-23T16:35:53+00:00",
+      "text": "RT @KeithGrossman: Early in my career, the leader of a company I worked with disliked me so much that he asked my boss to remove me from the account. My boss refused. I stayed, did the work and proved my value. Over time, that leader and I became close, working together for years. Today, I walked past a private community where I could never buy a home, regardless of how much success I achieve. It did not bother me. Some doors open when you prove people wrong. Others were never meant to open for you. Wisdom is knowing the difference. Responsibility is refusing to let either determine your future. Stop waiting for permission. Stop measuring your worth by someone else’s acceptance. Build your own door and keep going. 💪",
+      "summary": "RT @KeithGrossman: Early in my career, the leader of a company I worked with disliked me so much that he asked my boss to remove me from the account.…",
+      "url": "https://x.com/RebeccaRettig1/status/2091565098846277938",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 18,
+        "replies": 0,
+        "quotes": 0,
+        "views": "107"
       }
     }
   ]
