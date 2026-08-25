@@ -1,35 +1,23 @@
 {
-  "generated_at": "2026-08-25T09:12:07.478257+00:00",
-  "generated_at_unix": 1787649127,
+  "generated_at": "2026-08-25T12:04:57.722864+00:00",
+  "generated_at_unix": 1787659497,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-24T16:00:00+00:00",
-  "window_end": "2026-08-25T09:12:07.478257+00:00",
-  "new_this_run": 5,
-  "total_recent": 20,
+  "window_end": "2026-08-25T12:04:57.722864+00:00",
+  "new_this_run": 9,
+  "total_recent": 24,
   "errors": [
     {
-      "username": "RoKhanna",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "BlockchainAssn",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "standwithcrypto",
-      "error": "The read operation timed out"
-    },
-    {
-      "username": "jchervinsky",
+      "username": "N0th1n3",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 11,
-    "successful_this_run": 11,
-    "next_index": 30,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 45,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -37,6 +25,31 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2092235066759872921",
+      "is_retweet": true,
+      "original_author": "LawofCodeFM",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T12:58:06+00:00",
+      "text": "RT @LawofCodeFM: Ep. 208: Regulation Crypto Assets Background, how it works, unanswered questions and what you should know. Featuring @NYcryptolawyer, @lex_node, @SH_Brennan, @propelforward, @RSSH273. https://t.co/MUPnXeLOKW",
+      "summary": "RT @LawofCodeFM: Ep. 208: Regulation Crypto Assets Background, how it works, unanswered questions and what you should know. Featuring…",
+      "url": "https://x.com/lex_node/status/2092235066759872921",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "378"
+      }
+    },
     {
       "id": "2092064875732140458",
       "is_retweet": true,
@@ -188,6 +201,31 @@
       }
     },
     {
+      "id": "2092037451577479557",
+      "is_retweet": true,
+      "original_author": "EmpulserTech",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T23:52:51+00:00",
+      "text": "RT @EmpulserTech: Important Announcement Empulser’s 3rd ACE round of $CPT is now live on MetaLeX, powered by @MetaLeX_Labs. 500,000 $CPT tokens available on a first-come, first-served basis. 23 August 2026, 10:08 p.m. ET → 30 August 2026, 10:08 p.m. ET Reg S — non-U.S. persons only. Eligibility supported through @ZKPassport. Participate here: https://t.co/8KSTybxrxy",
+      "summary": "RT @EmpulserTech: Important Announcement Empulser’s 3rd ACE round of $CPT is now live on MetaLeX, powered by @MetaLeX_Labs. 500,000 $CPT tokens…",
+      "url": "https://x.com/lex_node/status/2092037451577479557",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "635"
+      }
+    },
+    {
       "id": "2092013857036279981",
       "is_retweet": false,
       "original_author": null,
@@ -263,6 +301,31 @@
       }
     },
     {
+      "id": "2091979729368711294",
+      "is_retweet": true,
+      "original_author": "matty_",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T20:03:29+00:00",
+      "text": "RT @matty_: Perps are a great tool to trade imminent IPOs, but a terrible tool to trade private names far-from-IPO date. The root problem is structural to private markets - it can't be solved by an oracle price or more speculative liquidity. Because unlike public/liquid underlyings, in private markets no hedge exists, and expected future appreciation is substantially positive and highly discrete. This means anyone going short must be *heavily* compensated for the systemic upside in these high-demand, constrained-supply names they are shorting. That's the reason ANTH-USDC perps are currently 45% premium to the OTC market, and 32% premium to @PreStocks Anthropic, not to mention the cost and uncertainty of variable funding rates on top of that. There's no free-lunch, only tradeoffs. Wider access means either: i) taking more vehicle/regulatory risk; ii) redistributing access from VCs to value-add individual investors (merit-based access); or iii) paying a higher premium",
+      "summary": "RT @matty_: Perps are a great tool to trade imminent IPOs, but a terrible tool to trade private names far-from-IPO date. The root problem is…",
+      "url": "https://x.com/lex_node/status/2091979729368711294",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": "694"
+      }
+    },
+    {
       "id": "2091978023327170726",
       "is_retweet": true,
       "original_author": "USTreasury",
@@ -313,16 +376,16 @@
       }
     },
     {
-      "id": "2091967056631476483",
+      "id": "2091973092109136379",
       "is_retweet": false,
       "original_author": null,
-      "username": "valkenburgh",
-      "display_name": "Peter Van Valkenburgh",
-      "group": "Industry & Policy Orgs",
-      "created_at": "2026-08-24T19:13:07+00:00",
-      "text": "The admin is putting folks (including the crypto space) on notice that it may soon impose secondary sanctions on “any entity that facilitates money laundering or sanctions evasion on behalf of Iran.” Primarily the release focuses on conventional intermediaries or facilitators like Iranian exchanges, front companies, brokers, and payment networks. It does not, however, set a hard limit on potentially imposing sanctions on noncustodial entities or developers. The language is intentionally broad: Treasury says it will target “any source” of the regime’s illicit revenue and “every economic lifeline” sustaining it. https://t.co/vvlQAQG7R9",
-      "summary": "The admin is putting folks (including the crypto space) on notice that it may soon impose secondary sanctions on “any entity that facilitates money…",
-      "url": "https://x.com/valkenburgh/status/2091967056631476483",
+      "username": "lex_node",
+      "display_name": "_gabrielShapir0",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T19:37:06+00:00",
+      "text": "I did not think I could ever find a worse team than Eclipse but MegaETH is definitely worse, at least Eclipse more or less blatantly rugged, but MegaETH makes you infer the real deal through complex multi-layered gaslighting. The former is more efficient. Long live Ethereum L1.",
+      "summary": "I did not think I could ever find a worse team than Eclipse but MegaETH is definitely worse, at least Eclipse more or less blatantly rugged, but…",
+      "url": "https://x.com/lex_node/status/2091973092109136379",
       "type": "original",
       "categories": [
         "other"
@@ -330,24 +393,49 @@
       "relevance": 0.85,
       "confidence": 0.9,
       "metrics": {
-        "likes": 44,
-        "retweets": 6,
-        "replies": 6,
-        "quotes": 2,
-        "views": "9000"
+        "likes": 391,
+        "retweets": 7,
+        "replies": 55,
+        "quotes": 5,
+        "views": "32493"
       }
     },
     {
-      "id": "2091952931696443749",
-      "is_retweet": true,
-      "original_author": "m_mosier_",
-      "username": "LindaJeng1",
-      "display_name": "Linda Jeng",
+      "id": "2091972772213731790",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "RSSH273",
+      "display_name": "Rodrigo",
       "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-24T18:17:00+00:00",
-      "text": "RT @m_mosier_: Our attempt to restart the convo on DeFi &amp; reg/risk in substantive context. Recognizing DeFi as fundamentally cyber critical infrastructure underpinning financial elements + a natural alignment around accessible &amp; resilient networks, without treating every bytecode as a bank.",
-      "summary": "RT @m_mosier_: Our attempt to restart the convo on DeFi &amp; reg/risk in substantive context. Recognizing DeFi as fundamentally cyber critical…",
-      "url": "https://x.com/LindaJeng1/status/2091952931696443749",
+      "created_at": "2026-08-24T19:35:50+00:00",
+      "text": "I've been thinking a lot about the regulatory considerations of vaults, so I put together this chart that has a high-level overview of how typical vaults are structured and the three core regulatory issues Would be interested in feedback from the braintrust https://t.co/kzJ85c1BWJ",
+      "summary": "I've been thinking a lot about the regulatory considerations of vaults, so I put together this chart that has a high-level overview of how typical…",
+      "url": "https://x.com/RSSH273/status/2091972772213731790",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 108,
+        "retweets": 9,
+        "replies": 9,
+        "quotes": 2,
+        "views": "7138"
+      }
+    },
+    {
+      "id": "2091964926755520558",
+      "is_retweet": true,
+      "original_author": "_PatrickSutton",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T19:04:40+00:00",
+      "text": "RT @_PatrickSutton: Excellent paper from @RebeccaRettig1 @malekanoms @m_mosier_ articulating how financial institutions can – and already do! – use open blockchain networks to build more resilient, transparent, and interoperable financial products.",
+      "summary": "RT @_PatrickSutton: Excellent paper from @RebeccaRettig1 @malekanoms @m_mosier_ articulating how financial institutions can – and already do! – use…",
+      "url": "https://x.com/RebeccaRettig1/status/2091964926755520558",
       "type": "retweet",
       "categories": [
         "other"
@@ -356,10 +444,10 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 22,
+        "retweets": 1,
         "replies": 0,
         "quotes": 0,
-        "views": "12"
+        "views": "102"
       }
     },
     {
@@ -385,31 +473,6 @@
         "replies": 0,
         "quotes": 0,
         "views": "7900"
-      }
-    },
-    {
-      "id": "2091934164761063822",
-      "is_retweet": true,
-      "original_author": "StaniKulechov",
-      "username": "LindaJeng1",
-      "display_name": "Linda Jeng",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-24T17:02:25+00:00",
-      "text": "RT @StaniKulechov: Excited to see Coinbase Tokenized Stocks coming to Base. Aave will be the first lending venue where users can lend Coinbase tokenized stocks and borrow stablecoins against them, creating an onchain line of credit backed by Coinbase stocks.",
-      "summary": "RT @StaniKulechov: Excited to see Coinbase Tokenized Stocks coming to Base. Aave will be the first lending venue where users can lend Coinbase…",
-      "url": "https://x.com/LindaJeng1/status/2091934164761063822",
-      "type": "retweet",
-      "categories": [
-        "exchanges"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 0,
-        "retweets": 91,
-        "replies": 0,
-        "quotes": 0,
-        "views": "5"
       }
     },
     {
@@ -463,6 +526,31 @@
       }
     },
     {
+      "id": "2091930900040716573",
+      "is_retweet": true,
+      "original_author": "austincampbell",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T16:49:27+00:00",
+      "text": "RT @austincampbell: Almost every bank and blockchain protocol in the world is being used by scammers and bad actors because they don't understand the problem and refuse to do so. Yes. I meant what I said. This is a very good and thought provoking piece from @RebeccaRettig1 and it should be read by a lot of people in this space. Putting responsibilities where they are feasible matters. I'll raise one additional point: we shouldn't limit ourselves to blockchains here. Financial crime is multidisciplinary, multiplatform. If you are using blockchain forensics, you are being exploited. If you are using traditional bank KYC and software, you are being exploited. If you want to protect yourself, you need to span all of those, and social media, and darkweb data, and github repos, etc. The enemy just wants to win. They aren't drawing arbitrary boundaries. If you do so when defending, you are essentially creating the Maginot line while the hackers or scammers just go through Belgium. If you don't have a comprehensive multi-source multi-capability financial intelligence unit, you're getting exploited. Right now.",
+      "summary": "RT @austincampbell: Almost every bank and blockchain protocol in the world is being used by scammers and bad actors because they don't understand the…",
+      "url": "https://x.com/RebeccaRettig1/status/2091930900040716573",
+      "type": "retweet",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "89"
+      }
+    },
+    {
       "id": "2091927420269998231",
       "is_retweet": true,
       "original_author": "RapidResponse47",
@@ -488,41 +576,16 @@
       }
     },
     {
-      "id": "2091923698903024026",
-      "is_retweet": false,
-      "original_author": null,
-      "username": "s_alderoty",
-      "display_name": "Stuart Alderoty",
-      "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-24T16:20:50+00:00",
-      "text": "67 million Americans hold crypto. 232,000 American jobs are supported by the industry. The @NatCryptoAssoc built two maps so you can see the data by state and district. Crypto holders by congressional district: https://t.co/mQb3pbyK7g Crypto jobs and economic impact by state: https://t.co/STTCHRIWJO",
-      "summary": "67 million Americans hold crypto. 232,000 American jobs are supported by the industry. The @NatCryptoAssoc built two maps so you can see the data by…",
-      "url": "https://x.com/s_alderoty/status/2091923698903024026",
-      "type": "original",
-      "categories": [
-        "legislation"
-      ],
-      "relevance": 0.85,
-      "confidence": 0.9,
-      "metrics": {
-        "likes": 929,
-        "retweets": 205,
-        "replies": 10,
-        "quotes": 9,
-        "views": "32059"
-      }
-    },
-    {
-      "id": "2091919318892032268",
+      "id": "2091923349957951840",
       "is_retweet": true,
-      "original_author": "RebeccaRettig1",
-      "username": "amandatums",
-      "display_name": "Amanda Tuminelli",
+      "original_author": "CoinDesk",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
       "group": "Lawyers & Legal Counsel",
-      "created_at": "2026-08-24T16:03:26+00:00",
-      "text": "RT @RebeccaRettig1: 1/ Today, @m_mosier_ @malekanoms &amp; I are sharing a new paper: \"The Compatibility of Financial Integrity With Permissionless Networks\". Institutions say BSA &amp; sanctions laws prevent use of these networks. We debunk this &amp; provide a path forward. 🧵 https://t.co/8KAQH6UyDV",
-      "summary": "RT @RebeccaRettig1: 1/ Today, @m_mosier_ @malekanoms &amp; I are sharing a new paper: \"The Compatibility of Financial Integrity With Permissionless…",
-      "url": "https://x.com/amandatums/status/2091919318892032268",
+      "created_at": "2026-08-24T16:19:27+00:00",
+      "text": "RT @CoinDesk: .@RebeccaRettig1 tells crypto lawyers their years of advocacy and submissions helped shape the SEC's \"Reg Crypto\" rulemaking, even when it felt like \"yelling into the void.\" https://t.co/7pAsHzA2f8",
+      "summary": "RT @CoinDesk: .@RebeccaRettig1 tells crypto lawyers their years of advocacy and submissions helped shape the SEC's \"Reg Crypto\" rulemaking, even when…",
+      "url": "https://x.com/RebeccaRettig1/status/2091923349957951840",
       "type": "retweet",
       "categories": [
         "other"
@@ -531,10 +594,35 @@
       "confidence": 0.9,
       "metrics": {
         "likes": 0,
-        "retweets": 29,
+        "retweets": 10,
         "replies": 0,
         "quotes": 0,
-        "views": "36"
+        "views": "74"
+      }
+    },
+    {
+      "id": "2091919309400338912",
+      "is_retweet": true,
+      "original_author": "malekanoms",
+      "username": "RebeccaRettig1",
+      "display_name": "Rebecca Rettig",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T16:03:23+00:00",
+      "text": "RT @malekanoms: I have a new paper out, co-authored with @RebeccaRettig1 and @m_mosier_ , explaining how regulated financial institutions can use permissionless networks (like Bitcoin, Ethereum & Solana) without fear of the financial integrity laws. Our paper first describes how credibly neutral infrastructure is beneficial for regulated entities and helps them reduce counterparty & settlement risk while embracing innovation. It then surveys the actual things regulators have said about engaging with these platforms, and wraps up with a simple framework for conducting compliance checks at the app layer. TLDR: This is the paper you want to send to every TradFi compliance officer of any company that isn't issuing or building on public-permissionless blockchains due to BSA or sanctions fears. https://t.co/y0xZprHPE0",
+      "summary": "RT @malekanoms: I have a new paper out, co-authored with @RebeccaRettig1 and @m_mosier_ , explaining how regulated financial institutions can use…",
+      "url": "https://x.com/RebeccaRettig1/status/2091919309400338912",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "98"
       }
     }
   ]
