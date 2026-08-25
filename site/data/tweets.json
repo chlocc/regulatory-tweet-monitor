@@ -1,23 +1,35 @@
 {
-  "generated_at": "2026-08-25T06:01:13.301289+00:00",
-  "generated_at_unix": 1787637673,
+  "generated_at": "2026-08-25T09:12:07.478257+00:00",
+  "generated_at_unix": 1787649127,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-24T16:00:00+00:00",
-  "window_end": "2026-08-25T06:01:13.301289+00:00",
-  "new_this_run": 14,
-  "total_recent": 15,
+  "window_end": "2026-08-25T09:12:07.478257+00:00",
+  "new_this_run": 5,
+  "total_recent": 20,
   "errors": [
     {
-      "username": "SenatorHagerty",
+      "username": "RoKhanna",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "BlockchainAssn",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "standwithcrypto",
+      "error": "The read operation timed out"
+    },
+    {
+      "username": "jchervinsky",
       "error": "The read operation timed out"
     }
   ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 15,
+    "attempted_this_run": 11,
+    "successful_this_run": 11,
+    "next_index": 30,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -301,6 +313,56 @@
       }
     },
     {
+      "id": "2091967056631476483",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "valkenburgh",
+      "display_name": "Peter Van Valkenburgh",
+      "group": "Industry & Policy Orgs",
+      "created_at": "2026-08-24T19:13:07+00:00",
+      "text": "The admin is putting folks (including the crypto space) on notice that it may soon impose secondary sanctions on “any entity that facilitates money laundering or sanctions evasion on behalf of Iran.” Primarily the release focuses on conventional intermediaries or facilitators like Iranian exchanges, front companies, brokers, and payment networks. It does not, however, set a hard limit on potentially imposing sanctions on noncustodial entities or developers. The language is intentionally broad: Treasury says it will target “any source” of the regime’s illicit revenue and “every economic lifeline” sustaining it. https://t.co/vvlQAQG7R9",
+      "summary": "The admin is putting folks (including the crypto space) on notice that it may soon impose secondary sanctions on “any entity that facilitates money…",
+      "url": "https://x.com/valkenburgh/status/2091967056631476483",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 44,
+        "retweets": 6,
+        "replies": 6,
+        "quotes": 2,
+        "views": "9000"
+      }
+    },
+    {
+      "id": "2091952931696443749",
+      "is_retweet": true,
+      "original_author": "m_mosier_",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T18:17:00+00:00",
+      "text": "RT @m_mosier_: Our attempt to restart the convo on DeFi &amp; reg/risk in substantive context. Recognizing DeFi as fundamentally cyber critical infrastructure underpinning financial elements + a natural alignment around accessible &amp; resilient networks, without treating every bytecode as a bank.",
+      "summary": "RT @m_mosier_: Our attempt to restart the convo on DeFi &amp; reg/risk in substantive context. Recognizing DeFi as fundamentally cyber critical…",
+      "url": "https://x.com/LindaJeng1/status/2091952931696443749",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 22,
+        "replies": 0,
+        "quotes": 0,
+        "views": "12"
+      }
+    },
+    {
       "id": "2091948389743161541",
       "is_retweet": true,
       "original_author": "VPCommsDir",
@@ -323,6 +385,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "7900"
+      }
+    },
+    {
+      "id": "2091934164761063822",
+      "is_retweet": true,
+      "original_author": "StaniKulechov",
+      "username": "LindaJeng1",
+      "display_name": "Linda Jeng",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T17:02:25+00:00",
+      "text": "RT @StaniKulechov: Excited to see Coinbase Tokenized Stocks coming to Base. Aave will be the first lending venue where users can lend Coinbase tokenized stocks and borrow stablecoins against them, creating an onchain line of credit backed by Coinbase stocks.",
+      "summary": "RT @StaniKulechov: Excited to see Coinbase Tokenized Stocks coming to Base. Aave will be the first lending venue where users can lend Coinbase…",
+      "url": "https://x.com/LindaJeng1/status/2091934164761063822",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 91,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5"
       }
     },
     {
@@ -398,6 +485,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "6194"
+      }
+    },
+    {
+      "id": "2091923698903024026",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "s_alderoty",
+      "display_name": "Stuart Alderoty",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T16:20:50+00:00",
+      "text": "67 million Americans hold crypto. 232,000 American jobs are supported by the industry. The @NatCryptoAssoc built two maps so you can see the data by state and district. Crypto holders by congressional district: https://t.co/mQb3pbyK7g Crypto jobs and economic impact by state: https://t.co/STTCHRIWJO",
+      "summary": "67 million Americans hold crypto. 232,000 American jobs are supported by the industry. The @NatCryptoAssoc built two maps so you can see the data by…",
+      "url": "https://x.com/s_alderoty/status/2091923698903024026",
+      "type": "original",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 929,
+        "retweets": 205,
+        "replies": 10,
+        "quotes": 9,
+        "views": "32059"
+      }
+    },
+    {
+      "id": "2091919318892032268",
+      "is_retweet": true,
+      "original_author": "RebeccaRettig1",
+      "username": "amandatums",
+      "display_name": "Amanda Tuminelli",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T16:03:26+00:00",
+      "text": "RT @RebeccaRettig1: 1/ Today, @m_mosier_ @malekanoms &amp; I are sharing a new paper: \"The Compatibility of Financial Integrity With Permissionless Networks\". Institutions say BSA &amp; sanctions laws prevent use of these networks. We debunk this &amp; provide a path forward. 🧵 https://t.co/8KAQH6UyDV",
+      "summary": "RT @RebeccaRettig1: 1/ Today, @m_mosier_ @malekanoms &amp; I are sharing a new paper: \"The Compatibility of Financial Integrity With Permissionless…",
+      "url": "https://x.com/amandatums/status/2091919318892032268",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "36"
       }
     }
   ]
