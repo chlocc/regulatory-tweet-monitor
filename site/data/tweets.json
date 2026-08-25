@@ -1,18 +1,23 @@
 {
-  "generated_at": "2026-08-25T15:01:23.599335+00:00",
-  "generated_at_unix": 1787670083,
+  "generated_at": "2026-08-25T18:00:24.655352+00:00",
+  "generated_at_unix": 1787680824,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-24T16:00:00+00:00",
-  "window_end": "2026-08-25T15:01:23.599335+00:00",
-  "new_this_run": 12,
-  "total_recent": 36,
-  "errors": [],
+  "window_end": "2026-08-25T18:00:24.655352+00:00",
+  "new_this_run": 25,
+  "total_recent": 61,
+  "errors": [
+    {
+      "username": "CarloD_Angelo",
+      "error": "CarloD_Angelo: HTTP 404 - {\"detail\":\"UserNotFound: The user does not exist.\"}"
+    }
+  ],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 15,
-    "successful_this_run": 15,
-    "next_index": 60,
+    "attempted_this_run": 14,
+    "successful_this_run": 14,
+    "next_index": 75,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -20,6 +25,231 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2092301133943275963",
+      "is_retweet": true,
+      "original_author": "CryptoAmerica_",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T17:20:38+00:00",
+      "text": "RT @CryptoAmerica_: 🚨Our next Crypto In America episode drops tomorrow with former New York Governor @AndrewCuomo. We dive into the future of tokenizing Wall Street, why he believes the Clarity Act must pass without politics getting in the way, his new thoughts on the BitLicense and whether New York City is still the crypto capital. You won’t want to miss this one. Subscribe to catch it first!",
+      "summary": "RT @CryptoAmerica_: 🚨Our next Crypto In America episode drops tomorrow with former New York Governor @AndrewCuomo. We dive into the future of…",
+      "url": "https://x.com/EleanorTerrett/status/2092301133943275963",
+      "type": "retweet",
+      "categories": [
+        "legislation"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": "5435"
+      }
+    },
+    {
+      "id": "2092295457795965211",
+      "is_retweet": true,
+      "original_author": "JohnNahas84",
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:58:04+00:00",
+      "text": "RT @JohnNahas84: This industry is growing up. I've been in this a long time, back when the job was proving blockchain was real at all. Somebody had to do it, and what's changed is who's asking and what they want to know. What it costs, who's liable, whether it fits the rules they already answer to. Those are infrastructure questions. That's what I mean when I say blockchain, not crypto. Wyoming's been at this for years. You can tell, because nobody in Jackson needed the usual crash course. Great write-up from @daily_cowboy https://t.co/t2FPg6pNGF",
+      "summary": "RT @JohnNahas84: This industry is growing up. I've been in this a long time, back when the job was proving blockchain was real at all. Somebody had…",
+      "url": "https://x.com/EleanorTerrett/status/2092295457795965211",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 5,
+        "replies": 0,
+        "quotes": 0,
+        "views": "6375"
+      }
+    },
+    {
+      "id": "2092288590231306644",
+      "is_retweet": true,
+      "original_author": "Bitwise",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:30:47+00:00",
+      "text": "RT @Bitwise: Introducing ATPs: Automated Token Portfolios. Powered by @coinbase and @glider__. https://t.co/IoSPZmEixH",
+      "summary": "RT @Bitwise: Introducing ATPs: Automated Token Portfolios. Powered by @coinbase and @glider__. https://t.co/IoSPZmEixH",
+      "url": "https://x.com/laurashin/status/2092288590231306644",
+      "type": "retweet",
+      "categories": [
+        "exchanges"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 29,
+        "replies": 0,
+        "quotes": 0,
+        "views": "851"
+      }
+    },
+    {
+      "id": "2092284582376747053",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:14:51+00:00",
+      "text": "RT @laurashin: 🤖 Payouts[com] and the Casper Association are partnering to bring AI agent payments into production using the x402 protocol. The integration will use Casper’s csprUSD stablecoin for dollar-denominated, on-chain settlement of payments for services such as API calls and datasets. Read more: https://t.co/iLURoCujqH",
+      "summary": "RT @laurashin: 🤖 Payouts[com] and the Casper Association are partnering to bring AI agent payments into production using the x402 protocol. The…",
+      "url": "https://x.com/laurashin/status/2092284582376747053",
+      "type": "retweet",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2092284528156922024",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:14:38+00:00",
+      "text": "RT @laurashin: 🚨 Strategy sold $2.01 billion in stock last week and bought zero bitcoin with it, during bitcoin's biggest weekly dollar gain on record. Where the money actually went: https://t.co/PlWrroDYxs",
+      "summary": "RT @laurashin: 🚨 Strategy sold $2.01 billion in stock last week and bought zero bitcoin with it, during bitcoin's biggest weekly dollar gain on…",
+      "url": "https://x.com/laurashin/status/2092284528156922024",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2092284424775713198",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:14:14+00:00",
+      "text": "RT @laurashin: 🚨 The US Treasury just named digital assets a sanctionable sector of Iran's economy, part of what Secretary Scott Bessent called an \"economic D-Day\" campaign. What it means for exchanges everywhere: https://t.co/7c0gbN9LNL",
+      "summary": "RT @laurashin: 🚨 The US Treasury just named digital assets a sanctionable sector of Iran's economy, part of what Secretary Scott Bessent called an…",
+      "url": "https://x.com/laurashin/status/2092284424775713198",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 6,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2092284303950463017",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:13:45+00:00",
+      "text": "RT @laurashin: 🚨 Bitcoin topped $81,000 on Tuesday for the first time since mid-May, up roughly 28% in August, its biggest monthly gain since November 2024. What's driving it: https://t.co/OfObBYTABI",
+      "summary": "RT @laurashin: 🚨 Bitcoin topped $81,000 on Tuesday for the first time since mid-May, up roughly 28% in August, its biggest monthly gain since…",
+      "url": "https://x.com/laurashin/status/2092284303950463017",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 7,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2092284214234284528",
+      "is_retweet": true,
+      "original_author": "laurashin",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:13:24+00:00",
+      "text": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Bitcoin tops $81,000, its highest since May 🇮🇷 Treasury names digital assets a sanctionable sector of Iran's economy 🏦 Strategy raises $2 billion, buys no bitcoin, builds new cash pool 🌎 Read today’s must-know crypto news… and subscribe! https://t.co/NoeMXUkHOz",
+      "summary": "RT @laurashin: In today's Unchained Daily newsletter: 🔥 Bitcoin tops $81,000, its highest since May 🇮🇷 Treasury names digital assets a sanctionable…",
+      "url": "https://x.com/laurashin/status/2092284214234284528",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2092281007819133031",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T16:00:39+00:00",
+      "text": "📈 dYdX Labs has launched Arcus, a platform offering leveraged tokens tied to stocks and crypto assets on Robinhood Chain. The products are designed to provide leveraged exposure to assets including equities and cryptocurrencies through onchain tokens. Read more: https://t.co/i5Ci3byGxM",
+      "summary": "📈 dYdX Labs has launched Arcus, a platform offering leveraged tokens tied to stocks and crypto assets on Robinhood Chain. The products are designed…",
+      "url": "https://x.com/laurashin/status/2092281007819133031",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "1703"
+      }
+    },
     {
       "id": "2092265288133750838",
       "is_retweet": true,
@@ -71,6 +301,31 @@
       }
     },
     {
+      "id": "2092264139607650657",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T14:53:37+00:00",
+      "text": "🤖 Payouts[com] and the Casper Association are partnering to bring AI agent payments into production using the x402 protocol. The integration will use Casper’s csprUSD stablecoin for dollar-denominated, on-chain settlement of payments for services such as API calls and datasets. Read more: https://t.co/iLURoCujqH",
+      "summary": "🤖 Payouts[com] and the Casper Association are partnering to bring AI agent payments into production using the x402 protocol. The integration will use…",
+      "url": "https://x.com/laurashin/status/2092264139607650657",
+      "type": "original",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 1,
+        "replies": 4,
+        "quotes": 0,
+        "views": "2468"
+      }
+    },
+    {
       "id": "2092262586767007894",
       "is_retweet": true,
       "original_author": "lex_node",
@@ -93,6 +348,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "18"
+      }
+    },
+    {
+      "id": "2092248869878784120",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T13:52:57+00:00",
+      "text": "I just got an invitation for an event ... next June 😂",
+      "summary": "I just got an invitation for an event ... next June 😂",
+      "url": "https://x.com/laurashin/status/2092248869878784120",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 24,
+        "retweets": 0,
+        "replies": 15,
+        "quotes": 0,
+        "views": "3492"
       }
     },
     {
@@ -171,6 +451,81 @@
       }
     },
     {
+      "id": "2092228339670851790",
+      "is_retweet": true,
+      "original_author": "CryptoHayes",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T12:31:22+00:00",
+      "text": "RT @CryptoHayes: \"Same Same But Different\" is an essay on why you should back up the truck and buy crypto with both hands. \"Bad Gurl Yellen and Buffalo Bill Bessent are the same whether their rhetoric before taking office differed. They both suffered under the yoke of politicians who couldn’t help themselves but to spend more and more money on whatever nonsense they deemed worthy. But they both decided being the most powerful financier in all the land was worth it. And therefore, when the treasury market convulsed, they responded with clever money printing stratagem. When they manipulate the treasury market by printing money to cap yields, it creates dollar liquidity which flows into Bitcoin and crypto. I will cover two such episodes where Yellen and Bessent changed the game, and Bitcoin responded positively. The first episode was in late 2023 when Yellen issued more bills than bonds. The second episode is right now when Bessent intervened in the dollar-yen market and then upped treasury buy back notional. Bitcoin ripped off its lows after Yellen announced her money printing scheme, and I argue it will do the same after Bessent reestablished his conviction to follow in his predecessors’ footsteps and materially increase the pace of dollar liquidity creation.\" Read the full essay on my cryptohayes substack.",
+      "summary": "RT @CryptoHayes: \"Same Same But Different\" is an essay on why you should back up the truck and buy crypto with both hands. \"Bad Gurl Yellen and…",
+      "url": "https://x.com/laurashin/status/2092228339670851790",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 24,
+        "replies": 0,
+        "quotes": 0,
+        "views": "838"
+      }
+    },
+    {
+      "id": "2092228251267576062",
+      "is_retweet": true,
+      "original_author": "eric_PQC",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T12:31:01+00:00",
+      "text": "RT @eric_PQC: yes yes yes",
+      "summary": "RT @eric_PQC: yes yes yes",
+      "url": "https://x.com/laurashin/status/2092228251267576062",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1119"
+      }
+    },
+    {
+      "id": "2092228192404738304",
+      "is_retweet": true,
+      "original_author": "sparkfinance",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T12:30:47+00:00",
+      "text": "RT @sparkfinance: Continuing our mini series of clips from @Unchained_Pod with @LauraShin, Sam breaks down the mechanics behind the @RobinhoodApp Earn campaign and Spark's role as an asset issuer for USDG (issued by @Global_Dollar). https://t.co/HmuTWGbu1z",
+      "summary": "RT @sparkfinance: Continuing our mini series of clips from @Unchained_Pod with @LauraShin, Sam breaks down the mechanics behind the @RobinhoodApp…",
+      "url": "https://x.com/laurashin/status/2092228192404738304",
+      "type": "retweet",
+      "categories": [
+        "stablecoins"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 4,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1106"
+      }
+    },
+    {
       "id": "2092224872072040787",
       "is_retweet": false,
       "original_author": null,
@@ -196,6 +551,106 @@
       }
     },
     {
+      "id": "2092216922624647414",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T11:46:00+00:00",
+      "text": "🚨 Strategy sold $2.01 billion in stock last week and bought zero bitcoin with it, during bitcoin's biggest weekly dollar gain on record. Where the money actually went: https://t.co/PlWrroDYxs",
+      "summary": "🚨 Strategy sold $2.01 billion in stock last week and bought zero bitcoin with it, during bitcoin's biggest weekly dollar gain on record. Where the…",
+      "url": "https://x.com/laurashin/status/2092216922624647414",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 19,
+        "retweets": 1,
+        "replies": 12,
+        "quotes": 1,
+        "views": "4217"
+      }
+    },
+    {
+      "id": "2092213651063345436",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T11:33:00+00:00",
+      "text": "🚨 The US Treasury just named digital assets a sanctionable sector of Iran's economy, part of what Secretary Scott Bessent called an \"economic D-Day\" campaign. What it means for exchanges everywhere: https://t.co/7c0gbN9LNL",
+      "summary": "🚨 The US Treasury just named digital assets a sanctionable sector of Iran's economy, part of what Secretary Scott Bessent called an \"economic D-Day\"…",
+      "url": "https://x.com/laurashin/status/2092213651063345436",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 20,
+        "retweets": 6,
+        "replies": 7,
+        "quotes": 1,
+        "views": "4594"
+      }
+    },
+    {
+      "id": "2092209624464453857",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T11:17:00+00:00",
+      "text": "🚨 Bitcoin topped $81,000 on Tuesday for the first time since mid-May, up roughly 28% in August, its biggest monthly gain since November 2024. What's driving it: https://t.co/OfObBYTABI",
+      "summary": "🚨 Bitcoin topped $81,000 on Tuesday for the first time since mid-May, up roughly 28% in August, its biggest monthly gain since November 2024. What's…",
+      "url": "https://x.com/laurashin/status/2092209624464453857",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 23,
+        "retweets": 7,
+        "replies": 8,
+        "quotes": 0,
+        "views": "4411"
+      }
+    },
+    {
+      "id": "2092205652211069172",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T11:01:13+00:00",
+      "text": "In today's Unchained Daily newsletter: 🔥 Bitcoin tops $81,000, its highest since May 🇮🇷 Treasury names digital assets a sanctionable sector of Iran's economy 🏦 Strategy raises $2 billion, buys no bitcoin, builds new cash pool 🌎 Read today’s must-know crypto news… and subscribe! https://t.co/NoeMXUkHOz",
+      "summary": "In today's Unchained Daily newsletter: 🔥 Bitcoin tops $81,000, its highest since May 🇮🇷 Treasury names digital assets a sanctionable sector of Iran's…",
+      "url": "https://x.com/laurashin/status/2092205652211069172",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 7,
+        "quotes": 0,
+        "views": "4513"
+      }
+    },
+    {
       "id": "2092096105135616115",
       "is_retweet": true,
       "original_author": "karunpal",
@@ -218,6 +673,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "114"
+      }
+    },
+    {
+      "id": "2092089304889643132",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T03:18:54+00:00",
+      "text": "👀",
+      "summary": "👀",
+      "url": "https://x.com/laurashin/status/2092089304889643132",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 0,
+        "replies": 4,
+        "quotes": 0,
+        "views": "7475"
       }
     },
     {
@@ -371,6 +851,56 @@
       }
     },
     {
+      "id": "2092043237884121590",
+      "is_retweet": true,
+      "original_author": "thepowerfulHRV",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T00:15:50+00:00",
+      "text": "RT @thepowerfulHRV: Bitcoin has officially reclaimed the title of the best-performing asset over the past decade, surpassing NVDA. https://t.co/eWQzS3xUpS",
+      "summary": "RT @thepowerfulHRV: Bitcoin has officially reclaimed the title of the best-performing asset over the past decade, surpassing NVDA.…",
+      "url": "https://x.com/laurashin/status/2092043237884121590",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 350,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1310"
+      }
+    },
+    {
+      "id": "2092042901760930201",
+      "is_retweet": true,
+      "original_author": "TheBabylonBee",
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-25T00:14:30+00:00",
+      "text": "RT @TheBabylonBee: New Data Center Built To Handle Influx Of Online Rants Against Data Centers https://t.co/n9qCAxMqI3",
+      "summary": "RT @TheBabylonBee: New Data Center Built To Handle Influx Of Online Rants Against Data Centers https://t.co/n9qCAxMqI3",
+      "url": "https://x.com/laurashin/status/2092042901760930201",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1390,
+        "replies": 0,
+        "quotes": 0,
+        "views": "1229"
+      }
+    },
+    {
       "id": "2092042893632454805",
       "is_retweet": false,
       "original_author": null,
@@ -418,6 +948,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "635"
+      }
+    },
+    {
+      "id": "2092024448513626157",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-24T23:01:11+00:00",
+      "text": "Chris Perkins on the two paths for perp DEXs coming onshore \"We saw the president say, hey, Chairman Selig and I are going to work to get Hyperliquid onshore. I think you have to say a lot of the Hyperliquid move was idiosyncratic, related to that\" \"Now, as these perp DEXs are coming onshore, what can they do? Number one, they can follow the old way, which is getting what I like to call the cocktail of derivatives licenses, DCO, FCM, DCM\" \"Or maybe the CFTC is going to be bold enough, and if anyone can do it it's Chairman Selig, on finding ways to align the principles of the regulation, disclosures, controls and so on, with the technology as it works\"",
+      "summary": "Chris Perkins on the two paths for perp DEXs coming onshore \"We saw the president say, hey, Chairman Selig and I are going to work to get Hyperliquid…",
+      "url": "https://x.com/laurashin/status/2092024448513626157",
+      "type": "quote",
+      "categories": [
+        "enforcement"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 5,
+        "quotes": 0,
+        "views": "7849"
       }
     },
     {
@@ -671,6 +1226,56 @@
       }
     },
     {
+      "id": "2091972439311782398",
+      "is_retweet": true,
+      "original_author": "SnehaRevanur",
+      "username": "gabriel_weil",
+      "display_name": "Gabriel Weil",
+      "group": "Academics & Researchers",
+      "created_at": "2026-08-24T19:34:31+00:00",
+      "text": "RT @SnehaRevanur: We’re hiring in SF! Encode cut its teeth in DC. People said AI politics was a bad bet; we made unlikely friends, won the fight to keep states in play, and helped pass the Big 3 of AI laws (CA SB 53, NY RAISE, IL SB 315). It’s time to double up in SF. Pacing the Frontier (https://t.co/eRdNgMWZDA), which we helped organize, was recently signed by 1,378 frontier lab employees and endorsed by both OpenAI and Anthropic. The last time we felt this rush of opportunity was Sacramento in 2024. AI risk has gone from an online culture war to a fact of life. SF is full of people who want to act, lab employees especially, but don’t see a place to plug in. We need someone to help us build the grid. Encode’s lab engagement has been running on adrenaline and personal relationships. That got @_NathanCalvin and me here, but it’s time to level up. Misalignment is getting scary. “Pacing” has real legs now. Researchers are using their voices to influence lab leaders and alert the world. Many of those researchers say that soon, their jobs - and the voice their jobs give them - will be unrecognizable or won’t exist. We want to hire someone who is: (1) Mission-aligned. You want to ensure AI doesn’t cause catastrophe (or kill everyone) and the future is the best it can be (2) Extremely organized, high-functioning, excited to add structure so ad hoc actions compound (3) Pragmatic, able to pivot when crazy things happen (if the last few months are any indication...) (4) Hard to typecast - not because you lack beliefs, but because you see the best in many kinds of people. The role will start with supporting lab engagement and expand. It’ll be insanely fun (we take the work seriously, not ourselves). You’ll visit DC regularly as AI’s political salience takes off and get to know a team that feels like family. If you’re interested, email me by September 4 at sneha@encodeai.org with the subject line “SF Special Projects” and a few sentences each on (1) a relevant project you’ve owned and (2) what you think Encode SF should do next. If someone you know could be a good fit... I want to meet them!",
+      "summary": "RT @SnehaRevanur: We’re hiring in SF! Encode cut its teeth in DC. People said AI politics was a bad bet; we made unlikely friends, won the fight to…",
+      "url": "https://x.com/gabriel_weil/status/2091972439311782398",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 43,
+        "replies": 0,
+        "quotes": 0,
+        "views": "4"
+      }
+    },
+    {
+      "id": "2091968047456104530",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "laurashin",
+      "display_name": "Laura Shin",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-24T19:17:04+00:00",
+      "text": "There's no quantum computer breaking Bitcoin today. But @P3b7_ of Ledger says crypto is already late on the migration, and @ilblackdragon just made NEAR the first chain running a quantum-safe signing scheme on mainnet. They join me at 3:20 ET Don't Miss It! Tune in 🎧 https://t.co/rXIE5XrEnO",
+      "summary": "There's no quantum computer breaking Bitcoin today. But @P3b7_ of Ledger says crypto is already late on the migration, and @ilblackdragon just made…",
+      "url": "https://x.com/laurashin/status/2091968047456104530",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 44,
+        "retweets": 5,
+        "replies": 11,
+        "quotes": 1,
+        "views": "6803"
+      }
+    },
+    {
       "id": "2091966040192188609",
       "is_retweet": true,
       "original_author": "DigPerspectives",
@@ -893,6 +1498,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "74"
+      }
+    },
+    {
+      "id": "2091920604513329572",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "EleanorTerrett",
+      "display_name": "Eleanor Terrett",
+      "group": "Journalists & Media",
+      "created_at": "2026-08-24T16:08:32+00:00",
+      "text": "My favorite @Bloomberg analysts wrote a book! Congrats @EricBalchunas and @JSeyff. Can’t wait to read it!",
+      "summary": "My favorite @Bloomberg analysts wrote a book! Congrats @EricBalchunas and @JSeyff. Can’t wait to read it!",
+      "url": "https://x.com/EleanorTerrett/status/2091920604513329572",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 295,
+        "retweets": 31,
+        "replies": 16,
+        "quotes": 0,
+        "views": "42768"
       }
     },
     {
