@@ -1,23 +1,18 @@
 {
-  "generated_at": "2026-08-25T12:04:57.722864+00:00",
-  "generated_at_unix": 1787659497,
+  "generated_at": "2026-08-25T15:01:23.599335+00:00",
+  "generated_at_unix": 1787670083,
   "time_window_hours": 24,
   "window_mode": "et_noon_rolling_24h",
   "window_start": "2026-08-24T16:00:00+00:00",
-  "window_end": "2026-08-25T12:04:57.722864+00:00",
-  "new_this_run": 9,
-  "total_recent": 24,
-  "errors": [
-    {
-      "username": "N0th1n3",
-      "error": "The read operation timed out"
-    }
-  ],
+  "window_end": "2026-08-25T15:01:23.599335+00:00",
+  "new_this_run": 12,
+  "total_recent": 36,
+  "errors": [],
   "crawl": {
     "total_accounts": 76,
-    "attempted_this_run": 14,
-    "successful_this_run": 14,
-    "next_index": 45,
+    "attempted_this_run": 15,
+    "successful_this_run": 15,
+    "next_index": 60,
     "max_accounts_per_run": 15,
     "cooldown_until": 0
   },
@@ -25,6 +20,106 @@
     "active": false
   },
   "tweets": [
+    {
+      "id": "2092265288133750838",
+      "is_retweet": true,
+      "original_author": "ReclaimTheNetHQ",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T14:58:11+00:00",
+      "text": "RT @ReclaimTheNetHQ: California just created a new way to force images and personal info off the internet based on a claimed “reasonable fear\" with no court order required and no journalism exemption. Presented as “privacy protection,” could become a blueprint for scrubbing public-interest reporting from the internet. Critics are calling it the “Stop Nick Shirley Act\" because indie journalists like Shirley have used viral videos to investigate alleged fraud in taxpayer-funded programs. If you refuse a takedown demand, you could face a $10,000 fine, plus potential civil and criminal penalties. Gov. Newsom signed it and it takes effect October 1, 2027.",
+      "summary": "RT @ReclaimTheNetHQ: California just created a new way to force images and personal info off the internet based on a claimed “reasonable fear\" with…",
+      "url": "https://x.com/prestonjbyrne/status/2092265288133750838",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 11,
+        "replies": 0,
+        "quotes": 0,
+        "views": "118"
+      }
+    },
+    {
+      "id": "2092264811774038186",
+      "is_retweet": true,
+      "original_author": "theblockprof",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T14:56:18+00:00",
+      "text": "RT @theblockprof: The head of the American Bankers ran a hit piece on crypto in CoinDesk, so I ran a response to him in the American Banker. I show how community banks are both stalking horse and prey of the big Wall Street Banks. Crypto partnerships are their future. https://t.co/FisG9aakTz",
+      "summary": "RT @theblockprof: The head of the American Bankers ran a hit piece on crypto in CoinDesk, so I ran a response to him in the American Banker. I show…",
+      "url": "https://x.com/theblockprof/status/2092264811774038186",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3,
+        "replies": 0,
+        "quotes": 0,
+        "views": null
+      }
+    },
+    {
+      "id": "2092262586767007894",
+      "is_retweet": true,
+      "original_author": "lex_node",
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T14:47:27+00:00",
+      "text": "RT @lex_node: pretty much an all-star cast here of cryptolawyers commenting on the proposed Reg Crypto, check it out if you want to know more MetaLeX also put together a handy brief covering only the most important points here: https://t.co/t6kNTZKd8B",
+      "summary": "RT @lex_node: pretty much an all-star cast here of cryptolawyers commenting on the proposed Reg Crypto, check it out if you want to know more MetaLeX…",
+      "url": "https://x.com/JacobRobinsonJD/status/2092262586767007894",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 1,
+        "replies": 0,
+        "quotes": 0,
+        "views": "18"
+      }
+    },
+    {
+      "id": "2092245123450954149",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T13:38:04+00:00",
+      "text": "The head of the American Bankers ran a hit piece on crypto in CoinDesk, so I ran a response to him in the American Banker. I show how community banks are both stalking horse and prey of the big Wall Street Banks. Crypto partnerships are their future. https://t.co/FisG9aakTz",
+      "summary": "The head of the American Bankers ran a hit piece on crypto in CoinDesk, so I ran a response to him in the American Banker. I show how community banks…",
+      "url": "https://x.com/theblockprof/status/2092245123450954149",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 3,
+        "replies": 3,
+        "quotes": 0,
+        "views": "391"
+      }
+    },
     {
       "id": "2092235066759872921",
       "is_retweet": true,
@@ -48,6 +143,81 @@
         "replies": 0,
         "quotes": 0,
         "views": "378"
+      }
+    },
+    {
+      "id": "2092231495435927782",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JacobRobinsonJD",
+      "display_name": "Jacob Robinson",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T12:43:54+00:00",
+      "text": "What is Reg Crypto? Can projects use it to legally sell tokens to the American public? (Yes, soon) This @LawofCodeFM episode is a deep dive into the SEC's proposal, covering the startup exemption, two tiers of fundraising, tailored disclosures and the formal off-ramp, plus the history behind it all. You'll hear from lawyers whose work was cited in the proposal, such as @NYcryptolawyer, @lex_node, @SH_Brennan, @RSSH273, w/ @propelforward & a clip from @milesjennings. This should get you to the 99th percentile for understanding Reg Crypto, regardless of whether you're a lawyer, founder, operator or Dallas Cowboys fan. Timestamps: 0:00 Intro 4:17 How we got here 6:53 Solving two problems 10:21 Reg A, Reg CF and Reg D 12:10 Five subparts of Reg Crypto 14:12 Who will use these? @lex_node 18:08 The Startup Exemption 19:35 Rule 103 disclosures 21:03 LBRY and silence @lex_node 30:14 Secondary markets and Telegram @NYcryptolawyer 34:13 The Fundraising Exemption 42:21 Why Reg A and Reg CF failed @SH_Brennan 48:14 Rule 400: Exit 50:23 Third-party problems 57:34 Incentives @RSSH273 1:02:08 Essential managerial efforts 1:12:09 The state of crypto 1:15:13 State law questions @propelforward, @SH_Brennan 1:20:37 What's next? Thank you to the presenting sponsor of this episode, @altitude. Nothing in this podcast is legal or investment advice.",
+      "summary": "What is Reg Crypto? Can projects use it to legally sell tokens to the American public? (Yes, soon) This @LawofCodeFM episode is a deep dive into the…",
+      "url": "https://x.com/JacobRobinsonJD/status/2092231495435927782",
+      "type": "original",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 9,
+        "retweets": 3,
+        "replies": 1,
+        "quotes": 3,
+        "views": "3210"
+      }
+    },
+    {
+      "id": "2092224872072040787",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnReedStark",
+      "display_name": "John Reed Stark",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T12:17:35+00:00",
+      "text": "I Just Wrote the Brief That Will Take Down the SEC’s Crypto Deregulation Rule. It's Free. Cut. Paste. File. Win. The U.S. Securities and Exchange Commission's proposed \"Regulation Crypto Assets\" (File No. S7-2026-27) would strip SEC registration protections from a fraud-saturated, multi-trillion-dollar so-called asset class. But peel back the white papers and the “asset” is math with a marketing budget: unsolvable equations spinning inside servers, producing nothing but the next number in the sequence. A colleague and I are hard at work on a mammoth comment letter. Stay tuned. But let’s be honest about the comment process. Comments are due 60 days after Federal Register publication. There's little suspense about whose views will actually count. Just look at the SEC's proposed rule eliminating quarterly-reporting: more than 200,000 Americans wrote in, and 99.5% said no, the most lopsided public rebuke of a rule-making in the agency’s 92-year history. Yet SEC Chairman Paul Atkins decided that the authors of the comment letters were all “confused.” Atkins doesn't care about comments. So in the meantime, here's something built to be filed, not filed away: My brief. My Brief. This is not a template. It's a cut-and-paste job. Every page (all 88), every word (all 20,000) and every footnote (all 138) is done. Any injured petitioner (investor, firm or state regulator) need only fill in the caption and file. My brief demonstrates that this Atkins debacle is unlawful five times over, because the SEC's proposed rule: 1️⃣ Exceeds the SEC’s exemptive authority under Securities Act Section 28 and Exchange Act Section 36, statutes now read de novo because Chevron is dead; 2️⃣ Rests on findings the record cannot support and the SEC’s own decade of litigated positions squarely contradicts; 3️⃣ Disregards the reliance interests that record created; 4️⃣ Cannot be sustained by any honest economic analysis; and 5️⃣ Arrogates to the SEC a decision of vast economic and political significance that belongs to Congress, which is actively considering, and has declined to enact, precisely the regime the Atkins Proposal would decree. The Stark Reality. Big Crypto has billions of dollars and an army of lobbyists. But they can't disappear the record, the case law and Article III Judges. In almost 40 years of SEC work and 20 years teaching at Georgetown and Duke Law, I've learned to be skeptical of anyone who promises a litigation result. But the strength here is the facts, the paper trail and the precedent, which leave the SEC with nowhere to stand. So, consider this my Joe Namath moment: The SEC's chances of winning a battle over its proposed \"Regulation Crypto Assets\" are slim and none -- and Slim just left town. If this SEC rule is adopted and challenged, the SEC will lose. Guaranteed. Download my brief at: https://t.co/NMckhIZHeR",
+      "summary": "I Just Wrote the Brief That Will Take Down the SEC’s Crypto Deregulation Rule. It's Free. Cut. Paste. File. Win. The U.S. Securities and Exchange…",
+      "url": "https://x.com/JohnReedStark/status/2092224872072040787",
+      "type": "original",
+      "categories": [
+        "defi"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 10,
+        "retweets": 5,
+        "replies": 1,
+        "quotes": 1,
+        "views": "1866"
+      }
+    },
+    {
+      "id": "2092096105135616115",
+      "is_retweet": true,
+      "original_author": "karunpal",
+      "username": "theblockprof",
+      "display_name": "BlockProf",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T03:45:55+00:00",
+      "text": "RT @karunpal: Intelligent people live a boring life. They go to bed at 10. Wake up at 6. Eat simple foods. Go for long walks. Read thick books. Say no to things that drain them. The world chases excitement. But they chase calm. Things that align with their soul. A calm routine. A quiet mind. A healthy body. Meaningful work. A small circle. A private life. Their life may look boring from the outside. But from the inside, they experience a kind of freedom most people spend their entire lives searching for.",
+      "summary": "RT @karunpal: Intelligent people live a boring life. They go to bed at 10. Wake up at 6. Eat simple foods. Go for long walks. Read thick books. Say…",
+      "url": "https://x.com/theblockprof/status/2092096105135616115",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 3514,
+        "replies": 0,
+        "quotes": 0,
+        "views": "114"
       }
     },
     {
@@ -201,6 +371,31 @@
       }
     },
     {
+      "id": "2092042893632454805",
+      "is_retweet": false,
+      "original_author": null,
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-25T00:14:28+00:00",
+      "text": "Bringing out @SenSanders (in addition to @ewarren &amp; @RepPressley) to campaign with him on the eve of the primary suggests @EdMarkey and his team believe the race 🆚 @sethmoulton is NOT in the bag, and much closer than many people think.",
+      "summary": "Bringing out @SenSanders (in addition to @ewarren &amp; @RepPressley) to campaign with him on the eve of the primary suggests @EdMarkey and his team…",
+      "url": "https://x.com/JohnEDeaton1/status/2092042893632454805",
+      "type": "quote",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 65,
+        "retweets": 12,
+        "replies": 6,
+        "quotes": 0,
+        "views": "11544"
+      }
+    },
+    {
       "id": "2092037451577479557",
       "is_retweet": true,
       "original_author": "EmpulserTech",
@@ -273,6 +468,56 @@
         "replies": 0,
         "quotes": 0,
         "views": "10234"
+      }
+    },
+    {
+      "id": "2091989909959585923",
+      "is_retweet": true,
+      "original_author": "ProtonPrivacy",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T20:43:56+00:00",
+      "text": "RT @ProtonPrivacy: Recently, OpenAI shipped a plugin that lets ChatGPT read your Mac's Messages app, search it, and draft and send replies. However, this feature essentially renders Apple's end-to-end encryption obsolete, because your messages are now sitting on OpenAI's servers in plaintext. The plugin needs Full Disk Access, Contacts and Automation. If you have Messages in iCloud switched on, that's potentially years of history, attachments and identities, plus every SMS 2FA code your iPhone forwards to your Mac. OpenAI says it runs locally and doesn't build an index. Local execution isn't the same as local processing. The moment ChatGPT summarises a thread or drafts a reply using a hosted model, that content leaves the machine. In 2025 a US court ordered OpenAI to preserve ChatGPT conversations for the NYT case, including ones people had deleted. Under the CLOUD Act, data in OpenAI's control is reachable by US legal process wherever it's stored, and they can be barred from telling you it happened. Governments have spent a decade demanding a backdoor into iMessage and getting refused. This one installs itself, for free, with a toggle. If you've enabled it, everyone who has ever texted you is in it, and none of them know. Source @Paul__Walsh: https://t.co/eUJ6Vsvgkx",
+      "summary": "RT @ProtonPrivacy: Recently, OpenAI shipped a plugin that lets ChatGPT read your Mac's Messages app, search it, and draft and send replies. However,…",
+      "url": "https://x.com/prestonjbyrne/status/2091989909959585923",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 225,
+        "replies": 0,
+        "quotes": 0,
+        "views": "293"
+      }
+    },
+    {
+      "id": "2091989849985134690",
+      "is_retweet": true,
+      "original_author": "Paul__Walsh",
+      "username": "prestonjbyrne",
+      "display_name": "Preston Byrne",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T20:43:42+00:00",
+      "text": "RT @Paul__Walsh: I’ve just spent hours responding to an avalanche of comments about the ChatGPT plugin for Apple Messages. Here are the main ones: 💬 \"Anyone can screenshot your messages\" Yes. They can also print them and fax them to the FBI. People using end to end encryption accept the risk that another participant can deliberately betray their trust. They don’t expect that person to give third party software ongoing access to read, search and analyse their private conversations. 💬 \"I opted in, so it’s not a problem\" You opted in. Everyone you communicate with didn’t. 💬 \"The encryption still works, so you’re wrong\" Yes, the cryptography still works. My concern is third party access to the readable content before or after decryption. 💬 \"The recipient could always share your messages\" Yes. The recipient could betray your trust. That doesn’t justify automating third party access to your private conversations. 💬 \"Any Mac app with Full Disk Access could already do this\" Yes. Apple specifically warns that Full Disk Access can expose Messages. OpenAI has now productised that capability for ordinary people who aren't aware of the potential implications, at scale. I don't think Apple saw this coming. 💬 \"This is no different from giving AI access to email, SMS, Slack or Teams\" It is. Those services don’t provide the same end to end encryption model as iMessage. Think Signal, not SMS. This Proton, not Gmail. The screenshot one is my favourite. I’ll either update my original article with an FAQ or write a dedicated follow up. Thankfully, these comments represent less than 2% of the responses I’ve received here. I haven’t even looked at LinkedIn yet. My concern with this implementation is scale. One person can enable it on their Mac and expose accessible conversations involving potentially hundreds of people who never enabled ChatGPT, never agreed to the access and aren’t notified. Depending on their Apple and iCloud configuration, that can include historical conversations, participant identifiers, contact information and attachments. Proton summarised my argument well after reading the article. I recommend reading their post first, then clicking through to mine for the full analysis. My Substack is free. I’m building a community around corporate surveillance, government overreach, privacy and personal digital safety. I’m interested in what the technology can do, what information it can access, who else can be affected and what happens when that capability is deployed at scale.",
+      "summary": "RT @Paul__Walsh: I’ve just spent hours responding to an avalanche of comments about the ChatGPT plugin for Apple Messages. Here are the main ones: 💬…",
+      "url": "https://x.com/prestonjbyrne/status/2091989849985134690",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 61,
+        "replies": 0,
+        "quotes": 0,
+        "views": "282"
       }
     },
     {
@@ -426,6 +671,31 @@
       }
     },
     {
+      "id": "2091966040192188609",
+      "is_retweet": true,
+      "original_author": "DigPerspectives",
+      "username": "JohnEDeaton1",
+      "display_name": "John E Deaton",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T19:09:05+00:00",
+      "text": "RT @DigPerspectives: BREAKING! John Deaton CAN WIN THIS RACE! Let`s all help the man who helped so many of us and we didn`t even have to ask him. Please watch/SHARE and give what you can to help put him over the top! Individuals: https://t.co/94ZOPLxd8i COMPANIES OR LARGER DONATIONS: https://t.co/nMjOX9EruP @saylor @brian_armstrong @Scaramucci @jack @APompliano @tyler @TimDraper @billfour @GrantCardone @GaryCardone @pmarca @standwithcrypto @fairshake 👇",
+      "summary": "RT @DigPerspectives: BREAKING! John Deaton CAN WIN THIS RACE! Let`s all help the man who helped so many of us and we didn`t even have to ask him.…",
+      "url": "https://x.com/JohnEDeaton1/status/2091966040192188609",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 35,
+        "replies": 0,
+        "quotes": 0,
+        "views": "3408"
+      }
+    },
+    {
       "id": "2091964926755520558",
       "is_retweet": true,
       "original_author": "_PatrickSutton",
@@ -573,6 +843,31 @@
         "replies": 0,
         "quotes": 0,
         "views": "6194"
+      }
+    },
+    {
+      "id": "2091924008992203047",
+      "is_retweet": true,
+      "original_author": "intangiblecoins",
+      "username": "HaileyLennonBTC",
+      "display_name": "Hailey Lennon",
+      "group": "Lawyers & Legal Counsel",
+      "created_at": "2026-08-24T16:22:04+00:00",
+      "text": "RT @intangiblecoins: 📊 updated numbers on coldcard exploit 8865 addresses lost 1789.28 BTC worth $114.7m at the time of theft ($138.8m today) - loss by address median 0.00152 mean 0.20184 dormancy median 3.2yr dormancy mean 3.6yr - loss by victim reports (221) median 1.04272 mean 3.57792 dormancy median 3.25yr dormancy mean 2.99yr victim reported loss 790.72 (44.2% of total) if we expand to include medium confidence losses (not yet confirmed) the total loss is 1,824 BTC ($140m at the time of loss)",
+      "summary": "RT @intangiblecoins: 📊 updated numbers on coldcard exploit 8865 addresses lost 1789.28 BTC worth $114.7m at the time of theft ($138.8m today) - loss…",
+      "url": "https://x.com/HaileyLennonBTC/status/2091924008992203047",
+      "type": "retweet",
+      "categories": [
+        "other"
+      ],
+      "relevance": 0.85,
+      "confidence": 0.9,
+      "metrics": {
+        "likes": 0,
+        "retweets": 28,
+        "replies": 0,
+        "quotes": 0,
+        "views": "276"
       }
     },
     {
